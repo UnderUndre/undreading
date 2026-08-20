@@ -14,16 +14,16 @@
 ### Ключевые технологические столбы:
 1. **Единый провайдер авторизации (Undrlla IdP / Single Sign-On):**  
    Пользователи авторизуются в веб-приложении `undreading.com` через центральный паспортный стол **Undrlla IdP (`id.undrlla.network`)**. Аутентификация выполняется по стандарту **Directus 12.x Native OIDC PKCE flow**. Выданный асимметричный **RS256 JWT-токен** валидируется клиентом и бэкендом читалки без лишних запросов к IdP — через публичный эндпоинт **JWKS** (`/.well-known/jwks.json`) в соответствии со спецификацией `undrlla/specs/005-sso-jwt-contract.md`.
-2. **Коммерческий Фиатный Контур (Paddle MoR):**  
-   Продажа электронной книги (PDF/EPUB Bundle) по единому ценнику **$12.99 USD** через Paddle (Merchant of Record) с уплатой 1% налога ИП Грузии (NACE 62.01) и прямой поддержкой SWIFT в TBC / Bank of Georgia или вывода на Payoneer.
-3. **Глобальная Органика (Amazon KDP + Payoneer ACH):**  
-   Публикация версии для Kindle ($12.99) строго в **Open KDP** (без KDP Select эксклюзивности). Выплаты производятся на Payoneer US Checking Account. Заполнение формы W-8BEN (Foreign TIN) скручивает налог у источника в США с 30% до **0%** по межправительственному соглашению 1973 года.
-4. **Защищённый Веб-Ридер (Foliate-js Fork / MIT):**  
-   Поглавная отгрузка через API Gateway с цифровыми водяными знаками (Digital Watermarking), офлайн-кэшированием в IndexedDB через Service Worker и защитой от скачивания файла целиком через F12.
-5. **ИИ-Переводчик (UndeRoute / OmniRoute Integration):**  
-   Потоковый перевод глав через OmniRoute API с сохранением HTML-структуры (AST-aware chunking), глоссарием сущностей и ролевыми режимами перевода (Наруто, Геральт, Валера-Сантехник).
-6. **Визуальные Темы Читалки (Shadow DOM Injection):**  
-   Кастомные стили читалки: «Свиток Шиноби», «Магический Вестник», «Терминал Убежища CRT-3000» с белыми пародийными именами и чистыми SVG-ассетами.
+2. **Headless Backend Architecture via `undreseller`:**  
+   Вся бэкенд-логика (PostgreSQL Supabase DB, вебхуки Paddle MoR, пейвол-отгрузка глав, хранение `BookEntitlements`, логирование и ИИ-перевод) делегирована единому бэкенд-конвейеру **`undreseller`** (`demo.undreseller.com` / `api.undreseller.com`), обеспечивая 100% dogfooding агентского стека. `undreading` выступает изолированным легковесным Storefront & Web Reader приложением.
+3. **Коммерческий Фиатный Контур (Paddle MoR):**  
+   Продажа электронной книги (PDF/EPUB Bundle) по единому ценнику **$12.99 USD** через Paddle (Merchant of Record) с обработкой вебхуков на бэкенде `undreseller` и уплатой 1% налога ИП Грузии (NACE 62.01).
+4. **Глобальная Органика (Amazon KDP + Payoneer ACH):**  
+   Публикация версии для Kindle ($12.99) строго в **Open KDP** (без KDP Select эксклюзивности). Выплаты производятся на Payoneer US Checking Account с 0% withholding tax в США по форме W-8BEN (договор 1973 г.).
+5. **Защищённый Веб-Ридер (Foliate-js Fork / MIT):**  
+   Поглавная отгрузка через API Gateway `undreseller` с цифровыми водяными знаками (Digital Watermarking), офлайн-кэшированием в IndexedDB через Service Worker и защитой от скачивания файла целиком.
+6. **ИИ-Переводчик (UndeRoute / OmniRoute Integration via `undreseller`):**  
+   Потоковый перевод глав через `undreseller` (проксирующий во встроенный `UndeRoute` `/v1/chat/completions`) с сохранением HTML-структуры, глоссарием сущностей и ролевыми режимами перевода (Наруто, Геральт, Валера).
 
 ---
 
