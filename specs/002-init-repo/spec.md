@@ -1,6 +1,6 @@
-# Feature Specification: 001-init — Undreading Astro Starlight Reader & Open Digital Publishing Platform
+# Feature Specification: 002-init-repo — Undreading Astro Starlight Reader & Open Digital Publishing Platform
 
-**Feature Branch**: `specs/001-init`  
+**Feature Branch**: `specs/002-init-repo`  
 **Created**: 2026-08-18  
 **Updated**: 2026-08-20 (Post-Audit Patch: Astro Starlight SSG Engine & Supporter Bundle Architecture)  
 **Status**: Approved / In Execution  
@@ -57,11 +57,13 @@
 ## 3. User Scenarios & Testing
 
 ### User Story 1 — Instant Open Reading on Astro Starlight (Priority: P1)
+
 As a reader visiting `undreading.com`,  
 I want to instantly read the book manifesto in my browser without login or paywalls,  
 So that I get immediate value and friction-free user experience.
 
 **Acceptance Scenarios**:
+
 1. **Given** any visitor opening `undreading.com/chapters/ch01`, **When** the page loads, **Then** static HTML is delivered in < 200ms with 0 Token/API costs.
 2. **Given** a reader switching theme to "Vault CRT-3000", **When** toggled in UI, **Then** CSS variables and scanline overlays apply instantly without reloading the page.
 3. **Given** a reader offline in airplane mode, **When** they navigate previously loaded chapters, **Then** Service Worker PWA cache serves content from IndexedDB/CacheStorage seamlessly.
@@ -69,11 +71,13 @@ So that I get immediate value and friction-free user experience.
 ---
 
 ### User Story 2 — Purchase Supporter & Architecture Kit via Paddle (Priority: P1)
+
 As a technical supporter on `undreading.com`,  
 I want to purchase the Supporter Kit ($5–$50 PWYW) via Paddle MoR,  
 So that I get downloadable EPUB/PDF, ZTA Terraform/Docker templates, AI Audio, and Telegram Club access.
 
 **Acceptance Scenarios**:
+
 1. **Given** a user clicking "Supporter Kit ($12.99)", **When** the Paddle Overlay completes checkout, **Then** a webhook hits `/api/webhooks/paddle`, grants `BookEntitlement` for user `sub` ID, and unlocks digital downloads.
 
 ---
