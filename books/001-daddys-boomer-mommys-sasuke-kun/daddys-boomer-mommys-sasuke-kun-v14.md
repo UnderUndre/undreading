@@ -15,7 +15,7 @@
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-* **Полная пересборка P0-Матрицы (25 Вечных + 15 Спек):** Таблица 40 Ключевых Задвижек очищена от музыки, мемов и поп-культуры (Queen, Eminem, Balatro ушли в архив). Теперь в P0 стоят строго 25 фундаментальных инженерно-биологических законов и 15 верифицированных регламентов безопасности.
+* **Полная пересборка P0-Матрицы (15 Директив 03:00 + 9 Законов + 16 Кейсов):** Таблица 40 Ключевых Задвижек очищена от музыки, мемов и поп-культуры и перестроена по правилу экстренности: сначала 15 оперативных директив безопасности, затем 9 вечных законов инженерии, а ниже 16 доказательных кейсов.
 * **Глубокая санация L4 и налогового контура:** Из дисклеймеров, манифеста Эшелона 4 и архива полностью вычищены узкоспецифичные налоговые названия (`Double Irish`, `Ford Transit Hack`, `non-ETBUS LLC`, `Грузия 1%`, `Кипр Non-Dom`). Все L4-записи переведены в класс риска и чек-лист вопросов для аудита с CPA/юристом.
 * **Универсальные датчики и экстренные службы:** Датчик №4 из узкой формы IRS 5472 заменен на универсальную аварию L4 («Официальное письмо/уведомление от налоговой/банка/миграции $	o$ стоп-операции, аудит с CPA»). Вызов скорой дополнен универсальной формулой `112 (или местный экстренный номер)`.
 * **Ограничительный клапан «Всё дозволено»:** Добавлена явная граница к принципу Zero Trust и L1 > L4: выживание и приоритет L1 не дают права на физический взлом, мошенничество или проникновение в чужой периметр.
@@ -1260,7 +1260,7 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 | 111 | **Rabbit R1 Mock** | **L2/L5** | Hardcoded API Keys / Android APK Wrapper | Surface Mocking Exposure | Не покупай пластиковые обёртки. Проверяй, что реально шуршит под капотом. |
 | 112 | **Helldivers Revolt** | **L2/L4** | Steam 200k Review Bomb / Delist in 177 Countries | Collective Hydraulic Pushback | Монополист обнаглел — перекрывай общий вентиль ликвидности всем миром. |
 | 113 | **Плазма Джонсона** | **L1** | Young Plasma Exchange vs TPE (5% Albumin) | Biomarker Ground Truth | Биология не верит хайпу. Смотри на манометр анализов, а не на инстаграм. |
-| 114 | **Делавэрский Сифон** | **L4** | Delaware Chancery Court / Texas Re-domiciliation | Jurisdictional Chokepoint Override | Суд начал кошмарить активы — режь трубы и переноси юрисдикцию за 24 часа. |
+| 114 | **Jurisdiction Relocation Risk** | **L4** | Jurisdiction Relocation Audit / Type 1 Door | Structural Relocation Audit | Вопрос юристу: Смена юрисдикционного контура — решение Type 1, требующее тотального аудита и сопровождения. |
 | 115 | **Стрельба Дикеча** | **L1/L5** | Yusuf Dikeç (Paris-2024 Silver) / No Optics | Subtractive Meatware Mastery | Не пытайся закрыть кривизну рук дорогим софтом. Качай нативную биологию. |
 | 116 | **Сифон Чаппелл Рон** | **L2** | Parasocial Boundaries Enforcement | Hydraulic P-Trap Boundaries | Закрывай кран личного пространства. Не позволяй толпе высасывать твой резервуар. |
 | 117 | **Тапанье Хомяка** | **L3** | Hamster Kombat (300M Users / $2 Drop) | Zero-Sum Attention Arbitrage | Если продукт обещает деньги из воздуха за клики — ресурсом являешься ты. |
@@ -1301,7 +1301,7 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 | 152 | **Postman 1984 vs Huxley** | **L2** | Amusing Ourselves to Death / Noise Trap | Dopaminergic Noise Filter | Защищай мозг от дофаминового мусора развлечений так же строго, как от цензуры. |
 | 153 | **Balatro $\times\text{XMult}$** | **L3** | Exponential Scaling vs Linear Additions | Multiplicative Power Lever | Линейные усилия зажевываются инфляцией; выстраивай экспоненциальные множители. |
 | 154 | **Martian & Mad Max** | **L1/L3** | Sabatier Methanation & Aquifer Valves | Resource Budget & Chokepoint | Считай калории и литры до 3-го знака; контроллер водной задвижки владеет миром. |
-| 155 | **Eddie & Shawshank** | **L4** | Regulatory Arbitrage & Randall Stephens | Institutional Bypass & Micro-Refactor | Ищи ниши с 0 нормативом входа; создавай независимого SPV-субъекта до кризиса. |
+| 155 | **Regulatory Burden Assessment** | **L4** | Regulatory Compliance Evaluation | Regulatory Overhead Audit | Оценивай реальную регуляторную и налоговую нагрузку ниши перед входом на рынок. |
 | 156 | **Стакан Фейнмана** | **L1/L5** | $0^\circ\text{C}$ Ice Water O-ring Clamp Test | Physics Verification Override | Никакая презентация не отменит потери эластичности резины. Верь натурному испытанию. |
 | 157 | **Ariane 5 (Bug 501)** | **L5** | 64-to-16-bit Float Uncaught Overflow | Unchecked Type Casting Crash | Не копируй легаси-модули в систему с высоким давлением без полной ре-валидации типов. |
 | 158 | **Apollo 13 Adapter** | **L5** | Square-to-Round $CO_2$ Canister Bridge | MacGyver Interface Bridge | При аварийном разрыве стыков сопряжения используй гибкие серые переходники и скотч. |
@@ -1309,7 +1309,7 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 | 160 | **HavenCo Sealand** | **L4/L5** | Salt Rust & Single Undersea Cable SPOF | Layer 1 Physical Dependency | Цифровой суверенитет иллюзорен без контроля над физическим кабелем и антикоррозией. |
 | 161 | **Энди Гроув (Яйцо)** | **L3/L5** | Lowest-Cost Inspection ($0.20 vs $200) | Early Gatekeeping Sanity Check | Отсекай бракованный ресурс на рампе приемки за копейки, а не на столе клиента в проде. |
 | 162 | **Jim Carrey & Lucas** | **L3/L4** | $0 Base Salary / 100% Merch & Sequel Rights | Asymmetric Backend Ownership | Срезай фиксированный опекс при входе в сделку — забирай 100% асимметричных прав на результат. |
-| 163 | **Сэм Земуррэй** | **L4** | USS Hornet Armed Tax Override (Honduras 1911) | Force-Majeure Regulatory Bypass | Если чужие правила зажимают стояк — меняй ландшафт или выстраивай силовой оверрайд. |
+| 163 | **Substance Over Form** | **L4** | Substance Over Form Compliance Audit | Economic Reality Verification | Не путай внешнюю юридическую форму и реальное экономическое присутствие (Substance Over Form). |
 | 164 | **Kelly Johnson 14 Rules** | **L4/L5** | Skunk Works Minimalist Engineering Rules | Bureaucracy Stripping Framework | 10 автономных инженеров бьют 10,000 создателей слайдов; проверяй 100% сырья на входе. |
 | 165 | **Cross-Border Tax Risk** | **L4** | OECD Pillar Two / CFC Rules Enforcement | Multi-Jurisdictional Tax Audit | Вопрос CPA: Защита капитала от претензий по КИК и BEPS 2.0 при владении иностранными структурированными активами. |
 | 166 | **Casgevy vs Gene Drive** | **L1** | Closed BCL11A Edit vs Un-enclosed Drive | Localized Genome Isolation | Не накатывай патч на экосистему без локального выключателя (Kill-Switch). |
@@ -1330,7 +1330,7 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 | 181 | **TCCC MARCH/PAWS 26** | **L1** | C-A-T Gen 7 / Celox / Chest Seal / NPA | Tactical Trauma Triage Sequence | Соблюдай порядок MARCH PAWS; самодельные жгуты из ремня ускоряют кровопотерю. |
 | 182 | **ACS Aspirin & NSAID Ban** | **L1** | Chew 300mg Aspirin / NSAID COX-1 Ban | Emergency Coronary Antiplatelet | Разжуй Аспирин 300 мг без оболочки; Ибупрофен/НПВП **запрещен** (блокада эффекта аспирина). |
 | 183 | **NIST SP 800-61 Rev 3** | **L2/L5** | April 2025 Civilian IR / RAM Dump / Nuke | Layer 1 Isolation & Volatile RAM Retention | Прерви L1 сеть, **не делай reboot** (сохраняй RAM), сбрасывай сессии со 2-го устройства. |
-| 184 | **IRS Form 5472 Penalty** | **L4** | 26 U.S.C. § 6038A(d) / $25,000 Penalty | Strict Disclosure Enforcement | Не пропускай 15 апреля. Просрочка Form 5472 вешает автоматический штраф $25,000. |
+| 184 | **Foreign Entity Disclosure** | **L4** | Information Returns Audit / Automatic Penalty Risk | Compliance Disclosure Audit | Вопрос CPA: Если у вас есть иностранное юрлицо (например, US Single-Member LLC), верифицируйте сроки подачи информационных деклараций и риски автоматических штрафов. |
 | 185 | **NACE Code Compliance Audit** | **L4** | Regional Restricted Activity List | Preferential Status Risk | Перечни запрещенных видов деятельности меняются регуляторами; проводи аудит NACE-кодов перед выставлением счетов. |
 | 186 | **Short-Stay Tax Residence Audit** | **L4** | 60-Day Days Test / Ties Verification | Tax Residence Qualification | Убедись в наличии жилья, бизнеса и связей перед заявлением нерезидентского статуса по укороченному тесту присутствия. |
 | 187 | **Jobs Yogi Core OS** | **L2** | *Autobiography of a Yogi* Annual Re-read | Ego Garbage Collection | Вычищай фасадный понторез и дофаминовый мусор из ядра мышления раз в год. |
@@ -1362,10 +1362,10 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 | 213 | **Obsidian Personal OS** | **L2** | Plain Markdown `.md` / `[[wikilinks]]` / Syncthing | Sovereign Knowledge Vault | Храни знания в открытом Markdown без вендор-лока; синхронизируй через Syncthing P2P E2EE. |
 | 214 | **Miniflux RSS Pipeline** | **L2** | Zero Push Policy / Miniflux RSS / Wallabag | Information Noise Filter | Отключай push-уведомления; собирай выжимки через RSS и 48-часовой карантин чтения. |
 | 215 | **Attia Medicine 3.0** | **L1** | Peter Attia *Outlive* / VO2 Max & Zone 2 Base | Preventive Biomarker Protocol | Качай митохондриальную базу в Зоне 2 и держи VO2 Max в верхнем процентиле. |
-| 216 | **Sovereign Channel Obfuscation** | **L2/L5** | TLS 1.3 Obfuscation & Custom Tunneling | Anti-Inspection Channel Protection | Маскируй суверенный канал под стандартный TLS-трафик для защиты от несанкционированного анализа. |
-| 217 | **Active Probing Defense** | **L2/L5** | Secure Fallback to Isolated Dummy Service | Active Probing Immune Gateway | Перенаправляй невалидные сканирующие запросы сторонних агентов на изолированный заглушечный сервис. |
-| 218 | **TCP MSS Clamping** | **L5** | `TCPMSS --clamp-mss-to-pmtu` / MTU 1440B | PMTUD Black Hole Prevention | Зажимай MSS на фазе SYN для исключения «залипания» туннеля при дропе ICMP-пакетов роутерами. |
-| 219 | **Triple VPN Leak Shield** | **L2/L5** | DNS + IPv6 (`disable_ipv6=1`) + WebRTC Block | Full Network Leak Prevention | Глуши IPv6 в ядре, блокируй STUN в фаерволе и подвязывай DNS строго к `tun0`. |
+| 216 | **Perimeter Channel Shield** | **L2/L5** | Sovereign Perimeter Shield / Custom Encryption | Anti-Inspection Channel Protection | Защищай суверенный канал шифрованием и маскировкой, не раскрывая архитектуру внутреннего периметра. |
+| 217 | **Active Probing Isolation** | **L2/L5** | Unsanctioned Probe Isolation / Dummy Service | Active Probing Immune Gateway | Перенаправляй невалидные сканирующие запросы сторонних агентов на изолированный заглушечный сервис. |
+| 218 | **MTU/MSS Protocol Hygiene** | **L5** | Path MTU Discovery / Protocol Alignment | Tunnel Stalling Prevention | Настраивай соответствие размера пакетов (MTU/MSS) для исключения подвисания сессий при дропе управляющих сообщений. |
+| 219 | **Complete Network Leak Shield** | **L2/L5** | DNS Leak Prevention / IPv6 & WebRTC Block | Full Network Leak Prevention | Блокируй утечки DNS, IPv6 и WebRTC мимо основного туннеля; свой внешний IP не должен светиться вовне. |
 | 220 | **QUIC UDP Resilience** | **L5** | QUIC UDP Pipeline / Loss-Resistant Transit | Throttling-Resistant Data Flow | Настраивай прохождение трафика через устойчивые QUIC-протоколы на нестабильных каналах связи. |
 
 ---
