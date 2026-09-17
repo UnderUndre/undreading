@@ -29,7 +29,7 @@
   6. *L1 Биология (Забор Честертона для Dental CBCT):* Снятие автоматического слепого таймера «раз в 18–24 мес» с сохранением онтологии рисков (ангина Людвига, сепсис, слепота 2D ОПТГ). Исследование проводится строго при изменении клинической картины и появлении симптоматики.
 * **Мини-спецификация семейного выживания (Приложение к конверту 14 дней):** 4 узла выживания (наличная ликвидность мелкими купюрами + список запретных локаций, фарм-буфер на 30 дней, суточный расчет калоража и воды, бумажный медицинский паспорт для бригады скорой помощи).
 * **Соблюдение Negative Selection (Фильтр отсечения):** Запрет на расширение архивных кейсов 221–250, запрет на недоказанный биохакинг (рапамицин/плазма), отказ от готовых налоговых схем под CARF и сжатие детского контура до 1 страницы.
-* **Ревизия v16.1 (точечный патч, без новых глав):** Закрыты 4 текстовых зазора v16.0 (неделя-п.8/9, P0#21 три уровня Spend Cap, адаптивный порог сна **[СПОРНО]**, символы Моски в P0#22). Смонтированы: панель соматической телеметрии (Часть I), шлюз Type 1 Gateway + Decision Journal (гл. 1.0.1), мета-законы 18–20 (датчик→вентиль / Ваза / среда>воля), норматив «Навык = регулярная опрессовка» в Приложении F. Фармакодинамика АСК (Ser529/Arg120) врезана в задвижку №5 без смены полевой дозы 300 мг. Акустические врезки посажены на уже живые узлы: полный пакет `song-lyrics.md` (Anacondaz / Noize MC / Oxxxymiron / Заточка / Naruto–Shippuden OP). «Комментарий» в прологе не дублируется; *Sign* ≠ *Closer*. Шаги ОКС / NIST / сидов остаются сухими.
+* **Ревизия v16.1 (точечный патч, без новых глав):** Закрыты 4 текстовых зазора v16.0 (неделя-п.8/9, P0#21 три уровня Spend Cap, адаптивный порог сна **[СПОРНО]**, символы Моски в P0#22). Смонтированы: панель соматической телеметрии (Часть I), шлюз Type 1 Gateway + Decision Journal (гл. 1.0.1), мета-законы 18–20 (датчик→вентиль / Ваза / среда>воля), норматив «Навык = регулярная опрессовка» в Приложении F. Фармакодинамика АСК (Ser529/Arg120) врезана в задвижку №5 без смены полевой дозы 300 мг. Акустические врезки посажены на уже живые узлы: полный пакет `song-lyrics.md` (Anacondaz / Noize MC / Oxxxymiron / Заточка / Naruto–Shippuden OP) плюс максимальная посадка *Closer* (Joe Inoue) и *Wind* (Akeboshi). «Комментарий» в прологе не дублируется; *Sign* ≠ *Closer*. Шаги ОКС / NIST / сидов остаются сухими.
 
 ---
 
@@ -395,6 +395,22 @@ ho$ (ро) — плотность протекающей жидкости (дл�
 > — **KANA-BOON, Silhouette**
 
 Houboku уже зовёт *Blue Bird* как простой. *Silhouette* в книге — 160 BPM. Здесь оба трека про другое: односторонняя дверь. Взлетел / перешёл — клетку не вернуть. Type 2 так не звучит.
+
+> You say "Dreams, are dreams"  
+> I ain't gonna play the fool, anymore  
+> You say "'Cause I've still got my soul!"  
+> Take your time, baby, your blood needs slowing down  
+> Breach yourself to reach yourself before you gloom  
+> Reflection of fear makes shadows of nothing  
+> Shadows of nothing  
+> You still are blind if you see a winding road  
+> 'Cause there's always a straight way to the point you seek  
+> Don't try to live so wise  
+> Don't try with fakes or fears  
+> 'Cause you will hate yourself in the end  
+> — **Akeboshi, Wind**
+
+Door Test — прямая дорога к точке, не живописный серпантин «я ещё подумаю». Страх рисует тени из ничего; фейк-мудрость и фейк-храбрость после 23:00 кончаются ненавистью к себе. Кровь надо замедлить — это и есть карантин 12–24 ч, не «ещё один комитет».
 2. **Base Rates (Канеман).** Выключи Inside View. Заложи историческую выживаемость референтного класса, не личный оптимизм. Если 90% аналогов дохнут за 24 месяца — в модель идёт **это**. Таблица ставок — Приложение F.1.
 3. **Anti-Ruin (Талеб).** Даже микро-вероятность обнуления L1 / семейного кэша на 18–24 месяца / уголовно-паспортной блокировки → безусловный отказ. Штанга: 80–90% в консервативном ядре. Upside не оправдывает ruin.
 4. **Bottleneck / Kingman.** Если действие крадёт сон или грузит систему к $\rho \to 1$ — блок до расширения мощности. Slack Time обязателен, не «потом отосплюсь».
@@ -678,6 +694,22 @@ $$\text{Serum Osmolality} = 2 \cdot [\text{Na}^+] + \frac{[\text{Glucose}]}{18} 
 >
 > 1. **Разделение на Inputs и Outputs:** Ты полностью управляешь входами (дисциплина, Зона 2, ApoB, бэкапы, наложение жгута). Ты НЕ управляешь выходом (рынок, действия чиновников, геополитика). Перенеси 100% внимания на входы — это сбивает кортизол на 50%.  
 > 2. **Временной фильтр 10/10/10:** Прежде чем принять сиюминутное импульсивное решение, ответь на 3 вопроса: *Что я буду думать об этом через 10 минут? Через 10 месяцев? Через 10 лет?* Это моментально стравливает норадреналиновый аффект.
+>
+>    > Cultivate your hunger before you idealize  
+>    > Motivate your anger to make them all realize  
+>    > Climbing the mountain, never coming down  
+>    > Break into the contents, never falling down  
+>    > My knee is still shaking like I was twelve  
+>    > Sneaking out the classroom by the back door  
+>    > A man railed at me twice, though, but I didn't care  
+>    > Waiting is wasting for people like me  
+>    > Don't try to live so wise  
+>    > Don't cry 'cause it's alright  
+>    > Don't try with fakes or fears  
+>    > 'Cause you will hate yourself in the end  
+>    > — **Akeboshi, Wind**
+>
+>    Голод и злость — топливо, идеализация — засор. Ждать «когда поумнею» = тратить очередь Кингмана. 10/10/10 режет импульс, *Wind* режет позу мудреца.
 
 #### **3.3. Когнитивный затвор коммуникаций & Культурные артефакты**
 
@@ -920,18 +952,45 @@ $$\text{Serum Osmolality} = 2 \cdot [\text{Na}^+] + \frac{[\text{Glucose}]}{18} 
 > 3. **Внеполосной токен верификации (Out-of-Band Token):** Члены семьи офлайн согласовывают мнемоническую фразу с высокой энтропией ($>75\text{ бит}$), не связанную с личной жизнью (например: *«Синий чугунный радиатор 42»*). Токен категорически запрещено хранить в смартфонах, мессенджерах или облаках.  
 > 4. **Боевой протокол развязки:** Любой входящий экстренный звонок («я в полиции», «сбил человека», «срочно переведи деньги») ТРЕБУЕТ немедленного запроса токена: *«Назови наш аварийный радиатор»*. Любая заминка, слезы или агрессия — триггер безусловного сброса трубки и контрольного вызова через защищенный E2EE-мессенджер (Signal).
 >
->    > Всё, что рядом, нужно знать:  
->    > в любой день может исчезнуть. Будь внимателен.  
->    > Главный ключ к счастью  
->    > не лежит нигде, кроме наших душ.  
->    > Чем ближе подходишь к вещи —  
->    > тем труднее её разглядеть.  
->    > И я больше не буду считать это само собой разумеющимся.  
->    > Исправимое лицемерие  
->    > лучше убийственной честности.  
->    > Собери в горсти немного смелости,  
->    > чтобы прожить ещё один день.  
+>    > All that is near us we must know  
+>    > Could disappear any day, be careful  
+>    > The main key to finding happiness  
+>    > Lies nowhere else but in our souls  
+>    > You could reminisce, you could recall  
+>    > The very last time you felt joy  
+>    > Or maybe you are so blessed to a point  
+>    > Where you can't remember anything  
+>    > It's a harmony, a miracle  
+>    > Being able to breathe and live at all  
+>    > So here is your one and only chance  
+>    > Life is an opportunity  
+>    > You know the closer you get to something  
+>    > The tougher it is to see it  
+>    > And I'll never take it for granted  
+>    > Let's go  
+>    > Some people may call a kind deed  
+>    > An act of mere hypocrisy  
+>    > But never mind those who have lost faith  
+>    > You shouldn't give in to what they say  
+>    > Even if it was for a selfish cause  
+>    > A salvageable hypocrisy  
+>    > Is superior to murderous honesty  
+>    > Everybody tells you from time to time  
+>    > To never give up, like a phrase from a movie  
+>    > They tell you to stand up for yourself  
+>    > As if it was always that easy  
+>    > Gather a handful of courage in my heart  
+>    > To go on and survive another day  
 >    > — **Joe Inoue, Closer**
+>
+>    > 王様のお通り どうぞこちらへ  
+>    > そなたが世界を救った少年かね? — はい わたくしです  
+>    > そなたの勇気を称えて褒美をやろう 何がほしい? 金か銀か?  
+>    > いいえ 違います. それでは何がほしいのだ?  
+>    > 何もいりません 大切なものは心の中にあります  
+>    > — **Joe Inoue, Closer (interlude)**  
+>    > *«Его величество изволит пройти. Ты тот мальчик, что спас мир?» — «Да, это я.»  
+>    > «За храбрость дам награду. Золото или серебро?» — «Нет. Ничего не надо. Важное лежит в сердце.»*
 >
 >    > Живи быстро, выжми себя досуха.  
 >    > Ноги путаются, но всё равно дальше, чем вчера.  
@@ -2297,6 +2356,14 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 > 🔧 **Неочевидная задвижка №9: Преодоление Sunk Cost Fallacy (Ловушки невозвратных затрат)**  
 > Никогда не привязывай решение о продолжении проекта или сохранении связей к ранее влитым ресурсам (деньгам, годам, эмоциям). Ранее сожженные ресурсы — это слитая в канализацию вода, её не вернуть.  
 > **Инженерный критерий:** Оценивай ТОЛЬКО будущие затраты и будущую отдачу. Если маржинальная полезность будущего шага отрицательна — нажимай Красную Кнопку (Kill Criteria) и сноси проект без сожалений.
+>
+>    > Don't try to live so wise  
+>    > Don't cry 'cause it's alright  
+>    > Don't try with fakes or fears  
+>    > 'Cause you will hate yourself in the end  
+>    > — **Akeboshi, Wind**
+>
+>    Sunk Cost — это как раз «жить мудрее»: держать мёртвый контур, потому что жалко. В конце возненавидишь себя не за стоп, а за то, что не нажал.
 
 #### **1. Фрактальная модель Мета-контура (Oxxxymiron & Кинематограф)**
 
@@ -2734,7 +2801,7 @@ $$\text{LTV} = \frac{ARPU \times Gross Margin \%}{Churn Rate}, \quad \text{Payba
 | **Масштабные системные вызовы** | Симфонические саундтреки Ханса Циммера (*Interstellar*, *Dune*), **Queen** (*Under Pressure*) | Формирование масштабного восприятия глобальных гидравлических контуров. |
 | **Эко- и био-регенерация** | Eco Music, Afro-Futurism, **Michael Jackson** (*Man in the Mirror*) | Органический синтез природных биологических ритмов и технологического прогресса. |
 | **Эмоциональная саморегуляция** | **Linkin Park** (*Numb*), **Three Days Grace**, саундтрек **«Inside Out 2»** | Визуализация ментальной гигиены, кураж и работа с тревожными состояниями. |
-| **Полевой гидрозатвор (эпиграфы по узлам)** | Полный пакет `song-lyrics.md`: **Anacondaz**, **Noize MC**, **Oxxxymiron**, **Заточка**, Naruto / Shippuden OP (*Blue Bird*, *Silhouette*, *Sign*, *Closer*, *Diver*, *GO!!!*, *Lovers*, *Hotaru no Hikari*, *Distance*, *Kanashimi wo Yasashisa ni*, *Toumei Datta Sekai*, *Blood Circulator*, *Kara no Kokoro*, *Kaze*) | Эпиграф на уже живой инженерный узел: течь, необратимая дверь, второй ключ, конверт 14 дней, сон, энергобуфер, Горгород. Не саундтрек «под настроение» и не отдельная глава. Шаги ОКС / NIST / сидов — сухие. |
+| **Полевой гидрозатвор (эпиграфы по узлам)** | Полный пакет `song-lyrics.md` + **Joe Inoue** *Closer* (максимум уникальных куплетов и японский интерлюд) + **Akeboshi** *Wind* (Naruto ED 2: 10/10/10, Type 1, Sunk Cost) | Эпиграф на уже живой инженерный узел. Не саундтрек «под настроение» и не отдельная глава. Шаги ОКС / NIST / сидов — сухие. |
 
 ---
 
