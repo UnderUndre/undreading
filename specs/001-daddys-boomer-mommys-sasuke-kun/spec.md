@@ -2,7 +2,7 @@
 
 **Feature Branch**: `specs/001-daddys-boomer-mommys-sasuke-kun`  
 **Created**: 2026-08-04  
-**Updated**: 2026-09-28 (Master Release v19.0: 4-Step Complexity Gradient, Plain-Language «Перевод с русского на русский» Decoders, 70 P0-Directives, 220+ Concepts, Remote Income Atlas & Business Plan v2.0 Alignment)  
+**Updated**: 2026-09-28 (Master Release v19.1: Full Peripheral Synchronization, Form W-8BEN vs W-8BEN-E, FinCEN BOI Exemption, 127-FZ art. 61.6-1 & KS RF 5-P Sole Housing, Spain Okupas Ley 1/2025, DOAC Warning in ACS, 4-Step Complexity Gradient, Plain-Language Decoders)  
 **Status**: Approved / In Execution  
 **Repo**: `undreading`  
 **Input**: Business Plan `undreading-business-plan.md` (v2.0), `undrlla-business-plan.md` (v15.1), `undreseller-business-plan.md` (v18.0), Monograph v17.5, Concept Architecture: *«Книга как системная инструкция для человека (System Prompt Architecture for Humans)»*.
@@ -10,6 +10,10 @@
 ---
 
 ## ## Clarifications
+
+### ### Session 2026-09-28 (v19.1 Peripheral Synchronization & Master Polish)
+- **Q: Что было синхронизировано в релизе v19.1 по итогам финальной опрессовки периферии?**  
+  **A:** Проведена тотальная синхронизация всех копий: 1) В ASCII-схемах, таблицах CPA и чеклистах закреплена Form W-8BEN для физлиц-NRA (W-8BEN-E оставлена строго для компаний). 2) Вычищены устаревшие штрафы CTA/BOI в §10.3. 3) В P0 №70 зафиксирована защита единственного жилья по ст. 61.6-1 127-ФЗ и КС РФ № 5-П. 4) Во врезке Окупас снят контрмиф о «штурме полицией без ордера» и закреплен 3-ступенчатый порядок Ley Orgánica 1/2025. 5) В P0 №2 и тексте внедрен DOAC Alert к аспирину 300 мг. 6) В P0 №3 уточнена криминалистическая атрибуция volatile RAM.
 
 ### ### Session 2026-09-28 (v19.0 Gradient & Plain-Language Decoders)
 - **Q: Какие ключевые исправления внесены по итогам независимого двухэтапного форензик-аудита (review-v19.md)?**  
