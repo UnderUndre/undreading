@@ -3,7 +3,7 @@
 **Feature Branch**: `specs/002-init-repo`  
 **Created**: 2026-08-18  
 **Updated**: 2026-08-20 (Post-Audit Patch: Astro Starlight SSG Engine & Supporter Bundle Architecture)  
-**Status**: Approved / In Execution  
+**Status**: Superseded (Архивировано — заменено на `specs/003-trilingual-platform` / `undreading.com`)  
 **Input**: Business Plan `undreading-business-plan.md` (v2.0), Adversarial Review `gemini-flash-3.7.md`, Single Sign-On Contract (`undrlla/specs/005-sso-jwt-contract.md`), Astro + Starlight Architecture Decision.
 
 ---
