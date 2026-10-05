@@ -696,19 +696,6 @@ Internet meme folklore is society's emotional hydraulic seal. Memes respond inst
 
 ---
 
-### **📖 PHYSICAL EDITION SPECIFICATION (PAPERBACK & HARDCOVER STANDARDS)**
-
-This book's distribution model is engineered on the principle of **symbiotic dualism: open free Markdown source on the web** (for instant `Ctrl+F` search, script parsing, and AI-agent indexing) **+ a premium tactile book on the nightstand** (to displace the smartphone screen before sleep):
-
-* **Paper block:** Swedish book paper **Munken Pure / Premium Cream, 80–90 g/m²**. The paper has a warm cream tint, a rough velvety texture, and zero glare.
-  *Physiological rationale:* The spectral reflection temperature of the paper is calibrated to the $\approx 2700\text{–}3000\text{ K}$ corridor. This fully eliminates irritation of the retina's melanopsin receptors by the blue spectrum ($460\text{–}490\text{ nm}$), preserving natural melatonin (sleep hormone) production.
-* **Emergency Pocket (Waterproof Emergency Field Card):** Sewn into the inner pocket of the back cover is a waterproof, fire-resistant fold-out insert of synthetic polymer paper (**Tyvek / Polyart**). Printed on it in micro-type are tactical runbooks for 03:00 conditions (C-A-T tourniquet bleeding control per MARCH, the myocardial infarction protocol, NIST IR actions under network breach, the Type 1 irreversible-decision algorithm, and the Pre-Mortem form).
-* **Double silk ribbon (two bookmarks):**
-  - 🔴 **Red signal ribbon:** anchored at the P0 Matrix and the Emergency Runbook (to open the resuscitation algorithm in 1 second by feel);
-  - ⚫ **Black ribbon:** for marking current deep reading.
-
----
-
 ### **🔗 Official Channels, Code, and Community**
 
 * **GitHub:** [github.com/UnderUndre](https://github.com/UnderUndre/) — the book's open Markdown source, deployment scripts, and configs.
