@@ -501,7 +501,7 @@ If you are ready to:
 > 5. **The sapper's manifesto against the Museum Exhibit ("Who the hell are you, exactly?"):**
 >    * *I'm not a guru on a mountain:* Let's skip the crowns. I'm not a dollar billionaire with a suitcase of golden passports, and I don't sell "secrets of success." The best fire-evacuation plan isn't drawn by the guy posing for magazine covers — it's drawn by the guy who nearly burned in a locked basement because the fire exit had been welded shut and the extinguisher turned out to be an empty prop. This book was born from my own brutal solo-startup failure: 6 months of hell, savings torched, and a first-hand look at how a life without protective valves comes apart.
 >    * *The draftsman vs the museum exhibit:* When an engineer calculates the load rating of a steel bridge, he doesn't have to personally weigh 40 tons and hold trucks on his back. He knows the laws of material strength, the Darcy-Weisbach and Zhukovsky hydraulic formulas, the MARCH arterial-bleeding protocols, and FIDO2 cryptography. They work with identical stability — regardless of the balance on the author's card. This book is a working pressure-test log, not an oligarch's memoir.
->    * *The adverse-selection principle:* The infobusiness hustler shouts: *"Look at my expensive car, buy my course, and become just like me!"*. The engineer-plumber says: *"Look at these burst heating pipes and the graveyard of 35-year-old heart attacks. Here is the list of 86 valves you need to crank RIGHT NOW so you don't get flushed into the septic tank."*. We start in the basement. Once the pipes are fixed, we can talk about yachts.
+>    * *The adverse-selection principle:* The infobusiness hustler shouts: *"Look at my expensive car, buy my course, and become just like me!"*. The engineer-plumber says: *"Look at these burst heating pipes and the graveyard of 35-year-old heart attacks. Here is the list of 86 valves you need to crank RIGHT NOW so you don't get flushed into the septic tank."*. We start in the basement. The book's 4-step gradient follows Michael Scott's demand: *«Why don't you explain this to me like I'm five»* — from plain-language household analogies to formulas, physical laws, and pressure-testing protocols. Once the pipes are fixed, we can talk about yachts.
 
 ---
 
@@ -857,8 +857,8 @@ Before any irreversible bet (capital, body, legal status), run the decision thro
 > **Track:** Akeboshi — "Wind" (Naruto ED1, Listen: 00:40–01:20)
 > **Node engineering analysis (from Bob):** The sunk-cost fallacy disguises itself as folk "wisdom": keep pouring resources into a dead riser out of sentimentality. In the end, the operator regrets not pressing the stop button — he regrets the lost years of life.
 
-The Door Test is a straight road to the point, not a scenic serpentine of "let me think some more." Fear paints shadows out of nothing; fake wisdom and fake courage after 23:00 end in self-hatred. The blood must be slowed — that is the 12–24 h quarantine, not "one more committee."
-2. **Base Rates (Kahneman).** Switch off the Inside View. Plug in the historical survival rate of the reference class, not personal optimism. If 90% of analogues die within 24 months — **that** goes into the model. The rates table — Appendix F.1.
+The Door Test is a straight road to the point, not a scenic serpentine of "let me think some more." Fear paints shadows out of nothing; fake wisdom and fake courage after 23:00 end in self-hatred. The blood must be slowed — that is the 12–24 h quarantine, not "one more committee." Before every irreversible step, run Dwight Schrute's filter: *«Whenever I'm about to do something, I think, "Would an idiot do that?" And if they would, I do not do that thing»*.
+2. **Base Rates (Kahneman).** Switch off the Inside View. Plug in the historical survival rate of the reference class, not personal optimism. If 90% of analogues die within 24 months — **that** goes into the model. As young Sheldon Cooper noted against reality-deniers: *«You've confused possibilities with probabilities. When I go home I might find a million dollars on my bed or I might not. In what universe is that 50-50?»*. The rates table — Appendix F.1.
 3. **Anti-Ruin (Taleb).** Even a micro-probability of zeroing out L1 / the family's 18–24 month cash / passport-and-criminal lockout → unconditional refusal. The Barbell: 80–90% in the conservative core. No upside justifies ruin.
 4. **Bottleneck / Kingman.** If the action steals sleep or loads the system toward $\rho \to 1$ — blocked until capacity expands. Slack Time is mandatory, not "I'll sleep later."
 5. **Pre-Mortem (Klein, 2007).** "12 months have passed, the project burned down" → **5 concrete causes** → preventive valves + numeric Kill Criteria. Form — Appendix F.3; no breeding a third form.
@@ -953,7 +953,7 @@ In 2024–2026, the software industry was swept by the **Vibe Coding** phenomeno
 >   3. **Erosion of the fundamental base:** Developers raised on vibe coding lose their grasp of POSIX system calls, the kernel scheduler, virtual memory (`mmap`, page tables), allocators (`ptmalloc`, `jemalloc`), file-descriptor exhaustion (`ulimit -n`), and locking in multithreaded environments.
 > * **Step 3:**
 >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
->   > **In plain language:** Vibe coding is like hiring a day laborer to assemble the central heating of a skyscraper who, instead of welding and pressure-testing the pipes, just wraps everything in pretty shiny duct tape. Until the water's on, it looks neat and fast. The moment working pressure of 16 atmospheres hits, the whole building gets flooded with boiling water and shit — and the so-called master doesn't even know where the intake valve is.
+>   > **In plain language:** Vibe coding is like hiring a day laborer to assemble the central heating of a skyscraper who, instead of welding and pressure-testing the pipes, just wraps everything in pretty shiny duct tape. Until the water's on, it looks neat and fast. The moment working pressure of 16 atmospheres hits, the whole building gets flooded with boiling water and shit — and the so-called master doesn't even know where the intake valve is. Apologists of blind generation sound identical to the characters in *Idiocracy*: *«It's got electrolytes! — What are electrolytes? — It's what they use to make Brawndo! — Why? — Because it's got electrolytes!»*. A circular corporate tautology that collapses on the first real production load.
 >   > **Where the trap is:** Corporations cut the juniors, believing a neural net would replace the engineer. But a neural net is a text calculator — it doesn't fix a burst riser at 3 a.m. Whoever isn't learning C, Rust, assembly, and network sockets today becomes tomorrow's digital lumpen, tossed out into the cold at the first API hiccup.
 >   > **Your action right now:**
 >   > 1. **Absolute ban on blind deploys:** Not a single AI-generated line enters prod without full understanding of its computational complexity ($O(N)$ vs $O(N^2)$), memory allocation, and failure model.
@@ -968,7 +968,7 @@ Any engineering system must obey the hard Value Hierarchy: **L1 (physical surviv
 
 ##### **1.1.1. The Zero Trust Architecture (ZTA, Assassin's Creed style)**
 
-* **"Nothing is true, everything is permitted":** The foundational Zero Trust (ZTA) principle. "Nothing is true" — all interfaces, declarations, and counterparty assurances leak (Never Trust, Always Verify). "Everything is permitted" — under a direct threat to survival (L1), the engineer has the right to deploy any bypass, regardless of decorative restrictions (L4).
+* **"Nothing is true, everything is permitted":** The foundational Zero Trust (ZTA) principle. "Nothing is true" — all interfaces, declarations, and counterparty assurances leak (Never Trust, Always Verify). As Gilfoyle formulated in *Silicon Valley*: *«It's not that I don't trust you, it's that I don't trust anybody»*. "Everything is permitted" — under a direct threat to survival (L1), the engineer has the right to deploy any bypass, regardless of decorative restrictions (L4).
   > ⚠️ **Restrictive valve:** The principle L1 > L4 and "everything is permitted" under a threat to life is NOT a license for physical break-in, fraud, or unauthorized intrusion into someone else's perimeter. Survival ≠ the right to someone else's lock, someone else's account, someone else's network.
 * **Leap of Faith:** Transition into a controlled degraded mode (Graceful Degradation). A pre-built damping buffer (the "haystack" / reserve cache) absorbs the kinetic impact of a cascading failure.
 * **Hidden Blade:** A concealed mechanical emergency-shutdown toggle (Kill Switch) that fires in fractions of a second without noise.
@@ -1952,7 +1952,7 @@ Night-time wakings with a pounding heart and difficulty falling asleep are a fre
 > **Node engineering meaning (from Bob):** Paranoia and fake insider tips overload the cognitive buffer. Rely on objective instrumental telemetry.
    * **The SEP field ("Somebody Else's Problem Field," Douglas Adams):** Normalization of deviance. Ignoring a micro-leak (Log4Shell CVE-2021-44228 or ApoB > 100 mg/dL) because of the blindness of "that's the building superintendent's problem" ends in a fatal water hammer.
 8. **The team and solo circuit (operational task routine: solo vs team):**
-   * **Solo mode (Single-WIP Limit):** The solo operator keeps STRICTLY 1 task in flight. Running 2+ tasks in parallel burns up to 75% of working memory on context switching (Weinberg's law).
+   * **Solo mode (Single-WIP Limit):** The solo operator keeps STRICTLY 1 task in flight. Running 2+ tasks in parallel burns up to 75% of working memory on context switching (Weinberg's law). Ron Swanson's golden law applies: *«Never half-ass two things. Whole-ass one thing»*.
    * **A team of 2–5 people (the "three pipes" principle):** Scrum, sprints, and half-hour synchronous standups are corporate sludge. The stack: 1) One board (Backlog $\to$ Doing $\to$ Done); 2) WIP limit = 1 per person; 3) A 3-line async report (Done $\to$ Taking $\to$ Where's the clog).
 9. **The 30-day onboarding and key-handover protocol (the first hire):**
    * *Days 0–7 (Sandbox):* The new node works strictly on an isolated bench/branch with no access to production databases or treasury.
@@ -2571,6 +2571,7 @@ The local box is your personal autonomous well. What you pour onto the disk is y
   * To fit a model into memory, it's compressed — this is **quantization** (look for the `Q4_K_M` or 4-bit label — the gold standard: minimal quality loss, size shrinks severalfold).
   * **The simple plumbing formula:**
     $$\text{Parameters (B)} \times 0.75 + 2\text{ GB (context reserve)} = \text{Required RAM/VRAM}$$
+    Remember the IT support gospel from *The IT Crowd*: *«Memory IS RAM!»*. Don't confuse SSD storage space with the operating RAM required for model weights.
   * **Calibration by hardware "weight class":**
     * **8 GB RAM** (weak laptops, tablets): Models at **~3B–4B**. Fast, can translate and fix errors, but no stars from the sky.
     * **16 GB RAM** (a standard work laptop): Models at **~7B–9B**. The ideal balance. They handle 90% of everyday tasks: text, code, logic, summaries.
@@ -3461,7 +3462,7 @@ Under the cover of "existential AI threat" narratives, the cloud monopolists (Op
 #### **2. The physical barrier: the energy deficit and the Aschenbrenner memorandum:**
 The exponential sprint to superintelligence (ASI) hits Ohm's law and the materials science of power grids (Leopold Aschenbrenner, *"Situational Awareness"*):
 * A $100\text{ GW}$-scale cluster (2028–2030) requires **20% of total US electric generation** (the equivalent of 80–100 nuclear units). Reactor restarts (Three Mile Island for Microsoft) and small modular reactors (SMR) will reach industrial operation no earlier than 2030–2035.
-* **The raw-material clog of distribution grids:** Delivery lead times for high-voltage generator step-up (GSU) transformers hit a record **4–6 years (200–250 weeks)** due to shortages of electrical-grade silicon steel (GOES), copper, and qualified winders. The software singularity crashed into an electrical-engineering dead end.
+* **The raw-material clog of distribution grids:** Delivery lead times for high-voltage generator step-up (GSU) transformers hit a record **4–6 years (200–250 weeks)** due to shortages of electrical-grade silicon steel (GOES), copper, and qualified winders. The software singularity crashed into an electrical-engineering dead end. To every gigawatt datacenter fantasy, physical reality responds with Sheldon Cooper's immortal line: *«O gravity, thou art a heartless bitch»* — Joule heating melts copper wires, and prompt engineering cannot override the laws of thermodynamics.
 
 #### **3. The operator's personal sovereignty strategy:**
 1. **The autarky of local open weights:** Refusing exclusive dependence on closed APIs (subject to delisting and censorship). Inference on your own weights (DeepSeek-R1/V3, Llama, Qwen, Mistral) through open engines (vLLM, Ollama, llama.cpp) on local hardware behind a physical firewall.
@@ -4479,7 +4480,7 @@ Household capital-accumulation advice based on penny-pinching ("the latte factor
 
 1. **The decomposition of Thaler's mental accounting (*Mental Accounting*, 1999):**
    In classical economics, money is perfectly fungible. However, Nobel laureate Richard Thaler proved that the human brain fragments capital into isolated mental pockets. A subject will spend 40 minutes driving across town to save \$10 on a \$30 purchase, yet absolutely passively accepts hidden fees and inflated interest worth thousands of dollars on a mortgage or lease.
-   * *The law of the indistinguishability of money:* One dollar must equal one dollar at any scale and under any boundary conditions.
+   * *The law of the indistinguishability of money:* One dollar must equal one dollar at any scale and under any boundary conditions. Startup founders blowing seed rounds on designer conference rooms and custom swag while the backend crashes at 100 RPS deserve Russ Hanneman's scream in *Silicon Valley*: *«These are not the doors of a billionaire, Richard!»*.
 
 2. **The total cost of ownership model (Gartner TCO Model, 1987):**
    The direct purchase cost (*CAPEX*) forms only 20–40% of real expenses. Any node or equipment is analyzed by the full-lifecycle formula:
@@ -6372,7 +6373,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 
 #### **1. The table of base probabilities of reality (Base Rates):**
 * **Your new business:** With 50% probability it dies within 5 years; with 85–90% — if it's an IT startup with no advance sales (CustDev). Plan for the worst.
-* **Investments with "guaranteed" returns $>15\text{–}20\%$ in hard currency:** A 99.9% probability it's a Ponzi (a scam). Free cheese exists only in a mousetrap.
+* **Investments with "guaranteed" returns $>15\text{–}20\%$ in hard currency:** A 99.9% probability it's a Ponzi (a scam). Free cheese exists only in a mousetrap. As Sheldon Cooper calculated: *«You have as much of a chance as the Hubble Telescope does of discovering at the center of every black hole is a little man with a flashlight searching for a circuit breaker»*.
 * **Moving abroad with no remote contract:** With 70% probability it ends in burned savings and a return within 6–12 months.
 
 #### **2. Charlie Munger's ten strict prohibitions (inversions of thinking):**
