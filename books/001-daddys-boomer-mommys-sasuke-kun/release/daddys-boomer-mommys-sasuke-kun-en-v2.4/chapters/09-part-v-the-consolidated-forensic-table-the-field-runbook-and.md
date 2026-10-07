@@ -127,6 +127,12 @@ Before diving into the tables, let's normalize all the technical codes of the ap
 | **47** | **The vibe-coding crisis** | **L2/L5** | Code Churn up +39% / junior hiring collapse of 20–67% | The atrophy of low-level engineering competence | Blind neural code generation without understanding the OS core and Ring 0 memory paralyzes repair at P0. |
 | **48** | **The EES biometric gate** | **L4** | Regulation (EU) 2017/2226 / eu-LISA / the SIS II base | The abolition of stamps and second-by-second 90/180 counting | The era of forgotten stamps is over. A 1-hour overstay hangs an EU auto-ban for 1–5 years. |
 | **49** | **The Caribbean CBI cartel** | **L4** | The Caribbean MoA 2024 (a $200k+ floor) / the Vanuatu case | Price doubling and visa-free revocation | Cheap disposable $100k passports are closed. Lean on real residency through substance. |
+| **51** | **Amoy Gardens SARS / Backflow Epidemic (2003)** | **L1/L5** | 321 infections, 42 deaths in Hong Kong. Negative pressure ventilation and dry P-traps created hydraulic vacuum, sucking aerosolized sewage back into living quarters. |
+| **52** | **Stachybotrys CIRS Environmental Litigation (2001–2025)** | **L1/L5** | *Ballard v. Fire Insurance Exchange* ($32M award for toxic mold devastation). Established ribosomal protein synthesis blockade by satratoxins and invalidity of airborne spore traps behind insulation. |
+| **53** | **Amazon FBA Multistate Inventory Nexus Audits (2020–2025)** | **L3/L4** | Massive back-tax assessments across PA, CA, WA against remote merchants triggered by automated FBA warehouse stock dispersion under physical nexus doctrines. |
+| **54** | **OECD Article 5 Remote PE Precedents (2024–2026)** | **L3/L4** | European tax authority rulings establishing Permanent Establishments for foreign tech entities based on home office work of key solo founders (*The Only/Main Person*). |
+| **55** | **Amazon Route 53 BGP Hijack & Crypto Theft (2018–2024)** | **L2** | eNet AS prefix hijack diverting Route 53 DNS traffic, forging ACME HTTP-01 Let's Encrypt certificates to steal $17M from MyEtherWallet with zero browser SSL errors. |
+| **56** | **Mareva Compania Naviera SA v International Bulkcarriers (1975/2026)** | **L4** | Landmark UK High Court precedent establishing *ex parte* Worldwide Freezing Orders, locking global banking channels before defendant notification. |
 | **50** | **NMC EV fires** | **L1/L5** | The Incheon disaster 2024 / a Mercedes EQE with Farasis NMC | Spontaneous decomposition releasing $O_2$ and $HF$ gas | NMC batteries burn 8 hours without air. In residential buildings, only safe LiFePO4 is permitted. |
 
 ---
@@ -790,3 +796,53 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 * **The legacy of builds v17.0–v17.5:** All base modules and the P0 matrix of 70 valves preserved in full.
 
 ---
+
+
+---
+
+### **13. Plumbing Hydraulic Defense: Backsiphonage, RPZ Valves & Mandatory Gravity Flood Drainage ([P0-92: BACKFLOW-RPZ-ISOLATION-GATE])**
+
+While trap seals and filtration are foundational, the most lethal municipal plumbing failure is **Backsiphonage** driven by vacuum spikes in main city supply pipes.
+
+1. **Physics of Backsiphonage:**
+   * During water main bursts, fire hydrant operations, or pipe maintenance, supply risers experience catastrophic negative pressure (vacuum drops of $\Delta P \le -0.8\dots-1.0\text{ bar}$).
+   * Submerged handheld shower wands in bathtubs, bidet nozzles, or garden hoses submerged in chemical buckets transform into active siphons: greywater, detergents, and fecal pathogens get sucked straight back into potable drinking lines.
+
+2. **Reduced Pressure Zone (RPZ) Assemblies (ASSE 1013 / BS EN 12729):**
+   * An RPZ device combines two independent check valves separated by an intermediate relief chamber open to atmosphere. If supply pressure drops, the internal relief valve snaps open, dumping water and breaking the fluid column with a physical air gap.
+   * ⚠️ **CRITICAL INSTALLATION DIRECTIVE (50–350 L/min Relief Dump):** Under emergency vacuum conditions, an RPZ valve dumps municipal water at full line capacity! Installing an RPZ assembly inside living quarters is **strictly prohibited without a certified Air Gap Funnel ($\ge 25\text{ mm}$) and a gravity sewer floor drain (50–100 mm diameter)**. Installing an RPZ in a closed closet without a gravity drain will flood the residence within 180 seconds.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-92] BACKFLOW-RPZ-ISOLATION-GATE (L5): Install RPZ assemblies (ASSE 1013/EN 12729)  │
+│ strictly with certified Air Gap Funnels (≥25 mm) and gravity drains (50–100 mm); ban   │
+│ submerging shower wands or hoses below fixture flood rims.                            │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **14. Electrical Safety in Private Grids: TN-C-S PEN Conductor Failure, Stray Voltage & TT System Conversion ([P0-99: STRAY-VOLTAGE-TT-CONVERSION])**
+
+While apartment riser neutral breaks are addressed in [P0-85], standalone homes, villas, and rural properties fed by overhead power lines face a far deadlier hazard: **thermal degradation of the overhead PEN conductor**.
+
+1. **Physics of Stray Voltage in TN-C-S Grids:**
+   * In a TN-C-S system, the incoming combined protective earth and neutral (PEN) wire bonds to the home ground rod at the service entrance.
+   * When the utility overhead PEN conductor breaks or burns off, the unbalanced neutral return current from the *entire street* seeks earth through the only closed path available: **your private home grounding electrode**!
+   * The excessive current overheats the ground rod, evaporates soil moisture, and sends grounding resistance soaring. Consequently, the local PE bus and the metallic casings of all grounded appliances (water heaters, washing machines, pumps, shower faucets) become energized to **100–220V relative to the wet floor and true earth**.
+   * Standard circuit breakers never trip because there is zero phase overcurrent. The operator receives an electric shock simply by stepping into the shower.
+
+2. **Engineering Defensive Monolith ([P0-99]):**
+   * **TT Grounding System Conversion:** For any structure fed by overhead lines, enforce a complete galvanic decoupling between the incoming utility PEN/N conductor and the local building PE bus. The private ground rod connects solely to the building's PE bus, fully isolated from the grid neutral.
+   * **Two-Stage Selective RCD (GFCI) Cascade:**
+     1. *Service Entrance:* Main time-delayed selective RCD (**$100\dots 300\text{ mA}$ Type S, Class A or F**).
+     2. *Branch Circuits:* Instantaneous high-sensitivity RCDs (**$10\dots 30\text{ mA}$, Class A**) across all socket, lighting, and wet-area circuits.
+   * **Voltage Monitoring Relays:** Install a 3-phase over/under voltage monitoring relay controlling an industrial shunt-trip contactor to isolate all 3 phases and neutral within $<20\text{ ms}$ upon phase asymmetry.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-99] STRAY-VOLTAGE-TT-CONVERSION (L5): Convert overhead grid homes to TT grounding  │
+│ (galvanic isolation of PE from grid N); install 2-stage selective RCD cascades         │
+│ (100–300 mA Type S + 10–30 mA Class A); 3-phase overvoltage relays with contactors.   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```

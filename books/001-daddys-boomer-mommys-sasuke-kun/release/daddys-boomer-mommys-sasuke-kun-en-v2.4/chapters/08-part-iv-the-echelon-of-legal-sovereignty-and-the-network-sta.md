@@ -179,6 +179,32 @@ Passport valves slam shut not only through exit taxes and consular blockades, bu
 
 ---
 
+
+##### **10.5.3. Institutional Interpol Abuse: Red Notice / Diffusion Weaponization, Article 3 CCF Preventive Shield & Bilateral MLAT Traps ([P0-90: INTERPOL-CCF-PREVENTIVE-SHIELD])**
+
+Flag theory and secondary passports fail completely if an operator gets ensnared in weaponized cross-border law enforcement architecture. The primary tool of commercial raiding and politically motivated transnational repression is the **abuse of INTERPOL Red Notices and Diffusions**.
+
+1. **Mechanics of Transnational Seizure:**
+   * A predatory agency in a compromised jurisdiction manufactures a criminal indictment under vague "fraud" or "economic crimes" statutes.
+   * The National Central Bureau (NCB) requests the publication of a **Red Notice** (international request for provisional arrest) or circulates direct **Diffusions** across bilateral border control databases.
+   * **The Transit Hub Trap:** During airport layovers in extradition-vulnerable hubs (UAE, Turkey, Serbia, Georgia, Egypt, Thailand), border systems flag an active Interpol notice. Local police arrest the operator, triggering **6 to 18 months of detention in an extradition prison** awaiting formal hearings.
+
+2. **The Legal Armor: Article 3 of the Interpol Constitution & The CCF Shield:**
+   * **Article 3 (Interpol Constitution 1956):** Strictly forbids the Organization from undertaking any intervention or activities of a political, military, religious, or racial character.
+   * **Commission for the Control of INTERPOL's Files (CCF, Lyon):** The independent supervisory body. When criminal exposure is anticipated, specialized counsel submits a **Preemptive Request** to the CCF before crossing international borders, petitioning for immediate pre-emptive blocking of any incoming NCB requests under Article 3.
+   * **Procedural Vacuum & Bilateral MLAT Traps:** CCF case review takes **9–18 months** (CCF Statute Art. 40). Furthermore, deleting an Interpol notice does not nullify bilateral extradition treaties or mutual legal assistance treaties (MLAT) executed directly between Prosecutor Generals. True sovereignty requires obtaining formal protective legal status (asylum/judicial relief) within a rule-of-law host nation and blacklisting vulnerable transit hubs.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-90] INTERPOL-CCF-PREVENTIVE-SHIELD (L4): Monitor criminal fabrication risks; file   │
+│ preemptive Article 3 petitions with CCF Lyon before international travel; bridge the   │
+│ 9–18 mo CCF vacuum; blacklist high-risk extradition transit hubs (UAE, TR, RS).        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
 #### **10.6. The sovereign tax circuit of the Single-Member US LLC: the physics of Non-ETBUS and the limits of IRC § 864(b)**
 
 > ⚠️ **SAFETY WARNING / THE CPA HYDRAULIC SEAL:**
@@ -221,7 +247,33 @@ An American **Single-Member LLC (Wyoming, Delaware, New Mexico)** owned by a non
      2) **An express courier with tracking (DHL / FedEx / UPS) to the physical IRS address:**
         `Internal Revenue Service, 1973 Rulon White Blvd, Ogden, UT 84201, USA`.
 
-##### **10.6.1. Banking compliance, acquiring, and the W-9 form trap**
+#
+##### **10.5.3. Institutional Interpol Abuse: Red Notice / Diffusion Weaponization, Article 3 CCF Preventive Shield & Bilateral MLAT Traps ([P0-90: INTERPOL-CCF-PREVENTIVE-SHIELD])**
+
+Flag theory and secondary passports fail completely if an operator gets ensnared in weaponized cross-border law enforcement architecture. The primary tool of commercial raiding and politically motivated transnational repression is the **abuse of INTERPOL Red Notices and Diffusions**.
+
+1. **Mechanics of Transnational Seizure:**
+   * A predatory agency in a compromised jurisdiction manufactures a criminal indictment under vague "fraud" or "economic crimes" statutes.
+   * The National Central Bureau (NCB) requests the publication of a **Red Notice** (international request for provisional arrest) or circulates direct **Diffusions** across bilateral border control databases.
+   * **The Transit Hub Trap:** During airport layovers in extradition-vulnerable hubs (UAE, Turkey, Serbia, Georgia, Egypt, Thailand), border systems flag an active Interpol notice. Local police arrest the operator, triggering **6 to 18 months of detention in an extradition prison** awaiting formal hearings.
+
+2. **The Legal Armor: Article 3 of the Interpol Constitution & The CCF Shield:**
+   * **Article 3 (Interpol Constitution 1956):** Strictly forbids the Organization from undertaking any intervention or activities of a political, military, religious, or racial character.
+   * **Commission for the Control of INTERPOL's Files (CCF, Lyon):** The independent supervisory body. When criminal exposure is anticipated, specialized counsel submits a **Preemptive Request** to the CCF before crossing international borders, petitioning for immediate pre-emptive blocking of any incoming NCB requests under Article 3.
+   * **Procedural Vacuum & Bilateral MLAT Traps:** CCF case review takes **9–18 months** (CCF Statute Art. 40). Furthermore, deleting an Interpol notice does not nullify bilateral extradition treaties or mutual legal assistance treaties (MLAT) executed directly between Prosecutor Generals. True sovereignty requires obtaining formal protective legal status (asylum/judicial relief) within a rule-of-law host nation and blacklisting vulnerable transit hubs.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-90] INTERPOL-CCF-PREVENTIVE-SHIELD (L4): Monitor criminal fabrication risks; file   │
+│ preemptive Article 3 petitions with CCF Lyon before international travel; bridge the   │
+│ 9–18 mo CCF vacuum; blacklist high-risk extradition transit hubs (UAE, TR, RS).        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+#### **10.6.1. Banking compliance, acquiring, and the W-9 form trap**
 
 Opening corporate accounts (Mercury, Relay, Wise) and connecting payment gateways (Stripe, Paddle), non-residents regularly make the fatal error:
 * **The categorical prohibition on signing Form W-9:**
@@ -235,13 +287,65 @@ Opening corporate accounts (Mercury, Relay, Wise) and connecting payment gateway
 * **Protection against piercing the corporate veil:**
   Commingling personal funds and company expenses nullifies the LLC's limited liability. Requirements: 1) The corporate account is used strictly for business transactions; 2) Withdrawal of net profit to a personal account is executed by a formal written member decision (**Dividend Distribution Resolution**).
 
-##### **10.6.2. The current status of the FinCEN Corporate Transparency Act (BOI 2026)**
+#
+##### **10.5.3. Institutional Interpol Abuse: Red Notice / Diffusion Weaponization, Article 3 CCF Preventive Shield & Bilateral MLAT Traps ([P0-90: INTERPOL-CCF-PREVENTIVE-SHIELD])**
+
+Flag theory and secondary passports fail completely if an operator gets ensnared in weaponized cross-border law enforcement architecture. The primary tool of commercial raiding and politically motivated transnational repression is the **abuse of INTERPOL Red Notices and Diffusions**.
+
+1. **Mechanics of Transnational Seizure:**
+   * A predatory agency in a compromised jurisdiction manufactures a criminal indictment under vague "fraud" or "economic crimes" statutes.
+   * The National Central Bureau (NCB) requests the publication of a **Red Notice** (international request for provisional arrest) or circulates direct **Diffusions** across bilateral border control databases.
+   * **The Transit Hub Trap:** During airport layovers in extradition-vulnerable hubs (UAE, Turkey, Serbia, Georgia, Egypt, Thailand), border systems flag an active Interpol notice. Local police arrest the operator, triggering **6 to 18 months of detention in an extradition prison** awaiting formal hearings.
+
+2. **The Legal Armor: Article 3 of the Interpol Constitution & The CCF Shield:**
+   * **Article 3 (Interpol Constitution 1956):** Strictly forbids the Organization from undertaking any intervention or activities of a political, military, religious, or racial character.
+   * **Commission for the Control of INTERPOL's Files (CCF, Lyon):** The independent supervisory body. When criminal exposure is anticipated, specialized counsel submits a **Preemptive Request** to the CCF before crossing international borders, petitioning for immediate pre-emptive blocking of any incoming NCB requests under Article 3.
+   * **Procedural Vacuum & Bilateral MLAT Traps:** CCF case review takes **9–18 months** (CCF Statute Art. 40). Furthermore, deleting an Interpol notice does not nullify bilateral extradition treaties or mutual legal assistance treaties (MLAT) executed directly between Prosecutor Generals. True sovereignty requires obtaining formal protective legal status (asylum/judicial relief) within a rule-of-law host nation and blacklisting vulnerable transit hubs.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-90] INTERPOL-CCF-PREVENTIVE-SHIELD (L4): Monitor criminal fabrication risks; file   │
+│ preemptive Article 3 petitions with CCF Lyon before international travel; bridge the   │
+│ 9–18 mo CCF vacuum; blacklist high-risk extradition transit hubs (UAE, TR, RS).        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+#### **10.6.2. The current status of the FinCEN Corporate Transparency Act (BOI 2026)**
 
 * **The final FinCEN rule (August 2026 / 91 FR / 2026-16576):** Under the updated regulation, **domestic US companies (Domestic US LLCs, including non-residents' Single-Member LLCs)** are exempt from the mandatory BOI filing with FinCEN. The filing obligation remains only for foreign entities registered to do business in the US (*Foreign Reporting Companies*).
 * **Don't confuse this with IRS tax reporting (Form 5472):** The FinCEN BOI exemption **in no way cancels the annual IRS Form 5472 + Pro Forma Form 1120 filing**. The deadline — strictly April 15 each year. The NRA submission method — fax `+1-855-887-7737` (retain the Transmission Confirmation Report) or certified courier to Ogden, UT. The unconditional automatic fine for not filing Form 5472 — **$25,000 per reporting year** under *26 U.S.C. § 6038A*.
 * **Regional supervision (the New York LLC Transparency Act — NYLTA 2026, as of 2026-10-01):** Under **NYLTA 2026 (as of 2026-10-01)**, the beneficial-ownership disclosure requirements focus strictly on **companies formed under the law of foreign states (*Foreign-Country LLCs*)** that received official permission to operate in New York State (*Authority to do Business / Foreign Qualification*). Registering the company in another US state (Wyoming or Delaware) does not by itself trigger foreign-country status under NYLTA if the structure doesn't file a NY qualification. Before filing *Foreign Qualification* in any US state, a preliminary audit with a licensed CPA is mandatory.
 
-##### **10.6.3. The certified accountant's audit checklist (CPA Audit Checklist): 8 seals**
+#
+##### **10.5.3. Institutional Interpol Abuse: Red Notice / Diffusion Weaponization, Article 3 CCF Preventive Shield & Bilateral MLAT Traps ([P0-90: INTERPOL-CCF-PREVENTIVE-SHIELD])**
+
+Flag theory and secondary passports fail completely if an operator gets ensnared in weaponized cross-border law enforcement architecture. The primary tool of commercial raiding and politically motivated transnational repression is the **abuse of INTERPOL Red Notices and Diffusions**.
+
+1. **Mechanics of Transnational Seizure:**
+   * A predatory agency in a compromised jurisdiction manufactures a criminal indictment under vague "fraud" or "economic crimes" statutes.
+   * The National Central Bureau (NCB) requests the publication of a **Red Notice** (international request for provisional arrest) or circulates direct **Diffusions** across bilateral border control databases.
+   * **The Transit Hub Trap:** During airport layovers in extradition-vulnerable hubs (UAE, Turkey, Serbia, Georgia, Egypt, Thailand), border systems flag an active Interpol notice. Local police arrest the operator, triggering **6 to 18 months of detention in an extradition prison** awaiting formal hearings.
+
+2. **The Legal Armor: Article 3 of the Interpol Constitution & The CCF Shield:**
+   * **Article 3 (Interpol Constitution 1956):** Strictly forbids the Organization from undertaking any intervention or activities of a political, military, religious, or racial character.
+   * **Commission for the Control of INTERPOL's Files (CCF, Lyon):** The independent supervisory body. When criminal exposure is anticipated, specialized counsel submits a **Preemptive Request** to the CCF before crossing international borders, petitioning for immediate pre-emptive blocking of any incoming NCB requests under Article 3.
+   * **Procedural Vacuum & Bilateral MLAT Traps:** CCF case review takes **9–18 months** (CCF Statute Art. 40). Furthermore, deleting an Interpol notice does not nullify bilateral extradition treaties or mutual legal assistance treaties (MLAT) executed directly between Prosecutor Generals. True sovereignty requires obtaining formal protective legal status (asylum/judicial relief) within a rule-of-law host nation and blacklisting vulnerable transit hubs.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-90] INTERPOL-CCF-PREVENTIVE-SHIELD (L4): Monitor criminal fabrication risks; file   │
+│ preemptive Article 3 petitions with CCF Lyon before international travel; bridge the   │
+│ 9–18 mo CCF vacuum; blacklist high-risk extradition transit hubs (UAE, TR, RS).        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+#### **10.6.3. The certified accountant's audit checklist (CPA Audit Checklist): 8 seals**
 
 Before closing the financial year, every US SMLLC operator must run an audit per the 8-seal checklist:
 
@@ -256,7 +360,33 @@ Before closing the financial year, every US SMLLC operator must run an audit per
 | **7** | Are personal and corporate accounts fully separated (Mercury/Relay)? | The *Piercing the Corporate Veil* doctrine | Loss of limited liability $\to$ secondary liability with personal property. |
 | **8** | Are written dividend resolutions (*Dividend Resolution*) executed? | The LLC Operating Agreement; local tax code | Re-qualification of dividends as labor income with social-contribution assessments. |
 
-##### **10.6.4. State taxes (State Sales Tax), the Wayfair precedent (2018), and the Merchant of Record (MoR) circuit**
+#
+##### **10.5.3. Institutional Interpol Abuse: Red Notice / Diffusion Weaponization, Article 3 CCF Preventive Shield & Bilateral MLAT Traps ([P0-90: INTERPOL-CCF-PREVENTIVE-SHIELD])**
+
+Flag theory and secondary passports fail completely if an operator gets ensnared in weaponized cross-border law enforcement architecture. The primary tool of commercial raiding and politically motivated transnational repression is the **abuse of INTERPOL Red Notices and Diffusions**.
+
+1. **Mechanics of Transnational Seizure:**
+   * A predatory agency in a compromised jurisdiction manufactures a criminal indictment under vague "fraud" or "economic crimes" statutes.
+   * The National Central Bureau (NCB) requests the publication of a **Red Notice** (international request for provisional arrest) or circulates direct **Diffusions** across bilateral border control databases.
+   * **The Transit Hub Trap:** During airport layovers in extradition-vulnerable hubs (UAE, Turkey, Serbia, Georgia, Egypt, Thailand), border systems flag an active Interpol notice. Local police arrest the operator, triggering **6 to 18 months of detention in an extradition prison** awaiting formal hearings.
+
+2. **The Legal Armor: Article 3 of the Interpol Constitution & The CCF Shield:**
+   * **Article 3 (Interpol Constitution 1956):** Strictly forbids the Organization from undertaking any intervention or activities of a political, military, religious, or racial character.
+   * **Commission for the Control of INTERPOL's Files (CCF, Lyon):** The independent supervisory body. When criminal exposure is anticipated, specialized counsel submits a **Preemptive Request** to the CCF before crossing international borders, petitioning for immediate pre-emptive blocking of any incoming NCB requests under Article 3.
+   * **Procedural Vacuum & Bilateral MLAT Traps:** CCF case review takes **9–18 months** (CCF Statute Art. 40). Furthermore, deleting an Interpol notice does not nullify bilateral extradition treaties or mutual legal assistance treaties (MLAT) executed directly between Prosecutor Generals. True sovereignty requires obtaining formal protective legal status (asylum/judicial relief) within a rule-of-law host nation and blacklisting vulnerable transit hubs.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-90] INTERPOL-CCF-PREVENTIVE-SHIELD (L4): Monitor criminal fabrication risks; file   │
+│ preemptive Article 3 petitions with CCF Lyon before international travel; bridge the   │
+│ 9–18 mo CCF vacuum; blacklist high-risk extradition transit hubs (UAE, TR, RS).        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+#### **10.6.4. State taxes (State Sales Tax), the Wayfair precedent (2018), and the Merchant of Record (MoR) circuit**
 
 Many beginning international founders fall into a heavy mental trap: *"Since my Single-Member LLC is Non-ETBUS and US federal income tax is 0% — I owe nobody anything!"*.
 
@@ -275,6 +405,66 @@ This is a dangerous delusion capable of account freezes and million-dollar claim
    * *The MoR mechanism:* Legally, the buyer purchases the software not from your US LLC but from Paddle (the official intermediary-seller). Paddle itself calculates, withholds, and files Sales Tax declarations in all 50 US states, the EU (EU VAT), and the UK (UK VAT), remitting you the net revenue minus its commission. Your SMLLC receives consolidated B2B income and sleeps soundly.
 
 ---
+
+
+##### **10.6.4.1. Hidden Physical Inventory Tax Nexus: Amazon FBA / 3PL Multi-State Nexus & VDA Remediation ([P0-97: FBA-INVENTORY-NEXUS-LOCK])**
+
+While §10.6.4 explores economic nexus thresholds following *South Dakota v. Wayfair* ($100k / 200 orders), e-commerce operators frequently ignore the much more lethal **Physical Inventory Nexus**.
+
+1. **Mechanics of 3PL / Amazon FBA Dispersion:**
+   * An enterprise incorporates in tax-free Wyoming or Delaware and sells physical goods online.
+   * To optimize 1-day shipping, fulfillment aggregators (Amazon FBA or 3PL networks) automatically disperse product batches across fulfillment centers in 15–20 US states or EU member nations.
+   * Storing even a single carton of inventory in a warehouse in Pennsylvania, California, or Washington legally establishes an instant **Physical Nexus** in that jurisdiction.
+
+2. **Fiscal Backlash:**
+   * After 2–3 years of silence, state tax authorities audit marketplace inventory event logs and assess unpaid Sales Tax, Franchise Tax, and corporate income taxes, combined with mandatory Failure-to-Register statutory penalties.
+   * Accumulated penalties routinely wipe out several years of net margins.
+
+3. **Engineering Mitigation Protocol ([P0-97]):**
+   * Activate **Inventory Placement Services** within merchant dashboards to lock stock storage strictly into pre-approved, contractually designated warehouses.
+   * Conduct quarterly forensic reconciliations of storage locations using *Inventory Event Detail* reports.
+   * On discovering uncoordinated inventory dispersion, immediately execute **Voluntary Disclosure Agreements (VDA)** with state revenue departments before audit notifications are issued, securing $100\%$ abatement of failure-to-file penalties.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-97] FBA-INVENTORY-NEXUS-LOCK (L3/L4): Enforce Inventory Placement locks; run       │
+│ quarterly audits of Inventory Event Detail reports; remediate historic multi-state     │
+│ physical nexus exposure via Voluntary Disclosure Agreements (VDA).                    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+##### **10.6.5. Remote Worker Tax Trap: Accidental Permanent Establishment (Micro-PE / Agency PE), OECD Article 5 2025 Update & The "Only or Main Person" Trap ([P0-91: ACCIDENTAL-PE-AGENCY-LOCK])**
+
+The lay operator assumes: *"My company is incorporated in Wyoming, Cyprus, or Dubai; I take dividends, and while living in Spain, Germany, or Portugal, I am merely working on a laptop from an apartment."* This is a catastrophic tax fallacy that can trigger business liquidation.
+
+1. **Anatomy of the Breach: Article 5 of the OECD Model Tax Convention (OECD MTC):**
+   * **Fixed Place of Business PE (Art. 5(1)):** If enterprise operations are conducted wholly or partly through a fixed physical space, the remote worker's home office is legally classified as a local **Permanent Establishment (PE)** of the foreign corporation.
+   * **Dependent Agent PE (Art. 5(5)):** If a founder, CTO, or sales executive habitually negotiates material terms, finalizes contracts, or signs business agreements from their residence, they constitute a local dependent agent.
+
+2. **The OECD Commentary Milestone on Remote Work (November 19, 2025):**
+   * **50% Safe Harbor Threshold:** An employee working from a home office in another jurisdiction for **less than 50% of total working time** over any rolling 12-month period generally does not trigger a PE.
+   * **Commercial Reason vs Employee Convenience:** If cross-border residence is purely employee personal preference (Digital Nomad lifestyle) and the employer has no commercial necessity for presence in that country, PE exposure is minimized.
+   * **THE FATAL SOLO-FOUNDER TRAP ("The Only or Main Person"):** The OECD explicitly ruled: if an individual is the sole operator or principal driver of enterprise value (solo founder, CEO, primary CTO), the commercial convenience test is **completely nullified**!
+   * *The Consequence:* Local tax authorities (e.g., Spanish Hacienda, German Finanzamt) determine that the company's entire value chain was forged locally, assessing **local corporate income tax (25–30%) on global corporate revenue plus 4 years of back penalties**.
+
+3. **Engineering Defensive Architecture ([P0-91]):**
+   * **Contractual Separation:** The founder must operate strictly under an arm's-length independent B2B Contractor Agreement (NACE 62.01) covering software engineering only, with zero corporate officer authority or commercial signing powers (killing Agency PE).
+   * **Independent Governance:** Appoint an independent non-resident director outside the founder's physical host nation.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-91] ACCIDENTAL-PE-AGENCY-LOCK (L3/L4): Operate founder roles strictly via arm's-    │
+│ length B2B Contractor Agreements without officer signing authority (kill Agency PE);   │
+│ maintain non-resident directors; neutralize the OECD Art. 5 "Only/Main Person" trap. │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
 #### **10.7. Bankruptcy clawback of real-estate transactions ([P0-70])**
 
 Buying physical real estate at a "below-market" discount is the classic trap where the buyer loses both the concrete and 100% of the paid capital. Bankruptcy legislation entrenched a **lookback period** for unwinding a debtor's transactions — **US: 11 U.S.C. § 548 (2 years), extended to 4–6 years via state UVTA law through § 544(b), and 10 years for self-settled trusts (§ 548(e)) | UK: Insolvency Act 1986 s. 238 (2-yr undervalue) & s. 423 (fraud transactions, NO look-back limit)**. The Russian case below is the live case study of the mechanism (art. 61.2 of Federal Law No. 127-FZ, a 3-year suspicious period).
@@ -1440,3 +1630,29 @@ The mass exploitation of dialogue LLM agents has exposed severe neuropsychiatric
 ---
 
 ---
+
+---
+
+
+##### **10.13.7. Ex Parte Worldwide Freezing Orders (Mareva Injunctions), Asset Protection Trusts & Non-Custodial Defense Reserves ([P0-98: EX-PARTE-MAREVA-FREEZING-RING])**
+
+In common law jurisdictions (UK, Cyprus, Hong Kong, BVI, Singapore), civil litigation features a nuclear procedural weapon: the **Worldwide Freezing Order (Mareva Injunction)**.
+
+1. **Mechanics of Ex Parte Procedural Paralysis:**
+   * The claimant petitions the High Court without notice (*ex parte*) — the defendant receives zero advance warning.
+   * The claimant needs only establish a *good arguable case* and demonstrate a *real risk of dissipation of assets*.
+   * The freezing order is served immediately upon international correspondent banks and brokers. Financial institutions freeze all global respondent accounts under threat of criminal *contempt of court*.
+   * The order caps respondent living and legal expenditures at a restrictive allowance (e.g., £500–1000/week). The business is choked, and the defendant is stripped of capital required to retain top-tier barristers for *inter partes* discharge hearings.
+
+2. **Defensive Structural Armor ([P0-98]):**
+   * **Structural Bifurcation:** Decouple active operating companies (OpCo) from foundational asset reserves.
+   * **Asset Protection Trusts:** Transfer core capital into irrevocable Asset Protection Trusts or Private Foundations within non-recognition jurisdictions (Cook Islands, Nevis, Belize, Liechtenstein). Cook Islands International Trust legislation refuses foreign judgment recognition, imposes a 1–2 year statute of limitations on fraudulent conveyance, and requires the creditor to prove fraud *beyond reasonable doubt* in a local Rarotonga court.
+   * **Autonomous Legal Defense Fund:** Maintain an untouchable legal defense reserve inside non-custodial multi-signature cold storage, completely outside the reach of centralized banking injunctions.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-98] EX-PARTE-MAREVA-FREEZING-RING (L4): Transfer core wealth reserves into Asset    │
+│ Protection Trusts in statutory non-recognition jurisdictions (Cook Islands, Nevis);    │
+│ maintain an autonomous Legal Defense Fund in non-custodial multi-sig cold storage.     │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
