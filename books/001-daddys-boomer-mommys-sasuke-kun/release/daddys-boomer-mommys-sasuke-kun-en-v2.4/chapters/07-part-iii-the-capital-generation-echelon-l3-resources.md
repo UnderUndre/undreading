@@ -894,3 +894,74 @@ The P0/P1/P2 safety framework from Chapter 1 is extrapolated onto the daily task
 ---
 
 ---
+
+---
+
+#### **8.4. The Mastercard MATCH (TMF) 5-Year Processing Blacklist ([P0-104: MASTERCARD-MATCH-TMF-LOCK])**
+
+For an online enterprise, losing card processing is immediate death. When an acquirer terminates a merchant account due to excessive disputes ($>0.9\%$ on Visa VDMP or $>1.5\%$ on Mastercard) or fraud suspicions, card schemes mandate reporting to the **MATCH (Member Alert to Control High-Risk Merchants)** database, formerly known as **TMF (Terminated Merchant File)**.
+
+1. **Anatomy of the Blacklist:**
+   * MATCH records corporate data and **the personal identification of all beneficial owners and directors (Full Name, Passport, SSN/TIN, residential address)** under Reason Codes 01–14.
+   * Records persist for **exactly 5 years with zero administrative appeal or early pardon**.
+   * Global acquiring banks query MATCH during merchant underwriting; a positive hit triggers automatic rejection across 99.9% of legitimate processors worldwide.
+
+2. **Engineering Defense Protocols ([P0-104]):**
+   * Multi-acquirer routing architecture: never concentrate 100% of volume on a single Stripe account;
+   * Deploy pre-dispute networks (**Verifi RDR** for Visa and **Ethoca Consumer Clarity** for Mastercard);
+   * **Dispute Rate Containment:** Under the *Mastercard Scam Merchant Monitoring Program (SMMP 2026)*, combined chargeback and refund volumes must remain **strictly below $5\%$ of processing**, otherwise automated RDR refunds trigger fraud compliance reviews.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-104] MASTERCARD-MATCH-TMF-LOCK (L3): MATCH listing bars principals from card       │
+│ processing globally for 5 yrs; multi-acquirer routing; deploy Verifi/Ethoca gateways;  │
+│ maintain combined refunds + chargebacks <5% to evade Mastercard SMMP enforcement.      │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **8.5. The 30-Day Section 83(b) Election Statutory Cliff on Startup Equity ([P0-105: SECTION-83B-ELECTION-CLIFF])**
+
+When incorporating a US C-Corp / LLC and granting restricted stock with standard 4-year founder vesting, founders routinely walk into a catastrophic six-figure tax trap.
+
+1. **Tax Mechanics of the Breach (IRC § 83(a)):**
+   * Under US tax law, restricted unvested stock is taxed as **Ordinary Income as it vests based on the fair market value on the vesting date**.
+   * If 1,000,000 shares are worth $1,000 at formation, and the startup raises capital at a $20M valuation two years later, a vesting tranche creates $1,250,000 in phantom taxable income.
+   * The IRS assesses up to **$450,000 in real cash tax liability** on illiquid private shares, forcing personal bankruptcy.
+
+2. **The Section 83(b) Protective Valve:**
+   * Founders **must physically mail the Section 83(b) Election form to the IRS strictly within 30 calendar days of the stock grant** (*26 U.S. Code § 83(b), Treas. Reg. § 1.83-2*).
+   * The 30-day deadline is absolute: the IRS is statutory prohibited from granting 9100 relief for late filings. Filing 83(b) taxes the nominal incorporation value ($10), completely immunizing all future vesting from ordinary income taxation.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-105] SECTION-83B-ELECTION-CLIFF (L3): Ordinary income tax assessed on startup     │
+│ vesting valuations; physically file Section 83(b) Election with IRS within 30 days     │
+│ of grant without exception (zero 9100 relief available).                               │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **8.6. Symmetrical Corporate Deadlock (50/50 Deadlock) & Judicial Liquidation ([P0-109: CORPORATE-DEADLOCK-50-50])**
+
+Splitting equity 50/50 between two co-founders without formal deadlock dispute mechanisms is structural suicide.
+
+1. **Mechanics of Judicial Dissolution:**
+   * When an intractable dispute arises, the board loses quorum: payroll approvals, tax filings, and banking mandates freeze.
+   * Under Delaware law (*DGCL § 273*) and UK statutes (*Companies Act 2006 s. 994 / Insolvency Act 1986 s. 122(1)(g)*), 50/50 deadlock triggers **mandatory Judicial Dissolution**. The court appoints a liquidator (*Custodian*), bank accounts freeze, and company IP is auctioned off for pennies.
+
+2. **Engineering Deadlock Breaking ([P0-109]):**
+   * Structure an odd-numbered board with an independent industry arbitrator holding a decisive **Casting Vote**;
+   * Embed mandatory pre-emptive exit mechanisms into the Shareholders' Agreement (SHA):
+     1. **"Russian Roulette" (Shotgun Clause):** Partner A offers to buy Partner B at price $X$; Partner B must within 21 days either sell at price $X$ or buy Partner A's shares at that exact price;
+     2. **Texas Shootout:** Sealed-bid escrow auction where the highest bidder buys out the other for cash.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-109] CORPORATE-DEADLOCK-50-50 (L3): 50/50 deadlock triggers court liquidation;     │
+│ establish odd-numbered boards (Casting Vote); bake 21-day Shotgun or Texas Shootout    │
+│ mandatory buyout clauses into the Shareholders' Agreement.                             │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```

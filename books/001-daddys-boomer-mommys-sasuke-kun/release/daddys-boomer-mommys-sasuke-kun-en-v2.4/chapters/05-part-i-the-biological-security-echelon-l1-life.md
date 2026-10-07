@@ -764,3 +764,78 @@ Compressor dehumidifiers are mentioned in housing sections. But without rigorous
 │ ERMI/HERTSMI-2 and direct urine mycotoxin quantitation via LC-MS/MS.                   │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+#### **3.9. Button Battery Ingestion: Cathodic Electrolysis, Aortic Fistula in 120 Minutes & The Honey Bridge ([P0-101: BUTTON-BATTERY-INGESTION])**
+
+Pediatric or pet ingestion of disc/button batteries (CR2016, CR2032) is an immediate terminal emergency. Civilian myth: *"The battery will leak acid into the stomach."* That is complete bullshit. The cell casing is sealed.
+
+1. **Electrochemical Mechanism of Tissue Dissolution:**
+   * The battery lodges at narrow esophageal constrictions.
+   * The 3V potential closes a circuit across moist mucosal tissue. The negative pole acts as the **cathode** of an electrolytic cell:
+     $$2\text{H}_2\text{O} + 2e^- \to \text{H}_2\uparrow + 2\text{OH}^-$$
+   * Concentrated **sodium hydroxide ($\text{NaOH}$, caustic soda)** generates rapidly at the negative terminal.
+   * Liquefactive alkaline necrosis dissolves mucosal proteins and saponifies fats within **15–60 minutes**. By **120 minutes**, the caustic burn perforates the esophageal wall and erodes the adjacent aortic arch (aortoesophageal fistula). When the aorta blows out, exsanguinating hemorrhage causes cardiac arrest within 60 seconds. Catastrophic rupture can also occur delayed — up to 14 days post-removal as the necrotic eschar sloughs.
+
+2. **Pre-Hospital Mitigation Protocol (Laryngoscope 2019 / ESPGHAN):**
+   * **Children over 1 year old:** Immediately administer **10 mL (2 teaspoons) of pure commercial honey every 10 minutes (up to 6 doses total)** en route to the pediatric emergency endoscopy suite. Honey acts as a viscous weak acid buffer, neutralizing $\text{NaOH}$ and cutting burn depth by $50\%$.
+   * **Infants under 1 year old:** Honey is **strictly contraindicated** due to infant botulism risks (*Clostridium botulinum* spores). The frontline buffer under 12 months is **sucralfate suspension (*Carafate*, 1 g/10 mL)** at 5 mL every 15 minutes.
+   * **Red Flags (Ban Oral Liquids):** If esophageal perforation is suspected (hematemesis, chest pain, fever, neck subcutaneous emphysema, stridor) or battery exposure exceeds 12 hours, withhold all oral liquids to prevent mediastinitis ($>60\%$ mortality).
+   * **Endoscopy Window:** Surgical endoscopic extraction must occur within **$\le 2$ hours**.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-101] BUTTON-BATTERY-INGESTION (L1): Cathodic NaOH burns into aorta within 2 hrs;   │
+│ age >1 yo: 10 mL honey every 10 min; age <1 yo: sucralfate 5 mL; emergency endoscopy  │
+│ ≤2 hrs; ban emetics and gastric lavage; withhold oral intake on perforation signs.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **3.10. Paracetamol Hepatotoxicity: NAPQI Poisoning, the Rumack-Matthew Nomogram & the NAC Antidote Window ([P0-102: PARACETAMOL-HEPATOTOXICITY-NAC])**
+
+Paracetamol (acetaminophen) is the leading cause of drug-induced acute liver failure worldwide. In $50\%$ of cases, it stems from accidental over-the-counter stacking (cold sachets, headache tablets, and sleep aids combined).
+
+1. **Biochemical Mechanism of Centrilobular Necrosis:**
+   * At doses $>7.5\text{--}10\text{ g/day}$ (or $>4\text{ g}$ in Gilbert's syndrome UGT1A1 or alongside ethanol), glucuronidation pathways saturate.
+   * Excess drug shunts through cytochrome P450 CYP2E1 into the electrophilic toxic metabolite **N-acetyl-p-benzoquinone imine (NAPQI)**.
+   * NAPQI exhausts hepatic glutathione reserves. Once glutathione drops below $30\%$, NAPQI binds covalently to hepatocyte mitochondrial proteins, triggering catastrophic centrilobular necrosis. Patients remain asymptomatic for 24 hours while liver tissue silently liquefies.
+
+2. **Antidote Protocol (N-Acetylcysteine / NAC):**
+   * **Rumack-Matthew Nomogram:** Serum paracetamol assays are reliable strictly between **4 and 24 hours** post-ingestion (absorption is incomplete before 4 hrs).
+   * **Optimal Antidote Window:** Administering **N-acetylcysteine (NAC)** within the first **8 hours** yields nearly $100\%$ hepatocyte survival by restoring glutathione.
+   * **Late Treatment:** Presentation after 8 hours is never a reason to withhold NAC! The Prescott protocol proves NAC remains life-saving up to 72 hours and in established fulminant hepatic failure by optimizing cerebral microcirculation and oxygen extraction.
+   * **Anaphylactoid Reactions:** Non-IgE histamine release (skin flushing, bronchospasm) requires briefly pausing the infusion, administering antihistamines, and restarting NAC at a reduced rate — never aborting the antidote.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-102] PARACETAMOL-HEPATOTOXICITY-NAC (L1): Toxic NAPQI exhausts glutathione;        │
+│ assay serum at 4 hrs; administer N-acetylcysteine (NAC) ideally ≤8 hrs, continuing     │
+│ up to 72 hrs on liver injury; manage anaphylactoid flushing by slowing infusion.       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **3.11. Harness Suspension Trauma: Orthostatic Shock in Fall-Arrest Systems ([P1-01: SUSPENSION-TRAUMA-SHOCK])**
+
+A full-body fall-arrest harness saves your life on a roof or tower fall, but starts a secondary death clock if the worker hangs motionless in a vertical suspension.
+
+1. **Pathophysiology of Orthostatic Shock:**
+   * Motionless vertical hang disables the calf muscle-venous pump. Thigh straps act as venous tourniquets.
+   * **$1.5\text{ to } 2.0\text{ liters}$ of venous blood** pools in the lower extremities.
+   * Cardiac venous return collapses: presyncope hits in **5 minutes**, loss of consciousness in **10 minutes**, and fatal ischemic asystole in **15–30 minutes**.
+
+2. **Field Safety Protocols ([P1-01]):**
+   * **Suspension Trauma Relief Straps:** Every harness must carry deployable foot loops. On falling — deploy straps, step into loops, and pump leg muscles to force blood back to the heart.
+   * **Debunking the "Rescue Death" Myth:** The old climber myth prohibiting laying a victim flat is debunked by *Thomassen et al. (Emerg Med J 2009)*. Unconscious victims must be **placed flat on their backs immediately** to restore cerebral perfusion and initiate standard ABC resuscitation.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P1-01] SUSPENSION-TRAUMA-SHOCK (L1): 2 L blood pools in legs during motionless hang,  │
+│ inducing asystole in 15–30 min; equip Trauma Relief Straps; place rescued operators    │
+│ flat on their backs immediately (the old seated Rescue Death myth is debunked).       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```

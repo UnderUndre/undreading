@@ -465,6 +465,30 @@ The lay operator assumes: *"My company is incorporated in Wyoming, Cyprus, or Du
 
 ---
 
+##### **10.6.6. The Non-Resident Alien US Estate Tax Trap ($60k Exemption) & Irish UCITS ETF Shield ([P0-106: NRA-US-ESTATE-TAX-TRAP])**
+
+The single most destructive hidden leak in global portfolio management. US citizens enjoy a lifetime estate tax exemption exceeding $13–15 million.
+
+1. **Mechanics of the Non-Resident Alien Trap (IRC § 2102/2104):**
+   * Non-Resident Aliens (NRAs) investing in US equities (Apple, Tesla) or US-domiciled ETFs (VOO, SPY) via Interactive Brokers receive an **estate tax exemption capped at just $60,000** (*IRC § 2102(b)(1)*, unindexed since 1976!).
+   * On the investor's death, all US-situs assets exceeding $60k are taxed at **up to 40% Estate Tax**.
+   * The brokerage locks accounts until IRS Form 706-NA clearance is issued. On a $500,000 portfolio, heirs forfeit **~$142,800 in cash taxes**.
+
+2. **Engineering Shield ([P0-106]):**
+   * Non-resident aliens must never hold US-domiciled securities directly in excess of $60,000;
+   * Invest strictly through **Irish-domiciled UCITS ETFs (CSPX, VUAA, SXR8, VWRA)**: registered in Ireland under EU law, these are classified as **Non-US situs assets** (0% US Estate Tax, and dividend withholding taxes drop from 30% to 15%);
+   * ⚠️ **Relocation Hazard:** Upon acquiring US tax residency (Green Card / Substantial Presence Test), Irish UCITS ETFs convert into toxic PFIC instruments (*IRC § 1291*) — mandate full portfolio restructuring prior to moving to the US.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-106] NRA-US-ESTATE-TAX-TRAP (L4): 40% US Estate Tax on US equities over $60k for  │
+│ foreign non-residents; ban holding direct US shares >$60k; hold Irish UCITS ETFs       │
+│ (CSPX/VWRA); restructure before taking US tax residency to evade PFIC penalties.       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 #### **10.7. Bankruptcy clawback of real-estate transactions ([P0-70])**
 
 Buying physical real estate at a "below-market" discount is the classic trap where the buyer loses both the concrete and 100% of the paid capital. Bankruptcy legislation entrenched a **lookback period** for unwinding a debtor's transactions — **US: 11 U.S.C. § 548 (2 years), extended to 4–6 years via state UVTA law through § 544(b), and 10 years for self-settled trusts (§ 548(e)) | UK: Insolvency Act 1986 s. 238 (2-yr undervalue) & s. 423 (fraud transactions, NO look-back limit)**. The Russian case below is the live case study of the mechanism (art. 61.2 of Federal Law No. 127-FZ, a 3-year suspicious period).

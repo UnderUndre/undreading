@@ -2139,3 +2139,48 @@ While §6.5 examines real-time deepfakes on executive Zoom calls, the dominant c
 │ files to instantly catch synthetic Video-KYC account originations.                     │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+### 14. BitLocker TPM-Only SPI Bus Sniffing: Volume Master Key Extraction in 43 Seconds ([P0-103: BITLOCKER-TPM-SPI-SNIFFING])
+
+The default deployment of Microsoft BitLocker across 99% of corporate and personal laptops operates in **TPM-only mode (zero pre-boot PIN)**. The owner assumes full-disk encryption secures their data. That is pure illusion.
+
+1. **Hardware Bus Sniffing Physics:**
+   * Discrete TPM 2.0 chips sit on the motherboard separated from the CPU, communicating over an unencrypted external **SPI** or **LPC** bus.
+   * On power-up, the TPM validates platform PCRs and transmits the **Volume Master Key (VMK)** to the processor **in plain, unencrypted cleartext**.
+   * The *pico-tpmsniffer* exploit (*Stacksmashing 2024 / Eclypsium YellowKey*): a $4 Raspberry Pi Pico microcontroller clipped to motherboard SPI probe points or the M.2 slot sniffs the VMK in **43 seconds of physical access to a powered-off laptop**, decrypting the drive instantly in Linux.
+
+2. **Engineering Hardening ([P0-103]):**
+   * Ban TPM-only mode: enable *"Require additional authentication at startup"* in `gpedit.msc` and mandate a **TPM Startup PIN (8–12 alphanumeric characters)**. Without PIN entry, the TPM refuses to release the VMK to the bus.
+   * Alternative: utilize integrated firmware TPMs (Microsoft Pluton, AMD fTPM, Intel PTT) where the TPM-to-core bus is physically sealed inside the silicon die.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-103] BITLOCKER-TPM-SPI-SNIFFING (L2): Sniffing the VMK off external SPI buses in  │
+│ 43 s under TPM-only mode; mandate pre-boot TPM Startup PINs via GPO or migrate to      │
+│ on-die fTPM architectures (Microsoft Pluton / AMD fTPM / Intel PTT).                  │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 15. Session Cookie Theft via Infostealers & Cryptographic DPoP Defense (RFC 9449) ([P1-02: SESSION-COOKIE-HIJACKING-DPOP])
+
+Hardware FIDO2 / YubiKey tokens secure only the initial login handshake. Once authenticated, the server returns long-lived session cookies and bearer OAuth tokens.
+
+1. **Pass-the-Cookie Attack Vector:**
+   * Infostealers (Lumma, Vidar, RedLine) hook browser processes, bypass Windows DPAPI / `os_crypt` encryption, and dump SQLite session databases.
+   * Attackers import session cookies into anti-detect browsers, logging into AWS, GitHub, Google Workspace, and banking portals **with zero password prompts and zero YubiKey touches** (MFA is never re-triggered).
+
+2. **Defensive Protocols ([P1-02]):**
+   * Enforce short Session TTLs in critical admin consoles (**4–8 hours**) with mandatory re-authentication;
+   * Deploy **DPoP (RFC 9449: Demonstrating Proof-of-Possession)** and Device Bound Session Credentials (DBSC) to cryptographically bind every HTTP request to the client machine's private hardware key.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P1-02] SESSION-COOKIE-HIJACKING-DPOP (L2): Infostealer cookie dumps bypass FIDO2 MFA; │
+│ cap session TTLs at 4–8 hrs; enforce RFC 9449 DPoP and Device Bound Session Credentials│
+│ (DBSC) to cryptographically bind tokens to host hardware.                              │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```

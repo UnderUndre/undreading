@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 23.3 → EN 2.4 (Full Monograph + 100-Valve P0 Matrix, Crush Syndrome, Dry U-Traps, Legionella TMV, 2G Downgrade, Address Poisoning, EU Bail-In, PEN-Break, Passport MRZ Audit, Post-Mortem Salvage [P0-87], Sovereign SDLC [P0-88], Sovereign Childhood Engineering [P0-100], Sidorovich Bunker Briefing)
+**Revision:** 23.3 → EN 2.4 (Full Monograph + 110-Valve P0 Matrix, Crush Syndrome, Dry U-Traps, Legionella TMV, 2G Downgrade, Address Poisoning, EU Bail-In, PEN-Break, Passport MRZ Audit, Post-Mortem Salvage [P0-87], Sovereign SDLC [P0-88], Sovereign Childhood Engineering [P0-100], Button Battery Ingestion [P0-101], Paracetamol NAC [P0-102], BitLocker SPI [P0-103], MATCH [P0-104], Section 83(b) [P0-105], US Estate Tax [P0-106], AFCI [P0-107], Backdrafting [P0-108], 50/50 Deadlock [P0-109], Boiler BLEVE [P0-110], Sidorovich Bunker Briefing)
 
 ---
 
@@ -294,7 +294,19 @@ Before you start turning valves, let's normalize all the codes into plain human 
 | **[P0-97]** | **Amazon FBA / 3PL Inventory Nexus Lock** | **L3/L4** | US: Physical Nexus (*Wayfair*) / State Sales & Franchise Taxes | EU: VAT Directive Art. 242a; VDA remediation | 3PL/FBA automated inventory dispersion across 15–20 jurisdictions triggers unfiled back taxes and penalties | Lock stock dispersion via Inventory Placement Services. Run quarterly physical warehouse audits via Inventory Event Detail logs. On discovering uncoordinated stock transfers — initiate Voluntary Disclosure Agreements (VDA) prior to audit notices to abate $100\%$ of penalties. |
 | **[P0-98]** | **Worldwide Mareva Injunction Ring** | **L4** | UK: Senior Courts Act 1981 s. 37 | US: Rule 65 TRO; Cook Islands / Nevis Asset Protection Trusts; Multi-sig Cold Storage | Ex parte freezing orders lock global bank accounts without notice, paralyzing legal defense funding | Separate operating companies (OpCo) from wealth reserves. Establish Asset Protection Trusts in non-recognition jurisdictions (Cook Islands, Nevis, Belize). Maintain an autonomous Legal Defense Fund in non-custodial multi-sig cold storage, physically immune to banking injunctions. |
 | **[P0-99]** | **Stray Voltage & TT System Conversion**
-| **[P0-100]** | **Sovereign Childhood Engineering** | **L1–L5** | US: CDC / Brenner 2009 (swimming <4 yo) | UK: ERC Kids Save Lives / Hartshorne 2018 (L2 syntax <10–12 yo); Rose 2008 (>10,000 lux); 12-country jurisdictional atlas (CBT, Enlistment Act, JISA/RESP) | Commercial toddler fads (preschool coding/mental arithmetic) blind parents to craniofacial collapse, axial myopia, and lifelong citizenship traps | Foundational Somatic Core: certified swimming survival (88% drowning risk reduction), 120 min/day ambient daylight (myopia blockade), hard mastication (airway development), Ukemi fall kinematics (50–70% head acceleration damping), peak bone mass accumulation, pediatric CPR/Heimlich. Cognitive Tooling: touch typing 80+ WPM, SHEG lateral reading, epistemic silence, terminal CLI. Jurisdictional Defense: proactive audit of conscription exposure (Singapore Enlistment Act bond SGD 75k, UK Plan 5, US CBT/FATCA compliance) and property restriction statutes. | | **L5** | US: NFPA 70 (NEC Art. 250) | UK: BS 7671 (18th Ed); open PEN in TN-C-S overhead grids; two-stage RCD cascade (Type S) | Overhead neutral burn dumps neighborhood unbalanced current into your ground rod, energizing pipes to 220V | Convert rural/overhead grid dwellings to a **TT grounding system** (complete galvanic isolation of local PE from grid PEN/N). Install a two-stage selective RCD cascade: 100–300 mA Type S (Class A/F) main RCD + 10–30 mA branch RCDs. Install 3-phase overvoltage monitoring relays wired to a shunt-trip contactor. | | **L3** | ISO/IEC/IEEE 12207:2017/2026; ISO/IEC/IEEE 29148:2018; NIST SP 800-218 (SSDF); PCI DSS v4.0.1; DORA State of DevOps | Coding off a business plan without Discovery/SRS/architecture spikes = landing in the fat tail of project failures (Flyvbjerg fat tails, planning fallacy) | **No business logic before the foundation:** Phase 0 — CustDev + regulatory screening; Phase 1 — SRS (FR/NFR) + STRIDE threat modeling; Phase 2 — modular monolith + ADRs + timeboxed spikes (spike code gets deleted); Phase 3 — IaC + CI/CD + one end-to-end Tracer Bullet; Phase 4 — iterative delivery with tests and Expand/Contract schema migrations; Phase 5 — load tests + DR GameDay + canary release; Phase 6 — SLO/Error Budgets, post-mortems, SBOM. Exception: an isolated tokenization microservice under PCI DSS CDE. |
+| **[P0-100]** | **Sovereign Childhood Engineering**
+| **[P0-101]** | **Button Battery Ingestion & Honey Bridge** | **L1** | Laryngoscope 2019 / AAP Task Force / ESPGHAN 2021; cathodic electrolysis $\text{NaOH}$ | Liquefactive alkaline necrosis in 15–120 min burning through the thoracic aorta (death in 60 s) | Swallowed button battery (CR2032): administer 10 mL pure honey every 10 min (>1 yo; <1 yo: sucralfate 5 mL); emergency surgical endoscopy within $\le 2$ hrs. Ban emetics and gastric lavage; ban oral intake if perforation signs appear. |
+| **[P0-102]** | **Paracetamol Hepatotoxicity & NAC Window** | **L1** | Rumack-Matthew Nomogram / AASLD Guidelines / Prescott Protocol | Toxic NAPQI accumulation (CYP2E1) depletes glutathione $\to$ centrilobular liver necrosis | Accidental paracetamol overdose ($>150\text{ mg/kg}$): serum assay from 4 hrs; administer N-acetylcysteine (NAC) within 8 hrs, continuing up to 72 hrs on fulminant liver injury. Reduce infusion rate on anaphylactoid flush without stopping antidote. |
+| **[P0-103]** | **BitLocker TPM-Only SPI Sniffing** | **L2** | Stacksmashing 2024 / Eclypsium YellowKey / SPI bus | Volume Master Key (VMK) broadcast in cleartext across external SPI bus in 43 seconds under TPM-only | Ban BitLocker TPM-only. Enforce pre-boot TPM Startup PIN (8–12 chars) via GPO or migrate to on-die fTPM (Microsoft Pluton / AMD fTPM / Intel PTT). |
+| **[P0-104]** | **Mastercard MATCH (TMF) 5-Year Lock** | **L3** | Mastercard Security Rules Ch. 11 / Reason Codes 01–14 / SMMP 2026 | Merchant agreement termination blacklists entity and principals worldwide for 5 years with zero amnesty | Multi-acquirer routing (Stripe + Adyen); Verifi RDR / Ethoca gateways; refund containment: keep combined Chargeback + Refund ratio strictly $<5\%$ to evade Mastercard SMMP monitoring. |
+| **[P0-105]** | **Section 83(b) Election 30-Day Cliff** | **L3** | 26 U.S. Code § 83(b) / Treas. Reg. § 1.83-2 / Rev. Proc. 2012-29 | Ordinary income tax assessed on paper startup valuation at each vesting milestone | Physically mail Section 83(b) Election form to IRS strictly within 30 calendar days of restricted stock issuance. Deadline is absolute and ineligible for 9100 relief. |
+| **[P0-106]** | **NRA US Estate Tax Trap ($60k Floor)** | **L4** | 26 U.S. Code § 2102(b), § 2104(a) / IRS Form 706-NA | 40% US death tax on US-situs equities with a tiny $60,000 exemption for foreign non-residents | Non-resident aliens (NRA) must never hold US-domiciled equities/ETFs directly over $60,000. Buy Irish UCITS ETFs (CSPX/VUAA/VWRA) for 0% Estate Tax. Liquidate UCITS before securing US Green Cards to avoid PFIC traps. |
+| **[P0-107]** | **Arc Fault Circuit Interrupter (AFCI/AFDD)** | **L5** | US: NFPA 70 (NEC 210.12) | UK: BS 7671 / IEC 62606; series arc fault $3000^\circ\text{C}$ | Series arcing inside walls generates $3000^\circ\text{C}$ plasma without tripping standard breakers or RCDs | Install AFCI / AFDD breakers on all bedroom, nursery, and timber-frame socket circuits. Exclude dedicated life-support circuits to prevent nuisance tripping. |
+| **[P0-108]** | **Backdrafting / CO Flue Inversion** | **L5** | ASTM E1998-11 / NFPA 54; depressurization $\Delta P < -10\text{ Pa}$ | Powerful range hoods depressurize home, sucking $CO$ from atmospheric water heaters into living spaces | Ban ducted kitchen hoods on atmospheric open flues; install fresh-air intake dampers; install electrochemical $CO$ alarms at 1.5 m height interlocked with gas shutoff solenoids. |
+| **[P0-109]** | **Corporate 50/50 Deadlock Liquidation** | **L3** | Delaware DGCL § 273 / UK Companies Act 2006 s. 994 / IBA Guidelines | Equal 50/50 founder deadlock triggers court-ordered dissolution and total asset liquidation | Mandate an odd-numbered board with an independent tie-breaker (Casting Vote); bake Shotgun Clause ("Russian Roulette") or Texas Shootout mandatory buyout provisions into the SHA on 21-day clocks. |
+| **[P0-110]** | **Water Heater BLEVE Thermal Explosion** | **L5** | ASME BPVC Section IV / ANSI Z21.22 / CSA 4.4 | Pressurized water superheated to $150^\circ\text{C}$ explodes with the force of 1.5 kg TNT on T&P failure | Ban plugging or capping T&P relief outlets; manual quarterly lever flush; hardwired independent ECO high-limit switch ($93^\circ\text{C}$); install an expansion tank sized to 10% of boiler volume. |
+| **[P1-01]** | **Harness Suspension Trauma Shock** | **L1** | OSHA SHIB 03-24-2004 / Thomassen 2009 / ANSI Z359.2 | Orthostatic shock from pooling 1.5–2.0 L blood in legs during motionless suspension in harness | Equip full-body harnesses with Trauma Relief Straps; place rescued operators flat on their backs immediately (the old "Rescue Death" semi-seated myth is debunked). |
+| **[P1-02]** | **Session Cookie Hijacking (DPoP)** | **L2** | IETF RFC 9449 (DPoP) / W3C WebAuthn L3 / Chrome DBSC | Infostealers dump decrypted session cookies from browser RAM, bypassing primary FIDO2 MFA | Enforce short session TTLs (4–8 hrs); implement cryptographic DPoP (RFC 9449) and Device Bound Session Credentials (DBSC); isolate critical admin profiles. | | **L1–L5** | US: CDC / Brenner 2009 (swimming <4 yo) | UK: ERC Kids Save Lives / Hartshorne 2018 (L2 syntax <10–12 yo); Rose 2008 (>10,000 lux); 12-country jurisdictional atlas (CBT, Enlistment Act, JISA/RESP) | Commercial toddler fads (preschool coding/mental arithmetic) blind parents to craniofacial collapse, axial myopia, and lifelong citizenship traps | Foundational Somatic Core: certified swimming survival (88% drowning risk reduction), 120 min/day ambient daylight (myopia blockade), hard mastication (airway development), Ukemi fall kinematics (50–70% head acceleration damping), peak bone mass accumulation, pediatric CPR/Heimlich. Cognitive Tooling: touch typing 80+ WPM, SHEG lateral reading, epistemic silence, terminal CLI. Jurisdictional Defense: proactive audit of conscription exposure (Singapore Enlistment Act bond SGD 75k, UK Plan 5, US CBT/FATCA compliance) and property restriction statutes. | | **L5** | US: NFPA 70 (NEC Art. 250) | UK: BS 7671 (18th Ed); open PEN in TN-C-S overhead grids; two-stage RCD cascade (Type S) | Overhead neutral burn dumps neighborhood unbalanced current into your ground rod, energizing pipes to 220V | Convert rural/overhead grid dwellings to a **TT grounding system** (complete galvanic isolation of local PE from grid PEN/N). Install a two-stage selective RCD cascade: 100–300 mA Type S (Class A/F) main RCD + 10–30 mA branch RCDs. Install 3-phase overvoltage monitoring relays wired to a shunt-trip contactor. | | **L3** | ISO/IEC/IEEE 12207:2017/2026; ISO/IEC/IEEE 29148:2018; NIST SP 800-218 (SSDF); PCI DSS v4.0.1; DORA State of DevOps | Coding off a business plan without Discovery/SRS/architecture spikes = landing in the fat tail of project failures (Flyvbjerg fat tails, planning fallacy) | **No business logic before the foundation:** Phase 0 — CustDev + regulatory screening; Phase 1 — SRS (FR/NFR) + STRIDE threat modeling; Phase 2 — modular monolith + ADRs + timeboxed spikes (spike code gets deleted); Phase 3 — IaC + CI/CD + one end-to-end Tracer Bullet; Phase 4 — iterative delivery with tests and Expand/Contract schema migrations; Phase 5 — load tests + DR GameDay + canary release; Phase 6 — SLO/Error Budgets, post-mortems, SBOM. Exception: an isolated tokenization microservice under PCI DSS CDE. |
 
 ---
 
@@ -1961,6 +1973,81 @@ Compressor dehumidifiers are mentioned in housing sections. But without rigorous
 │ [P0-89] MOLD-DEWPOINT-MYCOTOXIN-CHECK (L1/L5): Enforce indoor RH ≤ 50%; thermal audit  │
 │ perimeter walls (T > T_dp); ban interior insulation; on CIRS/fatigue — run dust qPCR   │
 │ ERMI/HERTSMI-2 and direct urine mycotoxin quantitation via LC-MS/MS.                   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **3.9. Button Battery Ingestion: Cathodic Electrolysis, Aortic Fistula in 120 Minutes & The Honey Bridge ([P0-101: BUTTON-BATTERY-INGESTION])**
+
+Pediatric or pet ingestion of disc/button batteries (CR2016, CR2032) is an immediate terminal emergency. Civilian myth: *"The battery will leak acid into the stomach."* That is complete bullshit. The cell casing is sealed.
+
+1. **Electrochemical Mechanism of Tissue Dissolution:**
+   * The battery lodges at narrow esophageal constrictions.
+   * The 3V potential closes a circuit across moist mucosal tissue. The negative pole acts as the **cathode** of an electrolytic cell:
+     $$2\text{H}_2\text{O} + 2e^- \to \text{H}_2\uparrow + 2\text{OH}^-$$
+   * Concentrated **sodium hydroxide ($\text{NaOH}$, caustic soda)** generates rapidly at the negative terminal.
+   * Liquefactive alkaline necrosis dissolves mucosal proteins and saponifies fats within **15–60 minutes**. By **120 minutes**, the caustic burn perforates the esophageal wall and erodes the adjacent aortic arch (aortoesophageal fistula). When the aorta blows out, exsanguinating hemorrhage causes cardiac arrest within 60 seconds. Catastrophic rupture can also occur delayed — up to 14 days post-removal as the necrotic eschar sloughs.
+
+2. **Pre-Hospital Mitigation Protocol (Laryngoscope 2019 / ESPGHAN):**
+   * **Children over 1 year old:** Immediately administer **10 mL (2 teaspoons) of pure commercial honey every 10 minutes (up to 6 doses total)** en route to the pediatric emergency endoscopy suite. Honey acts as a viscous weak acid buffer, neutralizing $\text{NaOH}$ and cutting burn depth by $50\%$.
+   * **Infants under 1 year old:** Honey is **strictly contraindicated** due to infant botulism risks (*Clostridium botulinum* spores). The frontline buffer under 12 months is **sucralfate suspension (*Carafate*, 1 g/10 mL)** at 5 mL every 15 minutes.
+   * **Red Flags (Ban Oral Liquids):** If esophageal perforation is suspected (hematemesis, chest pain, fever, neck subcutaneous emphysema, stridor) or battery exposure exceeds 12 hours, withhold all oral liquids to prevent mediastinitis ($>60\%$ mortality).
+   * **Endoscopy Window:** Surgical endoscopic extraction must occur within **$\le 2$ hours**.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-101] BUTTON-BATTERY-INGESTION (L1): Cathodic NaOH burns into aorta within 2 hrs;   │
+│ age >1 yo: 10 mL honey every 10 min; age <1 yo: sucralfate 5 mL; emergency endoscopy  │
+│ ≤2 hrs; ban emetics and gastric lavage; withhold oral intake on perforation signs.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **3.10. Paracetamol Hepatotoxicity: NAPQI Poisoning, the Rumack-Matthew Nomogram & the NAC Antidote Window ([P0-102: PARACETAMOL-HEPATOTOXICITY-NAC])**
+
+Paracetamol (acetaminophen) is the leading cause of drug-induced acute liver failure worldwide. In $50\%$ of cases, it stems from accidental over-the-counter stacking (cold sachets, headache tablets, and sleep aids combined).
+
+1. **Biochemical Mechanism of Centrilobular Necrosis:**
+   * At doses $>7.5\text{--}10\text{ g/day}$ (or $>4\text{ g}$ in Gilbert's syndrome UGT1A1 or alongside ethanol), glucuronidation pathways saturate.
+   * Excess drug shunts through cytochrome P450 CYP2E1 into the electrophilic toxic metabolite **N-acetyl-p-benzoquinone imine (NAPQI)**.
+   * NAPQI exhausts hepatic glutathione reserves. Once glutathione drops below $30\%$, NAPQI binds covalently to hepatocyte mitochondrial proteins, triggering catastrophic centrilobular necrosis. Patients remain asymptomatic for 24 hours while liver tissue silently liquefies.
+
+2. **Antidote Protocol (N-Acetylcysteine / NAC):**
+   * **Rumack-Matthew Nomogram:** Serum paracetamol assays are reliable strictly between **4 and 24 hours** post-ingestion (absorption is incomplete before 4 hrs).
+   * **Optimal Antidote Window:** Administering **N-acetylcysteine (NAC)** within the first **8 hours** yields nearly $100\%$ hepatocyte survival by restoring glutathione.
+   * **Late Treatment:** Presentation after 8 hours is never a reason to withhold NAC! The Prescott protocol proves NAC remains life-saving up to 72 hours and in established fulminant hepatic failure by optimizing cerebral microcirculation and oxygen extraction.
+   * **Anaphylactoid Reactions:** Non-IgE histamine release (skin flushing, bronchospasm) requires briefly pausing the infusion, administering antihistamines, and restarting NAC at a reduced rate — never aborting the antidote.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-102] PARACETAMOL-HEPATOTOXICITY-NAC (L1): Toxic NAPQI exhausts glutathione;        │
+│ assay serum at 4 hrs; administer N-acetylcysteine (NAC) ideally ≤8 hrs, continuing     │
+│ up to 72 hrs on liver injury; manage anaphylactoid flushing by slowing infusion.       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **3.11. Harness Suspension Trauma: Orthostatic Shock in Fall-Arrest Systems ([P1-01: SUSPENSION-TRAUMA-SHOCK])**
+
+A full-body fall-arrest harness saves your life on a roof or tower fall, but starts a secondary death clock if the worker hangs motionless in a vertical suspension.
+
+1. **Pathophysiology of Orthostatic Shock:**
+   * Motionless vertical hang disables the calf muscle-venous pump. Thigh straps act as venous tourniquets.
+   * **$1.5\text{ to } 2.0\text{ liters}$ of venous blood** pools in the lower extremities.
+   * Cardiac venous return collapses: presyncope hits in **5 minutes**, loss of consciousness in **10 minutes**, and fatal ischemic asystole in **15–30 minutes**.
+
+2. **Field Safety Protocols ([P1-01]):**
+   * **Suspension Trauma Relief Straps:** Every harness must carry deployable foot loops. On falling — deploy straps, step into loops, and pump leg muscles to force blood back to the heart.
+   * **Debunking the "Rescue Death" Myth:** The old climber myth prohibiting laying a victim flat is debunked by *Thomassen et al. (Emerg Med J 2009)*. Unconscious victims must be **placed flat on their backs immediately** to restore cerebral perfusion and initiate standard ABC resuscitation.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P1-01] SUSPENSION-TRAUMA-SHOCK (L1): 2 L blood pools in legs during motionless hang,  │
+│ inducing asystole in 15–30 min; equip Trauma Relief Straps; place rescued operators    │
+│ flat on their backs immediately (the old seated Rescue Death myth is debunked).       │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -4110,6 +4197,51 @@ While §6.5 examines real-time deepfakes on executive Zoom calls, the dominant c
 
 ---
 
+### 14. BitLocker TPM-Only SPI Bus Sniffing: Volume Master Key Extraction in 43 Seconds ([P0-103: BITLOCKER-TPM-SPI-SNIFFING])
+
+The default deployment of Microsoft BitLocker across 99% of corporate and personal laptops operates in **TPM-only mode (zero pre-boot PIN)**. The owner assumes full-disk encryption secures their data. That is pure illusion.
+
+1. **Hardware Bus Sniffing Physics:**
+   * Discrete TPM 2.0 chips sit on the motherboard separated from the CPU, communicating over an unencrypted external **SPI** or **LPC** bus.
+   * On power-up, the TPM validates platform PCRs and transmits the **Volume Master Key (VMK)** to the processor **in plain, unencrypted cleartext**.
+   * The *pico-tpmsniffer* exploit (*Stacksmashing 2024 / Eclypsium YellowKey*): a $4 Raspberry Pi Pico microcontroller clipped to motherboard SPI probe points or the M.2 slot sniffs the VMK in **43 seconds of physical access to a powered-off laptop**, decrypting the drive instantly in Linux.
+
+2. **Engineering Hardening ([P0-103]):**
+   * Ban TPM-only mode: enable *"Require additional authentication at startup"* in `gpedit.msc` and mandate a **TPM Startup PIN (8–12 alphanumeric characters)**. Without PIN entry, the TPM refuses to release the VMK to the bus.
+   * Alternative: utilize integrated firmware TPMs (Microsoft Pluton, AMD fTPM, Intel PTT) where the TPM-to-core bus is physically sealed inside the silicon die.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-103] BITLOCKER-TPM-SPI-SNIFFING (L2): Sniffing the VMK off external SPI buses in  │
+│ 43 s under TPM-only mode; mandate pre-boot TPM Startup PINs via GPO or migrate to      │
+│ on-die fTPM architectures (Microsoft Pluton / AMD fTPM / Intel PTT).                  │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 15. Session Cookie Theft via Infostealers & Cryptographic DPoP Defense (RFC 9449) ([P1-02: SESSION-COOKIE-HIJACKING-DPOP])
+
+Hardware FIDO2 / YubiKey tokens secure only the initial login handshake. Once authenticated, the server returns long-lived session cookies and bearer OAuth tokens.
+
+1. **Pass-the-Cookie Attack Vector:**
+   * Infostealers (Lumma, Vidar, RedLine) hook browser processes, bypass Windows DPAPI / `os_crypt` encryption, and dump SQLite session databases.
+   * Attackers import session cookies into anti-detect browsers, logging into AWS, GitHub, Google Workspace, and banking portals **with zero password prompts and zero YubiKey touches** (MFA is never re-triggered).
+
+2. **Defensive Protocols ([P1-02]):**
+   * Enforce short Session TTLs in critical admin consoles (**4–8 hours**) with mandatory re-authentication;
+   * Deploy **DPoP (RFC 9449: Demonstrating Proof-of-Possession)** and Device Bound Session Credentials (DBSC) to cryptographically bind every HTTP request to the client machine's private hardware key.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P1-02] SESSION-COOKIE-HIJACKING-DPOP (L2): Infostealer cookie dumps bypass FIDO2 MFA; │
+│ cap session TTLs at 4–8 hrs; enforce RFC 9449 DPoP and Device Bound Session Credentials│
+│ (DBSC) to cryptographically bind tokens to host hardware.                              │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## **PART III: THE CAPITAL GENERATION ECHELON (L3: RESOURCES)**
 
 > 💡 **STEP 0: HOUSEHOLD GROUNDING OF ECHELON L3 (IN PLAIN TERMS)**
@@ -5009,6 +5141,77 @@ The P0/P1/P2 safety framework from Chapter 1 is extrapolated onto the daily task
 
 ---
 
+#### **8.4. The Mastercard MATCH (TMF) 5-Year Processing Blacklist ([P0-104: MASTERCARD-MATCH-TMF-LOCK])**
+
+For an online enterprise, losing card processing is immediate death. When an acquirer terminates a merchant account due to excessive disputes ($>0.9\%$ on Visa VDMP or $>1.5\%$ on Mastercard) or fraud suspicions, card schemes mandate reporting to the **MATCH (Member Alert to Control High-Risk Merchants)** database, formerly known as **TMF (Terminated Merchant File)**.
+
+1. **Anatomy of the Blacklist:**
+   * MATCH records corporate data and **the personal identification of all beneficial owners and directors (Full Name, Passport, SSN/TIN, residential address)** under Reason Codes 01–14.
+   * Records persist for **exactly 5 years with zero administrative appeal or early pardon**.
+   * Global acquiring banks query MATCH during merchant underwriting; a positive hit triggers automatic rejection across 99.9% of legitimate processors worldwide.
+
+2. **Engineering Defense Protocols ([P0-104]):**
+   * Multi-acquirer routing architecture: never concentrate 100% of volume on a single Stripe account;
+   * Deploy pre-dispute networks (**Verifi RDR** for Visa and **Ethoca Consumer Clarity** for Mastercard);
+   * **Dispute Rate Containment:** Under the *Mastercard Scam Merchant Monitoring Program (SMMP 2026)*, combined chargeback and refund volumes must remain **strictly below $5\%$ of processing**, otherwise automated RDR refunds trigger fraud compliance reviews.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-104] MASTERCARD-MATCH-TMF-LOCK (L3): MATCH listing bars principals from card       │
+│ processing globally for 5 yrs; multi-acquirer routing; deploy Verifi/Ethoca gateways;  │
+│ maintain combined refunds + chargebacks <5% to evade Mastercard SMMP enforcement.      │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **8.5. The 30-Day Section 83(b) Election Statutory Cliff on Startup Equity ([P0-105: SECTION-83B-ELECTION-CLIFF])**
+
+When incorporating a US C-Corp / LLC and granting restricted stock with standard 4-year founder vesting, founders routinely walk into a catastrophic six-figure tax trap.
+
+1. **Tax Mechanics of the Breach (IRC § 83(a)):**
+   * Under US tax law, restricted unvested stock is taxed as **Ordinary Income as it vests based on the fair market value on the vesting date**.
+   * If 1,000,000 shares are worth $1,000 at formation, and the startup raises capital at a $20M valuation two years later, a vesting tranche creates $1,250,000 in phantom taxable income.
+   * The IRS assesses up to **$450,000 in real cash tax liability** on illiquid private shares, forcing personal bankruptcy.
+
+2. **The Section 83(b) Protective Valve:**
+   * Founders **must physically mail the Section 83(b) Election form to the IRS strictly within 30 calendar days of the stock grant** (*26 U.S. Code § 83(b), Treas. Reg. § 1.83-2*).
+   * The 30-day deadline is absolute: the IRS is statutory prohibited from granting 9100 relief for late filings. Filing 83(b) taxes the nominal incorporation value ($10), completely immunizing all future vesting from ordinary income taxation.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-105] SECTION-83B-ELECTION-CLIFF (L3): Ordinary income tax assessed on startup     │
+│ vesting valuations; physically file Section 83(b) Election with IRS within 30 days     │
+│ of grant without exception (zero 9100 relief available).                               │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **8.6. Symmetrical Corporate Deadlock (50/50 Deadlock) & Judicial Liquidation ([P0-109: CORPORATE-DEADLOCK-50-50])**
+
+Splitting equity 50/50 between two co-founders without formal deadlock dispute mechanisms is structural suicide.
+
+1. **Mechanics of Judicial Dissolution:**
+   * When an intractable dispute arises, the board loses quorum: payroll approvals, tax filings, and banking mandates freeze.
+   * Under Delaware law (*DGCL § 273*) and UK statutes (*Companies Act 2006 s. 994 / Insolvency Act 1986 s. 122(1)(g)*), 50/50 deadlock triggers **mandatory Judicial Dissolution**. The court appoints a liquidator (*Custodian*), bank accounts freeze, and company IP is auctioned off for pennies.
+
+2. **Engineering Deadlock Breaking ([P0-109]):**
+   * Structure an odd-numbered board with an independent industry arbitrator holding a decisive **Casting Vote**;
+   * Embed mandatory pre-emptive exit mechanisms into the Shareholders' Agreement (SHA):
+     1. **"Russian Roulette" (Shotgun Clause):** Partner A offers to buy Partner B at price $X$; Partner B must within 21 days either sell at price $X$ or buy Partner A's shares at that exact price;
+     2. **Texas Shootout:** Sealed-bid escrow auction where the highest bidder buys out the other for cash.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-109] CORPORATE-DEADLOCK-50-50 (L3): 50/50 deadlock triggers court liquidation;     │
+│ establish odd-numbered boards (Casting Vote); bake 21-day Shotgun or Texas Shootout    │
+│ mandatory buyout clauses into the Shareholders' Agreement.                             │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## **PART IV: THE ECHELON OF LEGAL SOVEREIGNTY AND THE NETWORK STATE (L4: SOVEREIGNTY)**
 
 > 💡 **STEP 0: HOUSEHOLD GROUNDING OF ECHELON L4 (IN PLAIN TERMS)**
@@ -5473,6 +5676,30 @@ The lay operator assumes: *"My company is incorporated in Wyoming, Cyprus, or Du
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+
+---
+
+##### **10.6.6. The Non-Resident Alien US Estate Tax Trap ($60k Exemption) & Irish UCITS ETF Shield ([P0-106: NRA-US-ESTATE-TAX-TRAP])**
+
+The single most destructive hidden leak in global portfolio management. US citizens enjoy a lifetime estate tax exemption exceeding $13–15 million.
+
+1. **Mechanics of the Non-Resident Alien Trap (IRC § 2102/2104):**
+   * Non-Resident Aliens (NRAs) investing in US equities (Apple, Tesla) or US-domiciled ETFs (VOO, SPY) via Interactive Brokers receive an **estate tax exemption capped at just $60,000** (*IRC § 2102(b)(1)*, unindexed since 1976!).
+   * On the investor's death, all US-situs assets exceeding $60k are taxed at **up to 40% Estate Tax**.
+   * The brokerage locks accounts until IRS Form 706-NA clearance is issued. On a $500,000 portfolio, heirs forfeit **~$142,800 in cash taxes**.
+
+2. **Engineering Shield ([P0-106]):**
+   * Non-resident aliens must never hold US-domiciled securities directly in excess of $60,000;
+   * Invest strictly through **Irish-domiciled UCITS ETFs (CSPX, VUAA, SXR8, VWRA)**: registered in Ireland under EU law, these are classified as **Non-US situs assets** (0% US Estate Tax, and dividend withholding taxes drop from 30% to 15%);
+   * ⚠️ **Relocation Hazard:** Upon acquiring US tax residency (Green Card / Substantial Presence Test), Irish UCITS ETFs convert into toxic PFIC instruments (*IRC § 1291*) — mandate full portfolio restructuring prior to moving to the US.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-106] NRA-US-ESTATE-TAX-TRAP (L4): 40% US Estate Tax on US equities over $60k for  │
+│ foreign non-residents; ban holding direct US shares >$60k; hold Irish UCITS ETFs       │
+│ (CSPX/VWRA); restructure before taking US tax residency to evade PFIC penalties.       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -6906,6 +7133,11 @@ Before diving into the tables, let's normalize all the technical codes of the ap
 | **57** | **Brenner Pediatric Drowning Prevention RCT (2009)** | **L1** | 88% reduction in unintentional drowning risk (aOR 0.12) among children aged 1–4 receiving early swimming competency training. |
 | **58** | **Hartshorne Critical Period for Syntax Acquisition (2018)** | **L2** | Cohort study N=669,498 (Cognition). Proved steep decline in L2 syntactic plasticity after 17.4 yo and necessity of immersion before 10–12 yo for native proficiency. |
 | **59** | **PP v Sakthikanesh / Singapore Enlistment Act Default (2017)** | **L4** | Singapore High Court precedent ([2017] SGHC 178) establishing mandatory imprisonment for NS evasion and impossibility of renouncing citizenship at 21 yo without service. |
+| **61** | **Anfang / Jatana Button Battery Esophageal Electrolysis (2019)** | **L1** | Cathodic electrolysis generating concentrated NaOH upon CR2032 ingestion; proved 50% tissue preservation via honey administration. |
+| **62** | **Stacksmashing / Eclypsium YellowKey TPM Bus Sniffing (2024)** | **L2** | Sniffing BitLocker VMKs in cleartext off external SPI buses in 43 seconds under default TPM-only mode. |
+| **63** | **Delaware DGCL § 273 / 50-50 Corporate Deadlock Dissolutions (2020–2026)** | **L3** | Delaware Court of Chancery rulings ordering involuntary company liquidations on deadlocked 50/50 boards. |
+| **64** | **CPSC / NFPA 70 Arc Fault Circuit Interrupter Mandates (2020–2026)** | **L5** | Abating over 50% of electrical wiring fires from 3000°C series arc faults via microprocessing AFCI/AFDD breakers. |
+| **65** | **ASME BPVC Water Heater BLEVE Catastrophic Ruptures (2018–2026)** | **L5** | Catastrophic 1.5 kg TNT-equivalent BLEVE explosions of domestic hot water tanks on calcified T&P valves and failed thermostats. |
 | **60** | **BGH "Morpheus" I ZR 74/12 / P2P Störerhaftung (2012)** | **L4** | German Federal Court of Justice ruling. Line owner avoids Abmahnung parental liability (€900–€1500) strictly upon proving documented prior instruction of the minor. |
 | **56** | **Mareva Compania Naviera SA v International Bulkcarriers (1975/2026)** | **L4** | Landmark UK High Court precedent establishing *ex parte* Worldwide Freezing Orders, locking global banking channels before defendant notification. |
 | **50** | **NMC EV fires** | **L1/L5** | The Incheon disaster 2024 / a Mercedes EQE with Farasis NMC | Spontaneous decomposition releasing $O_2$ and $HF$ gas | NMC batteries burn 8 hours without air. In residential buildings, only safe LiFePO4 is permitted. |
@@ -7619,5 +7851,77 @@ While apartment riser neutral breaks are addressed in [P0-85], standalone homes,
 │ [P0-99] STRAY-VOLTAGE-TT-CONVERSION (L5): Convert overhead grid homes to TT grounding  │
 │ (galvanic isolation of PE from grid N); install 2-stage selective RCD cascades         │
 │ (100–300 mA Type S + 10–30 mA Class A); 3-phase overvoltage relays with contactors.   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+### **15. Electrical Fire Safety: Series Arc Faults & AFCI / AFDD Breakers ([P0-107: ARC-FAULT-CIRCUIT-INTERRUPTER])**
+
+Over $50\%$ of residential electrical fires stem from **Series Arc Faults (micro-arcing)** inside wall outlets, loose terminals, or pinched cords.
+
+1. **The Blindspot of Standard MCBs and RCDs:**
+   * Circuit breakers (MCB) trip only on overcurrents (>16A or short circuits);
+   * RCDs / GFCIs trip only on ground fault leakages to earth ($I_{\Delta n} > 30\text{ mA}$).
+   * In a loose connection, load current remains at a normal 5–10A (MCB sleeps) with zero leakage to ground (RCD sleeps). The resulting **$>3000^\circ\text{C}$ plasma micro-arc** ignites plastic boxes, dust, and wood framing within minutes.
+
+2. **Arc Fault Detection Devices (AFDD / AFCI):**
+   * Microprocessor-driven AFDDs (BS EN 62606 / NFPA 70 NEC 210.12) analyze high-frequency current waveforms in real time, isolating the branch upon signature arcing.
+   * **Installation Mandate:** Enforce on all bedroom, nursery, and timber-frame socket circuits. Exclude dedicated life-support circuits to prevent nuisance tripping.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-107] ARC-FAULT-CIRCUIT-INTERRUPTER (L5): Install AFCI / AFDD breakers on bedroom   │
+│ and timber circuits to isolate 3000°C series arcing (invisible to MCBs and RCDs);      │
+│ exclude dedicated medical life-support circuits.                                       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **16. Gas Safety: Depressurization-Induced Backdrafting & Carbon Monoxide Inversion ([P0-108: BACKDRAFTING-CO-FLUE-REVERSAL])**
+
+A lethal trap in residences equipped with open-flue atmospheric gas water heaters.
+
+1. **Physics of Flue Reversal:**
+   * Sealed double-glazed windows combined with powerful kitchen range hoods ($600\text{--}1000\text{ m}^3/\text{h}$) pull home air pressure negative ($\Delta P < -5\text{ to } -10\text{ Pa}$).
+   * Atmospheric equilibrium forces replacement air down the only open chimney: **the gas water heater flue**. Toxic combustion gases and odorless carbon monoxide ($CO$) spill into living areas, inducing fatal hypoxia.
+
+2. **Engineering Hardening ([P0-108]):**
+   * Total ban on ducted kitchen hoods in homes with open-flue gas appliances (operate hoods strictly in recirculating mode with carbon filters);
+   * Install wall-mounted passive fresh-air intake dampers;
+   * Install certified electrochemical $CO$ detectors at 1.5 m height interlocked with gas shutoff solenoids `[P0-67]`.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-108] BACKDRAFTING-CO-FLUE-REVERSAL (L5): Ban ducted hoods with open gas flues;    │
+│ install fresh air intake vents; install electrochemical CO alarms interlocked with gas  │
+│ safety shutoff valves.                                                                 │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **17. Boiler Hydraulic Safety: Preventing Hot Water Heater BLEVE Explosions ([P0-110: BOILER-BLEVE-EXPANSION-EXPLOSION])**
+
+Domestic water heaters (80–200 L) operate under 4–6 bar main supply pressure.
+
+1. **Physics of the BLEVE Collapse:**
+   * Welded thermostat contacts cause continuous runaway heating. Under 6 bar pressure, water superheats to **$150^\circ\text{C}$** without boiling.
+   * If the Temperature & Pressure (T&P) relief valve is calcified, seized, or capped with a brass plug, tank seam integrity fails.
+   * Instantaneous depressurization to 1 atm triggers explosive volume flash-boiling (1,600x expansion). The explosive energy equals **1.0–1.5 kg of TNT**, blowing floors and load-bearing walls apart.
+
+2. **Protective Engineering Protocol ([P0-110]):**
+   * Absolute ban on capping or plugging T&P relief lines;
+   * Mandatory quarterly manual test lever flush to purge mineral deposits;
+   * Independent hardwired electro-mechanical Emergency Cut-Off (ECO, $93^\circ\text{C}$);
+   * Install an expansion tank sized to $\ge 10\%$ of boiler volume on the cold inlet.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-110] BOILER-BLEVE-EXPANSION-EXPLOSION (L5): Prevent 1.5 kg TNT boiler BLEVE        │
+│ explosions: ban capping T&P valves; quarterly manual flushes; ECO limit switch (93°C); │
+│ install a 10% volume potable expansion vessel.                                         │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```

@@ -135,6 +135,11 @@ Before diving into the tables, let's normalize all the technical codes of the ap
 | **57** | **Brenner Pediatric Drowning Prevention RCT (2009)** | **L1** | 88% reduction in unintentional drowning risk (aOR 0.12) among children aged 1–4 receiving early swimming competency training. |
 | **58** | **Hartshorne Critical Period for Syntax Acquisition (2018)** | **L2** | Cohort study N=669,498 (Cognition). Proved steep decline in L2 syntactic plasticity after 17.4 yo and necessity of immersion before 10–12 yo for native proficiency. |
 | **59** | **PP v Sakthikanesh / Singapore Enlistment Act Default (2017)** | **L4** | Singapore High Court precedent ([2017] SGHC 178) establishing mandatory imprisonment for NS evasion and impossibility of renouncing citizenship at 21 yo without service. |
+| **61** | **Anfang / Jatana Button Battery Esophageal Electrolysis (2019)** | **L1** | Cathodic electrolysis generating concentrated NaOH upon CR2032 ingestion; proved 50% tissue preservation via honey administration. |
+| **62** | **Stacksmashing / Eclypsium YellowKey TPM Bus Sniffing (2024)** | **L2** | Sniffing BitLocker VMKs in cleartext off external SPI buses in 43 seconds under default TPM-only mode. |
+| **63** | **Delaware DGCL § 273 / 50-50 Corporate Deadlock Dissolutions (2020–2026)** | **L3** | Delaware Court of Chancery rulings ordering involuntary company liquidations on deadlocked 50/50 boards. |
+| **64** | **CPSC / NFPA 70 Arc Fault Circuit Interrupter Mandates (2020–2026)** | **L5** | Abating over 50% of electrical wiring fires from 3000°C series arc faults via microprocessing AFCI/AFDD breakers. |
+| **65** | **ASME BPVC Water Heater BLEVE Catastrophic Ruptures (2018–2026)** | **L5** | Catastrophic 1.5 kg TNT-equivalent BLEVE explosions of domestic hot water tanks on calcified T&P valves and failed thermostats. |
 | **60** | **BGH "Morpheus" I ZR 74/12 / P2P Störerhaftung (2012)** | **L4** | German Federal Court of Justice ruling. Line owner avoids Abmahnung parental liability (€900–€1500) strictly upon proving documented prior instruction of the minor. |
 | **56** | **Mareva Compania Naviera SA v International Bulkcarriers (1975/2026)** | **L4** | Landmark UK High Court precedent establishing *ex parte* Worldwide Freezing Orders, locking global banking channels before defendant notification. |
 | **50** | **NMC EV fires** | **L1/L5** | The Incheon disaster 2024 / a Mercedes EQE with Farasis NMC | Spontaneous decomposition releasing $O_2$ and $HF$ gas | NMC batteries burn 8 hours without air. In residential buildings, only safe LiFePO4 is permitted. |
@@ -848,5 +853,77 @@ While apartment riser neutral breaks are addressed in [P0-85], standalone homes,
 │ [P0-99] STRAY-VOLTAGE-TT-CONVERSION (L5): Convert overhead grid homes to TT grounding  │
 │ (galvanic isolation of PE from grid N); install 2-stage selective RCD cascades         │
 │ (100–300 mA Type S + 10–30 mA Class A); 3-phase overvoltage relays with contactors.   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+### **15. Electrical Fire Safety: Series Arc Faults & AFCI / AFDD Breakers ([P0-107: ARC-FAULT-CIRCUIT-INTERRUPTER])**
+
+Over $50\%$ of residential electrical fires stem from **Series Arc Faults (micro-arcing)** inside wall outlets, loose terminals, or pinched cords.
+
+1. **The Blindspot of Standard MCBs and RCDs:**
+   * Circuit breakers (MCB) trip only on overcurrents (>16A or short circuits);
+   * RCDs / GFCIs trip only on ground fault leakages to earth ($I_{\Delta n} > 30\text{ mA}$).
+   * In a loose connection, load current remains at a normal 5–10A (MCB sleeps) with zero leakage to ground (RCD sleeps). The resulting **$>3000^\circ\text{C}$ plasma micro-arc** ignites plastic boxes, dust, and wood framing within minutes.
+
+2. **Arc Fault Detection Devices (AFDD / AFCI):**
+   * Microprocessor-driven AFDDs (BS EN 62606 / NFPA 70 NEC 210.12) analyze high-frequency current waveforms in real time, isolating the branch upon signature arcing.
+   * **Installation Mandate:** Enforce on all bedroom, nursery, and timber-frame socket circuits. Exclude dedicated life-support circuits to prevent nuisance tripping.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-107] ARC-FAULT-CIRCUIT-INTERRUPTER (L5): Install AFCI / AFDD breakers on bedroom   │
+│ and timber circuits to isolate 3000°C series arcing (invisible to MCBs and RCDs);      │
+│ exclude dedicated medical life-support circuits.                                       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **16. Gas Safety: Depressurization-Induced Backdrafting & Carbon Monoxide Inversion ([P0-108: BACKDRAFTING-CO-FLUE-REVERSAL])**
+
+A lethal trap in residences equipped with open-flue atmospheric gas water heaters.
+
+1. **Physics of Flue Reversal:**
+   * Sealed double-glazed windows combined with powerful kitchen range hoods ($600\text{--}1000\text{ m}^3/\text{h}$) pull home air pressure negative ($\Delta P < -5\text{ to } -10\text{ Pa}$).
+   * Atmospheric equilibrium forces replacement air down the only open chimney: **the gas water heater flue**. Toxic combustion gases and odorless carbon monoxide ($CO$) spill into living areas, inducing fatal hypoxia.
+
+2. **Engineering Hardening ([P0-108]):**
+   * Total ban on ducted kitchen hoods in homes with open-flue gas appliances (operate hoods strictly in recirculating mode with carbon filters);
+   * Install wall-mounted passive fresh-air intake dampers;
+   * Install certified electrochemical $CO$ detectors at 1.5 m height interlocked with gas shutoff solenoids `[P0-67]`.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-108] BACKDRAFTING-CO-FLUE-REVERSAL (L5): Ban ducted hoods with open gas flues;    │
+│ install fresh air intake vents; install electrochemical CO alarms interlocked with gas  │
+│ safety shutoff valves.                                                                 │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **17. Boiler Hydraulic Safety: Preventing Hot Water Heater BLEVE Explosions ([P0-110: BOILER-BLEVE-EXPANSION-EXPLOSION])**
+
+Domestic water heaters (80–200 L) operate under 4–6 bar main supply pressure.
+
+1. **Physics of the BLEVE Collapse:**
+   * Welded thermostat contacts cause continuous runaway heating. Under 6 bar pressure, water superheats to **$150^\circ\text{C}$** without boiling.
+   * If the Temperature & Pressure (T&P) relief valve is calcified, seized, or capped with a brass plug, tank seam integrity fails.
+   * Instantaneous depressurization to 1 atm triggers explosive volume flash-boiling (1,600x expansion). The explosive energy equals **1.0–1.5 kg of TNT**, blowing floors and load-bearing walls apart.
+
+2. **Protective Engineering Protocol ([P0-110]):**
+   * Absolute ban on capping or plugging T&P relief lines;
+   * Mandatory quarterly manual test lever flush to purge mineral deposits;
+   * Independent hardwired electro-mechanical Emergency Cut-Off (ECO, $93^\circ\text{C}$);
+   * Install an expansion tank sized to $\ge 10\%$ of boiler volume on the cold inlet.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-110] BOILER-BLEVE-EXPANSION-EXPLOSION (L5): Prevent 1.5 kg TNT boiler BLEVE        │
+│ explosions: ban capping T&P valves; quarterly manual flushes; ECO limit switch (93°C); │
+│ install a 10% volume potable expansion vessel.                                         │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
