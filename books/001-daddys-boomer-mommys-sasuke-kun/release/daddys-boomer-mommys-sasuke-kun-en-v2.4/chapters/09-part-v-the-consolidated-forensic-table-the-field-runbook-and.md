@@ -401,7 +401,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 > **Your action right now:** Hold personal autonomy: a 90-day freeze-dried reserve at home, physical cash in a secure place, independent offline backups on M-DISC media — and a profession that gets paid live money on the world market.
 
 ---
-### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.3)"**
+### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.4)"**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -411,6 +411,9 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 2.4 — Bunker Briefing Prologue Cold Open (base EN 2.3; Checked: 2026-10-07):**
+  1. *Prologue:* inserted the Sidorovich-style "Bunker Briefing (Sidorovich Had a Point)" addressed to the reader-operator right before the Intake Gate — a bridge from the Origin Story to the starter quests: the closing line ("Here's your pipe wrench, here's the manifold. Get to work.") kicks the door open straight into the ⚡ INTAKE GATE section, where the "10 Mandatory Actions for the First Week" and the 03:00 failure sensors begin.
 
 * **Revision EN 2.3 — Anatomical Sovereignty & Sovereign SDLC (base EN 2.2 / RU v25.1; Checked: 2026-10-07):**
   1. *P0 Matrix Expansion (86 → 88 Valves):* appended **[P0-87]** Post-Mortem Salvage & Tissue Chain (L1/L4) and **[P0-88]** Sovereign SDLC Pipeline (L3); counters, Operational Decoder references and navigation synchronized to the `[P0-01]`–`[P0-88]` range.

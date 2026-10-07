@@ -1,5 +1,5 @@
-# daddys-boomer-mommys-sasuke-kun-en-v2.3 — Навигация по главам
-Источник: [daddys-boomer-mommys-sasuke-kun-en-v2.3.md](daddys-boomer-mommys-sasuke-kun-en-v2.3.md)
+# daddys-boomer-mommys-sasuke-kun-en-v2.4 — Навигация по главам
+Источник: [daddys-boomer-mommys-sasuke-kun-en-v2.4.md](daddys-boomer-mommys-sasuke-kun-en-v2.4.md)
 ## Титул и дисклеймеры
 - [Титульная часть](00-front-matter.md)
 
@@ -128,4 +128,4 @@
 - [Appendix F: "The Reference of Cognitive Fuses & the 03:00 Night Runbook"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-f-the-reference-of-cognitive-fuses--the-0300-night-)
 - [Appendix G: The operator's revision calendar](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-g-the-operators-revision-calendar)
 - [Appendix H: "The Macro-Engineering of Civilization: From Global System Failures to Applied Risers of Today"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-h-the-macro-engineering-of-civilization-from-global)
-- [Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.3)"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-i-the-revision-history-and-the-pressure-test-regist)
+- [Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.4)"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-i-the-revision-history-and-the-pressure-test-regist)

@@ -51,6 +51,14 @@ Modern comfort society is the same deal: *"You scoped for minimum-wage contracto
 
 This monograph is not a collection of abstract advice. It is an engineering pressure test of your life across five echelons of independence, where the operator's real survival experience is fused with evidence-based medicine, legal norms, cryptography, and physics, compiled by the digital plumber "Bob."
 
+🎒 **Bunker Briefing (Sidorovich Had a Point):**
+
+> "Alright, operator. I dragged you out of the storm drain, and I'm not running a charity here: fight your way through the intake gate and torque down a couple of valves from the P0 matrix — and we're square. We'll also see how fast your skull clears after the digital brainrot: you don't even remember where you torched your runway, your passwords, or your vascular health, but you still remember the CVV on your credit card.
+> 
+> As for your system failure, I scavenged everything sitting at the bottom of the sump and welded it into the schematics. Hell knows why you're hunting down this 'Strelok' — this sovereign autonomy of yours. You could've stayed a cozy tenant, knee-deep in sewage like everyone else. But I don't poke into other people's business. You're looking for an exit — you must have your reasons…
+> 
+> Here's your pipe wrench, here's the manifold. Get to work."
+
 ---
 
 ### **⚡ INTAKE GATE: SIMPLIFIED EXECUTIVE TL;DR (FOR THOSE OUT OF THE LOOP)**
