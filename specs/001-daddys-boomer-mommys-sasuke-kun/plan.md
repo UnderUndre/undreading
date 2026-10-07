@@ -67,9 +67,11 @@ undreading/
 │   ├── index.md                                      # Landing page & Executive TL;DR
 │   └── chapters/                                     # Web-reader chapters
 ├── templates/
-│   ├── book-paperback-6x9.typ                        # Typst Print-on-Demand layout
+│   ├── book-paperback-6x9.typ                        # Typst Print-on-Demand layout (No-Bleed 6x9, pure K)
 │   ├── epub-style.css                                # Clean CSS for EPUB 3
 │   └── zta-kit/                                      # Infrastructure templates bundle
+│       ├── engine/                                   # Compiled ztacheck CLI source (NACE 62.01)
+│       └── configs/                                  # Hardened Terraform, Docker, WireGuard configs
 ├── assets/
 │   ├── cover-paperback.pdf                           # Full wrap cover (6"x9" + spine)
 │   ├── cover-ebook.jpg                               # Digital cover art
@@ -105,6 +107,7 @@ undreading/
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 3. [PRE-FLIGHT VALIDATION GATE] (scripts/validate-print-pdf.sh)             │
 │    • veraPDF ISO 15930-1 conformance verification                           │
+│    • pdftops operator audit: strictly 0 setrgbcolor / DeviceRGB in interior │
 │    • pdffonts: 100% embedded subset validation                              │
 │    • pdfimages -list: 0 raster assets < 300 DPI, 0 RGB objects in interior  │
 │    • pdfinfo: MediaBox, TrimBox, BleedBox exact dimensions verification     │

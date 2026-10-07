@@ -87,3 +87,7 @@ make build:cover:lulu      # Lulu Direct bulk caliper cover
 make validate:verapdf      # veraPDF ISO 15930-1 validation
 make validate:print        # Full pre-flight: fonts, DPI, boundaries, color space
 ```
+
+# 5. Build ZTA Architecture Engine Binary (NACE 62.01)
+make build:zta-engine      # Compile ztacheck CLI binary for all target platforms
+make test:zta-engine       # Run host compliance test suite

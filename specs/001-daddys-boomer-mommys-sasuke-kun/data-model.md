@@ -97,7 +97,8 @@ zta-architecture-kit-v18.0.zip
 
 ### `PrintLayoutSpec`
 - `trim_size`: String (`"6x9_in"` / `152.4x228.6 mm`)
-- `bleed`: Float (`0.125` in on top, bottom, outside)
+- `interior_bleed`: Float (`0.0` in strictly No-Bleed for interior PDF)
+- `cover_bleed`: Float (`0.125` in on all outer cover spread edges)
 - `gutter_margin`: Float (dynamic: `0.500` in to `1.000` in depending on page count)
 - `outer_margin`: Float (`0.500` in to `0.625` in)
 - `top_bottom_margin`: Float (`0.625` in to `0.750` in)
@@ -118,3 +119,18 @@ zta-architecture-kit-v18.0.zip
 - `has_rgb_in_interior`: Boolean (`false` required)
 - `trim_box_matches`: Boolean
 - `total_pages_multiple_of_two`: Boolean
+
+### `ReaderThemePalette`
+- `theme_id`: Enum (`"default_light"`, `"default_dark"`, `"shinobi_scroll"`, `"vault_terminal_3000"`)
+- `background_color`: Hex String (e.g. `"#F4ECD8"` for Shinobi Scroll, `"#0D1117"` for Dark, `"#0A0F0D"` for Vault Terminal)
+- `text_color`: Hex String (e.g. `"#2C221E"` for Shinobi Scroll, `"#00FF66"` for Vault CRT Terminal)
+- `wcag_contrast_ratio`: Float (strictly $\ge 4.5:1$ meeting WCAG 2.1 AA compliance)
+- `font_family_body`: String
+- `font_family_code`: String
+
+### `ZtaEngineArtifact`
+- `binary_name`: String (`"ztacheck"`)
+- `source_language`: Enum (`"Go"`, `"Rust"`, `"Python"`)
+- `supported_targets`: List of Strings (`["linux_amd64", "linux_arm64", "darwin_arm64", "windows_amd64"]`)
+- `nace_code`: String (`"62.01"`)
+- `license_type`: String (`"Commercial Software License with Documentation"`)

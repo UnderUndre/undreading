@@ -41,3 +41,11 @@
 | **Supporter & Architecture Kit** | EPUB 3 + Typst PDF + Terraform ZTA | Paddle MoR (NACE 62.01) | **PWYW ($5 min / $12.99 rec / $50+)** | **>88%** ($11.51 на $12.99) |
 | **Amazon Paperback (PoD)** | Физическая печать 6"x9" | Amazon KDP Print $\to$ Payoneer | **$24.99** | **~43.4%** (~$10.86 роялти) |
 | **Founding Citizen Bundle** | Полный комплект + 6 мес клуба | Paddle / `@CryptoBot` | **$199.00** | **>90%** |
+
+---
+
+## DR-07: ZTA Engine CLI Software Bundling for NACE 62.01 Substance Protection
+
+- **Context**: Under Georgian Tax Code Art. 73.9 (GAAR / Substance over Form) and Government Decree No. 415, the 1% Small Business flat tax rate is strictly available for IT software development (NACE 62.01/62.09). Literary royalties and consulting fees are categorically barred from the 1% regime and subject to 20% standard personal income tax with 50% penalties.
+- **Decision**: The Supporter Kit sold via Paddle MoR ($12.99 PWYW) is legally and technically structured as a software product: *"ZTA Security Automation CLI & Engine License (NACE 62.01)"*. The kit bundles a compiled standalone security scanning binary (`ztacheck`) auditing host ZTA compliance. The monograph «The Plumbing of Being» is included as technical architecture documentation.
+- **Consequences**: Provides 100% defensible physical substance against tax reclassification during revenue audits, preserving the 1% flat tax status on all e-commerce checkouts.
