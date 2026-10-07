@@ -91,3 +91,9 @@ make validate:print        # Full pre-flight: fonts, DPI, boundaries, color spac
 # 5. Build ZTA Architecture Engine Binary (NACE 62.01)
 make build:zta-engine      # Compile ztacheck CLI binary for all target platforms
 make test:zta-engine       # Run host compliance test suite
+
+# 6. Spelling, Punctuation & Typography Quality Gates
+make lint:spelling         # Run cspell across RU, EN, UA chapters
+make lint:punctuation      # Validate quotes («» vs “”), en-dashes, double spaces
+make lint:typography       # Run AST-aware non-breaking space linter
+make lint:all              # Full text quality gate: markdown + spelling + punctuation

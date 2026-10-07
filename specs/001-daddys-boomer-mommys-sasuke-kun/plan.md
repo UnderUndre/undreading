@@ -66,6 +66,10 @@ undreading/
 │   │   └── config.ts                                 # Site navigation & theme config
 │   ├── index.md                                      # Landing page & Executive TL;DR
 │   └── chapters/                                     # Web-reader chapters
+├── dict/                                             # Technical whitelist dictionaries (RU, EN, UA)
+│   ├── ru-technical.txt
+│   ├── en-technical.txt
+│   └── ua-technical.txt
 ├── templates/
 │   ├── book-paperback-6x9.typ                        # Typst Print-on-Demand layout (No-Bleed 6x9, pure K)
 │   ├── epub-style.css                                # Clean CSS for EPUB 3
