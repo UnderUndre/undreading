@@ -415,6 +415,73 @@ For engineers, developers, and technical specialists there exist narrow market n
 
 ---
 
+#### **7.5.8.2. Engineering stages of software development: from the Excel business plan to the sovereign SDLC [P0-88]**
+
+> 💡 **STAGE 0: HOUSEHOLD GROUNDING (WHAT THIS MEANS IN PLAIN ENGLISH)**  
+> The textbook indie-startup failure: an idea, a business plan drawn up in Excel, a few billion projected — and off to hire juniors to write the code. In 95% of cases, a business plan written before the first live user and the first compiler error is exhaust-fan fan fiction.  
+> The engineering reality: software is built off life-cycle standards (ISO/IEC/IEEE 12207) and falsifiable hypotheses, not off a financial forecast. Each development stage is a separate pipe run with its own test pressure: skip a section, and the water hammer arrives in production — where the same defect costs $1000\times$ more than it did on paper.
+
+```
+[Idea + Business hypothesis]
+         │
+         ▼
+ Phase 0. Mission + Regulatory screening (product boundaries, data classes)
+         │
+         ▼
+ Phase 1. Requirements engineering: SRS (FR/NFR) + STRIDE threat model
+         │
+         ▼
+ Phase 2. Architectural synthesis: modular monolith, ADRs, timeboxed spikes
+         │
+         ▼
+ Phase 3. Foundation: IaC + CI/CD + Tracer Bullet (one end-to-end endpoint)
+         │
+         ▼
+ Phase 4. Iterative implementation: tests, Expand/Contract schema migrations
+         │
+         ▼
+ Phase 5. Operational validation: load tests, DR GameDay, canary release
+         │
+         ▼
+ Phase 6. Observability: SLO/Error Budgets, post-mortems, decommissioning
+```
+
+##### **1. Boehm's cost-of-change curve — and where it's bent:**
+* The classic (Boehm, 1981): a defect caught at specification costs $1$; at architecture $10\text{--}15$; at integration $100$; in production $1000\text{--}10000$ — up to bankruptcy.
+* *DORA-era correction:* for application-level defects, CI/CD with canary releases and feature flags compresses the production fix cost down to near test-stage levels. **The exponent survives for structural defects**: database schema, authentication protocols, access-control models. Rewriting a relational schema after terabytes of production data means multi-phase dual-write migrations and integrity risk.
+
+##### **2. Failure base rates and an honest CHAOS Report autopsy:**
+* Standish Group CHAOS Report (longitudinal sample >50,000 projects): ~31% successful, ~50% challenged, ~19% failed. Root causes: unvalidated requirements, no real users in the loop.
+* *Forensic correction (Eveleens & Verhoef, IEEE Software, 2010):* Standish counts "success" only as hitting the original time/budget/scope triangle — controlled scope reduction that *raised* ROI is recorded as a failure. The figures are methodologically compromised.
+* What remains solid: megaproject data (Flyvbjerg & Budzier) shows a **fat tail** — ~18% of projects overshoot cost by >50% and blow the schedule. The driver is not the business plan itself but the planning fallacy and suppressed systemic risks at the start.
+
+##### **3. The modular monolith against premature microservices:**
+* Default to a **modular monolith**: Conway's Law copies the communication structure of the organization into the architecture — and a solo founder with two freelancers doesn't have one. Microservices at the start = death by distributed transactions and network latency.
+* *Boundary conditions (when the monolith is prohibited):* (a) PCI DSS v4.0.1 — pulling payment logic into a monolith drags the entire codebase into the Cardholder Data Environment audit scope and multiplies QSA audit costs by orders of magnitude: extract an isolated tokenization microservice **before** writing application code; (b) heterogeneous load (sub-millisecond real-time + heavy ML inference) demands physical separation by hardware.
+* Decisions get fixed in **ADRs** (Architecture Decision Records): why PostgreSQL over MongoDB, gRPC vs REST, where the state lives. An unproven technology gets a **timeboxed spike** with numeric metrics; the spike's code is deleted without mercy — it's written without tests by definition.
+
+##### **4. Foundation before business logic (Phase 3, Tracer Bullet):**
+* Not one line of application code until you have: a repo with linters and SAST, containerization, a build pipeline (GitHub Actions / GitLab CI), a staging stand, and a **Tracer Bullet** — one end-to-end endpoint from UI to DB that deploys automatically on every commit to `main`.
+* The schema evolves only via the **Expand/Contract** pattern: a backward-compatible expansion first, the contraction later — releases with zero downtime and no breaking of the running version.
+
+##### **5. Via Negativa: red flags of the start:**
+* 🚩 "Investors demand a release in 2 months, we'll code without a spec and patch it in prod" → guaranteed fire, rewrite from scratch, burnout.
+* 🚩 "We'll ship all 100 planned features, users will surely want them" → non-falsifiability: with no kill metric per feature, the budget goes straight into the toilet.
+* 🚩 "We'll hire students/AI agents, they'll generate the backend in 3 days from prompts" → code without tests, architecture, or CI/CD is not an asset, it's a technical liability. Spike code that leaked into prod is technical debt with compound interest.
+
+---
+
+> 🔧 **Engineer-to-human translation (Bob's field briefing):**
+> 
+> * **Plain English:** A business plan is a ventilation diagram drawn before you found out where the shaft exits. Before you pay anyone to write code, collapse the fantasies: write down 1–3 falsifiable hypotheses (*"who pays, and which pain goes away"*), and test them with CustDev or pre-orders. Then the spec (FR/NFR: RPS, latency p99, SLA), then architecture with ADRs, then the foundation with autodeploy — and only then an MVP in micro-quanta. The RFC compiled cleanly; reality segfaults on the first packet.
+> * **Where the trap is:** In regulated trades (FinTech/MedTech) compliance shapes the architecture **before** line one: skip PCI DSS scoping and your "simple payments app" turns into an annual full-codebase QSA audit. And a Friday deploy over FTP by hand is playing Russian roulette with all six chambers loaded.
+> * **Your action right now ([P0-88]):**
+>   1. Freeze hiring and coding: write down 3 falsifiable hypotheses and take them to live customers (CustDev/pre-orders). No confirmation — you just saved a year and two junior salaries.
+>   2. Before the first business-logic commit, stand up CI/CD with one end-to-end Tracer Bullet and a linter: the skeleton is verified by integration, not by a slide deck.
+>   3. Keep an ADR file from day one: every architectural decision on one page (*"what we chose, why, what the exit price is"*). Six months in, it's the only document that stops an unfuck-the-rewrite spiral.
+
+---
+
 ### **Chapter 7.6. The Fragility of the Caloric Riser: Just-In-Time Logistics, the Haber-Bosch Process, and the 90-Day Buffer (Mylar & Ghee)**
 
 #### **7.6.1. The Just-in-Time (JIT) model and the 72-hour collapse**

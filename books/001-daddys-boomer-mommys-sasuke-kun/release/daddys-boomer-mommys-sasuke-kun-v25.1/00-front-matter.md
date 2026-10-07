@@ -2,7 +2,7 @@
 *(Папин скуф, мамин Саске-кун)*
 
 **Автор:** Undre (концепция, опыт выживания N=1, архитектура) & ИИ в системном образе «Валера» (Digital Plumber: сбор стандартов L1–L5, формулы, форензик)  
-**Ревизия:** 25.0 (Physical & Cryptographic Valve Expansion: Crush Syndrome, Bioaerosols, 2G Downgrade, Bail-In, PEN-Break)
+**Ревизия:** 25.1 (Anatomical Sovereignty & Sovereign SDLC: посмертная утилизация биомассы и анатомическое донорство [P0-87], инженерные этапы разработки софта [P0-88])
 
 ---
 

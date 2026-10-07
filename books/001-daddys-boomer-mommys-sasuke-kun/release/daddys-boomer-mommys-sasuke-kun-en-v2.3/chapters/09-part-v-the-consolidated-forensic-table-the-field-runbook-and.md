@@ -63,7 +63,7 @@ Before diving into the tables, let's normalize all the technical codes of the ap
 
 > 💡 **STEP 0: WHAT IS THIS TABLE?**
 > This is the master catalog of every engineering node, precedent, failure, and law of nature mentioned in the book.
-> If the combat **P0 Matrix from Section 1 (valves `[P0-01]`–`[P0-86]`)** is what you must apply with your hands under 03:00 pressure, this table is the **archival spare-parts reference**. It collects the proven cases, the laws of physics, and the historical catastrophes, grouped by the five life echelons (L1–L5).
+> If the combat **P0 Matrix from Section 1 (valves `[P0-01]`–`[P0-88]`)** is what you must apply with your hands under 03:00 pressure, this table is the **archival spare-parts reference**. It collects the proven cases, the laws of physics, and the historical catastrophes, grouped by the five life echelons (L1–L5).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -401,7 +401,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 > **Your action right now:** Hold personal autonomy: a 90-day freeze-dried reserve at home, physical cash in a secure place, independent offline backups on M-DISC media — and a profession that gets paid live money on the world market.
 
 ---
-### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–v23.3)"**
+### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.3)"**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -411,6 +411,12 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 2.3 — Anatomical Sovereignty & Sovereign SDLC (base EN 2.2 / RU v25.1; Checked: 2026-10-07):**
+  1. *P0 Matrix Expansion (86 → 88 Valves):* appended **[P0-87]** Post-Mortem Salvage & Tissue Chain (L1/L4) and **[P0-88]** Sovereign SDLC Pipeline (L3); counters, Operational Decoder references and navigation synchronized to the `[P0-01]`–`[P0-88]` range.
+  2. *L1/L4 Post-mortem utilization (§10.8.1):* anatomical sovereignty module adapted for US/UK jurisdictions: warm ischemia (WIT 15–30 min) and the "death at home" donation myth; US: UAGA, AATB-accredited Willed Body Programs vs the body-broker scam (Reuters "The Body Trade", USA v. Rathburn); UK: Human Tissue Act 2004 / HTA written consent; RF regulatory vacuum as a comparative case study; body farms (UTK, W.M. Bass Collection); alkaline hydrolysis vs terramation vs the promession/cryonics scams.
+  3. *L3 Software development (§7.5.8.2):* sovereign SDLC module per ISO/IEC/IEEE 12207:2017/2026 and NIST SP 800-218: Boehm's curve with the DORA correction (the exponent survives for data-schema/security defects only), forensic critique of the Standish CHAOS Report (Eveleens & Verhoef, 2010) and Flyvbjerg fat tails, modular monolith with boundary conditions (PCI DSS CDE, heterogeneous load), Tracer Bullet and Expand/Contract migrations, Via Negativa startup flags.
+  4. *Provenance:* modules compiled from the `after-death-utilization` and `software-dev-stages` research dossiers (undreplans) with the corrections of their independent-audit sections.
 
 * **Revision EN 2.2 — The Universal 86-Valve P0 Matrix & Infrastructure Expansion (base EN 2.1; Checked: 2026-10-05):**
   1. *P0 Matrix Expansion (71 → 86 Valves):* Ingested 15 universal physical, medical, digital, and financial valves: **[P0-72]** Biometric Opt-Out (5th Amendment / statutory notice), **[P0-73]** Default Order Nullification (emergency motion to vacate), **[P0-74]** Predatory AML-Fee Refusal (unjust enrichment), **[P0-75]** Work-for-Hire IP Custody (three-document assignment chain), **[P0-76]** In-App Browser Escape (WKWebView DOM keylogger defense), **[P0-77]** Stateware Brick Isolation (burner hardware / Work Profile sandboxing), **[P0-78]** SDK Telemetry Purge (advertising ID deletion / ADB de-bloating), **[P0-79]** Crush Extrication & Reperfusion Arrest (pre-extrication C-A-T tourniquet / hyperkalemia protection per INSARAG 2023), **[P0-80]** Dry U-Trap Sewer Bioaerosols (500 ml water + 50 ml mineral oil maintenance per Amoy Gardens SARS investigation), **[P0-81]** Legionella Thermal Floor & TMV (storage $\ge 60^\circ\text{C}$ + thermostatic mixing valve per ASHRAE 12-2023/CDC), **[P0-82]** Cellular 2G Downgrade & FBS Stripping (disabling 2G at modem firmware level against IMSI-Catchers), **[P0-83]** Crypto Address Poisoning (zero-value transfers, vanity collision defense, middle-hash check), **[P0-84]** EU Bank Bail-In Directive (BRRD Art. 44, statutory €100,000 DGS cap), **[P0-85]** Neutral Loss & Overvoltage Relay (TN-C floating neutral, DIN-rail overvoltage relay $<20\text{ ms}$ cutoff), and **[P0-86]** Border Passport MRZ Audit (ICAO Doc 9303 OCR-B defect prevention).

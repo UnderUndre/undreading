@@ -1,5 +1,5 @@
-# daddys-boomer-mommys-sasuke-kun-en-v2.2 — Навигация по главам
-Источник: [daddys-boomer-mommys-sasuke-kun-en-v2.2.md](daddys-boomer-mommys-sasuke-kun-en-v2.2.md)
+# daddys-boomer-mommys-sasuke-kun-en-v2.3 — Навигация по главам
+Источник: [daddys-boomer-mommys-sasuke-kun-en-v2.3.md](daddys-boomer-mommys-sasuke-kun-en-v2.3.md)
 ## Титул и дисклеймеры
 - [Титульная часть](00-front-matter.md)
 
@@ -22,7 +22,7 @@
 - [5 Primary 03:00 Alarm Sensors (Signs of a Burst Riser):](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#5-primary-0300-alarm-sensors-signs-of-a-burst-riser)
 - [Quick Navigation Index of Key Modules:](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#quick-navigation-index-of-key-modules)
 - [🛠️ THE ROSETTA STONE: A DECODER FOR THE ENTRANCE GROUP'S "BIRD LANGUAGE"](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#the-rosetta-stone-a-decoder-for-the-entrance-groups-bird-lan)
-- [Section 1: The P0 Matrix (86 Key Valves for Work Under Pressure)](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#section-1-the-p0-matrix-86-key-valves-for-work-under-pressur)
+- [Section 1: The P0 Matrix (88 Key Valves for Work Under Pressure)](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#section-1-the-p0-matrix-88-key-valves-for-work-under-pressur)
 - [🔧 THE OPERATIONAL DECODER FOR 86 VALVES: TRANSLATING ENGINEER INTO HUMAN](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#the-operational-decoder-for-86-valves-translating-engineer-i)
 
 ### ❓ ENTRANCE FORENSICS, MANIFEST, AND FUSE
@@ -128,4 +128,4 @@
 - [Appendix F: "The Reference of Cognitive Fuses & the 03:00 Night Runbook"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-f-the-reference-of-cognitive-fuses--the-0300-night-)
 - [Appendix G: The operator's revision calendar](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-g-the-operators-revision-calendar)
 - [Appendix H: "The Macro-Engineering of Civilization: From Global System Failures to Applied Risers of Today"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-h-the-macro-engineering-of-civilization-from-global)
-- [Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–v23.3)"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-i-the-revision-history-and-the-pressure-test-regist)
+- [Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.3)"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-i-the-revision-history-and-the-pressure-test-regist)

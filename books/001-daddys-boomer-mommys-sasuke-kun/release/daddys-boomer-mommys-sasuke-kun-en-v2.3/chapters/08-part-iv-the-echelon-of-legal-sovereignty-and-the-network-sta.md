@@ -330,6 +330,60 @@ The biological death of an operator without pre-worked digital-burial protocols 
 
 ---
 
+#### **10.8.1. Anatomical sovereignty and post-mortem biomass utilization: transplantation, cadaver programs, body farms, and aquamation [P0-87]**
+
+> 💡 **STAGE 0: HOUSEHOLD GROUNDING (WHAT THIS MEANS IN PLAIN ENGLISH)**  
+> Most people die with the same comforting fantasy: *"When I'm gone, my body will save four lives on the transplant waiting list and help a grateful med student ace anatomy — not rot in wet clay while the funeral industry bills my family for the privilege."*  
+> Reality: death is an instant thread-stripping event. Die at home in your sleep — your solid organs are biologically worthless within 20 minutes of your heart stopping. Sign a generic "donate my body to science" form and, where the by-law plumbing doesn't exist, the anatomy department quietly bins it: no pickup contract, no funding line, and a prosecutor one angry relative away from a criminal inquiry.  
+> If you want your biomass to end up as research data instead of a broker's inventory, you need the forensic, biological, and statutory plumbing mapped out **before** the 03:00 call. US: UAGA + AATB accreditation | UK: Human Tissue Act 2004 + HTA licensing.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ THE HYDRAULIC SPLIT OF POST-MORTEM BIOMASS UTILIZATION:                │
+│                                                                        │
+│ [DEATH IN ICU ON VENT] ──► Warm ischemia = 0 ──► 8-organ donation      │
+│                                                                        │
+│ [DEATH AT HOME / RTC]  ──► Ischemia >30 min  ──► Organs = SLUDGE       │
+│                            (Cornea / bone / Body Farm only)            │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+##### **1. Warm ischemia biochemistry and the myth of post-mortem organ donation:**
+The layman's fantasy breaks against the physiological timer:
+* Solid organs (heart, lungs, liver, kidneys) die of oxygen starvation within **15–30 minutes** of circulatory arrest (*Warm Ischemia Time*).
+* Transplantation is **STRICTLY a brain-death (DBD) scenario**: the brain is dead from trauma or stroke, but the body sits in the ICU, the heart is coerced by vasopressors, and a ventilator runs the lungs. Controlled donation after circulatory death (cDCD, Maastricht class III) still happens in the operating room under protocolled withdrawal — not in your living room.
+* The base rate of dying in a donation-compatible scenario is **under 1% of all deaths**. If death occurs at home, solid-organ donation is 100% off the table; only avascular tissue qualifies (corneas up to 12–24 h, skin, bone, tendons, heart valves).
+
+##### **2. US: UAGA & Willed Body Programs vs body brokers | UK: Human Tissue Act 2004 & HTA:**
+* **US: Uniform Anatomical Gift Act (UAGA)** governs whole-body donation in all 50 states. Work **exclusively with university medical school Willed Body Programs (Harvard, Stanford, UCLA)**: the body teaches for 1–3 years, then the university cremates the remains and returns them to the family at its own cost. Verify AATB accreditation; hard disqualifiers include autopsy, BMI > 30, HIV/hepatitis/prion infection, and prior solid-organ procurement.
+* **UK: Human Tissue Act 2004 (post-Alder Hey scandal)** — donation for anatomical examination requires **written consent from the donor in life**, witnessed, or a clear testamentary instruction; relatives cannot donate you without it. Every establishment is licensed and inspected by the **Human Tissue Authority (HTA)**; commercial trafficking of tissue is criminalized.
+* **The body-brokers scam (both jurisdictions' cautionary tale):** Reuters' *"The Body Trade"* investigation and *USA v. Arthur Rathburn* (E.D. Mich., 9 years, 2018) exposed non-transplant tissue banks offering "free cremation" to poor families — then chainsawing the cadaver into parts: heads at $300–$500 for Botox-injection practice, torsos sold to the DoD for landmine blast tests (the Jim Stauffer case: an Alzheimer's-donation body blown up on an army range).
+
+##### **3. Comparative case study: the Russian regulatory vacuum (a statute without by-law plumbing is decor):**
+* Article 68 of Federal Law № 323-FZ permits bequeathing your body to educational institutions with a notarized lifetime declaration. In practice the channel is dead: Government Decree № 750 (21.07.2012) regulates transfer of **unclaimed bodies only**, mandatory forensic autopsy (SME) severs the vascular tree and makes formalin perfusion physically impossible, universities refuse bequeathed bodies under criminal-risk exposure (Art. 244 of the Criminal Code), and there is no funded transport line. **Lesson for every jurisdiction:** a donation right without a funded, end-to-end logistics protocol is a decoration on the wall.
+
+##### **4. Forensic body farms (taphonomy):**
+* The only direct route into homicide forensics: the **Forensic Anthropology Center at the University of Tennessee, Knoxville (UTK Body Farm)** — decomposing bodies on soil, in water, in car trunks calibrate the post-mortem interval (PMI), entomology (Calliphoridae larvae cycles), and VOC spectrometry used to solve real murders.
+* After skeletonization, the bones join the permanent *William M. Bass Donated Skeletal Collection*. Pre-registration via the Body Donation Form is mandatory; death outside Tennessee means **the estate or next of kin pays transport**, and HIV/hepatitis/prion conditions disqualify.
+
+##### **5. Eco-destruction: alkaline hydrolysis (aquamation) vs terramation:**
+* **Aquamation (alkaline hydrolysis):** the 21st-century baseline. 5% KOH solution, $150\text{--}160^\circ\text{C}$ under pressure: in 3–4 hours soft tissue (proteins, lipids, DNA, even prions) hydrolyzes into a sterile peptide broth drained to municipal treatment, and the bone mineral is dried and ground into clean white powder for the urn. 90% less energy than flame cremation, zero mercury/CO2 emissions. Legalized in 28+ US states, Canada, Scotland (2026), the Netherlands.
+* **Terramation (Natural Organic Reduction):** 30–45 days of aerobic thermophilic composting in wood chips converts the body into ~1 cubic meter of fertile soil. Legal in Washington, Colorado, Oregon, California, New York and several other US states.
+* **Promession — a monument to pseudoscience:** Swedish biologist Susanne Wiigh-Mäsak raised investment for 15 years on liquid-nitrogen freeze + ultrasonic shattering; her company Promessa Organic AB was liquidated in 2015 without processing a single body.
+
+---
+
+> 🔧 **Engineer-to-human translation (Bob's field briefing):**
+> 
+> * **Plain English:** You don't get to die on the porch and have your ticker save a single mother of three. Die anywhere except an ICU bed with a ventilator running — your organs are sludge within half an hour; all that survives are corneas, bone, and skin. And "donating your body to science" only works if, while you're still ambulatory, you verify the receiving end has a funded pickup pipeline — otherwise your family gets a funeral invoice instead of a thank-you letter.
+> * **Where the trap is:** The scam targets exactly your best instincts. Any private outfit promising *"free cremation in exchange for donating the body to science"* is running the Rathburn playbook: chainsaw, parts catalog, and — if you're lucky — the Pentagon's blast-testing procurement list. Cryonics is the same scam with better marketing: $200k for a head in a thermos, betting on a fund that statistically won't survive 30 years (ask the Chatsworth thaw).
+> * **Your action right now ([P0-87]):**
+>   1. **US:** Tick the organ-donor box at the DMV and register with the National Donate Life Registry; **UK:** register on the NHS Organ Donor Register and know that England operates deemed consent with a family-objection veto — brief your next of kin so they don't veto it. Either way: tell the family out loud, *"if I'm declared brain-dead in an ICU, do not sign the opt-out."*
+>   2. **Whole-body donation:** go straight to the anatomy department of an accredited medical school (US: AATB-accredited Willed Body Program | UK: HTA-licensed establishment). Ask one question: *"Do you have a working intake pipeline for bequeathed bodies from private residences?"* If the answer is "unclaimed bodies only" — scrap the plan and pre-book a standard cremation.
+>   3. **Forensic donation:** pre-register with the UT Knoxville Forensic Anthropology Center (or FOREST at Western Carolina / FARF at Texas State), and put $1,500 in the family envelope for cross-state transport of remains.
+
+---
+
 #### **10.9. Legal hygiene: the 5 lethal contract clauses**
 
 1. **Indemnification & Hold Harmless:** The trap — one-sided indemnity for any losses. The engineering fix: limit it to direct third-party IP claims, confirmed by a final court ruling, with a carve-out where the breach was caused by the client's own SOW.
