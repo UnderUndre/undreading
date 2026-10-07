@@ -14,7 +14,7 @@
 ## Technical Context
 
 **Language/Version**: Markdown (CommonMark/GFM), Typst (0.11+), HTML/CSS/TypeScript (Node.js 20+, VitePress / Astro Starlight), Bash/Makefile  
-**Primary Dependencies**: Pandoc 3.1+, Typst CLI, VitePress/Astro, epubcheck, pdfinfo, zip  
+**Primary Dependencies**: Pandoc 3.1+, Typst CLI (0.11+), Ghostscript, cpdf, veraPDF, VitePress/Astro, epubcheck, pdfinfo, zip  
 **Storage**: Static files (Markdown `.md`, Typst `.typ`, `.epub`, `.pdf`), Git-версионирование 3-2-1-1-0, Cloudflare CDN / GitHub Pages  
 **Testing/Validation**: Markdownlint, epubcheck, pdfinfo, internal zero-trust fact-checking audit Level 1/2  
 **Target Platform**: Web (undreading.com), E-readers (EPUB 3), Physical Print (Amazon KDP Paperback 6"x9"), GitHub Releases  
@@ -84,6 +84,37 @@ undreading/
 ```
 
 ---
+
+### Print Rendering & Pre-Flight Architecture
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    TWO-STAGE PDF/X-1A COMPILATION PIPELINE                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 1. [TYPST ENGINE] (templates/book-paperback-6x9.typ)                        │
+│    • Dynamic Gutter curve (0.500" -> 1.000" based on page count)            │
+│    • DeviceGray 100% K text & vector lines, zero Rich Black                 │
+│    • Recto chapter openings + enforced blank terminal verso for KDP barcode │
+│    • Monospace ASCII width constraint <= 68 chars, repeating table headers  │
+│    ──► Output: dist/raw-monograph.pdf (PDF 1.7 / PDF/A-2b)                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 2. [TRANSCODER STAGE] (scripts/transcode-pdfx1a.sh via Ghostscript / cpdf)  │
+│    • Inject ISO 15930-1 OutputIntent (FOGRA39 / US Web Coated SWOP v2)      │
+│    • Color space normalization & flattening of transparency layers          │
+│    ──► Output: dist/sanitary-engineering-of-being-paperback-pdfx1a.pdf      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 3. [PRE-FLIGHT VALIDATION GATE] (scripts/validate-print-pdf.sh)             │
+│    • veraPDF ISO 15930-1 conformance verification                           │
+│    • pdffonts: 100% embedded subset validation                              │
+│    • pdfimages -list: 0 raster assets < 300 DPI, 0 RGB objects in interior  │
+│    • pdfinfo: MediaBox, TrimBox, BleedBox exact dimensions verification     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 4. [MULTI-VENDOR COVER GENERATOR] (scripts/generate-covers.py)              │
+│    • KDP: pages * 0.002252" (white) / 0.0025" (cream), min 79 pp spine text │
+│    • Ingram: pages / PPI (474 white / 454 cream), 48 pp spine text          │
+│    • Lulu: caliper bulk formula, barcode clearance >= 0.25" from spine fold │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ## Complexity Tracking
 

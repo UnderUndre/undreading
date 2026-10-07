@@ -79,3 +79,42 @@ zta-architecture-kit-v18.0.zip
     ├── cpa-audit-checklist-llc.md
     └── emergency-0300-runbook.md
 ```
+
+---
+
+## Print Layout & POD Production Entities
+
+### `VendorPrintProfile`
+- `vendor_id`: Enum (`"amazon_kdp"`, `"ingram_spark"`, `"lulu_direct"`)
+- `paper_stock`: Enum (`"white_50lb"`, `"cream_60lb"`, `"groundwood_45lb"`)
+- `spine_multiplier`: Float (e.g., `0.002252` for KDP white, `0.0025` for KDP cream)
+- `ppi`: Optional Integer (e.g., `474` for Ingram 50# white, `454` for Ingram 60# cream)
+- `min_spine_text_pages`: Integer (`79` for KDP, `48` for Ingram)
+- `spine_text_safety_margin`: Float (`0.0625` in or `0.03125` in for narrow spines)
+- `barcode_box_width`: Float (`2.0` in for KDP, `1.75` in for Ingram)
+- `barcode_box_height`: Float (`1.2` in for KDP, `1.0` in for Ingram)
+- `barcode_spine_clearance`: Float (`0.25` in minimum clearance from spine fold)
+
+### `PrintLayoutSpec`
+- `trim_size`: String (`"6x9_in"` / `152.4x228.6 mm`)
+- `bleed`: Float (`0.125` in on top, bottom, outside)
+- `gutter_margin`: Float (dynamic: `0.500` in to `1.000` in depending on page count)
+- `outer_margin`: Float (`0.500` in to `0.625` in)
+- `top_bottom_margin`: Float (`0.625` in to `0.750` in)
+- `color_space_interior`: String (`"DeviceGray_100_K"`)
+- `color_space_cover`: String (`"CMYK_FOGRA39_TAC_300"`)
+- `dpi_floor_halftone`: Integer (`300`)
+- `dpi_floor_lineart`: Integer (`1200`)
+- `max_ascii_line_length`: Integer (`68` characters)
+- `terminal_blank_verso`: Boolean (`true` for KDP barcode allocation)
+
+### `PreFlightAuditReport`
+- `file_path`: String
+- `pdf_version`: String (`"PDF/X-1a:2001"`)
+- `verapdf_status`: Enum (`"PASS"`, `"FAIL"`)
+- `verapdf_rule_violations`: List of Strings
+- `all_fonts_embedded`: Boolean
+- `min_raster_dpi`: Integer
+- `has_rgb_in_interior`: Boolean (`false` required)
+- `trim_box_matches`: Boolean
+- `total_pages_multiple_of_two`: Boolean

@@ -68,3 +68,22 @@ epubcheck dist/sanitary-engineering-of-being.epub
 # Проверка геометрии и полей PDF под стандарты Amazon KDP (обрезные поля 0.125" / 3.2 мм)
 pdfinfo dist/sanitary-engineering-of-being-paperback.pdf
 ```
+
+### Print & Pre-Flight PDF/X Validation Commands
+
+```bash
+# 1. Compile raw Typst PDF
+make compile:pdf:raw
+
+# 2. Transcode to PDF/X-1a:2001 with FOGRA39/SWOP OutputIntent
+make build:pdf:x1a
+
+# 3. Generate multi-vendor covers
+make build:cover:kdp       # Amazon KDP spine & barcode box
+make build:cover:ingram    # IngramSpark PPI & spine-fold clearance
+make build:cover:lulu      # Lulu Direct bulk caliper cover
+
+# 4. Run automated Pre-Flight ISO validation
+make validate:verapdf      # veraPDF ISO 15930-1 validation
+make validate:print        # Full pre-flight: fonts, DPI, boundaries, color space
+```
