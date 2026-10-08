@@ -4726,6 +4726,38 @@ For engineers, developers, and technical specialists there exist narrow market n
 
 ---
 
+---
+
+#### **7.5.10. Forensic Audit of Passive Income & Zero-Support Asset Architecture (Zero Marginal Cost)**
+
+The digital tech community is infected with the infobusiness myth of \"passive income via online courses.\" In reality, launching a video course transforms the creator into a 24/7 customer support slave in Discord channels, while the video content rots in six months and leaks onto torrent trackers.
+
+1. **Adversarial Stress-Test of 4 Popular Passive Monetization Concepts:**
+   * **Indie Gamedev on Steam:** Text-based and narrative simulators suffer **21% to 55% refund rates** within Valve's 2-hour refund window (*Steam Refund Abuse*). Factoring in the $100 Steam Direct fee, Valve's 30% cut, and cross-platform OS bug tracking (Linux/Windows/macOS), the true passive score is abysmal ($2/10$).
+   * **Functional Ambient Audio on Spotify:** Streaming platforms instituted 1,000-stream minimum monetization gates and demonetize tracks under 2 minutes. Music must be sold **directly as B2B sound packs (WAV/FLAC)** on Bandcamp/Gumroad for $29–$49 (passive score $8.5/10$).
+   * **Physical Tyvek EDC Cards (Amazon FBA):** Physical merchandise requires frozen working capital, storage fees, returns handling, and triggers physical inventory tax nexuses (`[P0-97]`). The optimal replacement is a **vector digital PDF deck for home/local printing (CR-80 format)** at $9.99 (passive score $9/10$, margin $>90\%$).
+   * **Interactive Wasm/CLI Simulator:** Client-side WebAssembly simulators running on Cloudflare Pages with zero backend servers and offline Ed25519 cryptographic license verification deliver textbook margin efficiency ($49 B2C / $499 B2B, passive score $8.5/10$).
+
+2. **5 New Autonomous Zero-Support Assets:**
+   1. **3D CAD Hardening Kit (STL/STEP/OpenSCAD):** 12 parametric 3D print models (wall mounts for C-A-T Gen 7 tourniquets, mechanical ball-valve locks, DIN-rail breaker brackets, GPON DC-DC holders). Sold on Cults3D/MakerWorld ($14.90, marginal cost $0, margin $90\text{--}95\%$, Lindy Effect $30+$ years).
+   2. **Obsidian Sovereign SCADA Vault:** An out-of-the-box offline workspace with an interactive Canvas graph of all 110 P0 valves, DataviewJS biometric calculators (ApoB, CAC, HOMA-IR), 40/40/20 contract templates, and emergency runbooks ($29 personal / $89 team, 0 server maintenance).
+   3. **SecOps & Hardening Rule Sets:** Curated YARA signatures, Semgrep rules for MCP agent tool poisoning (CVE-2025-49596), Suricata rules, and DNS telemetry blocklists for AdGuard/Pi-hole ($39 one-time / $9/mo via GitHub Sponsors).
+   4. **`zta-check` CLI Pro (`zta-suite` Repository):** Standalone static Rust binary for host security audits, 2G cellular downgrade detection (`[P0-82]`), WebRTC leak checks, and non-root Android ADB debloating ($19 lifetime key signed with Ed25519).
+   5. **Technical Wall Blueprints (POD):** High-resolution museum-grade vector schematics (P0 matrix, MARCH PAWS protocol, 5 Echelons topology) via automated drop-shipping through Printful + Shopify ($39–$49, $21–$28 net profit per print, 0 inventory).
+
+3. **Master Unit Economics & Distribution Matrix:**
+
+| Product Asset | Target Format / Platform | Retail Price | Marginal Unit Cost | Net Margin % | Monthly Support | Lindy Effect |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| **`zta-check` CLI / Wasm Simulator** | Rust/Wasm / Cloudflare Pages | $19 / $49 | $0 | **92–95%** | <1 hr | 10+ years |
+| **Obsidian SCADA Vault** | Markdown / Gumroad / Paddle | $29 / $89 | $0 | **89–93%** | 0 hrs | 15+ years |
+| **3D CAD Hardening Kit** | STL/STEP / Cults3D / MakerWorld | $14.90 | $0 | **90–95%** | 0 hrs | 30+ years |
+| **SecOps Rule Sets** | YARA/Semgrep / GitHub Sponsors | $39 / $9/mo | $0 | **95%** | 0.5 hrs | 5–10 years |
+| **B2B Functional Audio Pack** | FLAC/WAV / Bandcamp | $29–$49 | $0 | **88–92%** | 0 hrs | 20+ years |
+| **Technical Wall Blueprints** | Archival Print / Printful PoD | $39–$49 | ~$18 | **45–55%** | 0 hrs (auto) | 50+ years |
+
+---
+
 ### **Chapter 7.6. The Fragility of the Caloric Riser: Just-In-Time Logistics, the Haber-Bosch Process, and the 90-Day Buffer (Mylar & Ghee)**
 
 #### **7.6.1. The Just-in-Time (JIT) model and the 72-hour collapse**
@@ -6465,6 +6497,38 @@ $$P(\text{Blowout} \mid \text{Assumptions}) = \frac{P(\text{Assumptions} \mid \t
 > * **Step 3:** Remember the base law of hydraulics: the better the officials around you speak English, the mightier the fiscal vacuum cleaner behind their backs. Without an audit of the structure by a local certified specialist (a Chartered Accountant / CPA), don't turn a single valve by hand!
 
 **The final forensic verdict on the echelon:** `[TECHNICALLY VIABLE WITH EXTREME CAUTION / JURISDICTIONAL HYDRAULIC TRAPS IDENTIFIED]`. The critical failure mode (the Single Killer Contradiction): attempting to transplant the "individual entrepreneur in a micro-LLC wrapper" scheme into Australia, Canada, or Ireland is guaranteed to break against the personal-service doctrines (**PSI in AU, TOSI in CA, the Close Company surcharges in IE**). Income will be re-qualified onto the individual at the top PIT scale (47–53%) with the full annulment of corporate deductions. In these jurisdictions you pay either for a real team and office (Substance) or pay the state at the maximum tariff. There are no miracles, and abstractions leak at the seams. Without a local licensed CPA / Chartered Accountant — don't touch the valve!
+
+---
+
+##### **10.12.13. The Anglo-Saxon Expat Relocation Atlas: Regulatory Water Hammers & TCO (2026)**
+
+The monthly Total Cost of Ownership (TCO) of cross-border relocation follows the mathematical model:
+$$\text{TCO}_{\text{month}} = \text{Burn}_{\text{base}} + \text{Amort}_{\text{legalization}} + \text{Tax}_{\text{worldwide}} + \text{Sludge}_{\text{compliance}} + \text{Risk}_{\text{tail}}$$
+
+1. 🇺🇸 **United States Worldwide Tax & Foreign Compliance Traps:**
+   * *Citizenship-Based Taxation (CBT):* Living abroad does not relieve US citizens of IRS filings (*IRC § 1, § 6012*).
+   * *Form 2555 (FEIE):* Foreign Earned Income Exclusion threshold is **$132,900 for 2026**, but applies exclusively to active earned income. It leaves the 15.3% Self-Employment Tax (SECA) fully intact unless sheltered by a bilateral Totalization Agreement.
+   * *Form 1116 (FTC):* Foreign Tax Credit offsets US tax with foreign taxes paid, but creates punitive reporting sludge when navigating non-matching foreign tax years (e.g. UK April-to-April fiscal year).
+   * *FinCEN 114 (FBAR) & Form 8938 (FATCA):* Strict reporting for aggregate non-US balances exceeding $10,000 ($10,000+ penalty per unfiled foreign account per year).
+   * *PFIC Penalties (IRC § 1291):* Non-US mutual funds and European UCITS ETFs are taxed at the highest ordinary income rate (up to 37%) plus daily compounding interest penalties.
+2. 🇲🇽 **Mexico (Financial Solvency & SAT Integration):**
+   * *Status:* Solvency requirements are benchmarked against the UMA (Unidad de Medida y Actualización, 117.31 MXN).
+   * *Thresholds:* Monthly income of $680 \times \text{UMA} \approx \$4,400\text{--}\$4,630\text{ USD/mo}$ or bank statements showing $11,460 \times \text{UMA} \approx \$74,500\text{--}\$78,000\text{ USD}$. Strict requirement to obtain local SAT tax identification (RFC) to maintain active domestic bank accounts.
+3. 🇵🇹 **Portugal (Post-NHR Landscape & AIMA Backlogs):**
+   * *Status:* The classic NHR (10% / 20% flat tax) is abolished; replaced by IFICI (Art. 58-A EBF) strictly restricted to certified academic researchers and high-tech startup founders. General PIT reaches up to **48% (+5% solidarity surcharge)**.
+   * *Chokepoint:* D8 Digital Nomad Visa threshold is raised to $4\times$ national minimum wage = **€3,680/mo ($4,050 USD)**. Migration agency AIMA faces backlogs exceeding 400,000 pending files with 12–18 month procedural delays.
+4. 🇪🇸 **Spain (Digital Nomad Visa & Ley Beckham):**
+   * *Status:* DNV requires income $\ge 200\%$ SMI (~€2,700/mo). The Beckham Law (*Art. 93 LIRPF*) provides a 24% flat tax up to €600,000/yr for 6 years with foreign asset exemptions.
+   * *Risks:* Growing anti-tourism gentrification protests, local emergency rental caps, and mandatory *cuota de autónomos* (€230–€540/mo) upon transitioning out of Beckham status.
+5. 🇯🇵 **Japan (The Digital Nomad Visa Single Killer Defect):**
+   * *Status:* Designated Activities Digital Nomad Visa requires annual income $\ge ¥10,000,000$ (~$65,000 USD).
+   * *The Fatal Flaw:* Max 6-month stay without extension; **NO Zairyu Card (Resident Card) is issued**, making it legally impossible to open a Japanese bank account, sign standard residential leases, or purchase local voice SIM cards.
+6. 🇬🇧 **United Kingdom (Non-Dom Abolition):**
+   * *Status:* The historic Non-Dom remittance basis regime was terminated on April 6, 2025; replaced by a 4-year Foreign Income and Gains (FIG) regime, after which global income is taxed at up to 45% alongside 40% UK Inheritance Tax (IHT).
+7. 🇨🇷 **Costa Rica:**
+   * *Status:* Law 10008 Nomad Visa (1+1 year max, $3,000/mo income, 0% local income tax). Transition to permanent Rentista residency mandates paying 8%–15% of total income to Caja (CCSS healthcare system).
+8. 🇮🇹 **Italy:**
+   * *Status:* DNV requires €28,000/yr income and \"Highly Qualified Worker\" credentials (3-year degree or 5 years certified experience). Subject to standard progressive IRPEF (up to 43%) plus ~26% INPS social contributions unless sheltered by specific bilateral treaties.
 
 ---
 
