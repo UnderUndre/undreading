@@ -455,6 +455,53 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 ```
 
 
+
+
+---
+
+#### **2.6. Acute Somatic Emergencies and Pharmacological Traps: SSNHL, Angle-Closure Glaucoma & Acetaminophen Hepatotoxicity**
+
+> 🚨 **SYSTEM TELEMETRY VS FATAL PROCRASTINATION:**  
+> In emergency somatic engineering, there are conditions where a 12–72 hour delay irreversibly destroys a sensory organ or triggers fulminant hepatic necrosis. Below are three high-pressure somatic blowouts routinely misdiagnosed as "routine fatigue" or a "common cold."
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│         THREE ACUTE SOMATIC BLOWOUTS (L1 CRITICAL MEDICAL PROTOCOLS)                   │
+├─────────────────┬──────────────────────────────────────────┬───────────────────────────┤
+│ SYNDROME / RISK │ FAILURE MECHANISM & TELEMETRY            │ EMERGENCY FIELD PROTOCOL  │
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 1. **SSNHL**    │ Acute microvascular ischemia of cochlea /│ ⚠️ THERAPEUTIC WINDOW:    │
+│    (Sudden      │ auditory nerve. "Rule 3-3-3": drop of    │ STRICTLY 72 HOURS!        │
+│    Sensorineural│ $\ge 30\text{ dB}$ over 3 contiguous fre-│ 1. Bedside Weber / Rauch  │
+│    Hearing Loss)│ quencies within $<72$ hours. Routinely   │    Hum test (forehead).   │
+│    [P0-89]      │ dismissed as "cerumen impaction/wax."    │ 2. Oral Prednisolone      │
+│                 │ Untreated = irreversible hair cell loss. │    $1\text{ mg/kg/day}$   │
+│                 │                                          │    (max 60 mg) for 7–14d  │
+│                 │                                          │    + OBLIGATORY 7–10 DAY  │
+│                 │                                          │    TAPER (10 mg / 1–2 d)  │
+│                 │                                          │    against Addison crisis.│
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 2. **AACG**     │ Pupillary block in hyperopes triggered by│ ⚠️ RISK OF BLINDNESS: 24H │
+│    (Acute       │ darkness or sympathomimetic deconges-    │ 1. Urgent topical drops:  │
+│    Angle-Closure│ tants (pseudoephedrine) & anticholiner-  │    Timolol 0.5%, Brimon-  │
+│    Glaucoma)    │ gics. IOP spikes to 60–80 mmHg. Violent  │    idine, Pilocarpine 1%. │
+│    [P0-90]      │ ocular pain, nausea, halos around lights.│ 2. Systemic: Acetazolamide│
+│                 │                                          │    500 mg / IV Mannitol.  │
+│                 │                                          │ 3. Laser Peripheral Irid- │
+│                 │                                          │    otomy (LPI) in 6–12h.  │
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 3. **NAPQI**    │ Acetaminophen (Paracetamol) overdose via │ ⚠️ HARD CAP: 3.0 g/day    │
+│    (Centrilob-  │ stacking combination cold remedies       │ (2.0 g with alcohol/fast) │
+│    ular Hepatic │ (>4 g/day). Glutathione depleted <30%    │ If toxic ingestion >7.5 g │
+│    Necrosis)    │ $\to$ massive hepatocyte necrosis and    │ administer IV N-acetyl-   │
+│    [P0-91]      │ fulminant hepatic coma within 72–96 hrs. │ cysteine (NAC) STRICTLY   │
+│                 │                                          │ WITHIN 8-HOUR WINDOW!     │
+└─────────────────┴──────────────────────────────────────────┴───────────────────────────┘
+```
+
+
+---
+
 ### **Chapter 3. Preventive Lipidology and the Psychosocial Circuit**
 
 > 🚨 **Anti-Case No. 2 (Ozempic sarcopenia):** The risk of Ozempic sarcopenia: GLP-1 (Ozempic) use at a calorie deficit WITHOUT strength training and adequate protein ($1.6\text{–}2.2\text{ g/kg}$) threatens the loss of up to **40% of skeletal muscle out of the total weight lost**.

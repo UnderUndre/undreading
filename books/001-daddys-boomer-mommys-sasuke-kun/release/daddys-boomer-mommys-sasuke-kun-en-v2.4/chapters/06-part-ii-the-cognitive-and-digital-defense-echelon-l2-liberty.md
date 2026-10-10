@@ -1528,6 +1528,46 @@ The average developer believes: *"If the browser displays a green HTTPS padlock,
 
 ---
 
+
+
+---
+
+### 16. Big Tech Account Nuking, Algorithmic CSAM/OFAC Traps & Hardware FIDO2 Resident Key Limits ([P0-92])
+
+> 🌐 **THE VULNERABILITY OF SINGLE-POINT DIGITAL IDENTITY:**  
+> Relying on big tech cloud password keychains (Google Password Manager, Apple iCloud Keychain) as your primary vault is systemic suicide. An automated false-positive flag by algorithmic content scanners (such as the Mark Watkins case, where medical photos sent to a pediatrician triggered permanent CSAM termination) or logging in from an OFAC-geofenced IP triggers **immediate, unappealable termination of the master account**. When the account dies, all *Synced Passkeys* are permanently obliterated.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ HARDWARE FIDO2 MEMORY LIMITS & AUTARKIC STORAGE SPECS (L2 PROTOCOL)                 │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [YUBIKEY CAPACITY LIMITS]: YubiKey 5 Series hardware keys have physical RAM limits:  │
+│    • Firmware < 5.7: Strictly 25 Discoverable Credentials (Resident Keys).             │
+│    • Firmware 5.7+: Up to 100 Discoverable Credentials.                                │
+│    Exceeding this boundary throws the hardware error `CTAP2_ERR_KEY_STORE_FULL`.       │
+│ 2. [BAN SOCIAL OAUTH]: Complete ban on "Sign in with Google/Apple" for all critical    │
+│    financial, cloud infrastructure, and hosting accounts.                              │
+│ 3. [LOCAL AUTARKIC BACKUP]: Keep master encrypted databases in KeePassXC / offline     │
+│    Vaultwarden with air-gapped backups mirrored on two independent hardware drives.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 17. Remote eSIM-Swapping Attacks via Carrier Web Portals: SMS-2FA Hijacking & In-Branch Locks ([P0-93])
+
+> 📱 **HOW CARRIER WEB PORTALS ARE WEAPONIZED AGAINST YOU:**  
+> Under GSMA SGP.22 specifications, remote eSIM profile provisioning is initiated through carrier customer web dashboards. Threat actors compromise credentials via credential-stuffing or phishing, then request a new eSIM QR profile. The carrier's SM-DP+ server provisions the profile on the attacker's handset, **instantly severing the victim's physical SIM connection**.
+>
+> ⚠️ **IMPACT:** Within 10–15 minutes, attackers leverage intercepted SMS-2FA tokens to reset credentials across primary email, banking apps, and cryptocurrency exchanges.
+>
+> 🛠️ **BOB'S DEFENSIVE HARDENING PROTOCOL:**
+> * Completely strip cellular phone numbers from account recovery mechanisms across email, GitHub, and exchanges. Enforce physical FIDO2 keys and RFC 6238 TOTP (Aegis / 2FAS).
+> * In-person visit to your mobile carrier's branch with government ID to execute an **immutable "No Remote SIM/eSIM Swap" directive**, requiring in-person passport authentication for any SIM alterations.
+
+
+---
+
 ### **6.3. The "Front-End Facade" Analytics: The Sydney Sweeney Phenomenon and Clickability (a Case Study)**
 
 ### 1. The cultural phenomenon of Sydney Sweeney (2024–2026): the anatomy of hype

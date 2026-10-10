@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 23.3 → EN 2.7 (Relationship & Matrimonial Forensics 2026: Coase-Becker Union Economics, Oral Contraceptives & HLA/MHC Olfactory Inversion, Paternity Fraud & DNA Test Bans, Daminger Mental Load Framework, 3-Bucket Family Treasury Architecture, 12-Jurisdiction Comparative Matrix & LGBTQ+ OpSec)
+**Revision:** 23.3 → EN 2.7 (Systemic & Forensic Resilience Revision 2026: Coase-Becker Matrimonial Economics, SSNHL 72h Taper Protocol, Acute Glaucoma AACG, Acetaminophen NAPQI Toxicity, Big Tech Account Nuking & FIDO2 CTAP Limits, eSIM-Swapping, US NRA Estate Tax 40%, Dropper Liability, Consular Legalization, Brussels IV Professio Juris, EN 12056-4 Lifting Plants, DZR Brass & Galvanic Isolation)
 
 ---
 
@@ -1674,6 +1674,53 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+
+
+
+---
+
+#### **2.6. Acute Somatic Emergencies and Pharmacological Traps: SSNHL, Angle-Closure Glaucoma & Acetaminophen Hepatotoxicity**
+
+> 🚨 **SYSTEM TELEMETRY VS FATAL PROCRASTINATION:**  
+> In emergency somatic engineering, there are conditions where a 12–72 hour delay irreversibly destroys a sensory organ or triggers fulminant hepatic necrosis. Below are three high-pressure somatic blowouts routinely misdiagnosed as "routine fatigue" or a "common cold."
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│         THREE ACUTE SOMATIC BLOWOUTS (L1 CRITICAL MEDICAL PROTOCOLS)                   │
+├─────────────────┬──────────────────────────────────────────┬───────────────────────────┤
+│ SYNDROME / RISK │ FAILURE MECHANISM & TELEMETRY            │ EMERGENCY FIELD PROTOCOL  │
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 1. **SSNHL**    │ Acute microvascular ischemia of cochlea /│ ⚠️ THERAPEUTIC WINDOW:    │
+│    (Sudden      │ auditory nerve. "Rule 3-3-3": drop of    │ STRICTLY 72 HOURS!        │
+│    Sensorineural│ $\ge 30\text{ dB}$ over 3 contiguous fre-│ 1. Bedside Weber / Rauch  │
+│    Hearing Loss)│ quencies within $<72$ hours. Routinely   │    Hum test (forehead).   │
+│    [P0-89]      │ dismissed as "cerumen impaction/wax."    │ 2. Oral Prednisolone      │
+│                 │ Untreated = irreversible hair cell loss. │    $1\text{ mg/kg/day}$   │
+│                 │                                          │    (max 60 mg) for 7–14d  │
+│                 │                                          │    + OBLIGATORY 7–10 DAY  │
+│                 │                                          │    TAPER (10 mg / 1–2 d)  │
+│                 │                                          │    against Addison crisis.│
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 2. **AACG**     │ Pupillary block in hyperopes triggered by│ ⚠️ RISK OF BLINDNESS: 24H │
+│    (Acute       │ darkness or sympathomimetic deconges-    │ 1. Urgent topical drops:  │
+│    Angle-Closure│ tants (pseudoephedrine) & anticholiner-  │    Timolol 0.5%, Brimon-  │
+│    Glaucoma)    │ gics. IOP spikes to 60–80 mmHg. Violent  │    idine, Pilocarpine 1%. │
+│    [P0-90]      │ ocular pain, nausea, halos around lights.│ 2. Systemic: Acetazolamide│
+│                 │                                          │    500 mg / IV Mannitol.  │
+│                 │                                          │ 3. Laser Peripheral Irid- │
+│                 │                                          │    otomy (LPI) in 6–12h.  │
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 3. **NAPQI**    │ Acetaminophen (Paracetamol) overdose via │ ⚠️ HARD CAP: 3.0 g/day    │
+│    (Centrilob-  │ stacking combination cold remedies       │ (2.0 g with alcohol/fast) │
+│    ular Hepatic │ (>4 g/day). Glutathione depleted <30%    │ If toxic ingestion >7.5 g │
+│    Necrosis)    │ $\to$ massive hepatocyte necrosis and    │ administer IV N-acetyl-   │
+│    [P0-91]      │ fulminant hepatic coma within 72–96 hrs. │ cysteine (NAC) STRICTLY   │
+│                 │                                          │ WITHIN 8-HOUR WINDOW!     │
+└─────────────────┴──────────────────────────────────────────┴───────────────────────────┘
+```
+
+
+---
 
 ### **Chapter 3. Preventive Lipidology and the Psychosocial Circuit**
 
@@ -3855,6 +3902,46 @@ The average developer believes: *"If the browser displays a green HTTPS padlock,
 
 ---
 
+
+
+---
+
+### 16. Big Tech Account Nuking, Algorithmic CSAM/OFAC Traps & Hardware FIDO2 Resident Key Limits ([P0-92])
+
+> 🌐 **THE VULNERABILITY OF SINGLE-POINT DIGITAL IDENTITY:**  
+> Relying on big tech cloud password keychains (Google Password Manager, Apple iCloud Keychain) as your primary vault is systemic suicide. An automated false-positive flag by algorithmic content scanners (such as the Mark Watkins case, where medical photos sent to a pediatrician triggered permanent CSAM termination) or logging in from an OFAC-geofenced IP triggers **immediate, unappealable termination of the master account**. When the account dies, all *Synced Passkeys* are permanently obliterated.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ HARDWARE FIDO2 MEMORY LIMITS & AUTARKIC STORAGE SPECS (L2 PROTOCOL)                 │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [YUBIKEY CAPACITY LIMITS]: YubiKey 5 Series hardware keys have physical RAM limits:  │
+│    • Firmware < 5.7: Strictly 25 Discoverable Credentials (Resident Keys).             │
+│    • Firmware 5.7+: Up to 100 Discoverable Credentials.                                │
+│    Exceeding this boundary throws the hardware error `CTAP2_ERR_KEY_STORE_FULL`.       │
+│ 2. [BAN SOCIAL OAUTH]: Complete ban on "Sign in with Google/Apple" for all critical    │
+│    financial, cloud infrastructure, and hosting accounts.                              │
+│ 3. [LOCAL AUTARKIC BACKUP]: Keep master encrypted databases in KeePassXC / offline     │
+│    Vaultwarden with air-gapped backups mirrored on two independent hardware drives.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 17. Remote eSIM-Swapping Attacks via Carrier Web Portals: SMS-2FA Hijacking & In-Branch Locks ([P0-93])
+
+> 📱 **HOW CARRIER WEB PORTALS ARE WEAPONIZED AGAINST YOU:**  
+> Under GSMA SGP.22 specifications, remote eSIM profile provisioning is initiated through carrier customer web dashboards. Threat actors compromise credentials via credential-stuffing or phishing, then request a new eSIM QR profile. The carrier's SM-DP+ server provisions the profile on the attacker's handset, **instantly severing the victim's physical SIM connection**.
+>
+> ⚠️ **IMPACT:** Within 10–15 minutes, attackers leverage intercepted SMS-2FA tokens to reset credentials across primary email, banking apps, and cryptocurrency exchanges.
+>
+> 🛠️ **BOB'S DEFENSIVE HARDENING PROTOCOL:**
+> * Completely strip cellular phone numbers from account recovery mechanisms across email, GitHub, and exchanges. Enforce physical FIDO2 keys and RFC 6238 TOTP (Aegis / 2FAS).
+> * In-person visit to your mobile carrier's branch with government ID to execute an **immutable "No Remote SIM/eSIM Swap" directive**, requiring in-person passport authentication for any SIM alterations.
+
+
+---
+
 ### **6.3. The "Front-End Facade" Analytics: The Sydney Sweeney Phenomenon and Clickability (a Case Study)**
 
 ### 1. The cultural phenomenon of Sydney Sweeney (2024–2026): the anatomy of hype
@@ -5159,6 +5246,45 @@ The digital tech community is infected with the infobusiness myth of \"passive i
 > 1. **Zero "Single Black-Hole Account":** Forcing all revenue into a single joint pool breeds financial micromanagement, passive-aggressive resentment, and zero personal sovereignty.
 > 2. **Proportional, Not Equal, OPEX Allocations:** If Husband clears $6,000/mo and Wife clears $3,000/mo, a $4,500 monthly household nut is funded 66.7% ($3,000) and 33.3% ($1,500). Both retain discretionary sovereign reserves.
 > 3. **Motherhood Penalty Compensatory Protocol:** During maternity leave (where female OPEX converts from financial income to extreme physiological investment), the earning partner funds 100% of Bucket 3 and executes contractual, non-revocable transfers into the mother's Bucket 2 to preserve her financial independence.
+
+
+---
+
+
+
+---
+
+#### **7.5.9. P2P Off-Ramp Forensics: Dropper Liability & US Estate Tax on Non-Resident Aliens (US NRA Estate Tax)**
+
+> 💳 **P2P TRANSACTION ISOLATION AND FINANCIAL FRAUD SINKHOLES:**  
+> Receiving funds from peer-to-peer cryptocurrency exchanges directly onto personal retail bank accounts carries severe regulatory and criminal contamination risks. Fraudulent third-party transfers (P2P triangle schemes where a phishing victim wires fiat directly to your account while the scammer takes the crypto) will trigger account freezing and anti-money laundering investigations (such as Bank of Russia FinCERT / 161-FZ, US SAR / FinCEN flags, and UK POCA Account Freezing Orders).
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ P2P TRANSIT ISOLATION & CASH OTC PROTOCOL (L3 DIRECTIVE)                            │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [100% NAME MATCH]: Wire sender name must match the verified P2P profile byte-for-   │
+│    byte. Reject any third-party payment requests without exception.                    │
+│ 2. [PROHIBITION OF MANUAL RETURN]: If an unauthorized third-party transfer lands in    │
+│    your account, NEVER wire funds back manually! Doing so constitutes participating in │
+│    an unauthorized money-transmission / laundering transit chain.                      │
+│ 3. [OFFICIAL BANK DISPUTE]: File a formal written notice of erroneous credit with your │
+│    bank, mandating that the financial institution execute the reversal internally.     │
+│ 4. [WHITE CASH OTC]: Execute large liquidations strictly via licensed, physical OTC    │
+│    cash trading desks in compliant hubs (UAE, Georgia, Montenegro, Czech Republic).    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **US Federal Estate Tax on Non-Resident Aliens (NRA): The 40% Trap on US Securities ([P0-94])**
+
+Foreign investors (Non-Resident Aliens, NRAs) holding US equities (Apple, Microsoft, Tesla) or US-domiciled ETFs (VOO, SPY, QQQ) via brokerages like Interactive Brokers are subject to an aggressive fiscal trap:
+* **Statutory Exemption Floor:** While US citizens enjoy an exemption exceeding $13M, NRAs under 26 U.S. Code § 2102(b)(1) receive an estate tax exemption of **only $60,000**.
+* **Tax Rate:** All *US-situs assets* (securities with ISINs beginning with `US`) exceeding $60,000 are taxed at rates **up to 40%** upon the owner's death.
+* **Asset Lock:** Brokerages freeze all accounts upon notification of death pending issuance of an official *IRS Form 5173 Transfer Certificate*, which requires 12–24 months of forensic probate review.
+
+> 🛠️ **MANDATORY ASSET STRUCTURING:** Complete ban on direct US-domiciled equities/funds for NRAs. Portfolio assets must be allocated exclusively into **European UCITS ETFs domiciled in Ireland or Luxembourg (ISINs starting with `IE` and `LU`, e.g., CSPX, VUAA, EUNL)**. These funds are legally exempt from US estate tax clawbacks.
 
 
 ---
@@ -7933,6 +8059,43 @@ In the Netherlands, 95% of the population speaks English fluently, making the co
 
 ---
 
+
+
+---
+
+### **10.17. International Legal Forensics: The Apostille Trap, Vienna 1968 Driving Recourse & Brussels IV Succession**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             THREE CRITICAL EXPAT LEGAL SINKHOLES (L4 STATUTORY DIRECTIVE)              │
+├─────────────────┬──────────────────────────────────────────┬───────────────────────────┤
+│ LEGAL NODE      │ MECHANISM & EXPOSURE                     │ BOB'S HARDENED PROTOCOL   │
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 1. **Apostille  │ The 1961 Hague Convention applies ONLY   │ Verify destination via    │
+│    vs Consular  │ to signatory states. Key hubs (UAE,      │ HCCH tables. For non-Hague│
+│    Legalization│ Thailand, Vietnam, Qatar, Egypt) reject  │ destinations, execute the │
+│    [P0-96]      │ Apostilles. Documents are legally void.  │ 4-step chain: Notary $\to$│
+│                 │ (Canada joined 01/2024, China 11/2023).  │ Justice $\to$ MFA $\to$   │
+│                 │                                          │ Target Embassy in home.   │
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 2. **Vienna     │ Vienna Convention 1968 (Art. 41) applies │ After establishing normal │
+│    1968 Driving │ strictly to TOURISTS. Establishing normal│ residency (185 days), non-│
+│    Recourse**   │ residency (185 days) renders home license│ exchanged driving is      │
+│    [P0-97]      │ void. In a severe accident, insurers void│ "Unlicensed Driving". In- │
+│                 │ policy and file 100% recourse ($100k+).  │ surer files 100% recourse.│
+│                 │                                          │ Swap license / take exams.│
+├─────────────────┼──────────────────────────────────────────┼───────────────────────────┤
+│ 3. **Brussels   │ Under EU Reg. 650/2012 Art. 21, default  │ Execute an EU notarial will│
+│    IV Forced    │ succession law is the habitual residence │ containing an explicit    │
+│    Heirship**   │ at death. Local forced heirship (France, │ *Professio Juris* clause  │
+│    [P0-98]      │ Spain) mandates reserving 50–66% for     │ under Art. 22 electing the│
+│                 │ children (*reserve hereditaire*).        │ national law of citizen.  │
+└─────────────────┴──────────────────────────────────────────┴───────────────────────────┘
+```
+
+
+---
+
 ### **Consolidated Forensic Matrix of World Emigration Risers (2026)**
 
 | Country of Departure / Hub | Departure/Exit Tax Mechanic | Main Hidden Clog (Single Killer Defect) | Extraterritorial Leash | Status for Capital |
@@ -8201,6 +8364,43 @@ If a service provider or store blew the deadlines or stiffed you — don't write
 
 ---
 
+
+
+---
+
+### **18. Sewer Hydraulic Defense: Sewage Backwater Protection (EN 12056-4) & Septic Maintenance ([P0-99])**
+
+> 🚽 **HYDROSTATIC BACKWATER PHYSICS:**  
+> During torrential rainfall, municipal storm-sewer mains surcharge above basement and slab levels. Under communicating vessel hydrostatic pressure, raw municipal sewage erupts from ground-floor toilets and floor drains.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ EN 12056-4 & DIN 1986-100 BUILDING WASTEWATER STANDARDS                            │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [PROHIBITION OF FLAPPER VALVES ON BLACKWATER]: Installing gravity backwater flapper │
+│    valves (Type 1/2 per EN 13564) on blackwater (fecal) lines is STRICTLY PROHIBITED.  │
+│    Toilet paper and fecal solids jam mechanical flaps open during storm backflow.      │
+│ 2. [AUTOMATED LIFTING PLANTS]: All drainage fixtures below street backwater level      │
+│    (Rückstauebene) must discharge via an automated Wastewater Lifting Plant (Hebeanlage│
+│    per EN 12056-4) with a backflow discharge loop routed ABOVE street flood level.     │
+│ 3. [SEPTIC TANK BIOCENOSIS]: Chlorine bleach and broad-spectrum antibiotics eradicate  │
+│    100% of nitrifying active sludge bacteria. Note: laundry phosphates do NOT harm     │
+│    septic bacteria (phosphorus is a mandatory nutrient for biomass growth BOD:N:P 100).│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **19. Metallurgical Plumbing Integrity: Galvanic Corrosion & Brass Dezincification ([P0-100])**
+
+> 🔬 **ELECTROCHEMICAL SHEARING OF FITTINGS (ISO 6509-1 / DIN 50930-6):**  
+> 1. **Galvanic Cu-Fe Couple ($\Delta E = 0.78\text{ V}$):** Direct threading of copper pipes into carbon/galvanized steel fittings creates an active galvanic cell, causing catastrophic iron perforation within 12–24 months. Mandate dielectric unions or bronze spacers ($\ge 50\text{ mm}$).
+> 2. **Dezincification of Standard Brass (CW617N):** In chlorinated/mineralized water, zinc selectively leaches out of standard brass ($\beta$-phase), leaving a brittle, porous copper sponge that shears under 4–6 bar mains pressure, causing catastrophic structural flooding.
+> 3. **Defensive Standard:** Mandate strictly Dezincification-Resistant **DZR Brass (alloy CW602N per ISO 6509-1)** or **CC491K Bronze** ball valves, accompanied by automated motorized shutoff valves backed by 12V UPS power.
+
+
+---
+
 ### **Appendix F: "The Reference of Cognitive Fuses & the 03:00 Night Runbook"**
 
 > 💡 **STEP 0: WHAT TO DO IF DISASTER STRUCK RIGHT NOW**
@@ -8439,12 +8639,12 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-* **Revision EN 2.7 — Matrimonial & Relationship Forensics (Checked: 2026-10-10; Base v23.3):**
-  1. *L1 Biological Echelon (§2.5.1–§2.5.3):* Injected biological OPEX accounting (female gestational cardiac surge vs male violent mortality / life expectancy deficit), biochemical oral contraceptive sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), forensic paternity base rates (1-2% unselected vs 25-30% suspected, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support).
-  2. *L2 Cognitive Echelon (§6.7):* Injected dating platform forensics (Gini coefficient 0.58-0.62, top 20% male like concentration), Allison Daminger 4-phase Mental Load framework (Anticipate, Identify, Decide, Monitor), male emotional SPOF & normative alexithymia, 4 toxic relationship scam markers (Via Negativa), Bob's 6 Cast-Iron Partnership Valves.
-  3. *L3 Capital Echelon (§7.5.10):* Injected Coase-Becker marital transaction economics, Three-Bucket Treasury Architecture (Sovereign Husband, Sovereign Wife, Proportional Joint OPEX), Motherhood Penalty compensatory mechanisms.
-  4. *L4 Legal Echelon (§10.15–§10.16):* Injected 12-Jurisdiction Comparative Matrimonial Matrix (Ukrainian Art. 74 SKU cohabitation trap, US Community vs Equitable, Scottish 3-year Clean Break, Australian BFA s.90G, EU Regulation 2016/1103 Rome IVa Choice of Law Art. 22, French Prestation Compensatoire, German pension splitting) and 4-Zone LGBTQ+ Pressure Matrix (Red, Orange, Gray, Green, border burner protocols, healthcare proxies).
-  5. *L5 Field Telemetry (Appendix F):* Injected Bayesian Marital Survival Matrix ((S)=0.25-0.35$) and the 03:00 AM Relationship Emergency Runbook.
+* **Revision EN 2.7 — Systemic & Forensic Resilience Update (Checked: 2026-10-10; Base v23.3):**
+  1. *L1 Biological Echelon (§2.5.1–§2.6):* Injected biological OPEX accounting (gestational load vs male violent mortality / life expectancy deficit), oral contraceptive biochemical sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), paternity forensics (1-2% unselected vs 25-30% suspected base rates, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support); Acute Sensorineural Hearing Loss protocol (SSNHL Rule 3-3-3, Weber/Rauch Hum test, Prednisolone 1 mg/kg/d + mandatory 7–10 day tapering against Addisonian crisis, [P0-89]); Acute Angle-Closure Glaucoma protocol (AACG pupillary block from decongestants in darkness, IOP surge, LPI 6–12h window, [P0-90]); Acetaminophen / Paracetamol hepatotoxicity thresholds (NAPQI accumulation, 3g/2g caps, 8h IV N-acetylcysteine golden window, [P0-91]).
+  2. *L2 Cognitive Echelon (§6.2 items 16–17, §6.7):* Injected dating platform forensics (Gini coefficient 0.58-0.62), Allison Daminger 4-phase Mental Load framework, male emotional SPOF & normative alexithymia; Big Tech Account Nuking (CSAM/OFAC false flags obliterating cloud synced passkeys, YubiKey 5 hardware memory limits: 25 keys on <5.7, 100 keys on 5.7+, CTAP2_ERR_KEY_STORE_FULL error, [P0-92]); remote eSIM-swapping vector via carrier web portal (GSMA SGP.22), SMS-2FA bypass and in-branch passport lock directive ([P0-93]).
+  3. *L3 Capital Echelon (§7.5.9, §7.5.10):* Injected Coase-Becker marital transaction economics, Three-Bucket Treasury Architecture, Motherhood Penalty offsets; P2P cryptocurrency off-ramp risk isolation (FinCERT limits, third-party wire transit liability under 18 U.S.C. / POCA / 187 UK RF, white cash OTC protocols, [P0-95]); US Federal Estate Tax on Non-Resident Aliens (US NRA Estate Tax): $60,000 statutory limit under 26 U.S.C. § 2102(b)(1), 40% tax rate and mandatory asset structuring via European UCITS ETFs with IE/LU ISINs ([P0-94]).
+  4. *L4 Legal Echelon (§10.15–§10.17):* Injected 12-Jurisdiction Comparative Matrimonial Matrix and 4-Zone LGBTQ+ Pressure Matrix; Consular Legalization Atlas (Hague 1961 status, Canada Jan 2024, China Nov 2023, 4-step consular legalization for UAE, Thailand, Vietnam, Egypt, [P0-96]); Vienna Convention 1968 on Road Traffic (Art. 41 p. 2(b)/7) and 100% insurance subrogation/recourse risks ($100k+) upon establishing residency >185 days ([P0-97]); EU Regulation No. 650/2012 (Brussels IV) and forced heirship avoidance via Art. 22 Professio Juris clause ([P0-98]).
+  5. *L5 Physical Systems (Appendix E §18–19, Appendix F):* Injected Building Wastewater Standards EN 12056-4 / DIN 1986-100 (prohibition of gravity flapper valves on blackwater lines, mandatory lifting plants with loops above street backflow level, septic biomass protection, [P0-99]); Metallurgical Plumbing Standards: galvanic Cu-Fe corrosion ($\Delta E = 0.78$ V), CW617N brass dezincification per ISO 6509-1, mandatory dielectric unions and DZR CW602N / CC491K bronze valves ([P0-100]); Bayesian Marital Survival Telemetry ($P(S)=0.25-0.35$) and 03:00 AM Relationship Emergency Protocol.
 
 * **Revision EN 2.4 — Bunker Briefing Prologue Cold Open (base EN 2.3; Checked: 2026-10-07):**
   1. *Prologue:* inserted the Sidorovich-style "Bunker Briefing (Sidorovich Had a Point)" addressed to the reader-operator right before the Intake Gate — a bridge from the Origin Story to the starter quests: the closing line ("Here's your pipe wrench, here's the manifold. Get to work.") kicks the door open straight into the ⚡ INTAKE GATE section, where the "10 Mandatory Actions for the First Week" and the 03:00 failure sensors begin.

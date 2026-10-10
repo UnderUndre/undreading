@@ -233,6 +233,43 @@ If a service provider or store blew the deadlines or stiffed you — don't write
 
 ---
 
+
+
+---
+
+### **18. Sewer Hydraulic Defense: Sewage Backwater Protection (EN 12056-4) & Septic Maintenance ([P0-99])**
+
+> 🚽 **HYDROSTATIC BACKWATER PHYSICS:**  
+> During torrential rainfall, municipal storm-sewer mains surcharge above basement and slab levels. Under communicating vessel hydrostatic pressure, raw municipal sewage erupts from ground-floor toilets and floor drains.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ EN 12056-4 & DIN 1986-100 BUILDING WASTEWATER STANDARDS                            │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [PROHIBITION OF FLAPPER VALVES ON BLACKWATER]: Installing gravity backwater flapper │
+│    valves (Type 1/2 per EN 13564) on blackwater (fecal) lines is STRICTLY PROHIBITED.  │
+│    Toilet paper and fecal solids jam mechanical flaps open during storm backflow.      │
+│ 2. [AUTOMATED LIFTING PLANTS]: All drainage fixtures below street backwater level      │
+│    (Rückstauebene) must discharge via an automated Wastewater Lifting Plant (Hebeanlage│
+│    per EN 12056-4) with a backflow discharge loop routed ABOVE street flood level.     │
+│ 3. [SEPTIC TANK BIOCENOSIS]: Chlorine bleach and broad-spectrum antibiotics eradicate  │
+│    100% of nitrifying active sludge bacteria. Note: laundry phosphates do NOT harm     │
+│    septic bacteria (phosphorus is a mandatory nutrient for biomass growth BOD:N:P 100).│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **19. Metallurgical Plumbing Integrity: Galvanic Corrosion & Brass Dezincification ([P0-100])**
+
+> 🔬 **ELECTROCHEMICAL SHEARING OF FITTINGS (ISO 6509-1 / DIN 50930-6):**  
+> 1. **Galvanic Cu-Fe Couple ($\Delta E = 0.78\text{ V}$):** Direct threading of copper pipes into carbon/galvanized steel fittings creates an active galvanic cell, causing catastrophic iron perforation within 12–24 months. Mandate dielectric unions or bronze spacers ($\ge 50\text{ mm}$).
+> 2. **Dezincification of Standard Brass (CW617N):** In chlorinated/mineralized water, zinc selectively leaches out of standard brass ($\beta$-phase), leaving a brittle, porous copper sponge that shears under 4–6 bar mains pressure, causing catastrophic structural flooding.
+> 3. **Defensive Standard:** Mandate strictly Dezincification-Resistant **DZR Brass (alloy CW602N per ISO 6509-1)** or **CC491K Bronze** ball valves, accompanied by automated motorized shutoff valves backed by 12V UPS power.
+
+
+---
+
 ### **Appendix F: "The Reference of Cognitive Fuses & the 03:00 Night Runbook"**
 
 > 💡 **STEP 0: WHAT TO DO IF DISASTER STRUCK RIGHT NOW**
@@ -471,12 +508,12 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-* **Revision EN 2.7 — Matrimonial & Relationship Forensics (Checked: 2026-10-10; Base v23.3):**
-  1. *L1 Biological Echelon (§2.5.1–§2.5.3):* Injected biological OPEX accounting (female gestational cardiac surge vs male violent mortality / life expectancy deficit), biochemical oral contraceptive sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), forensic paternity base rates (1-2% unselected vs 25-30% suspected, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support).
-  2. *L2 Cognitive Echelon (§6.7):* Injected dating platform forensics (Gini coefficient 0.58-0.62, top 20% male like concentration), Allison Daminger 4-phase Mental Load framework (Anticipate, Identify, Decide, Monitor), male emotional SPOF & normative alexithymia, 4 toxic relationship scam markers (Via Negativa), Bob's 6 Cast-Iron Partnership Valves.
-  3. *L3 Capital Echelon (§7.5.10):* Injected Coase-Becker marital transaction economics, Three-Bucket Treasury Architecture (Sovereign Husband, Sovereign Wife, Proportional Joint OPEX), Motherhood Penalty compensatory mechanisms.
-  4. *L4 Legal Echelon (§10.15–§10.16):* Injected 12-Jurisdiction Comparative Matrimonial Matrix (Ukrainian Art. 74 SKU cohabitation trap, US Community vs Equitable, Scottish 3-year Clean Break, Australian BFA s.90G, EU Regulation 2016/1103 Rome IVa Choice of Law Art. 22, French Prestation Compensatoire, German pension splitting) and 4-Zone LGBTQ+ Pressure Matrix (Red, Orange, Gray, Green, border burner protocols, healthcare proxies).
-  5. *L5 Field Telemetry (Appendix F):* Injected Bayesian Marital Survival Matrix ((S)=0.25-0.35$) and the 03:00 AM Relationship Emergency Runbook.
+* **Revision EN 2.7 — Systemic & Forensic Resilience Update (Checked: 2026-10-10; Base v23.3):**
+  1. *L1 Biological Echelon (§2.5.1–§2.6):* Injected biological OPEX accounting (gestational load vs male violent mortality / life expectancy deficit), oral contraceptive biochemical sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), paternity forensics (1-2% unselected vs 25-30% suspected base rates, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support); Acute Sensorineural Hearing Loss protocol (SSNHL Rule 3-3-3, Weber/Rauch Hum test, Prednisolone 1 mg/kg/d + mandatory 7–10 day tapering against Addisonian crisis, [P0-89]); Acute Angle-Closure Glaucoma protocol (AACG pupillary block from decongestants in darkness, IOP surge, LPI 6–12h window, [P0-90]); Acetaminophen / Paracetamol hepatotoxicity thresholds (NAPQI accumulation, 3g/2g caps, 8h IV N-acetylcysteine golden window, [P0-91]).
+  2. *L2 Cognitive Echelon (§6.2 items 16–17, §6.7):* Injected dating platform forensics (Gini coefficient 0.58-0.62), Allison Daminger 4-phase Mental Load framework, male emotional SPOF & normative alexithymia; Big Tech Account Nuking (CSAM/OFAC false flags obliterating cloud synced passkeys, YubiKey 5 hardware memory limits: 25 keys on <5.7, 100 keys on 5.7+, CTAP2_ERR_KEY_STORE_FULL error, [P0-92]); remote eSIM-swapping vector via carrier web portal (GSMA SGP.22), SMS-2FA bypass and in-branch passport lock directive ([P0-93]).
+  3. *L3 Capital Echelon (§7.5.9, §7.5.10):* Injected Coase-Becker marital transaction economics, Three-Bucket Treasury Architecture, Motherhood Penalty offsets; P2P cryptocurrency off-ramp risk isolation (FinCERT limits, third-party wire transit liability under 18 U.S.C. / POCA / 187 UK RF, white cash OTC protocols, [P0-95]); US Federal Estate Tax on Non-Resident Aliens (US NRA Estate Tax): $60,000 statutory limit under 26 U.S.C. § 2102(b)(1), 40% tax rate and mandatory asset structuring via European UCITS ETFs with IE/LU ISINs ([P0-94]).
+  4. *L4 Legal Echelon (§10.15–§10.17):* Injected 12-Jurisdiction Comparative Matrimonial Matrix and 4-Zone LGBTQ+ Pressure Matrix; Consular Legalization Atlas (Hague 1961 status, Canada Jan 2024, China Nov 2023, 4-step consular legalization for UAE, Thailand, Vietnam, Egypt, [P0-96]); Vienna Convention 1968 on Road Traffic (Art. 41 p. 2(b)/7) and 100% insurance subrogation/recourse risks ($100k+) upon establishing residency >185 days ([P0-97]); EU Regulation No. 650/2012 (Brussels IV) and forced heirship avoidance via Art. 22 Professio Juris clause ([P0-98]).
+  5. *L5 Physical Systems (Appendix E §18–19, Appendix F):* Injected Building Wastewater Standards EN 12056-4 / DIN 1986-100 (prohibition of gravity flapper valves on blackwater lines, mandatory lifting plants with loops above street backflow level, septic biomass protection, [P0-99]); Metallurgical Plumbing Standards: galvanic Cu-Fe corrosion ($\Delta E = 0.78$ V), CW617N brass dezincification per ISO 6509-1, mandatory dielectric unions and DZR CW602N / CC491K bronze valves ([P0-100]); Bayesian Marital Survival Telemetry ($P(S)=0.25-0.35$) and 03:00 AM Relationship Emergency Protocol.
 
 * **Revision EN 2.4 — Bunker Briefing Prologue Cold Open (base EN 2.3; Checked: 2026-10-07):**
   1. *Prologue:* inserted the Sidorovich-style "Bunker Briefing (Sidorovich Had a Point)" addressed to the reader-operator right before the Intake Gate — a bridge from the Origin Story to the starter quests: the closing line ("Here's your pipe wrench, here's the manifold. Get to work.") kicks the door open straight into the ⚡ INTAKE GATE section, where the "10 Mandatory Actions for the First Week" and the 03:00 failure sensors begin.
