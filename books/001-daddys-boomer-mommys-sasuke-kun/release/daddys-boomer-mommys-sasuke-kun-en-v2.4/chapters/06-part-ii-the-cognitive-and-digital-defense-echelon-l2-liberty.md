@@ -2184,3 +2184,6 @@ Hardware FIDO2 / YubiKey tokens secure only the initial login handshake. Once au
 │ (DBSC) to cryptographically bind tokens to host hardware.                              │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+

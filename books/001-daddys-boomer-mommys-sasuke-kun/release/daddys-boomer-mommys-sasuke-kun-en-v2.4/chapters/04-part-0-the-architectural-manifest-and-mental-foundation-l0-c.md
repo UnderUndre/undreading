@@ -458,3 +458,6 @@ ENVIRONMENTAL INPUT (Toxins / Chronic stress / Photons / Load)
 > You cannot change your processor's stock ROM, but you hold 100% control over the environmental compiler: toxin filtering, circadian light, Single-WIP, and muscular load determine which lines of code execute right now. Law 1.0.20 (*"Environment > Willpower"*) is burned into the cell's biochemistry itself.
 
 ---
+
+---
+

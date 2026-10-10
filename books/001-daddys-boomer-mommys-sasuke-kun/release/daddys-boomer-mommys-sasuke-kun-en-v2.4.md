@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 23.3 → EN 2.5 (Montenegro Nov 1 2026 VFS update, Ukrainian TPD 2028 Architecture, Spanish Housing Decrees, Anglo-Saxon Fiscal Hammer §10.14, P0-111–P0-114)
+**Revision:** 23.3 → EN 2.6 (Montenegro Nov 1 2026 VFS update, Ukrainian TPD 2028 Architecture, Spanish Housing Decrees, Anglo-Saxon Fiscal Hammer §10.14, Hobby Hydraulics & Somatic Defectoscopy §3.12, P0-111–P0-115)
 
 ---
 
@@ -309,6 +309,7 @@ Before you start turning valves, let's normalize all the codes into plain human 
 | **[P0-112]** | **Student Loan Emigration Trap (AU/NZ/UK)** | **L4** | Treasury Laws Amendment Act; IRD Overseas-based Student Loan; UK Plan 2/Plan 5 | Departure from Australia/NZ/UK with outstanding student loan triggers lifelong worldwide income collection + airport arrests | Before departure — full repayment or refinancing of student loan. Upon departure from NZ >183 days — immediate IRD notification and mandatory payment calculation. In UK — file Overseas Income Assessment Form. In AU — file Overseas Travel Notification within 7 days. |
 | **[P0-113]** | **IHT 10-Year Tail (UK)** | **L4** | Inheritance Tax Act 1984; Finance Act 2024 (Non-Dom Reform) | Emigration from UK after 10+ years of residence retains 40% inheritance tax on all worldwide assets for up to 10 years after departure | With LTR status (10 of last 20 years in UK) — transfer assets to protection trusts or gifts 7+ years before emigration. Use spousal exemptions (Nil-Rate Band £325k + Residence Nil-Rate Band £175k). Document date of residency termination. |
 | **[P0-114]** | **Domicile vs Residency Decoupling (IE/UK)** | **L4** | Taxes Consolidation Act 1997 s. 531AA; Finance Act 2024 | Irish domicile or UK LTR status creates extraterritorial tax tails after departure | Before emigrating from Ireland — check ordinarily resident status (5 years). From UK — check LTR (10 of 20 years). If thresholds exceeded (IE: €5M assets / €1M income) — early asset structuring. Use Remittance Basis for non-domicile individuals with source-of-funds documentation. |
+| **[P0-115]** | **Hobby Pressure Relief & Anti-Monetization Gate** | **L1/L2** | US: OSHA / NIOSH REL 85 dBA; FTC Docket C-4565 | UK: HSE RR900; IARC Monograph Vol. 100C; Deci 1971; Lepper 1973 (Overjustification); Bediou 2018 (Action $g=0.34$); Hansraj 2014 (Text Neck 27 kg at $60^\circ$); Altenmüller 2010 ($S1$ focal dystonia 1%); Shattock & Tipton 2012 (Autonomic Conflict); US Navy Diving Manual (Boyle's Law / AGE); Laidlaw 2017 (Pb BLL $>20\ \mu\text{g/dL}$); Azimi 2016 (UFP $<100\text{ nm}$) | Monetizing a pressure-relief hobby turns your safety valve into an inefficient second sweatshop (Overjustification); unmetered extreme sports or unventilated craft destroy L1 somatic risers | Keep hobbies strictly unprofitable (pure cognitive R&M expense). Video games capped at $\le 60\text{--}90\text{ min/day}$ on paid native titles (no loot boxes). Musical practice metered in 45-min blocks + linear attenuation earplugs (NIOSH 85 dBA). Reading strictly eye-level (music stand/podium). Endurance running in Zone 2 $\le 40\text{--}50\text{ km/wk}$ strictly to thirst (blockade of right-ventricular fibrosis and fatal EAH). Strength training with open-glottis hissing exhale (ban valsalva spikes to 480/350 mmHg). Martial arts: absolute ban on hard head sparring (CTE p-tau) and instant tap-out on neck chokes (carotid dissection). Woodworking in FFP3/N95 with forced extraction (IARC Group 1 oak/beech dust). Negative-pressure ducting and nitrile gloves for 3D printing and soldering. |
 | **[P1-01]** | **Harness Suspension Trauma Shock** | **L1** | OSHA SHIB 03-24-2004 / Thomassen 2009 / ANSI Z359.2 | Orthostatic shock from pooling 1.5–2.0 L blood in legs during motionless suspension in harness | Equip full-body harnesses with Trauma Relief Straps; place rescued operators flat on their backs immediately (the old "Rescue Death" semi-seated myth is debunked). |
 | **[P1-02]** | **Session Cookie Hijacking (DPoP)** | **L2** | IETF RFC 9449 (DPoP) / W3C WebAuthn L3 / Chrome DBSC | Infostealers dump decrypted session cookies from browser RAM, bypassing primary FIDO2 MFA | Enforce short session TTLs (4–8 hrs); implement cryptographic DPoP (RFC 9449) and Device Bound Session Credentials (DBSC); isolate critical admin profiles. | | **L1–L5** | US: CDC / Brenner 2009 (swimming <4 yo) | UK: ERC Kids Save Lives / Hartshorne 2018 (L2 syntax <10–12 yo); Rose 2008 (>10,000 lux); 12-country jurisdictional atlas (CBT, Enlistment Act, JISA/RESP) | Commercial toddler fads (preschool coding/mental arithmetic) blind parents to craniofacial collapse, axial myopia, and lifelong citizenship traps | Foundational Somatic Core: certified swimming survival (88% drowning risk reduction), 120 min/day ambient daylight (myopia blockade), hard mastication (airway development), Ukemi fall kinematics (50–70% head acceleration damping), peak bone mass accumulation, pediatric CPR/Heimlich. Cognitive Tooling: touch typing 80+ WPM, SHEG lateral reading, epistemic silence, terminal CLI. Jurisdictional Defense: proactive audit of conscription exposure (Singapore Enlistment Act bond SGD 75k, UK Plan 5, US CBT/FATCA compliance) and property restriction statutes. | | **L5** | US: NFPA 70 (NEC Art. 250) | UK: BS 7671 (18th Ed); open PEN in TN-C-S overhead grids; two-stage RCD cascade (Type S) | Overhead neutral burn dumps neighborhood unbalanced current into your ground rod, energizing pipes to 220V | Convert rural/overhead grid dwellings to a **TT grounding system** (complete galvanic isolation of local PE from grid PEN/N). Install a two-stage selective RCD cascade: 100–300 mA Type S (Class A/F) main RCD + 10–30 mA branch RCDs. Install 3-phase overvoltage monitoring relays wired to a shunt-trip contactor. | | **L3** | ISO/IEC/IEEE 12207:2017/2026; ISO/IEC/IEEE 29148:2018; NIST SP 800-218 (SSDF); PCI DSS v4.0.1; DORA State of DevOps | Coding off a business plan without Discovery/SRS/architecture spikes = landing in the fat tail of project failures (Flyvbjerg fat tails, planning fallacy) | **No business logic before the foundation:** Phase 0 — CustDev + regulatory screening; Phase 1 — SRS (FR/NFR) + STRIDE threat modeling; Phase 2 — modular monolith + ADRs + timeboxed spikes (spike code gets deleted); Phase 3 — IaC + CI/CD + one end-to-end Tracer Bullet; Phase 4 — iterative delivery with tests and Expand/Contract schema migrations; Phase 5 — load tests + DR GameDay + canary release; Phase 6 — SLO/Error Budgets, post-mortems, SBOM. Exception: an isolated tokenization microservice under PCI DSS CDE. |
 
@@ -333,6 +334,10 @@ Before you start turning valves, let's normalize all the codes into plain human 
 > * **Crushed limb (#79 Crush Syndrome):** Someone trapped under a concrete slab for $>1\text{--}2\text{ hours}$ and cracking jokes? **DO NOT LIFT THE SLAB BLINDLY!** First, crank a C-A-T tourniquet tight ABOVE the crush site to block the toxic potassium/myoglobin wash, begin IV fluids/bicarbonate, and only then lift the weight. The slab acted as a tourniquet: lifting it unprepared washes lethal potassium into the heart, stopping it in 30 seconds ("smiling death").
 > * **Dry floor trap in the bathroom (#80 U-Trap Bioaerosols):** Pour 500 ml water + 50 ml mineral oil monthly into unused floor drains. Otherwise, the bathroom exhaust fan pulls viral sewage aerosols straight out of the building stack onto your toothbrush (the 2003 Hong Kong Amoy Gardens SARS outbreak killed 42 this way).
 > * **Economizing on the water heater (#81 Legionella):** Set the boiler to 40–45°C to "save power"? You just built an incubator for lethal *Legionella* pneumonia. Water heater storage must stay $\ge 60^\circ\text{C}$ ($140^\circ\text{F}$) — and install a Thermostatic Mixing Valve (TMV) at the outlet to prevent scalding at the tap.
+> * **Button battery swallowed (#101):** Child swallowed a lithium coin battery? It won't "just pass naturally": cathodic electrolysis produces concentrated sodium hydroxide ($\text{NaOH}$), burning an esophago-aortic fistula within 120 minutes with fatal exsanguination. If $>1$ year old — administer 10 mL pure honey every 10 minutes as an acid buffer and rush to surgical endoscopy.
+> * **Paracetamol overdose (#102):** Took 8–10 grams of cold powders (or 4 g with alcohol)? Toxic NAPQI metabolization silently liquefies liver cells over 3 days without pain. Antidote is N-acetylcysteine (NAC) ideally within the first 8 hours.
+> * **Hobbies and crafts (#115 Pressure Relief):** Monetizing your passion turns your primary stress-relief valve into a second low-paid sweatshop (Deci 1971 Overjustification). Hobbies must remain unprofitable scheduled maintenance for your brain. Games: strictly paid native titles without loot boxes, capped at 90 minutes. Music: 45-min blocks + linear earplugs against $S1$ focal dystonia and tinnitus. Running: Zone 2 $\le 40\text{--}50\text{ km/wk}$ strictly to thirst (blockade of right-ventricular fibrosis and fatal EAH). In BJJ, tap out the instant a choke closes (carotid dissection); in boxing, ban hard head sparring (CTE p-tau dementia). Woodworking, 3D printing, and soldering: strictly under forced ventilation with FFP3/N95 respirators and nitrile gloves (IARC Group 1 oak dust, styrene UFP nanoparticles, lead aerosol).
+> * **Harness suspension (#101/P1-01):** Slipped and hanging in a fall-arrest harness? Motionless vertical hang pools 2 liters of blood in thigh veins, inducing asystolic cardiac arrest in 15–20 minutes. Immediately deploy Trauma Relief Straps, step into loops, and pump calves. Lay rescued operators flat on their backs immediately.
 
 #### **Cluster 2. Digital perimeter, passwords, and AI (L2 Liberty & Control):**
 
@@ -2052,6 +2057,190 @@ A full-body fall-arrest harness saves your life on a roof or tower fall, but sta
 │ [P1-01] SUSPENSION-TRAUMA-SHOCK (L1): 2 L blood pools in legs during motionless hang,  │
 │ inducing asystole in 15–30 min; equip Trauma Relief Straps; place rescued operators    │
 │ flat on their backs immediately (the old seated Rescue Death myth is debunked).       │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **3.12. Somatic and Hydraulic Defectoscopy of Hobbies: Neuroplastic Buffers vs Dopamine Cavitation, Occupational Pathology & The Monetization Trap ([P0-115: HOBBY-PRESSURE-RELIEF-GATE])**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ MODULE STATUS: [L1 BIOLOGICAL / L2 COGNITIVE FIREWALL / L3 RESOURCES]                 │
+│ ARCHITECTURAL NODE: [MOD-HOBBY-HYDRAULICS]                                            │
+│ EVIDENCE TIER: Level 1 (RCTs / Meta-Analyses / FTC Federal Dockets / IARC Monographs) │
+│ FALSIFICATION PRESUMPTION: Commercial influencer axioms ("gaming trains reflexes",     │
+│ "music heals the soul", "reading makes you smart", "monetize your passion and you'll   │
+│ never work a day") are FALSE until stress-tested against receptor dynamics and torque. │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+> *"If it's not in the docket, the audit, or the PCAP dump, it's marketing fiction."*  
+> — **Bob the Infrastructure Plumber**
+
+Listen up, aspiring zen masters, weekend guitar shredders, marathon obsessives, and garage tinkerers. Bob here.
+
+The average civilian treats hobbies like a lush green meadow where everything is unconditionally therapeutic: sweat out a marathon, game until sunrise, saw oak boards in the shed, or flip your passion into a side hustle — and you're living the dream.
+
+Crack open the toxicology registries, orthopedic imaging reports, and federal trade dockets, however, and reality smacks you in the teeth. In infrastructure plumbing terms, a hobby is strictly an **Expansion Chamber (Pressure-Relief Valve)**. Its sole engineering objective is to bleed off excess cortisol and sympathetic nervous overdrive accumulated across high-pressure work lines ($L3$), without bursting your core biological riser ($L1$) or frying your cognitive processing buffer ($L2$). The moment you rip out this relief valve or screw a commercial billing meter onto its exhaust port, the entire hydraulic loop suffers catastrophic cavitation.
+
+```
+                      [ WORK CONTOUR L3 (Systemic Pressure / Stress) ]
+                                          │
+                                          ▼
+                      ┌───────────────────────────────────────┐
+                      │    HOBBY EXPANSION CHAMBER (L2)       │
+                      └───────────────────┬───────────────────┘
+                                          │
+             ┌────────────────────────────┴────────────────────────────┐
+             ▼                                                         ▼
+   [ LAMINAR FLOW (OPERATIONAL) ]                           [ TURBULENT FLOW (BLOWN VALVE) ]
+   • Flow State (mTOR / BDNF)                               • D2-Receptor Cavitation (Downregulation)
+   • Cortical Repair (NREM Sleep)                           • Maladaptive Plasticity (S1 Dystonia)
+   • Proprioception & Myokines                              • Text Neck (27 kg at C1–C7) / IARC Grp 1
+   • Cortisol Bleed (Deci 1971)                             • Inefficient Second Job (Overjustification)
+```
+
+---
+
+##### **1. First-Principles: Governing Laws & Mechanical Failure Modes**
+
+1. **Thermodynamics & Reward Neurochemistry ($D_2$ Receptors):**  
+   Dopamine spikes not on the reward itself, but on the Reward Prediction Error (Schultz 1997). Systems running variable-ratio reinforcement schedules (gacha pulls, loot boxes, PvP rank grinds, algorithmic infinite feeds) cause aggressive downregulation of striatal $D_2$ receptors, inducing chronic anhedonia toward real-world work and relationships.
+2. **Structural Biomechanics (Hooke's Law & Class-3 Levers):**  
+   An adult human head weighs $\approx 5\text{ kg}$ ($11\text{ lbs}$) in neutral alignment. Tilting the skull forward extends the gravitational lever arm: compression across the cervical spine (C1–C7) surges to **27 kg (60 lbs) at a $60^\circ$ tilt** (Hansraj, *Surg Technol Int 2014*, PMID: 25393825).
+3. **The Neuroplastic Paradox (Hebb's Rule & Focal Dystonia):**  
+   "Neurons that fire together, wire together." High-frequency, repetitive fine-motor loading (classical instruments, competitive gaming) causes separate receptive finger fields in primary somatosensory cortex $S1$ to **dedifferentiate and fuse together**, causing involuntary, career-ending muscle curling — musician's focal dystonia (Elbert et al. 1998, Altenmüller & Jabusch 2010).
+4. **Self-Determination Theory & The Overjustification Effect:**  
+   Intrinsic motivation ($I$) and extrinsic commercial incentive ($E$) do not combine additively. Monetizing a passion swaps its psychological locus of causality from autonomous recovery to transactional survival, saddling it with taxes, delivery deadlines, and chargebacks (Deci 1971, DOI: 10.1037/h0030644; Lepper & Greene 1973).
+5. **The Brain-Training Scam (Lumosity Fraud, FTC Docket C-4565):**  
+   The myth that brain-training mini-games protect against Alzheimer's or elevate general intelligence ($g$-factor) was shattered when the US Federal Trade Commission slapped Lumosity with a **$50 million fine** (reduced to $2M on insolvency). Independent RCTs prove Far Transfer to broad cognition is **statistically indistinguishable from zero**; you simply get better at playing that specific mini-game.
+6. **Bayesian Survival Calibration:**  
+   Without strict WIP limits, PPE, and biomechanical boundaries, unmetered hobby risks negate health dividends in $70\text{--}80\%$ of uncalibrated cases ($P(\text{Benefit}) \approx 0.20$). When insomnia, tendonitis, or escapism manifest, posterior probability $P(A|B)$ plunges to **$0.03$ (3%)**.
+
+---
+
+##### **2. Forensic Audit: 4 Cognitive-Sensory Hobbies**
+
+###### **A. Video Games (Action Titles vs Free-to-Play Gacha)**
+* **Solid Evidence [Fact L1]:** Meta-analyses by Bediou and Bavelier (*Bediou et al., Psychol Bull 2018*, 89 studies) and Basak (*Smith & Basak, PLoS ONE 2023*) confirm moderate, durable skill transfer from action video games to visual-spatial attention ($g = 0.34\text{ to } 0.55$). Laparoscopic surgeons logging $>3\text{ hrs/wk}$ on action titles committed **37% fewer operative errors** and performed manipulations **27% faster** than non-gaming colleagues (Rosser et al., *Arch Surg 2007*).
+* **Catastrophic Failure Modes:** Loot box mechanics deploy variable-ratio schedules identical to electronic slot machines, directly correlating with clinical gambling pathology (Zendle & Cairns, *PLoS ONE 2018*). Screen blue-light emission ($460\text{--}480\text{ nm}$) past 21:00 suppresses melatonin synthesis by **$50\text{--}85\%$**, obliterating deep NREM stage-3 sleep and glymphatic beta-amyloid clearance. Chronic progression culminates in ICD-11 Gaming Disorder (6C51).
+* **Engineering Directive:** Cap gaming at $\le 60\text{--}90\text{ min/day}$. Run paid native titles strictly; ban free-to-play microtransaction sinks entirely.
+
+###### **B. Musical Instruments (Corpus Callosum vs $S1$ Dystonia)**
+* **Solid Evidence [Fact L1]:** High-dexterity acoustic training (piano, strings) drives verified thickening of the anterior and mid-body *Corpus Callosum*, drastically accelerating interhemispheric processing speed (Schlaug et al. 1995; Steele et al., *J Neurosci 2013*). Multimodal sensory-motor feedback delays dementia symptom manifestation by 4–5 years.
+* **Catastrophic Failure Modes:** Musician's Focal Dystonia (MFD) strikes **$\approx 1\%$ of professional instrumentalists** (Altenmüller 2010). Repetitive cortical firing degrades somatotopic boundaries in $S1$, causing the ring and middle fingers to curl uncontrollably in simultaneous spasm. Acoustic exposure from unattenuated drumming, brass, or headphone monitors generates **$95\text{--}110\text{ dBA}$**. Under NIOSH standards, safe permissible exposure at $100\text{ dBA}$ is exactly **15 minutes daily** (3 dB exchange rule); unmitigated exposure permanently shears cochlear hair cells, causing irreversible high-frequency sensorineural deafness and tinnitus.
+* **Engineering Directive:** Meter instrument practice into 45-minute blocks buffered by hand decompression. Monitor acoustic volumes strictly via linear-attenuation filtered musician earplugs (NIOSH 85 dBA REL).
+
+###### **C. Reading (Theory of Mind vs Text Neck)**
+* **Solid Evidence [Fact L1]:** Dodell-Feder & Tamir (*J Exp Psychol Gen 2024*, 70 RCTs) established that deep literary fiction significantly upgrades Theory of Mind (ToM, $g = 0.14$), simulating complex social topologies via Default Mode Network (DMN) activation.
+* **Catastrophic Failure Modes:** Reading tablets or paperbacks bent forward at $60^\circ$ exerts **27 kg of vertical axial load across C5–C6** (Hansraj 2014), causing cervical lordosis flattening, disc herniation, and occipital neuralgia. Unapplied non-fiction consumption ("Tsundoku" / illusion of competence) exploits passive dopamine hits: Ebbinghaus retention curves purge up to 80% of uncompiled ideas within 48 hours without structured WORM archival (Obsidian).
+* **Engineering Directive:** Position reading surfaces strictly at eye level (podium, music stand, or ergonomic book holder). Ban reading flat on your stomach. Capture actionable models immediately into a local personal wiki.
+
+###### **D. Physical Crafts & Gardening (Soil Microbiome vs IARC Group 1)**
+* **Solid Evidence [Fact L1]:** Soil contact introduces *Mycobacterium vaccae*, stimulating dorsal raphe serotonergic neurons via Toll-like receptors to downregulate systemic inflammation (Lowry et al., *Neuroscience 2007*). Tactile woodworking triggers parasympathetic tone (15–20% salivary cortisol drop).
+* **Catastrophic Failure Modes:** Hardwood dust (oak, beech) is an **IARC Group 1 Human Carcinogen (Monographs Vol. 100C)**, increasing sinonasal adenocarcinoma risk **20- to 50-fold** (Luce et al. 2002). Rose thorns and moss transmit dimorphic fungus *Sporothrix schenckii* ("Rose Gardener's Disease"), requiring 6 months of toxic systemic itraconazole. Soil manure hosts anaerobic *Clostridium tetani* (tetanus mortality up to 30–50% without booster immunity).
+* **Engineering Directive:** Machine sanding and routing strictly demand **FFP3/N95 respiratory protection** and forced-air HEPA extraction. Soil and thorn work require heavy puncture-proof gauntlets and a Td/Tdap booster every 10 years.
+
+---
+
+##### **3. Forensic Audit: 6 Athletic, Extreme & Technical Disciplines**
+
+###### **1. Ultra-Endurance: Marathons, Triathlons (Ironman) & Road Cycling**
+* **Solid Evidence [Fact L1]:** Zone-2 aerobic cycling stimulates **PGC-1$\alpha$**, inducing mitochondrial cristae biogenesis and GLUT4 transporter translocation, reversing MASLD and insulin resistance.
+* **Catastrophic Failure Modes:**
+  * *Myocardial Fibrosis & Atrial Fibrillation (AFib $\times 5$):* Extreme endurance overloads the thin-walled right ventricle (RV). Sustained $VO_2\text{ max}$ bouts generate cardiomyocyte micro-tears, elevating cardiac troponin I/T and BNP (Benito et al., *Circulation 2011*; La Gerche et al., *Eur Heart J 2012*). A decade of ultra-running precipitates focal patchy interstitial fibrosis (Late Gadolinium Enhancement on cardiac MRI). Veteran endurance athletes suffer **a 5-fold higher incidence of atrial fibrillation** than moderate runners (Armstrong, Eijsvogels et al., *Circulation 2018*).
+  * *Fatal Exercise-Associated Hyponatremia (EAH):* Commercial beverage marketing brainwashed runners to "drink ahead of thirst." Flooding the gut with hypotonic water during intense exertion while non-osmotic ADH secretion spikes drives plasma sodium down to **$[Na^+] < 125\dots 120\text{ mmol/L}$**. Brain cells swell along the osmotic gradient, triggering cerebral edema, brainstem herniation, and sudden collapse across the finish line (Rosner & Kirven, *JASN 2007*).
+  * *Ischemic Gut Breakdown (Runner's Diarrhea):* Shunting 80% of cardiac output away from splanchnic circulation starves the intestinal mucosa (van Wijck et al. 2011). Tight junction claudins disintegrate, leaking bacterial endotoxin (LPS) from stool directly into portal venous blood, igniting systemic sepsis-like inflammation.
+* **Engineering Directive:** Cap cardiovascular training for longevity at **$\le 40\text{--}50\text{ km/wk}$ (25–30 miles/wk)** in Zone 2. **Drink strictly to thirst**. On runs over 90 minutes, supplement sodium salts ($Na^+ \ge 500\text{ mg/L}$).
+
+###### **2. Heavy Strength Training: Powerlifting & Maximum Hypertrophy**
+* **Solid Evidence [Fact L1]:** Axial skeleton loading creates piezoelectric strain within bone matrices, stimulating osteoblasts to fortify Bone Mineral Density (BMD). Sarcopenia-buffering Type-II muscle retention is a paramount survival indicator in elder trauma.
+* **Catastrophic Failure Modes:**
+  * *The Valsalva Hemodynamic Spike (480/350 mmHg):* Direct intra-arterial brachial catheterization during leg presses to failure revealed arterial pressure spikes averaging **320/250 mmHg, with individual outliers exceeding 480/350 mmHg** (*MacDougall et al., J Appl Physiol 1985*, PMID: 3980383). Straining against a sealed glottis elevates intrathoracic pressure past 50 Torr. In individuals with silent cerebral aneurysms or aortic ectasia, this hydraulic shock produces subarachnoid hemorrhage, thoracic aortic dissection (Elefteriades 2005), or retinal detachment.
+  * *Tendon-to-Muscle Remodeling Mismatch:* Vascularized skeletal muscle hypertrophies within 4–8 weeks; bradytrophic tendons and ligaments take **6–12 months** to remodel Type-I collagen. Accelerating training loads rips tendons off bone insertions (pectoralis major avulsions, distal biceps tendon tears).
+* **Engineering Directive:** Ban 1-rep maximum attempts (1RM). Train within the hypertrophy window of **6–12 reps with 1–2 Reps in Reserve (RIR 1–2)**. **Exhale under effort with an open-glottis hissing breath** — never clamp the airway shut under peak load.
+
+###### **3. Combat Sports: Boxing, MMA & Brazilian Jiu-Jitsu (BJJ)**
+* **Solid Evidence [Fact L1]:** Central nervous system stress inoculation, suppression of the freezing response under kinetic threat, and automatic somatic reflexes protecting the neck during falls.
+* **Catastrophic Failure Modes:**
+  * *Chronic Traumatic Encephalopathy (CTE):* CTE is driven by **hundreds of subconcussive head impacts** sustained during routine sparring, even in heavy headgear (McKee et al., *Brain 2013*; Stern et al. 2013). Rotational acceleration shears axonal microtubules, depositing insoluble **hyperphosphorylated tau protein (p-tau)** deep within cortical sulci. A decade later, the practitioner experiences explosive rage, dementia, and suicidality. Boxing headgear prevents superficial cuts, but **cannot stop rotational inertia of the brain floating inside CSF**.
+  * *Carotid Artery Dissection in BJJ (Stroke):* Tight compression during chokes (guillotines, triangles, rear-naked chokes) pinches the carotid and vertebral vessels. Mechanical shear tears the internal arterial intima (*intimal tear*). Blood dissects into the vessel wall, forming an intramural hematoma and thrombus $\to$ middle cerebral artery occlusion and **paralyzing ischemic strokes in healthy 25- to 35-year-olds** (Peker et al., *J Stroke Cerebrovasc Dis 2021*).
+  * *Mat Infections:* Drug-resistant Methicillin-resistant *Staphylococcus aureus* (**MRSA**) and *Herpes Gladiatorum* transmitted via sweat and abrasive skin microtears on unclean mats.
+* **Engineering Directive:** In grappling, **tap out the instant a choke locks**, with zero ego and zero delay. In striking, enforce an **absolute ban on hard head sparring**; drill combos on pads and keep sparring strictly body-targeted.
+
+###### **4. Thermal Extremes: Cold Plunges, Ice Baths & Sauna**
+* **Solid Evidence [Fact L1]:** Regular dry Finnish sauna (4–7 sessions/wk at $\ge 80^\circ\text{C}$) cuts sudden cardiac death by **63%** and all-cause mortality by **40%** through Heat Shock Protein (HSP70) synthesis and arterial compliance improvements (Laukkanen et al., *JAMA Intern Med 2015*, $n=2315$).
+* **Catastrophic Failure Modes:**
+  * *Autonomic Conflict & Ventricular Fibrillation (Shattock & Tipton 2012):* Jumping head-first into ice water ($<10^\circ\text{C}$) triggers two opposing autonomic reflex loops simultaneously:
+    1. Cutaneous cold shock fires explosive **sympathetic drive** (epinephrine surge, tachycardia, peripheral vasoconstriction);
+    2. Facial submersion fires the parasympathetic **mammalian diving reflex**, demanding instantaneous vagal **bradycardia**.  
+    The brain slams the cardiac gas and brake pedals to the floor at the same split-second. The conduction system fractures into refractory dispersion, prolonged QT, ventricular fibrillation, and instant fatal asystole.
+  * *Shallow Water Blackout (Hyperventilation Traps):* Hyperventilating before underwater breath-holding flushes carbon dioxide ($PaCO_2 < 25\text{ mmHg}$), but adds virtually no extra oxygen. Because the respiratory center breathes on $CO_2$ triggers, cerebral oxygen depletes below the threshold of consciousness ($PaO_2 < 30\text{ mmHg}$) without any suffocating urge to inhale. The swimmer blacks out underwater in total silence and drowns (CDC Water Safety).
+* **Engineering Directive:** Never **submerge your head in ice water** (enter smoothly up to the chest only). **Absolute ban on hyperventilation or breath-holding in water** — breathing drills belong strictly on a soft living room couch.
+
+###### **5. Sub-Surface Diving: Scuba & Free-Diving**
+* **Solid Evidence [Fact L1]:** Powerful vagal conditioning, high tolerance to hypercapnic acidosis, and low baseline resting heart rate.
+* **Catastrophic Failure Modes:**
+  * *Pulmonary Barotrauma & Arterial Gas Embolism (AGE / Boyle's Law):* Hydrostatic pressure increases by 1 atmosphere every 10 meters depth. At 10 m, lung air is compressed to half its volume ($P = 2\text{ bar}$). If an ascending diver panics and holds their breath, Boyle's Law ($P_1V_1 = P_2V_2$) forces lung volume to double. Alveoli rupture at pressure differentials as low as **$\Delta P \ge 80\text{--}100\text{ mmHg}$**. Alveolar gas bursts into pulmonary venules $\to$ left atrium $\to$ carotid arteries. Billions of micro-bubbles occlude cerebral circulation, inducing immediate seizures, stroke, and death.
+  * *Decompression Sickness (DCS / Henry's Law):* Rapid ascent boils dissolved nitrogen out of lipid tissues and bloodstream like shaking a warm champagne bottle, causing spinal cord ischemia (paraplegia) and aseptic bone necrosis.
+* **Engineering Directive:** Rule #1 of diving: **"NEVER HOLD YOUR BREATH ON SCUBA."** Ascend slower than tiny bubbles ($\le 9\text{ m/min}$) with a mandatory 3-minute safety stop at 5 meters. Observe an **absolute 24-hour no-fly interval** post-dive.
+
+###### **6. Technical Craft: Marksmanship, 3D Printing & Soldering**
+* **Solid Evidence [Fact L1]:** Proprioceptive stilling and breath coordination. Soldering and 3D fabrication provide true hardware autarky ($L5$) — the ability to replace broken equipment or restore an encrypted radio transceiver during logistics collapse.
+* **Catastrophic Failure Modes:**
+  * *Aerosol Lead Poisoning in Indoor Firing Ranges:* Detonation of primers containing **lead styphnate** and friction of lead projectiles against rifling vaporize metallic lead dust directly into the shooter's breathing zone. In a meta-analysis of 36 studies, **86% of indoor range shooters had blood lead levels exceeding $5\ \mu\text{g/dL}$**, with half spiking past **$20\text{--}40\ \mu\text{g/dL}$** (Laidlaw et al., *Environ Health 2017*, PMID: 28376827). Lead induces irreversible neurotoxicity, cognitive drop, tremor, tubulointerstitial nephritis, and hypertension. Unmuffled gunfire ($140\text{--}165\text{ dB peak}$) instantly shears auditory stereocilia.
+  * *3D Printing Cytotoxicity:* SLA photopolymer resins contain reactive methacrylate monomers that penetrate latex gloves, causing severe contact dermatitis (GHS H317) and mutagenesis. FDM extrusion of ABS/ASA/Nylon releases carcinogenic **styrene** and billions of ultrafine nanoparticles (**UFP $<100\text{ nm}$ per minute**, Azimi et al., *Environ Sci Technol 2016*), which bypass bronchial cilia and migrate along olfactory pathways directly into the frontal lobes.
+  * *Rosin Asthma & Solder Contamination:* Pyrolysis of rosin flux ($300\text{--}360^\circ\text{C}$) releases abietic acid, precipitating irreversible **occupational bronchial asthma** (HSE UK Report RR900). Hand-soldering with lead alloys (60/40) leaves residues that transfer to food if eaten with unwashed hands.
+* **Engineering Directive:** Shoot **strictly at outdoor ranges** or facilities with certified laminar exhaust ventilation; wash hands with specialized heavy-metal soap (D-Lead); wear dual hearing protection (earplugs + electronic muffs). 3D printers belong **inside sealed enclosures with external ducted exhaust**; handle liquid resin with heavy nitrile gloves only. Soldering stations demand desktop activated-carbon/HEPA fume extractors and an absolute ban on food at the workbench.
+
+---
+
+##### **4. Consolidated Forensic Valve Matrix**
+
+| Hobby / Domain | Physiological & Cognitive Profile | Verification Status | Data Tier | Governing Metric / Source DOI | Bob's Actionable Rule |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **Action Video Games** | Visual-spatial attention, laparoscopic precision | **VERIFIED** *(cap $\le 90$ min)* | **Level 1** | Bediou 2018 (10.1037/bul0000130); Rosser 2007 | Limit to 1–1.5 hrs/day. Paid titles only; zero loot boxes. |
+| **Gacha / MMO / F2P** | Compulsive loop, $D_2$ burnout, circadian insomnia | **REFUTED AS HOBBY** *(Dopamine Sink)* | **Level 1** | Zendle 2018; ICD-11 6C51 | Ban installation. Variable-ratio mechanics destroy baseline drive. |
+| **Musical Instruments** | Corpus Callosum thickening, neuroplastic reserve | **VERIFIED** *(paced blocks)* | **Level 1** | Steele 2013; Schlaug 1995; Altenmüller 2010 | 45-min blocks. Paced finger recovery. Stop instantly on spasms. |
+| **Acoustics & Audio** | Auditory therapy vs stereocilia death ($>100\text{ dBA}$) | **VERIFIED** *(Critical Risk)* | **Level 1** | NIOSH REL 85 dBA; ISO 1999:2013 | Filtered attenuation earplugs. Strict NIOSH dosage caps. |
+| **Literary Fiction** | Theory of Mind expansion, DMN connectivity | **VERIFIED** *(Moderate Effect)* | **Level 1** | Dodell-Feder & Tamir 2024 | Read complex literature. Log structural takeaways in local wiki. |
+| **Slouched Reading (Text Neck)** | 27 kg load on C1–C7 at $60^\circ$ neck flexion | **VERIFIED** *(Somatic Collapse)* | **Level 2** | Hansraj 2014 (PMID: 25393825) | Text strictly at eye level via book stand. Ban reading flat in bed. |
+| **Woodworking** | Parasympathetic reset vs nasal cancer from oak dust | **VERIFIED** *(Hazardous Factor)* | **Level 1** | IARC Monographs Vol. 100C; Luce 2002 | Sand and route hardwood strictly in **FFP3/N95** with dust extraction. |
+| **Gardening** | Cortisol lowering, *M. vaccae* vs tetanus & sporotrichosis | **VERIFIED** *(Hazardous Factor)* | **Level 1** | Lowry 2007; CDC Sporotrichosis | Work soil and roses in puncture-proof gloves. Tdap every 10 yrs. |
+| **Ultra-Marathon / Ironman** | Aerobic base vs myocardial fibrosis, AFib $\times 5$ | **VERIFIED** *(Cardiac Fibrosis)* | **Level 1** | Armstrong 2018; Benito 2011; La Gerche 2012 | Cap mileage $\le 40\text{--}50\text{ km/wk}$ in Zone 2. Drink to thirst (block EAH). |
+| **Max Strength Failure** | Bone density (BMD) vs 480/350 mmHg Valsalva spikes | **VERIFIED** *(Vascular Hydraulic Shock)* | **Level 1** | MacDougall 1985 (PMID: 3980383); Elefteriades | Ban 1RM tests. Train RIR 1–2. Mandatory open-mouth hissing exhale. |
+| **Striking Sparring (Boxing)** | Reflex acuity vs CTE (p-tau tauopathy from subconcussions) | **VERIFIED** *(Irreversible Dementia)* | **Level 1** | McKee 2013 (Brain); Stern 2013 | **Ban hard head sparring.** Headgear cannot cushion brain rotation. |
+| **Grappling / BJJ** | Mobility vs carotid dissection & ischemic stroke | **VERIFIED** *(Cerebral Ischemia)* | **Level 1** | Peker 2021 (J Stroke Cerebrovasc Dis) | **Tap out the first second a choke locks.** Never tough out neck locks. |
+| **Ice Plunges / Polar Dips** | Cold shock vs autonomic conflict (ventricular asystole) | **VERIFIED** *(Arrhythmogenic Shock)* | **Level 1** | Shattock & Tipton 2012; Winter 2018 | **Never submerge the head.** Step in to chest only. Ban breath-holding. |
+| **Scuba Breath-Holding** | Sub-surface diving vs alveolar rupture and AGE | **VERIFIED** *(Fatal Air Embolism)* | **Level 1** | US Navy Diving Manual; DAN Reports | **Never hold your breath on scuba.** Ascend $\le 9\text{ m/min}$. No fly 24 hrs. |
+| **Indoor Firing Ranges** | Trigger coordination vs lead toxicity (BLL $>20\ \mu\text{g/dL}$) | **VERIFIED** *(Systemic Poisoning)* | **Level 1** | Laidlaw 2017 (Environ Health); CDC/NIOSH | Shoot outdoors only. Use D-Lead soap. Wear dual hearing protection. |
+| **3D Printing (SLA / FDM)** | Hardware autarky vs H317 acrylates & styrene UFP dust | **VERIFIED** *(Cyto- & Pneumotoxicity)* | **Level 1** | Azimi 2016 (Environ Sci Technol) | Seal printers in ducted negative-pressure boxes. Nitrile gloves only. |
+| **Electronics Soldering** | Circuit repair vs rosin asthma & lead dust ingestion | **VERIFIED** *(Occupational Asthma)* | **Level 1** | HSE UK Report RR900; OSHA Lead | Desktop HEPA/carbon fume extraction. Wash hands; no food at bench. |
+| **Monetizing Hobbies** | Ancillary revenue vs crushed intrinsic drive | **VERIFIED** *(Psychological Collapse)* | **Level 1** | Deci 1971; Lepper & Greene 1973 | **Monetizing hobbies is strictly forbidden.** Keep them a pure R&M cost. |
+
+---
+
+##### **5. Bob's Bottom-Line Verdict**
+
+Hobbies are neither a stage for gladiator heroics nor a pipeline for secondary monetization.
+
+The instant an operator tries to twist their stress-relief valve into a second revenue pump — hawking wooden knick-knacks on Etsy, peddling weekend guitar lessons, or streaming games for tips — the hydraulic circuit suffers catastrophic failure. Intrinsic curiosity is instantly replaced by market pressure, quarterly bookkeeping, and customer chargebacks. At that point, your hobby is dead. You just bought yourself a **low-margin, high-stress second job** that exhausts your prefrontal cortex and strips away your system's final relief valve right before your heart gives out at 3 a.m.
+
+> 🔧 **The Infrastructure Takeaway:**  
+> 1. Keep your hobby **strictly unprofitable by design**. It's not a side hustle; it's a scheduled maintenance line item on your biological balance sheet.  
+> 2. Respect industrial hygiene and physical torque: wear FFP3/N95 masks around sawmills, puncture-proof gloves in rose beds, keep book stands at eye level, wear attenuating earplugs behind drum kits, and set a hard 90-minute timer on games.  
+> 3. Leave records to professional gladiators: keep running in Zone 2 under 50 km weekly and drink strictly to thirst, lift with reserve and exhale cleanly, tap out the split-second a choke closes on your neck, and take zero hits to the skull.  
+> 4. If an activity demands microtransactions, late-night grinding, ladder climbing, or commercial hustle — it's not a hobby; it's an invasive parasite tapped into your core pipeline. Shut the valve down.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-115] HOBBY-PRESSURE-RELIEF-GATE (L1/L2): Hobbies must remain strictly unmonetized  │
+│ (Deci 1971); video games ≤60–90 min/day on paid native titles (Bavelier g=0.34 vs      │
+│ ICD-11 6C51); instrument practice in 45-min blocks + NIOSH 85 dBA earplugs against S1 │
+│ dystonia; eye-level reading (5 kg at 0° vs 27 kg at 60°); running ≤40–50 km/wk to     │
+│ thirst; ban hard head sparring and tap out instantly in BJJ; woodworking in FFP3/N95; │
+│ ducted negative-pressure ventilation and nitrile gloves for 3D printing and soldering. │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -7928,6 +8117,11 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
   3. *L5 Generation physics (Appendix H):* The Westinghouse eVinci micro-reactor's power brought to the strict nameplate spec: **$5\text{ MW(e)}$ electric / $15\text{ MW(t)}$ thermal**.
   4. **The deduplication of the 220+ Matrix:** A total defect inspection of the table: parasitic repeats removed (CrowdStrike, Raptor Lake, Starliner, Concord, DeepSeek, Vasa, Ariane 5), CPA placeholder stubs purged, the structure reorganized strictly by the 5 echelons (L1–L5).
   5. **The didactic gradient:** At the head of Part V, a **special Rosetta Stone (the terms decoder)** was mounted, and every appendix (E, F, G, H) was supplied with a Step 0 intake gate and a "engineer-to-human translation from Bob" insert.
+
+* **Revision EN 2.6 — Hobby Defectoscopy & Global Fiscal Atlas (Checked: 2026-10-09; base EN 2.5):**
+  1. *L1/L2 New subsection §3.12 (Somatic and Hydraulic Defectoscopy of Hobbies):* Full industrial defectoscopy of hobbies as pressure-relief expansion chambers (Schultz 1997 dopamine reward prediction error, Hansraj 2014 cervical loading 27 kg at 60°, Altenmüller 2010 somatosensory $S1$ finger receptive field fusion, Deci 1971 Overjustification Effect and the monetization trap, FTC $50M Lumosity fraud, IARC Group 1 oak/beech wood dust sinonasal adenocarcinoma, marathon right-ventricular fibrosis and AFib $\times 5$, exercise-associated hyponatremia EAH, Valsalva 480/350 mmHg spikes, CTE p-tau from subconcussive boxing micro-impacts, BJJ carotid dissection and ischemic stroke, Shattock & Tipton 2012 autonomic conflict in ice plunges, Boyle's Law arterial gas embolism AGE on scuba, indoor firing range lead aerosol BLL $>20\ \mu\text{g/dL}$, 3D printing SLA methacrylate H317 contact dermatitis and FDM styrene UFP nanoparticles $<100\text{ nm}$, soldering rosin abietic asthma).
+  2. *P0-Matrix expanded to 115 valves:* **[P0-111: DEPARTURE-TAX-AUDIT]** (L4), **[P0-112: STUDENT-LOAN-EMIGRATION-TRAP]** (L4), **[P0-113: IHT-10-YEAR-TAIL]** (L4), **[P0-114: DOMICILE-VS-RESIDENCY-DECOUPLING]** (L4), **[P0-115: HOBBY-PRESSURE-RELIEF-GATE]** (L1/L2).
+  3. *Navigation & Headers updated:* Express Navigator updated with §3.12, §10.12.14, and §10.14 pointers; Section 1 matrix and Operational Decoder synchronized with `[P0-115]`.
 
 * **Revision EN 2.5 — Anglo-Saxon Fiscal Hammer & Ukrainian Displacement Architecture (Checked: 2026-10-09; base EN 2.4):**
   1. *L4 New subsection §10.12.14 (The Ukrainian Displacement Architecture 2025–2026):* Full forensics on EU Council Decision 2026/1912 (TPD to 04.03.2028 + military filter), Poland (CUKR from 04.05.2026, school for 800+), Germany (Job-Turbo, Bürgergeld 100%, gray passports OVG), Czech Republic (Lex 7, Zvláštní pobyt 5 years), UK (UPE 42 months without ILR), Ireland (€38.80/wk), Canada (OWP to 2027, CRS >530), Georgia (Resolution No. 80 to 24.02.2027, 300+45 GEL).

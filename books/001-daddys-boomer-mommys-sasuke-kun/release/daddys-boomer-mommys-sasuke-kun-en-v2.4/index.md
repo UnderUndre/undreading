@@ -98,6 +98,7 @@
 - [7. The death of E2EE via client-side scanning (the Chat Control 2.0 / CSAR bill)](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#7-the-death-of-e2ee-via-client-side-scanning-the-chat-contro)
 - [8. Digital ID + age-verification gates as the root key and SPOF of identity](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#8-digital-id--age-verification-gates-as-the-root-key-and-spo)
 - [9. Google Play Integrity hardware attestation and the dead end of mobile de-Googling ([P0-57: PLAY-INTEGRITY-SPLIT])](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#9-google-play-integrity-hardware-attestation-and-the-dead-en)
+- [13. Global BGP Hijacking, Route Leaks & Automated TLS Interception via Let's Encrypt ([P0-96: BGP-RPKI-ROV-VALIDATION])](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#13-global-bgp-hijacking-route-leaks--automated-tls-intercept)
 - [6.3. The "Front-End Facade" Analytics: The Sydney Sweeney Phenomenon and Clickability (a Case Study)](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#63-the-front-end-facade-analytics-the-sydney-sweeney-phenome)
 - [1. The cultural phenomenon of Sydney Sweeney (2024–2026): the anatomy of hype](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#1-the-cultural-phenomenon-of-sydney-sweeney-20242026-the-ana)
 - [2. Why her name became a synonym for the "front-end facade"](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#2-why-her-name-became-a-synonym-for-the-front-end-facade)
@@ -107,6 +108,8 @@
 - [5.1. The Novig & Sydney Sweeney precedent (September 2026): the 4% brand-recall paradox and the tail risk of the gray zone](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#51-the-novig--sydney-sweeney-precedent-september-2026-the-4-)
 - [6.4. AI Escalation: Regulatory Capture, the Physical Barrier of Ohm's Law, and Compute Autarky](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#64-ai-escalation-regulatory-capture-the-physical-barrier-of-)
 - [6.5. The Attack on Digital Flesh: Synchronous Video Deepfakes, Real-Time Face-Swapping in Video Conferences, and Hardware Verification ([P0-17: FAMILY-OUTOFBAND])](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#65-the-attack-on-digital-flesh-synchronous-video-deepfakes-r)
+- [14. BitLocker TPM-Only SPI Bus Sniffing: Volume Master Key Extraction in 43 Seconds ([P0-103: BITLOCKER-TPM-SPI-SNIFFING])](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#14-bitlocker-tpm-only-spi-bus-sniffing-volume-master-key-ext)
+- [15. Session Cookie Theft via Infostealers & Cryptographic DPoP Defense (RFC 9449) ([P1-02: SESSION-COOKIE-HIJACKING-DPOP])](chapters/06-part-ii-the-cognitive-and-digital-defense-echelon-l2-liberty.md#15-session-cookie-theft-via-infostealers--cryptographic-dpop)
 
 ### PART III: THE CAPITAL GENERATION ECHELON (L3: RESOURCES)
 - [Chapter 7. Zero Trust CustDev, the World of Tanks Special Audit & the Concord Collapse](chapters/07-part-iii-the-capital-generation-echelon-l3-resources.md#chapter-7-zero-trust-custdev-the-world-of-tanks-special-audi)
@@ -118,6 +121,9 @@
 ### PART IV: THE ECHELON OF LEGAL SOVEREIGNTY AND THE NETWORK STATE (L4: SOVEREIGNTY)
 - [Chapter 10. Global Tax Hydraulics, Legal Sovereignty & the Banana Override](chapters/08-part-iv-the-echelon-of-legal-sovereignty-and-the-network-sta.md#chapter-10-global-tax-hydraulics-legal-sovereignty--the-bana)
 - [Chapter 11. The 8-Flag Matrix of Flag Theory 2.0+, Chokepoints & the Special Chapter "Wait, You Could Do That?!"](chapters/08-part-iv-the-echelon-of-legal-sovereignty-and-the-network-sta.md#chapter-11-the-8-flag-matrix-of-flag-theory-20-chokepoints--)
+- [10.14. The Anglo-Saxon Fiscal Hammer & First-World Emigration Clamps: USA, Canada, Australia, New Zealand, Singapore, Netherlands](chapters/08-part-iv-the-echelon-of-legal-sovereignty-and-the-network-sta.md#1014-the-anglo-saxon-fiscal-hammer--first-world-emigration-c)
+- [Consolidated Forensic Matrix of World Emigration Risers (2026)](chapters/08-part-iv-the-echelon-of-legal-sovereignty-and-the-network-sta.md#consolidated-forensic-matrix-of-world-emigration-risers-2026)
+- [Bob's Final Verdict: The "Clean Cut" Rule](chapters/08-part-iv-the-echelon-of-legal-sovereignty-and-the-network-sta.md#bobs-final-verdict-the-clean-cut-rule)
 
 ### PART V: THE CONSOLIDATED FORENSIC TABLE, THE FIELD RUNBOOK, AND APPENDICES
 - [🛠️ THE ROSETTA STONE OF PART V: THE DECODER OF ABBREVIATIONS AND TERMS](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#the-rosetta-stone-of-part-v-the-decoder-of-abbreviations-and)
@@ -129,3 +135,8 @@
 - [Appendix G: The operator's revision calendar](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-g-the-operators-revision-calendar)
 - [Appendix H: "The Macro-Engineering of Civilization: From Global System Failures to Applied Risers of Today"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-h-the-macro-engineering-of-civilization-from-global)
 - [Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.4)"](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#appendix-i-the-revision-history-and-the-pressure-test-regist)
+- [13. Plumbing Hydraulic Defense: Backsiphonage, RPZ Valves & Mandatory Gravity Flood Drainage ([P0-92: BACKFLOW-RPZ-ISOLATION-GATE])](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#13-plumbing-hydraulic-defense-backsiphonage-rpz-valves--mand)
+- [14. Electrical Safety in Private Grids: TN-C-S PEN Conductor Failure, Stray Voltage & TT System Conversion ([P0-99: STRAY-VOLTAGE-TT-CONVERSION])](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#14-electrical-safety-in-private-grids-tn-c-s-pen-conductor-f)
+- [15. Electrical Fire Safety: Series Arc Faults & AFCI / AFDD Breakers ([P0-107: ARC-FAULT-CIRCUIT-INTERRUPTER])](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#15-electrical-fire-safety-series-arc-faults--afci--afdd-brea)
+- [16. Gas Safety: Depressurization-Induced Backdrafting & Carbon Monoxide Inversion ([P0-108: BACKDRAFTING-CO-FLUE-REVERSAL])](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#16-gas-safety-depressurization-induced-backdrafting--carbon-)
+- [17. Boiler Hydraulic Safety: Preventing Hot Water Heater BLEVE Explosions ([P0-110: BOILER-BLEVE-EXPANSION-EXPLOSION])](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#17-boiler-hydraulic-safety-preventing-hot-water-heater-bleve)

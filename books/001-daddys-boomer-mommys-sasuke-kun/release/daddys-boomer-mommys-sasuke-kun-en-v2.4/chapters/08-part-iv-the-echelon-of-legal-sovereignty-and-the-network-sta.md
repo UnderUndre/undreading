@@ -1269,11 +1269,15 @@ $$\text{TCO}_{\text{month}} = \text{Burn}_{\text{base}} + \text{Amort}_{\text{le
    * *Status:* Solvency requirements are benchmarked against the UMA (Unidad de Medida y Actualización, 117.31 MXN).
    * *Thresholds:* Monthly income of $680 \times \text{UMA} \approx \$4,400\text{--}\$4,630\text{ USD/mo}$ or bank statements showing $11,460 \times \text{UMA} \approx \$74,500\text{--}\$78,000\text{ USD}$. Strict requirement to obtain local SAT tax identification (RFC) to maintain active domestic bank accounts.
 3. 🇵🇹 **Portugal (Post-NHR Landscape & AIMA Backlogs):**
-   * *Status:* The classic NHR (10% / 20% flat tax) is abolished; replaced by IFICI (Art. 58-A EBF) strictly restricted to certified academic researchers and high-tech startup founders. General PIT reaches up to **48% (+5% solidarity surcharge)**.
-   * *Chokepoint:* D8 Digital Nomad Visa threshold is raised to $4\times$ national minimum wage = **€3,680/mo ($4,050 USD)**. Migration agency AIMA faces backlogs exceeding 400,000 pending files with 12–18 month procedural delays.
+    * *Status:* The classic NHR (10% / 20% flat tax) is abolished; replaced by IFICI (Art. 58-A EBF) strictly restricted to certified academic researchers and high-tech startup founders. General PIT reaches up to **48% (+5% solidarity surcharge)**.
+    * *Chokepoint:* D8 Digital Nomad Visa threshold is raised to $4\times$ national minimum wage = **€3,680/mo ($4,050 USD)**. Migration agency AIMA faces backlogs exceeding 400,000 pending files with 12–18 month procedural delays.
 4. 🇪🇸 **Spain (Digital Nomad Visa & Ley Beckham):**
-   * *Status:* DNV requires income $\ge 200\%$ SMI (~€2,700/mo). The Beckham Law (*Art. 93 LIRPF*) provides a 24% flat tax up to €600,000/yr for 6 years with foreign asset exemptions.
-   * *Risks:* Growing anti-tourism gentrification protests, local emergency rental caps, and mandatory *cuota de autónomos* (€230–€540/mo) upon transitioning out of Beckham status.
+    * *Status:* DNV requires income $\ge 200\%$ SMI (~€2,700/mo). The Beckham Law (*Art. 93 LIRPF*) provides a 24% flat tax up to €600,000/yr for 6 years with foreign asset exemptions.
+    * *Risks:* Growing anti-tourism gentrification protests, local emergency rental caps, and mandatory *cuota de autónomos* (€230–€540/mo) upon transitioning out of Beckham status.
+    * *2026 Housing Decrees:* Autumn 2026 housing decrees restrict short-term rentals (31 days → 12 months minimum), impose a moratorium on evictions, and introduce a 10% VAT on tourist rentals. Anti-tourist protests escalate in Barcelona, Madrid, and the Balearics.
+5. 🇲🇪 **Montenegro (The Schengen Alignment Clamping):**
+    * *Status:* Government Decree of 23.07.2026 denounces the visa-free agreement for citizens of Russia, Belarus, Turkey, and China effective **1 November 2026** (for harmonization with Chapter 24 of EU law).
+    * *Consequences:* Complete death of 30-day visa runs. Entry requires a visa via VFS Global (€35) or a valid multi-Schengen / US / UK / Ireland visa (grants 30-day stay). Legalization only through D.O.O. registration (€1,500 opening, ~€150–€200/mo accounting and taxes) or property purchase. Winter — humidity and black mold (`[P0-89]`), summer — tenant evictions for tourists.
 5. 🇯🇵 **Japan (The Digital Nomad Visa Single Killer Defect):**
    * *Status:* Designated Activities Digital Nomad Visa requires annual income $\ge ¥10,000,000$ (~$65,000 USD).
    * *The Fatal Flaw:* Max 6-month stay without extension; **NO Zairyu Card (Resident Card) is issued**, making it legally impossible to open a Japanese bank account, sign standard residential leases, or purchase local voice SIM cards.
@@ -1282,7 +1286,112 @@ $$\text{TCO}_{\text{month}} = \text{Burn}_{\text{base}} + \text{Amort}_{\text{le
 7. 🇨🇷 **Costa Rica:**
    * *Status:* Law 10008 Nomad Visa (1+1 year max, $3,000/mo income, 0% local income tax). Transition to permanent Rentista residency mandates paying 8%–15% of total income to Caja (CCSS healthcare system).
 8. 🇮🇹 **Italy:**
-   * *Status:* DNV requires €28,000/yr income and \"Highly Qualified Worker\" credentials (3-year degree or 5 years certified experience). Subject to standard progressive IRPEF (up to 43%) plus ~26% INPS social contributions unless sheltered by specific bilateral treaties.
+    * *Status:* DNV requires €28,000/yr income and \"Highly Qualified Worker\" credentials (3-year degree or 5 years certified experience). Subject to standard progressive IRPEF (up to 43%) plus ~26% INPS social contributions unless sheltered by specific bilateral treaties.
+
+---
+
+#### **10.12.14. The Ukrainian Displacement Architecture (2025–2026): EU TPD 2028 Extension, Poland CUKR Transition, Czech Lex 7, and Consular Registration Frictions**
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│ MODULE STATUS: [L4 UKRAINIAN MIGRATION FORENSICS 2025–2026]                     │
+│ REGULATORY ACTS: [FACT L1] │ PRACTICE: [FACT L1] │ BASE RATES: [L2]             │
+│ VALVES: [P0-89: MOLD-MITIGATION] [P0-90: STUDENT-LOAN-TRAP]                     │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+##### **10.12.14.1. EU Foundation: Council Decision (EU) 2026/1912 (TPD to March 4, 2028) & Military Filter**
+
+**Anatomy of the leak:** The EU Council adopted Decision 2026/1912 extending the Temporary Protection Directive (TPD) for Ukrainian refugees until **March 4, 2028**. However, the extension comes with tightening: for new male applicants aged 18–60, a mandatory military compliance filter is introduced. If Ukrainian authorities confirm that a man is subject to mobilization, he may be denied protection.
+
+> **In plain English:** TPD is extended, but men aged 18–60 who left after the invasion and have no legal exemption from mobilization may be denied asylum. This primarily affects those who left in 2022–2023 and did not register with military authorities abroad.
+
+##### **10.12.14.2. Poland: CUKR Card Launch (May 4, 2026), Mandatory School for 800+ Benefits**
+
+**Anatomy of the leak:** Poland is transitioning Ukrainian refugees from temporary PESEL UKR numbers to permanent **Karta pobytu CUKR** (CUKR residence card) via the MOS portal. Launch date: **May 4, 2026**. The card is issued for 3 years and grants the right to work, healthcare, and social benefits.
+
+**The main trap:** The "800+" child benefit (800 PLN per child per month) is now **strictly conditioned on attendance at a Polish school**. If the child does not attend school — the benefit is cut off. This applies to both Ukrainian and Polish children.
+
+**Additionally:** The "400+" program (supplement to 800+ for each child) is liquidated.
+
+##### **10.12.14.3. Germany: Job-Turbo Pressure, Bürgergeld Cuts, Sanctions up to 100%**
+
+**Anatomy of the leak:** Germany is tightening requirements for Ukrainian refugees:
+
+1. **Job-Turbo:** Jobcenter introduces an employment program with intensified pressure: refusal of "reasonable work" (*zumutbare Arbeit*) triggers sanctions up to **100% of Bürgergeld** (complete cancellation of payments).
+2. **OVG Berlin/NRW Ruling:** German administrative courts reject Ukrainian lawsuits regarding the refusal to issue travel documents (*Reiseausweis für Ausländer*) for men aged 18–60. Courts consider the travel ban lawful under martial law.
+3. **Bürgergeld Sanctions:** Failure to appear for job interviews, refusal of offered work, or non-participation in integration programs — payments are reduced by 30% or completely.
+
+> **In plain English:** Germany no longer feeds you for free. You came — work or study. Refuse — lose your benefits. And the courts side with the state.
+
+##### **10.12.14.4. Czech Republic: Lex Ukrajina VII & 5-Year Special Status**
+
+**Anatomy of the leak:** The Czech Republic adopts **Lex Ukrajina VII** — a new package of measures for Ukrainian refugees. Key innovation:
+
+* **Zvláštní dlouhodobý pobyt** (special long-term residence) for **5 years** — for those who have been in the Czech Republic under TPD for at least 2 years. Requirements:
+  * Aggregate household income ≈ 440,000 CZK per year (~$20,000 USD);
+  * Zero claims for humanitarian assistance (*humanitární pomoc*);
+  * Confirmed health insurance.
+
+**The main trap:** If you have applied for humanitarian assistance in the last 2 years — do not count on Zvláštní pobyt. This is a trap for those who received benefits when they could not work.
+
+##### **10.12.14.5. United Kingdom: UPE Scheme (42 Months) & Dead End Without ILR**
+
+**Anatomy of the leak:** The UK provides Ukrainians with the **Ukraine Permission Extension (UPE)** scheme — extension of stay up to **42 months (3.5 years)**. However, the critical chokepoint:
+
+* **UPE does not count toward the 5-year ILR period** (Indefinite Leave to Remain). That is, having lived in the UK for 3.5 years under UPE, you do not get closer to the right to permanent residence. You will have to go through the entire 5-year route again.
+
+> **In plain English:** The UK lets you stay, but does not let you stay forever. This is a temporary measure without a path to citizenship.
+
+##### **10.12.14.6. Ireland: Collapse of Celtic Generosity — Benefit Cuts to €38.80/Week**
+
+**Anatomy of the leak:** Ireland radically cuts benefits for Ukrainian refugees:
+
+* Housing allowance reduced from €220/wk to **€38.80/wk** per adult;
+* 90-day limit on free accommodation in state reception centers.
+
+> **In plain English:** "Celtic generosity" is over. You came — work and rent your own housing.
+
+##### **10.12.14.7. Canada: Open Work Permit Extension to March 31, 2027**
+
+**Anatomy of the leak:** Canada extends the **Open Work Permit (OWP)** program for Ukrainian refugees until **March 31, 2027**. However:
+
+* Family PR (permanent residence) for Ukrainians is closed;
+* Express Entry passing scores raised to **>530** (out of 1,200 maximum).
+
+##### **10.12.14.8. Georgia for Ukrainians: Government Resolution No. 80**
+
+**Anatomy of the leak:** Georgia is one of the few hubs where Ukrainians can still enter visa-free:
+
+* **Government Resolution No. 80:** visa-free entry for Ukrainians who arrived before 2025 is extended until **February 24, 2027**;
+* **Financial assistance:** monthly support of 300 + 45 GEL (~$120 USD) extended until **January 1, 2027**;
+* **Free healthcare:** Ukrainians are entitled to free medical care in state clinics;
+* **Ukrainian school sectors:** Ukrainian-language school sectors opened in Tbilisi and Batumi;
+* **No TCC checks:** upon entry to Georgia, Ukrainian men aged 18–60 do not undergo military verification.
+
+> **In plain English:** Georgia is still a quiet harbor for Ukrainians. Visa-free, free healthcare, Ukrainian schools. But this can change at any moment.
+
+##### **10.12.14.9. Consolidated Forensic Matrix of Countries for Ukrainian Expats (2026)**
+
+| Country | TPD/Visa | Work | Benefits | School | Language | Key Trap |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 🇵🇱 **Poland** | CUKR from 04.05.2026 | ✅ | 800+ (school) | Mandatory | Polish | 800+ cut without school |
+| 🇩🇪 **Germany** | § 24 AufenthG | ✅ | Bürgergeld | Integration courses | German | Job-Turbo, sanctions up to 100% |
+| 🇨🇿 **Czech Republic** | Lex 7 | ✅ | Zvláštní pobyt | — | Czech | Humanitarian aid = ban |
+| 🇬🇧 **UK** | UPE 42 months | ✅ | — | — | English | UPE ≠ ILR |
+| 🇮🇪 **Ireland** | — | ✅ | €38.80/wk | — | English | Benefit cuts |
+| 🇨🇦 **Canada** | OWP to 2027 | ✅ | — | — | English | CRS >530 |
+| 🇬🇪 **Georgia** | Visa-free to 24.02.2027 | ✅ | 300+45 GEL | Ukrainian sectors | Ukrainian | Resolution No. 80 |
+
+**Final verdict of Uncle Bob:**
+
+> 🇵🇱 **Poland** — best base for long-term rooting: CUKR card for 3 years, school for 800+, Polish language gives access to the EU.
+> 🇩🇪 **Germany** — harshest pressure: work or lose Bürgergeld. Courts side with the state.
+> 🇨🇿 **Czech Republic** — golden mean: 5 years of guaranteed status with income ~$20k/yr.
+> 🇬🇧 **UK** — temporary measure without PR prospects.
+> 🇮🇪 **Ireland** — collapse of social security, but English language and EU.
+> 🇨🇦 **Canada** — OWP to 2027, but high Express Entry threshold.
+> 🇬🇪 **Georgia** — still the most comfortable hub for Ukrainians.
 
 ---
 
@@ -1811,3 +1920,281 @@ In common law jurisdictions (UK, Cyprus, Hong Kong, BVI, Singapore), civil litig
 │ maintain an autonomous Legal Defense Fund in non-custodial multi-sig cold storage.     │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+### **10.14. The Anglo-Saxon Fiscal Hammer & First-World Emigration Clamps: USA, Canada, Australia, New Zealand, Singapore, Netherlands**
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│ MODULE STATUS: [L4 ANGLO-SAXON FISCAL HAMMER OF THE FIRST WORLD]                │
+│ REGULATORY ACTS: [FACT L1] │ PRACTICE: [FACT L1] │ BASE RATES: [L2]             │
+│ VALVES: [P0-89: DEPARTURE-TAX-AUDIT] [P0-90: STUDENT-LOAN-TRAP]                │
+│         [P0-91: IHT-TAIL] [P0-92: DOMICILE-VS-RESIDENCY]                        │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+> *«No paper, you're shit; no Level 1 raw data, your words are just air.»*  
+> — **Bob the Infrastructure Plumber & OSINT Investigator**
+
+Greetings, citizens of the world, tax refugees, and holders of heavy passports. Bob at the console.
+
+You've looked into the darkest elbow of the sewer collector. Most amateurs think only about *where* to enter. But an experienced plumber knows: **the scariest water hammer hits not when entering a foreign country, but when leaving your home riser**.
+
+If you thought only post-Soviet countries know how to clamp down on departing citizens, welcome to the real world of Anglo-Saxon and European fiscal law. There, every emigrant drags a tail of **Departure Taxes, lifelong student loan obligations, 10-year inheritance tax tails, and criminal statutes for evading military registration**.
+
+Grab the adjustable wrench and let's do a through-pressure-test of all jurisdictions as of the **autumn 2026 regulatory snapshot**.
+
+---
+
+#### **10.14.1. 🇺🇸 USA: Lifelong Serfdom (CBT, FEIE, FBAR, PFIC, Exit Tax §877A)**
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Citizenship-Based Taxation (CBT §1):** The USA is the only country in the world (bes Eritrea) that taxes its citizens' income **regardless of residence**. A US citizen living in Dubai, Singapore, or Bali must file annual Form 1040 and pay federal income tax on worldwide income.
+
+2. **FEIE (Foreign Earned Income Exclusion, §911):** Allows exclusion of up to **$132,900 USD** (for 2026) of foreign-earned income, subject to passing the physical presence test (330 days in any 12 months) or bona fide residence test. However, FEIE covers only *earned income* — interest, dividends, capital gains, rental income, and passive income are taxed in full.
+
+3. **Self-Employment Tax (SE-Tax 15.3%):** A US citizen working as a freelancer abroad additionally pays **15.3%** self-employment tax (Social Security + Medicare). Relief under Totalization Agreements is available in only ~30 countries.
+
+4. **FBAR (FinCEN Form 114):** Mandatory reporting of foreign bank accounts if aggregate balance exceeds **$10,000 USD** at any point during the year. Penalty for non-filing — **up to $10,000** for non-willful violations and **up to $100,000 or 50% of account balance** for willful violations.
+
+5. **PFIC (Passive Foreign Investment Company, Form 8621):** Any foreign investment fund (ETF, mutual fund, trust) is a PFIC for a US citizen. The tax rate on PFIC income can reach **37%+** plus compounding interest penalties for deferral. The only way out — file Form 8621 annually with detailed accounting.
+
+6. **Exit Tax (§877A Expatriation Tax):** US citizens with net worth > $2 million or average tax > $190k over the last 5 years who renounce citizenship are subject to a **mark-to-market tax** at up to **40%** on all unrealized capital gains. Renunciation of citizenship for tax purposes is prohibited (§877A(d)).
+
+> 🔧 **Bob's Translation (from English to English):**  
+> The American passport is a lifelong subscription to tax hell. You can live anywhere, but IRS will extract money from you until the end of your life. And if you try to escape — you'll get Exit Tax at 40% on everything you've accumulated. The only way out — don't get this passport in the first place.
+
+---
+
+#### **10.14.2. 🇨🇦 Canada: Departure Tax Trap & Capital Gains Inclusion Rate Explosion (2/3)**
+
+Canada doesn't hold emigrants by force at the border — it simply sends them a bill for all unrealized assets accumulated over a lifetime.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Emigration Tax on Deemed Disposition (ITA § 128.1(4)(b)):**  
+   On the day an individual ceases to be a Canadian tax resident, the *Income Tax Act* legally deems that **you sold all your property at current Fair Market Value (FMV)** and immediately bought it back.  
+   *What's hit:* Shares of any global companies, crypto assets, stakes in private startups, investment portfolios, real estate outside Canada.  
+   *What's exempt:* Real estate physically located *inside* Canada (taxed on actual sale), Canadian pension accounts RRSP/RRIF.
+
+2. **Capital Gains Inclusion Rate Reform (effective June 25, 2024 / deferral of certain forms to 2026) [Fact L1]:**  
+   Historically, 50% of capital gains were included in taxable income.  
+   *New rule:* For individuals on gains exceeding **$250,000 CAD**, the inclusion rate is raised to **66.67% (2/3)**! For companies and trusts, the 66.67% rate applies **from the first dollar**. An emigrant with a stock or crypto portfolio pays tax at provincial marginal rates (up to 33–36% of net profit) in cash for assets they never even sold!
+
+3. **TOSI (Tax on Split Income, §120.4):** Income splitting with spouse/children through a family trust is taxed at the maximum rate (53% in Ontario) if the income belongs to a "specified individual." Transition period — until end of 2026.
+
+4. **Form T1135 (Foreign Income Verification Statement):** Mandatory if the cost of foreign property exceeds **$100,000 CAD** during the year. Penalty for non-filing — **$2,500 CAD per month** (max $12,000/year).
+
+5. **CRA Ties (Primary vs Secondary):** The Canada Revenue Agency won't let you go if you retain *Primary Ties* (housing available for residence in Canada; spouse or minor children remaining in the country). Even surrendering provincial driver's licenses and closing bank accounts are on the checklist for severing residency.
+
+6. **TFSA Trap:** Holding a Tax-Free Savings Account (TFSA) as a non-resident is pointless — any new contributions after departure are subject to a **1% per month penalty tax** on the contribution amount.
+
+> 🔧 **Bob's Translation (from English to English):**  
+> Canada sees off expats like a greedy rentier: before flying to the airport, you must pay tax on all your grown bitcoins and shares of American tech giants, even if you haven't sold a single satoshi. With the inclusion rate raised to 66.67%, the departure of a rich IT worker turns into voluntary dekulakization.
+
+---
+
+#### **10.14.3. 🇦🇺 Australia: CGT Event I1, Non-Resident Tax & HELP/HECS Debts**
+
+The Australian Taxation Office (ATO) has transformed into a digital predator tracking expat movements through immigration gates.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Departure Tax — CGT Event I1 (Section 104-160 ITAA 1997):**  
+   Upon losing Australian tax resident status, **CGT Event I1** occurs. All assets that are not "Taxable Australian Property" (TAP) are deemed sold at market value. This covers shares of Australian and foreign companies, crypto, and fund units.  
+   *Deferral Trap (Section 104-165 Election):* You can elect to "not pay tax now" (*defer*), but in that case your foreign shares are permanently tied to the Australian tax system as TAP and **completely lose the right to the 50% CGT Discount** for the entire non-resident period!
+
+2. **Death of Main Residence Exemption:**  
+   If an Australian citizen left the country and sold their home while being a non-resident, they **COMPLETELY LOSE the right to the main residence exemption** from capital gains tax for the entire ownership period (tax is calculated from the first day of purchase at non-resident rates from 30% to 45%)!
+
+3. **Global Student Loan Leash (HELP / HECS Debt Overseas Obligations):**  
+   Under the *Treasury Laws Amendment Act*: if an Australian citizen leaves the country for $\ge 183$ days in any 12 months, they must:  
+   * File an *Overseas Travel Notification* via myGov within **7 calendar days** of departure;  
+   * Declare their **WORLDWIDE Income** to ATO annually by **October 31**;  
+   * Pay mandatory HELP/HECS student loan repayments from worldwide income at Australian rates! Hiding income is impossible thanks to ATO's integration into OECD CRS automatic exchange standards.
+
+4. **Part 2-42 PSI (Personal Services Income):** If you work as a contractor through your own company but personally perform the work, the tax office can reclassify the income as PSI and tax it at individual rates — without corporate benefits.
+
+---
+
+#### **10.14.4. 🇳🇿 New Zealand: 4 Years of Transitional Resident Paradise vs Student Loan Trap**
+
+New Zealand is unique: it gives a rare entry benefit, but cruelly punishes departing debtors.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Golden 4-Year Tax-Free Shield (Transitional Resident — s. HR 8 Income Tax Act 2007):**  
+   New immigrants and New Zealanders who haven't been tax residents for the last 10 years receive **automatic 48-month (4 years) exemption from tax on virtually ALL types of foreign passive income** (interest on foreign deposits, dividends, rental income from apartments abroad, income from foreign trusts and FIF funds)!  
+   *Fatal amateur mistake:* If you or your spouse apply for the *Working for Families Tax Credits* child benefit, the Transitional Resident status is **permanently annulled retroactively with no right of restoration**!
+
+2. **FIF FDR (Fair Dividend Rate, 5%):** Despite the 4-year shield, holding foreign investment funds (FIF) is taxed under the FDR method (5% of the value at the start of the year) — unless the assets fall under exceptions.
+
+3. **IRD Student Loan Trap on Departure (Overseas-based Student Loan):**  
+   Within New Zealand, the student loan is interest-free (0%).  
+   But if a New Zealander leaves the country and stays there **more than 183 days (or more than 152 consecutive days)**, their status changes to *Overseas-based*:  
+   * **Compound interest immediately accrues** on the entire remaining debt (IRD base rate ~3.9–4.5%);  
+   * Mandatory semi-annual payments (up to $5,000 NZD per year) kick in, tied not to income but to the debt principal!  
+   * *Arrests at the border:* New Zealand police and border guards have the right to **arrest egregious student loan defaulters directly at passport control at Auckland Airport** when attempting to visit relatives.
+
+---
+
+#### **10.14.5. 🇬🇧 United Kingdom: Death of Non-Dom & 10-Year Inheritance Tax Tail (IHT Tail)**
+
+Britain has finally ceased to be a quiet haven for global capital. Rachel Reeves' Labour budget rewrote centuries-old rules:
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Liquidation of Domicile (from April 6, 2025):** The concept of domicile is struck from tax law. A 4-year **Foreign Income and Gains (FIG)** regime is introduced for new residents.
+
+2. **Nuclear Suitcase: 10-Year Inheritance Tax Tail (IHT Tail) [Fact L1]:**  
+   Previously, leaving Britain, a foreigner lost *deemed domicile* status after 3–4 years.  
+   *New regime from April 6, 2025:* If you lived in the UK for **10 of the last 20 tax years (Long-Term Resident — LTR)**, your **WORLDWIDE assets remain subject to UK Inheritance Tax (40%) for up to 10 YEARS AFTER COMPLETE DEPARTURE FROM THE UK**!  
+   *Sliding Scale Tail:*  
+   * Lived 10–13 years in UK $\to$ IHT tail lasts **3 years** after departure;  
+   * Lived 14 years $\to$ tail **4 years**;  
+   * Lived 20+ years $\to$ tail **full 10 years**.  
+   Moved to Dubai or Switzerland, got in a car accident 7 years after departure — HMRC demands **40% of the value of all your worldwide assets** (including accounts in the UAE and real estate in Asia)!
+
+3. **Overseas Student Loan (Plan 2 / Plan 5):** UK graduates upon departure must file an *Overseas Income Assessment Form*. Refusal triggers a fixed penalty repayment rate (up to £400+/month) plus RPI penalty interest.
+
+---
+
+#### **10.14.6. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland: Legalization of Water Cremation (Aquamation 2026)**
+
+In matters of biological shell disposal, Scotland has made a radical break from conservative London.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Regulatory Act:** **The Hydrolysis (Scotland) (No. 1) Regulations 2026** (developing the base *Burial and Cremation (Scotland) Act 2016*).
+
+2. **Effective Date:** **March 2, 2026**. Scotland became the first jurisdiction of the United Kingdom to officially legalize alkaline hydrolysis (*Alkaline Hydrolysis / Resomation / Water Cremation*). In England, Wales, and Northern Ireland, this process remains outside the direct regulatory field.
+
+3. **Engineering Mechanism of Hydrolysis:** The body is placed in a sealed stainless steel chamber under pressure. A solution of 95% water and 5% potassium hydroxide ($\text{KOH}$) is heated to **$150^\circ\text{C}$**. Over 3–4 hours, soft tissues are fully hydrolyzed into basic amino acids, peptides, and water; bone remains are ground into sterile white powder and returned to relatives. Energy consumption and carbon footprint are **90% lower than classical flame cremation**.
+
+---
+
+#### **10.14.7. 🇮🇪 Ireland: Domicile Levy €200k & 3-Year CAT Tail**
+
+Ireland is often advertised as an English-speaking paradise in the EU, but for wealthy expats it holds two force traps in the basement:
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Domicile Levy (s. 531AA Taxes Consolidation Act 1997):**  
+   An annual fixed tax of **€200,000**, charged regardless of physical tax residency.  
+   *Trigger conditions:* 1) Irish domicile; 2) Worldwide assets exceed **€5,000,000**; 3) Worldwide income exceeds **€1,000,000**; 4) Income tax paid in Ireland for the year was less than €200,000.
+
+2. **Three-Year Gift & Inheritance Tax Tail (CAT 33% Worldwide Tail):**  
+   Capital Acquisitions Tax (33% rate). If the donor or recipient lived in Ireland for 5 consecutive tax years, they are considered *ordinarily resident* — and this status retains tax claims on **ALL worldwide gifts and inheritances for 3 full years after leaving the country**!
+
+3. **Remittance Basis:** Available for non-domicile individuals, but transferring funds to Irish accounts to cover living expenses is immediately taxed at progressive rates up to 40% + USC and PRSI charges (up to 52% total).
+
+---
+
+#### **10.14.8. 🇸🇬 Singapore: Absolute Military Clamp Enlistment Act & CPF Withdrawal**
+
+Singapore is the pinnacle of financial comfort (0% capital gains tax, 0% dividend tax), but its passport carries a heavy military burden for sons.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Military Clamp Enlistment Act 1970 (National Service — NS) [Fact L1]:**  
+   All male Singapore citizens and **second-generation permanent residents (PR)** must complete **2 years of active military service**, then annually until age 40–50 attend military camps.  
+   *Main trap:* Renouncing citizenship or PR status at 21 **DOES NOT EXEMPT FROM CRIMINAL LIABILITY** if the child enjoyed the country's benefits (attended a Singapore school) after age 11 (*Singapore Supreme Court precedent PP v Sakthikanesh s/o Chidambaram [2017] SGHC 178*)! Violators face up to 3 years in prison with no statute of limitations when transiting through Changi Airport.
+
+2. **Exit Permit & Financial Bond (SGD $75,000):**  
+   From **age 13**, a male citizen or PR cannot leave the country for more than 3 months without official *Exit Permit* from the Ministry of Defence (MINDEF). From **age 16.5**, departure for study requires a bank guarantee of **SGD $75,000 (~$57,000 USD) or 50% of parents' combined annual income**!
+
+3. **CPF Withdrawal on Final Emigration [Fact L1]:**  
+   The only way to withdraw all your pension savings from the *Central Provident Fund (CPF)* — **officially renounce Singapore citizenship or PR status** at the ICA.  
+   *New procedure:* From April 2024, accounts of former citizens and PRs are automatically closed, interest accrual stops — funds are transferred to a personal bank account in full.
+
+4. **Exit Ban for Non-Payment (s.10L):** For non-payment of taxes or alimony, the state can ban exit from the country without a court order.
+
+---
+
+#### **10.14.9. 🇭🇰 Hong Kong: FSIE Reform & MPF Pension Fund War**
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **FSIE Reform (Foreign-Sourced Income Exemption Regime 2023–2024):**  
+   Under EU pressure, Hong Kong changed rules for multinational enterprises (MNE). Now dividends, interest, and capital gains from foreign assets are exempt from Hong Kong profits tax (16.5%) **STRICTLY upon confirmation of real Economic Substance** — qualified personnel and expenses within Hong Kong.
+
+2. **Early MPF Withdrawal on Emigration (Permanent Departure):**  
+   Withdrawing savings from the mandatory *Mandatory Provident Fund (MPF)* before age 65 is permitted on grounds of "Permanent Departure from Hong Kong."  
+   *Legal traps:*  
+   * The benefit is granted **exactly once in a lifetime** (*Section 163(3) MPF Regulation*). If you withdrew the money and then returned to work in Hong Kong — the law prohibits a second withdrawal before old age;  
+   * **Political BNO Passport Block:* Hong Kong authorities have directive **prohibited MPF trustees from accepting British visas and BNO (British National Overseas) passports as proof of departure**! Hundreds of thousands of Hong Kongers who left for the UK are denied access to tens of billions of dollars of their own savings.
+
+---
+
+#### **10.14.10. 🇲🇹 Malta: English-Speaking Non-Dom in the EU with €5,000 Threshold**
+
+Malta is the only eurozone country with English as the official language and British legal system.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Non-Domicile Regime (s. 4(1) Income Tax Act):**  
+   A foreigner residing in Malta but without Maltese domicile of origin pays tax at progressive rates (up to 35%) **strictly on income earned in Malta and on foreign income actually remitted to Malta (Remittance Basis)**.
+
+2. **Absolute Tax-Free Shield on Foreign Capital:**  
+   Foreign capital gains (*Capital Gains* — profit from selling US shares, crypto, real estate abroad) **ARE NOT TAXED IN MALTA AT ALL, even if you transfer the money to a Bank of Valletta account**!
+
+3. **Minimum Non-Dom Tax (s. 56(6) ITA):**  
+   If your foreign income exceeds €35,000 per year but you don't remit anything to Malta, you must pay a **fixed minimum annual tax of €5,000**.
+
+---
+
+#### **10.14.11. 🇳🇱 Netherlands: Collapse of 30% Ruling & Box 3 Crisis (Kerstarrest)**
+
+In the Netherlands, 95% of the population speaks English fluently, making the country the largest magnet for international engineers and corporations. However, the 2025–2026 tax reform has turned local life into a legal storm.
+
+##### **Raw Physics of the Law [Fact Level 1]:**
+
+1. **Dismantling of 30% Ruling for Expats [Fact L1]:**  
+   The famous Dutch benefit allowing 30% of salary tax-free has been cut:
+   * **Destruction of Partial Foreign Tax Liability from January 1, 2025:** Previously, an expat with 30% ruling was considered a non-resident for savings income (Box 3) and substantial shareholdings (Box 2). From 2025, this loophole is closed! All global shares, US brokerage accounts, and apartments abroad are now subject to Dutch taxes (transition period until end of 2026 applies strictly to those who entered before 2024).
+   * *Rate reduction:* From **January 1, 2027**, the tax deduction is reduced from 30% **to 27%**.
+
+2. **Collapse of Wealth Tax Box 3 (Supreme Court Kerstarrest Ruling) [Fact L1]:**  
+   The Netherlands taxes savings and investments at **36%**. Historically, the *Belastingdienst* calculated tax not on actual income but on a state-invented "fictitious yield" (*fictief rendement* ~6%).  
+   *Judicial Explosion (June 6, 2024 – 2026):* The Supreme Court (*Hoge Raad*) ruled such a system contrary to the European Convention on Human Rights! The state must tax only **actual yield (*werkelijk rendement*)**, causing paralysis of the tax service and freezing of hundreds of thousands of declarations.
+
+3. **Conserverende Aanslag (Emigration Tax on Business):**  
+   If you own more than 5% of a company's shares (Box 2) and decide to leave the Netherlands, the tax office issues a protective tax assessment (*Conserverende aanslag*) at up to **33% on all accumulated unrealized capital gains on the shares**.
+
+---
+
+### **Consolidated Forensic Matrix of World Emigration Risers (2026)**
+
+| Country of Departure / Hub | Departure/Exit Tax Mechanic | Main Hidden Clog (Single Killer Defect) | Extraterritorial Leash | Status for Capital |
+| :--- | :--- | :--- | :--- | :---: |
+| 🇨🇦 **Canada** | Deemed disposition (ITA § 128.1) with inclusion rate **66.67%** | $2,500 penalty for T1161/T1243 forms; tax on unrealized crypto/shares | 25% withholding tax (Part XIII) on dividends | **[DANGEROUS RISER]** |
+| 🇦🇺 **Australia** | CGT Event I1 (deemed sale of entire portfolio) | Loss of 50% CGT discount on deferral; loss of home exemption | Lifelong HELP/HECS debt collection from worldwide income | **[HARSH PRESSURE]** |
+| 🇳🇿 **New Zealand** | Absent (no general capital gains tax) | Student loan with interest + airport arrests for debts | Tax on foreign trusts and FIF funds | **[FLEXIBLE ENTRY / EVIL EXIT]** |
+| 🇬🇧 **United Kingdom** | Death of Non-Dom; transition to FIG | **IHT Tail for 10 years** (40% tax on all worldwide assets) | Student loan Plan 2/Plan 5 payments | **[10-YEAR TRAP]** |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **Scotland** | Common UK tax system | Expensive flights, cold climate | UK IHT Tail | **[AQUAMATION BREAKTHROUGH 2026]** |
+| 🇮🇪 **Ireland** | Domicile Levy €200,000/year for ultra-wealthy | Housing crisis; CAT 33% tax applies 3 years after departure | Tax on money transfers (Remittance) up to 52% | **[EXPENSIVE ENTRY]** |
+| 🇸🇬 **Singapore** | 0% capital gains tax; 100% CPF return | **Enlistment Act:** prison for refusing service at 21; $75k bond from 16.5 | Criminal manhunt for sons without statute of limitations | **[MILITARY TRAP FOR SONS]** |
+| 🇭🇰 **Hong Kong** | FSIE regime on offshore income without substance | MPF pension fund payment block for BNO passports | National Security Law NSL | **[LOSS OF AUTONOMY]** |
+| 🇲🇹 **Malta** | Absent; 0% on foreign capital gains | Minimum Non-Dom tax €5,000/year; expensive banking entry | No extraterritorial leash | **[TOP ANGLo-EUROPE]** |
+| 🇳🇱 **Netherlands** | Conserverende aanslag 33% on business shares | 30% ruling cut to 27%; wealth tax Box 3 36% | Loss of partial non-residency from 2025 | **[FISCAL DEAD END]** |
+| 🇺🇸 **USA** | Expatriation Tax § 877A (mark-to-market above deduction) | CBT: lifelong passport tax; FBAR ($10k penalty); PFIC (37%+) | Total worldwide FATCA surveillance | **[LIFELONG SERFDOM]** |
+| 🇷🇺 **Russia** | No direct departure tax | Subpoena registry (127-FZ); CIC penalties up to 1M rubles; currency control 173-FZ | Property transaction ban upon non-appearance | **[SYSTEMIC SANCTIONS RISK]** |
+| 🇺🇦 **Ukraine** | Absent | Mobilization travel ban for men 18–60; passport block without Reserv+ | Double taxation of FOP vs Europe | **[MARTIAL LAW]** |
+
+---
+
+### **Bob's Final Verdict: The "Clean Cut" Rule**
+
+Remember the fundamental law of plumbing: **before tapping into a new pipe, you must shut off the old one**.
+
+1. **If you're leaving Canada or Australia:** First audit your investment portfolio with a CPA. Dump assets, realize losses, or pay Departure Tax / CGT Event I1 under the old rules, otherwise in three years you'll get a demand with penalties exceeding the value of your entire capital.
+2. **If you're leaving the UK:** Remember the **10-year IHT tail**. If you spent more than 10 years in London — the British crown will hunt your inheritance for a whole decade after you move your suitcases to warmer climes.
+3. **If you're raising sons and eyeing Singapore:** Think a hundred times before getting your family Permanent Resident (PR) status. The boy grows up, decides to study in the USA, and for the Singapore state he remains a criminal deserter who is barred from entering Asia forever.
+4. **If you're choosing an English-speaking base in Europe:** **Malta** with its fixed €5,000 tax for non-doms remains the cheapest and most predictable solution, while the Netherlands drowns in court reversals of Box 3 tax, and Portugal buries the NHR regime.
+
+Keep your documents in order, verify invoice wording to the dot, and cut financial tails before crossing the border. Over and out from the terminal.
+
+---
+

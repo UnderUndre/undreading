@@ -447,3 +447,6 @@ X-Mode/Outlogic  Keylogger         PIN inference      запити влади   
 │ Device Bound Session Credentials (DBSC).                                              │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+

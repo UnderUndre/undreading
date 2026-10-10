@@ -997,3 +997,6 @@ Splitting equity 50/50 between two co-founders without formal deadlock dispute m
 │ mandatory buyout clauses into the Shareholders' Agreement.                             │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
