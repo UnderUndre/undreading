@@ -2766,10 +2766,10 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 > 🔧 **[P0-20: LIFEPO4-STORAGE]: The LiFePO4 home energy-reserve standard**
 >
 >
-> ❄️ **THE CRITICAL ELECTROCHEMICAL SEAL (NO CHARGING LiFePO4 AT $T \le 0^\circ\text{C}$):**
-> At cell temperatures $\le 0^\circ\text{C}$ ($32^\circ\text{F}$), the diffusion kinetics of lithium ions into the graphite anode slow sharply. Attempting to push charge current into a frozen battery causes **Lithium Plating**: lithium ions don't intercalate into the graphite lattice — they crystallize on its surface as metallic lithium.
-> The resulting microscopic metal needles (**dendrites**) grow through the porous polymer separator toward the cathode, causing **irreversible internal short-circuit** and capacity degradation of up to 80% within a few cycles.
-> **The engineering protocol:** 1) Discharging LiFePO4 in the cold is allowed (down to $-20^\circ\text{C}$); 2) **Charging — STRICTLY at $T > 0^\circ\text{C}$** (optimum $+10\text{–}+25^\circ\text{C}$). The BMS board must carry a hardware temperature sensor with charge cutoff (*Low-Temperature Charge Protection*), or the station must carry heating mats (*Self-Heating*).
+> ❄️ **THE CRITICAL ELECTROCHEMICAL SEAL (STANDARDS IEC 62619, UL 1973 & NO CHARGING LiFePO4 AT $T \le 0^\circ\text{C}$):**
+> In accordance with industrial electrochemical safety standards **IEC 62619** and **UL 1973**, at cell temperatures $\le 0^\circ\text{C}$ ($32^\circ\text{F}$), the diffusion kinetics of lithium ions into the graphite anode slow sharply. Attempting to push charge current into a frozen battery (from the grid or a generator during a winter blackout in an unheated space) triggers **Lithium Plating**: lithium ions don't intercalate into the graphite lattice — they plate on its surface as metallic lithium.
+> The resulting microscopic metal needles (**dendrites**) puncture through the porous polymer separator toward the cathode, causing **irreversible internal short-circuits, thermal runaway with toxic hydrogen fluoride (HF) off-gassing**, and catastrophic cell death.
+> **The engineering protocol:** 1) Discharging (drawing energy) from LiFePO4 in the cold is permitted (down to $-20^\circ\text{C}$); 2) **Charging — STRICTLY at cell temperatures $\ge +5^\circ\text{C}$** (optimum $+10\text{–}+25^\circ\text{C}$). The system must comply with **IEC 62619 / UL 1973**: the BMS board must carry a hardware temperature sensor with a hard low-temperature charge cutoff below $+5^\circ\text{C}$ (*Low-Temperature Charge Protection*), or the pack must feature integrated heating pads (*Self-Heating*) and reside inside an insulated enclosure within the heated living quarters.
 
 4. **The crystal lattice and the thermodynamics of thermal runaway:**
 
@@ -5914,7 +5914,7 @@ Attempting to move accumulated capital to a low-tax jurisdiction is blocked by d
 * **US citizens and Green Card holders (US Persons):** Taxation by right of passport (*IRC §1*).
   * **FEIE (IRC §911):** An exclusion of up to **$132,900 for the 2026 tax year** (indexed annually by the IRS — verify the current year's Form 2555) of active foreign income via the *Physical Presence Test* (330 days outside the US) or the *Bona Fide Residence Test*.
   * **Self-Employment Tax (15.3%):** FEIE removes income tax but NOT the 15.3% SE Tax (Schedule SE) for sole proprietors/freelancers. The bypass: providing services through a foreign corporation (UAE FZCO / Cyprus LTD) as an employee.
-  * **CFC / GILTI (IRC §951A):** Owning $>50\%$ of a foreign company is taxed at the individual level at up to 37% (Form 5471). The bypass: a **Section 962 Election** (electing to be taxed as a corporation), cutting the effective rate to ~10.5%.
+  * **CFC / GILTI (IRC §951A / NCTI regime):** Owning $>50\%$ of a foreign company is taxed at the individual level at up to 37% (Form 5471). The bypass: a **Section 962 Election** (electing to be taxed as a corporation). *Note (OBBBA calibration):* previously the rate was ~10.5% due to a 50% Section 250 deduction. Following tax reform, the deduction was cut to 40%, raising the corporate base to 12.6%, and factoring in the Section 960 Foreign Tax Credit (FTC) haircut, the actual effective rate is **13.125%–14%** (not 10.5%).
 * **Germany (§ 6 AStG / the ATADUmsG law):**
   Individuals holding company stakes of $1\%$ or more, who were German tax residents for at least 7 of the preceding 12 years, are on departure taxed on unrealized capital gains as if on a fictitious sale (*Teileinkünfteverfahren*, tax on 60% of the hidden appreciation). From January 1, 2022, the indefinite deferral for moves within the EU/EEA is fully annulled: the tax is paid either immediately or in a 7-year installment plan, strictly against a bank guarantee or asset collateral.
 * **Norway (the Tax Act § 10-70):**
@@ -6266,6 +6266,34 @@ The single most destructive hidden leak in global portfolio management. US citiz
 
 ---
 
+##### **10.6.7. EU ATAD 3 (Unshell Directive COM(2021) 565): Disqualification of Shell Entities & Loss of EU Tax Directives ([P0-114: ATAD3-UNSHELL-GATE])**
+
+International asset protection and tax structures relying on low-substance intermediate companies in EU jurisdictions (Cyprus, Malta, Hungary, Estonia) to hold IP, software licenses, or accumulate passive dividend income face a direct strike from the **EU Unshell Directive (ATAD 3 / COM(2021) 565 final)**.
+
+1. **The Anatomy of the Trap (Cumulative Gateways & Presumption of Shell Status):**
+   * The Directive deploys three cumulative gateways: if $>65\text{–}75\%$ of the entity's revenue is passive income (royalties, dividends, interest), $>60\%$ of transactions are cross-border, and core management administration is outsourced to third-party Corporate Service Providers (CSPs), the entity is automatically presumed to be a "shell entity" lacking economic substance.
+   * **Minimum Substance Indicators:** To rebut this presumption, the company MUST annually prove:
+     * Its own exclusive commercial premises in the Member State (not a shared PO box or nominee registered address);
+     * At least one active bank account within the EU;
+     * At least one qualified local resident director (or dedicated local employees) exercising genuine operational control and not serving as a nominee for dozens of unrelated entities.
+2. **Consequences of Disqualification (Fiscal Water Hammer):**
+   * The entity is stripped of its tax residency certificate for European directive purposes and **loses all benefits under double tax treaties (DTTs)**, the Parent-Subsidiary Directive (2011/96/EU), and the Interest and Royalties Directive (2003/49/EC);
+   * Source countries impose maximum domestic **Withholding Tax (WHT) of 30%–35%** on outgoing distributions;
+   * Tax authorities in the shareholder's country of residence tax corporate profits directly under look-through rules, entirely disregarding the corporate veil.
+3. **The Engineering Countermeasure ([P0-114]):**
+   * Liquidate dormant or purely nominal EU SPVs;
+   * Build genuine physical economic substance in the jurisdiction of incorporation (commercial lease, payroll, resident operational staff) or route business directly through a transparent operating company in the founder's actual tax residence.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-114] ATAD3-UNSHELL-GATE (L4): EU ATAD 3 Directive; disqualification of shell       │
+│ entities (Cyprus, Malta, Estonia) lacking physical premises & resident directors;      │
+│ withholding tax jumps to 30–35%; mandate for real substance or liquidation of SPVs.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 #### **10.7. Bankruptcy clawback of real-estate transactions ([P0-70])**
 
 Buying physical real estate at a "below-market" discount is the classic trap where the buyer loses both the concrete and 100% of the paid capital. Bankruptcy legislation entrenched a **lookback period** for unwinding a debtor's transactions — **US: 11 U.S.C. § 548 (2 years), extended to 4–6 years via state UVTA law through § 544(b), and 10 years for self-settled trusts (§ 548(e)) | UK: Insolvency Act 1986 s. 238 (2-yr undervalue) & s. 423 (fraud transactions, NO look-back limit)**. The Russian case below is the live case study of the mechanism (art. 61.2 of Federal Law No. 127-FZ, a 3-year suspicious period).
@@ -6406,7 +6434,7 @@ The layman's fantasy breaks against the physiological timer:
 | # | Citizenship | Where you live 183+ days | Where the company (OpCo) | Where the personal account | The effective rate | The main traps (IRS / Exit Tax / CFC / POEM) |
 | --- | --- | --- | --- | --- | --- | --- |
 | **1** | **USA (US Citizen)** | Costa Rica (DNV) | US Single-Member LLC | US Mercury + CR BAC Credomatic | **0%** up to $132,900 (FEIE 2026), 15.3% SE-tax above | FEIE doesn't remove the 15.3% SE-tax (*IRC §1401*). Filing *Form 2555* and *FBAR (FinCEN 114)*. |
-| **2** | **USA (US Citizen)** | UAE (Dubai) | UAE Freezone FZCO | UAE Wio + US Chase | **0–9%** CT + **~10.5%** GILTI | GILTI rules (*IRC §951A*). Requires a *Section 962 election* and *Form 5471*. |
+| **2** | **USA (US Citizen)** | UAE (Dubai) | UAE Freezone FZCO | UAE Wio + US Chase | **0–9%** CT + **13.125%–14%** GILTI/NCTI | GILTI/NCTI rules (*IRC §951A*). Requires a *Section 962 election* (40% §250 deduction) and *Form 5471*. |
 | **3** | **EU (Germany)** | Spain (*Beckham Law*) | US non-ETBUS LLC / contract | ES BBVA / Santander | **24% flat** (up to €600k/year) | The German Exit Tax (*§6 AStG*). The *Form 149* deadline (6 months). |
 | **4** | **EU (France)** | Cyprus (Non-Dom, 60 days) | Cyprus LTD | Cyprus Bank of Cyprus / Hellenic | **12.5%** CIT + **2.65%** GESY (0% SDC) | The French *Exit Tax (Art. 167 bis)* on assets >€800k. Observing the 60-day rule. |
 | **5** | **United Kingdom** | Portugal (*IFICI / NHR 2.0*) | UK LTD | PT Millennium BCP + UK Revolut | **20%** (IFICI) / **19–25%** (UK CIT) | Passing qualification under *Art. 58-A EBF*. UK CFC risk on passive income. |
@@ -7397,17 +7425,17 @@ In the sovereign operator's architecture, family status and the presence of mino
 * **The EU biometric gate EES (Regulation EU 2017/2226 & eu-LISA, deployment to April 2026):**
 
 > 🛑 **Post-Mortem [L1 Fact / Bedrock] (the EES biometric gate and the end of the manual-stamp era): Regulation (EU) 2017/2226**
-> * **Step 0 (What happened, in plain terms):** The era when you could "lose the old passport with the stamps," show a second passport at the border, or negotiate a couple days' overstay with the border guard — definitively liquidated. The EU deployed the **Entry/Exit System (EES)** across all 29 Schengen countries: physical ink stamps are abolished, the border scans your face and 4 fingers, and the single eu-LISA supercomputer in Strasbourg counts the 90/180 rolling window to the second. One hour late on exit — the system automatically hangs an `Overstayer` flag in the SIS II database, issues a fine, and slaps on a 3–5 year entry ban with a lifetime ETIAS refusal.
+> * **Step 0 (What happened, in plain terms):** The era when you could "lose the old passport with the stamps," show a second passport at the border, or negotiate a couple days' overstay with the border guard — definitively liquidated. The EU deployed the **Entry/Exit System (EES)** across all 29 Schengen countries: physical ink stamps are abolished, the border scans your face and 4 fingers, and the single eu-LISA supercomputer in Strasbourg counts the 90/180 rolling window to the second. One hour late on exit — the EES mathematically logs the overstay into the Overstayer list. **Forensic EU Law Correction:** EES does not automatically slap an entry ban. An Entry Ban in SIS II (1–5 years under Art. 11 Return Directive 2008/115/EC) requires an **individual administrative decision** by national border authorities with a proportionality assessment and consideration of fundamental rights (CJEU Case C-546/16 *Monté*). Technical flight delays result in administrative fines (€500–€3,000) or a return order, not an algorithmic multi-year ban.
 > * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):**
 >   * The European Parliament and Council *Regulation (EU) 2017/2226* (CELEX: `32017R2226`);
 >   * The official technical specifications and phased rollout schedule of the European agency *eu-LISA* and the *DG HOME* Directorate-General (full 100% activation at all border crossings by April 10, 2026);
->   * The second Schengen Information System (*SIS II*).
-> * **Step 2 (the mechanism of algorithmic accounting and automatic sanctions):**
+>   * The second Schengen Information System (*SIS II*) and Return Directive 2008/115/EC (Art. 11).
+> * **Step 2 (the mechanism of algorithmic accounting and administrative sanctions):**
 >   1. **Total biometric identification:** On a third-country national's first entry, a digital profile (*Individual File*) is created: a high-resolution facial biometric and a 4-finger digital fingerprint scan. The data is encrypted and stored in eu-LISA. Presenting a second or third passport under another name or number is linked to the single biometric hash within **0.8 seconds**.
 >   2. **The automatic mathematical calculator of the 90/180 rolling window:** The EES system performs the strict calculation in real time:
 >      $$\sum_{t = \text{Date} - 179}^{\text{Date}} \text{Days}_{\text{Schengen}}(t) \le 90$$
 >      The human factor of the border guard is eliminated: the turnstile's light goes red automatically if the sum of days over any 180 preceding days exceeds 90.
->   3. **The automatic `Overstayer` status in SIS II:** If exit is not recorded on the day the limit expires, at midnight the system automatically generates a visa-violation record in SIS II. Consequences: an administrative fine (€500–€3,000), automatic refusal of **ETIAS** authorization, and an *Entry Ban* of 1 to 5 years across the entire EU perimeter.
+>   3. **EES `Overstayer` status and statutory Entry Ban threshold:** If exit is not recorded on the day the limit expires, EES generates an overstay record in its database. However, issuing an entry ban in SIS II is governed by Art. 11 of Return Directive 2008/115/EC: per CJEU precedents (Case C-546/16 *Monté*, Case C-181/16 *Gnandi*), automatic algorithmic bans are prohibited — an individual return decision weighing severity, family ties, and proportionality is required. Real risks: administrative fines (€500–€3,000), friction with future visas/ETIAS, and in cases of willful non-compliance, a formal Entry Ban of 1 to 5 years across the EU.
 > * **Step 3:**
 >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
 >   > **In plain language:** Schengen has turned into a sealed subway turnstile with biometrics. No more "visa runs," tearful stories about the broken car, or second clean passports — none of it saves you from the ban.
@@ -8139,6 +8167,19 @@ Keep your documents in order, verify invoice wording to the dot, and cut financi
 
 ---
 
+### **The Consolidated Forensic Matrix: Regulatory Risks & Preventive Valves by Circuit (Horizon 2026–2030)**
+
+| Geographic Circuit | Core Critical Risk (P0) | Default Probability Under Inaction | Primary Statute / Authority | Immediate Actionable Directive |
+| :--- | :--- | :---: | :--- | :--- |
+| **Russia (RU)** | Single Summons Registry (127-FZ) + foreign passport seizures (Decree 2090) + SORM-3 / MAX messenger | **> 90%** | 127-FZ, 114-FZ art. 15.1, 53-FZ, Decree No. 2090, 425-FZ | Travel ban triggers immediately on posting in registry (114-FZ art. 15.1). Liquidate assets for fair market value through escrow BEFORE registry listing (marital property agreements under art. 42 SK RF routinely voided as sham transactions under arts. 10, 168, 170 GK RF). Second 10-year biometric passport. MAX messenger isolated strictly on empty burner device [P0-70, P0-77, P0-86]. |
+| **CIS / Caucasus (GE, AM, KZ, RS, ME)** | Secondary sanctions (CAPTA / EO 14114) + loss of tax incentives on consulting + visa-free denunciation | **65–75%** | Georgia Decree 415 / GAAR art. 73.9, Armenia Law HO-498-N, Kazakhstan Tax Code 2026 | Purge invoices of "consulting" and "management" under NACE 62.01 (Georgia reclassifies to 20% PIT + 50% penalty). In Armenia watch 115M AMD threshold (18% CIT + 20% VAT). In Montenegro establish D.O.O. before visa-free termination on 01.11.2026. Separate banking channels [P0-89, P0-91]. |
+| **USA / Canada** | FinCEN BOIR + TCJA Sunset + 40% NRA Estate Tax + Canadian Departure Tax & GAAR | **80%** | 31 U.S.C. § 5336 (BOIR), 26 U.S.C. § 2102, ITA § 128.1, Bill C-59 GAAR | File FinCEN BOIR ($591/day civil penalty). Ban direct US stocks >$60k for non-residents (Irish UCITS ETFs only). Factor in effective GILTI/NCTI rate of 13.125%–14% under Section 962 / OBBBA. When exiting Canada — audit portfolio with CPA under GAAR (economic substance deficiency presumption + 25% penalty) [P0-106, P0-111]. |
+| **United Kingdom / EU** | 10-year IHT tail + Schengen EES biometric gateway + CARF/DAC8 + EU ATAD 3 Unshell | **85%** | UK Finance Act 2025, Regulation (EU) 2017/2226 (EES), COM(2021) 565, OECD CARF | Relocate from UK prior to 10th year of tax residency (prevents 40% worldwide IHT tail). Count Schengen days strictly via EC calculator; EES logs overstay mathematically (fines €500–€3,000; SIS II bans require individual proportionality decision). Ensure real substance for EU SPVs under ATAD 3 (prevents 30–35% WHT). Cold storage on Multisig Air-Gap [P0-19, P0-113, P0-114]. |
+| **Ukraine (Domestic)** | Winter grid destruction (L5) + NBU P2P limit (150k UAH/mo) + arts. 200/209 CCU (droppers) | **70–85%** | NBU Resolution 102, Law 3633-IX, art. 206 CPC | Deploy 3–5 kWh LiFePO4 battery under IEC 62619 / UL 1973 with self-heating (no charge at T < +5°C); settle IT exports via direct IBAN (statutory exemption from 180-day rule under Res. 67); account freezing under Law 3633-IX requires standard State Executive Service enforcement, not unilateral bank freezes; invoke art. 206 CPC against unlawful detention [P0-20, P0-72, P0-74]. |
+| **Ukrainians in EU / West** | Termination of Bürgergeld via Job-Turbo + 800+ schooling trap in Poland + CRS auto-exchange (Law 2970-IX) | **60–75%** | Council Decision (EU) 2026/1912 (TPD 2028), Polish CUKR Act, Law No. 2970-IX | Transition to official employment or business entity; enroll children in local schools; obtain multi-year residence cards (CUKR / Lex 7). Deregister domestic FOP, cancel address registration (propyska), and secure local Tax Residence Certificate to prevent retrospective 18% PIT + 25% penalties under CRS [P0-112, P0-116]. |
+
+---
+
 ### **🛠️ THE ROSETTA STONE OF PART V: THE DECODER OF ABBREVIATIONS AND TERMS**
 
 Before diving into the tables, let's normalize all the technical codes of the appendices:
@@ -8723,7 +8764,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
      * **Vector 6 (the anatomy of B-Book prop-trading scams):** *CFTC & OSC v. MyForexFunds* ($310M USD, Case 1:23-cv-22358) — 60–75% of revenue from challenge fees, Virtual Dealer plugins (300–1500 ms slippage), the Trailing High-Water Mark trap; the mandate on licensed DMA/ECN brokers.
      * **Vector 7 (the extinction of juniors and the vibe-coding crisis):** *Stanford HAI AI Index 2024–2026*, *CompTIA*, *GitClear 2024* — hiring of 22–25-year-old engineers down 20–67%, Code Churn up +39%, the erosion of the low-level debugging base (GDB, strace, eBPF), and the rupture of the 10-year systems-architect pipeline.
   4. *L4 Jurisprudence and borders (§11.3, §11.4, §11.5):*
-     * **Vector 8 (the Schengen EES biometric gate):** *Regulation (EU) 2017/2226*, eu-LISA (deployment to 10.04.2026) — ink stamps abolished, face and 4-finger hashing, the automatic 90/180 counter; even a 1-hour overstay gives auto-`Overstayer` status in SIS II (a 1–5 year ban and ETIAS refusal).
+     * **Vector 8 (the Schengen EES biometric gate):** *Regulation (EU) 2017/2226*, eu-LISA (deployment to 10.04.2026) — ink stamps abolished, face and 4-finger hashing, automatic 90/180 counter; overstay is logged mathematically by EES; fines (€500–€3,000) apply, while an SIS II entry ban (1–5 years) requires an individualized administrative return decision with proportionality review (Directive 2008/115/EC art. 11; CJEU C-546/16 *Monté*).
      * **Vector 9 (the Caribbean CBI cartel and the Vanuatu revocation):** *Caribbean MoA 2024* ($200k+ floor) and *Council Decision (EU) 2024/2119* — doubled thresholds, unified compliance, Vanuatu's loss of EU/UK visa-free access; reorientation toward substantive residencies (O-1A, NIW, Global Talent, Cyprus 6.2).
   5. *L5 Hardware and environment (§5.0, [P0-20]):*
      * **Vector 10 (the fire hazard of NMC EVs in underground parking):** The Incheon catastrophe (01.08.2024, a Mercedes EQE / Farasis NMC) — 8h20m of firefighting, self-release of $O_2$ on cathode decomposition ($1000\text{–}1200^\circ\text{C}$), toxic $HF$, 140 cars destroyed and the risers of 480 apartments cut for 14 days; Seoul's bans on entering with charge $>90\%$; the LiFePO4 and open-lot standard.

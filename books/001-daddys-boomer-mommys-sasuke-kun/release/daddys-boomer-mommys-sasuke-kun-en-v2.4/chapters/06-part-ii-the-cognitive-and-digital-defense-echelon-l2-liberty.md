@@ -392,10 +392,10 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 > 🔧 **[P0-20: LIFEPO4-STORAGE]: The LiFePO4 home energy-reserve standard**
 >
 >
-> ❄️ **THE CRITICAL ELECTROCHEMICAL SEAL (NO CHARGING LiFePO4 AT $T \le 0^\circ\text{C}$):**
-> At cell temperatures $\le 0^\circ\text{C}$ ($32^\circ\text{F}$), the diffusion kinetics of lithium ions into the graphite anode slow sharply. Attempting to push charge current into a frozen battery causes **Lithium Plating**: lithium ions don't intercalate into the graphite lattice — they crystallize on its surface as metallic lithium.
-> The resulting microscopic metal needles (**dendrites**) grow through the porous polymer separator toward the cathode, causing **irreversible internal short-circuit** and capacity degradation of up to 80% within a few cycles.
-> **The engineering protocol:** 1) Discharging LiFePO4 in the cold is allowed (down to $-20^\circ\text{C}$); 2) **Charging — STRICTLY at $T > 0^\circ\text{C}$** (optimum $+10\text{–}+25^\circ\text{C}$). The BMS board must carry a hardware temperature sensor with charge cutoff (*Low-Temperature Charge Protection*), or the station must carry heating mats (*Self-Heating*).
+> ❄️ **THE CRITICAL ELECTROCHEMICAL SEAL (STANDARDS IEC 62619, UL 1973 & NO CHARGING LiFePO4 AT $T \le 0^\circ\text{C}$):**
+> In accordance with industrial electrochemical safety standards **IEC 62619** and **UL 1973**, at cell temperatures $\le 0^\circ\text{C}$ ($32^\circ\text{F}$), the diffusion kinetics of lithium ions into the graphite anode slow sharply. Attempting to push charge current into a frozen battery (from the grid or a generator during a winter blackout in an unheated space) triggers **Lithium Plating**: lithium ions don't intercalate into the graphite lattice — they plate on its surface as metallic lithium.
+> The resulting microscopic metal needles (**dendrites**) puncture through the porous polymer separator toward the cathode, causing **irreversible internal short-circuits, thermal runaway with toxic hydrogen fluoride (HF) off-gassing**, and catastrophic cell death.
+> **The engineering protocol:** 1) Discharging (drawing energy) from LiFePO4 in the cold is permitted (down to $-20^\circ\text{C}$); 2) **Charging — STRICTLY at cell temperatures $\ge +5^\circ\text{C}$** (optimum $+10\text{–}+25^\circ\text{C}$). The system must comply with **IEC 62619 / UL 1973**: the BMS board must carry a hardware temperature sensor with a hard low-temperature charge cutoff below $+5^\circ\text{C}$ (*Low-Temperature Charge Protection*), or the pack must feature integrated heating pads (*Self-Heating*) and reside inside an insulated enclosure within the heated living quarters.
 
 4. **The crystal lattice and the thermodynamics of thermal runaway:**
 

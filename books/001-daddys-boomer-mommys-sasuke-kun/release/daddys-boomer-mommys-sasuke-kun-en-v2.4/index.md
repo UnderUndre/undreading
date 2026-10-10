@@ -132,6 +132,7 @@
 - [Bob's Final Verdict: The "Clean Cut" Rule](chapters/08-part-iv-the-echelon-of-legal-sovereignty-and-the-network-sta.md#bobs-final-verdict-the-clean-cut-rule)
 
 ### PART V: THE CONSOLIDATED FORENSIC TABLE, THE FIELD RUNBOOK, AND APPENDICES
+- [The Consolidated Forensic Matrix: Regulatory Risks & Preventive Valves by Circuit (Horizon 2026–2030)](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#the-consolidated-forensic-matrix-regulatory-risks--preventiv)
 - [🛠️ THE ROSETTA STONE OF PART V: THE DECODER OF ABBREVIATIONS AND TERMS](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#the-rosetta-stone-of-part-v-the-decoder-of-abbreviations-and)
 - [Acoustic dramaturgy and the musical landscape](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#acoustic-dramaturgy-and-the-musical-landscape)
 - [The Consolidated Concept Matrix (The Forensic Blueprint Table)](chapters/09-part-v-the-consolidated-forensic-table-the-field-runbook-and.md#the-consolidated-concept-matrix-the-forensic-blueprint-table)

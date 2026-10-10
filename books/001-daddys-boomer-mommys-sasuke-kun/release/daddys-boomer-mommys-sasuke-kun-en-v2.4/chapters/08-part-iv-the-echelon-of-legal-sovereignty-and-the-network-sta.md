@@ -137,7 +137,7 @@ Attempting to move accumulated capital to a low-tax jurisdiction is blocked by d
 * **US citizens and Green Card holders (US Persons):** Taxation by right of passport (*IRC §1*).
   * **FEIE (IRC §911):** An exclusion of up to **$132,900 for the 2026 tax year** (indexed annually by the IRS — verify the current year's Form 2555) of active foreign income via the *Physical Presence Test* (330 days outside the US) or the *Bona Fide Residence Test*.
   * **Self-Employment Tax (15.3%):** FEIE removes income tax but NOT the 15.3% SE Tax (Schedule SE) for sole proprietors/freelancers. The bypass: providing services through a foreign corporation (UAE FZCO / Cyprus LTD) as an employee.
-  * **CFC / GILTI (IRC §951A):** Owning $>50\%$ of a foreign company is taxed at the individual level at up to 37% (Form 5471). The bypass: a **Section 962 Election** (electing to be taxed as a corporation), cutting the effective rate to ~10.5%.
+  * **CFC / GILTI (IRC §951A / NCTI regime):** Owning $>50\%$ of a foreign company is taxed at the individual level at up to 37% (Form 5471). The bypass: a **Section 962 Election** (electing to be taxed as a corporation). *Note (OBBBA calibration):* previously the rate was ~10.5% due to a 50% Section 250 deduction. Following tax reform, the deduction was cut to 40%, raising the corporate base to 12.6%, and factoring in the Section 960 Foreign Tax Credit (FTC) haircut, the actual effective rate is **13.125%–14%** (not 10.5%).
 * **Germany (§ 6 AStG / the ATADUmsG law):**
   Individuals holding company stakes of $1\%$ or more, who were German tax residents for at least 7 of the preceding 12 years, are on departure taxed on unrealized capital gains as if on a fictitious sale (*Teileinkünfteverfahren*, tax on 60% of the hidden appreciation). From January 1, 2022, the indefinite deferral for moves within the EU/EEA is fully annulled: the tax is paid either immediately or in a 7-year installment plan, strictly against a bank guarantee or asset collateral.
 * **Norway (the Tax Act § 10-70):**
@@ -489,6 +489,34 @@ The single most destructive hidden leak in global portfolio management. US citiz
 
 ---
 
+##### **10.6.7. EU ATAD 3 (Unshell Directive COM(2021) 565): Disqualification of Shell Entities & Loss of EU Tax Directives ([P0-114: ATAD3-UNSHELL-GATE])**
+
+International asset protection and tax structures relying on low-substance intermediate companies in EU jurisdictions (Cyprus, Malta, Hungary, Estonia) to hold IP, software licenses, or accumulate passive dividend income face a direct strike from the **EU Unshell Directive (ATAD 3 / COM(2021) 565 final)**.
+
+1. **The Anatomy of the Trap (Cumulative Gateways & Presumption of Shell Status):**
+   * The Directive deploys three cumulative gateways: if $>65\text{–}75\%$ of the entity's revenue is passive income (royalties, dividends, interest), $>60\%$ of transactions are cross-border, and core management administration is outsourced to third-party Corporate Service Providers (CSPs), the entity is automatically presumed to be a "shell entity" lacking economic substance.
+   * **Minimum Substance Indicators:** To rebut this presumption, the company MUST annually prove:
+     * Its own exclusive commercial premises in the Member State (not a shared PO box or nominee registered address);
+     * At least one active bank account within the EU;
+     * At least one qualified local resident director (or dedicated local employees) exercising genuine operational control and not serving as a nominee for dozens of unrelated entities.
+2. **Consequences of Disqualification (Fiscal Water Hammer):**
+   * The entity is stripped of its tax residency certificate for European directive purposes and **loses all benefits under double tax treaties (DTTs)**, the Parent-Subsidiary Directive (2011/96/EU), and the Interest and Royalties Directive (2003/49/EC);
+   * Source countries impose maximum domestic **Withholding Tax (WHT) of 30%–35%** on outgoing distributions;
+   * Tax authorities in the shareholder's country of residence tax corporate profits directly under look-through rules, entirely disregarding the corporate veil.
+3. **The Engineering Countermeasure ([P0-114]):**
+   * Liquidate dormant or purely nominal EU SPVs;
+   * Build genuine physical economic substance in the jurisdiction of incorporation (commercial lease, payroll, resident operational staff) or route business directly through a transparent operating company in the founder's actual tax residence.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-114] ATAD3-UNSHELL-GATE (L4): EU ATAD 3 Directive; disqualification of shell       │
+│ entities (Cyprus, Malta, Estonia) lacking physical premises & resident directors;      │
+│ withholding tax jumps to 30–35%; mandate for real substance or liquidation of SPVs.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 #### **10.7. Bankruptcy clawback of real-estate transactions ([P0-70])**
 
 Buying physical real estate at a "below-market" discount is the classic trap where the buyer loses both the concrete and 100% of the paid capital. Bankruptcy legislation entrenched a **lookback period** for unwinding a debtor's transactions — **US: 11 U.S.C. § 548 (2 years), extended to 4–6 years via state UVTA law through § 544(b), and 10 years for self-settled trusts (§ 548(e)) | UK: Insolvency Act 1986 s. 238 (2-yr undervalue) & s. 423 (fraud transactions, NO look-back limit)**. The Russian case below is the live case study of the mechanism (art. 61.2 of Federal Law No. 127-FZ, a 3-year suspicious period).
@@ -629,7 +657,7 @@ The layman's fantasy breaks against the physiological timer:
 | # | Citizenship | Where you live 183+ days | Where the company (OpCo) | Where the personal account | The effective rate | The main traps (IRS / Exit Tax / CFC / POEM) |
 | --- | --- | --- | --- | --- | --- | --- |
 | **1** | **USA (US Citizen)** | Costa Rica (DNV) | US Single-Member LLC | US Mercury + CR BAC Credomatic | **0%** up to $132,900 (FEIE 2026), 15.3% SE-tax above | FEIE doesn't remove the 15.3% SE-tax (*IRC §1401*). Filing *Form 2555* and *FBAR (FinCEN 114)*. |
-| **2** | **USA (US Citizen)** | UAE (Dubai) | UAE Freezone FZCO | UAE Wio + US Chase | **0–9%** CT + **~10.5%** GILTI | GILTI rules (*IRC §951A*). Requires a *Section 962 election* and *Form 5471*. |
+| **2** | **USA (US Citizen)** | UAE (Dubai) | UAE Freezone FZCO | UAE Wio + US Chase | **0–9%** CT + **13.125%–14%** GILTI/NCTI | GILTI/NCTI rules (*IRC §951A*). Requires a *Section 962 election* (40% §250 deduction) and *Form 5471*. |
 | **3** | **EU (Germany)** | Spain (*Beckham Law*) | US non-ETBUS LLC / contract | ES BBVA / Santander | **24% flat** (up to €600k/year) | The German Exit Tax (*§6 AStG*). The *Form 149* deadline (6 months). |
 | **4** | **EU (France)** | Cyprus (Non-Dom, 60 days) | Cyprus LTD | Cyprus Bank of Cyprus / Hellenic | **12.5%** CIT + **2.65%** GESY (0% SDC) | The French *Exit Tax (Art. 167 bis)* on assets >€800k. Observing the 60-day rule. |
 | **5** | **United Kingdom** | Portugal (*IFICI / NHR 2.0*) | UK LTD | PT Millennium BCP + UK Revolut | **20%** (IFICI) / **19–25%** (UK CIT) | Passing qualification under *Art. 58-A EBF*. UK CFC risk on passive income. |
@@ -1620,17 +1648,17 @@ In the sovereign operator's architecture, family status and the presence of mino
 * **The EU biometric gate EES (Regulation EU 2017/2226 & eu-LISA, deployment to April 2026):**
 
 > 🛑 **Post-Mortem [L1 Fact / Bedrock] (the EES biometric gate and the end of the manual-stamp era): Regulation (EU) 2017/2226**
-> * **Step 0 (What happened, in plain terms):** The era when you could "lose the old passport with the stamps," show a second passport at the border, or negotiate a couple days' overstay with the border guard — definitively liquidated. The EU deployed the **Entry/Exit System (EES)** across all 29 Schengen countries: physical ink stamps are abolished, the border scans your face and 4 fingers, and the single eu-LISA supercomputer in Strasbourg counts the 90/180 rolling window to the second. One hour late on exit — the system automatically hangs an `Overstayer` flag in the SIS II database, issues a fine, and slaps on a 3–5 year entry ban with a lifetime ETIAS refusal.
+> * **Step 0 (What happened, in plain terms):** The era when you could "lose the old passport with the stamps," show a second passport at the border, or negotiate a couple days' overstay with the border guard — definitively liquidated. The EU deployed the **Entry/Exit System (EES)** across all 29 Schengen countries: physical ink stamps are abolished, the border scans your face and 4 fingers, and the single eu-LISA supercomputer in Strasbourg counts the 90/180 rolling window to the second. One hour late on exit — the EES mathematically logs the overstay into the Overstayer list. **Forensic EU Law Correction:** EES does not automatically slap an entry ban. An Entry Ban in SIS II (1–5 years under Art. 11 Return Directive 2008/115/EC) requires an **individual administrative decision** by national border authorities with a proportionality assessment and consideration of fundamental rights (CJEU Case C-546/16 *Monté*). Technical flight delays result in administrative fines (€500–€3,000) or a return order, not an algorithmic multi-year ban.
 > * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):**
 >   * The European Parliament and Council *Regulation (EU) 2017/2226* (CELEX: `32017R2226`);
 >   * The official technical specifications and phased rollout schedule of the European agency *eu-LISA* and the *DG HOME* Directorate-General (full 100% activation at all border crossings by April 10, 2026);
->   * The second Schengen Information System (*SIS II*).
-> * **Step 2 (the mechanism of algorithmic accounting and automatic sanctions):**
+>   * The second Schengen Information System (*SIS II*) and Return Directive 2008/115/EC (Art. 11).
+> * **Step 2 (the mechanism of algorithmic accounting and administrative sanctions):**
 >   1. **Total biometric identification:** On a third-country national's first entry, a digital profile (*Individual File*) is created: a high-resolution facial biometric and a 4-finger digital fingerprint scan. The data is encrypted and stored in eu-LISA. Presenting a second or third passport under another name or number is linked to the single biometric hash within **0.8 seconds**.
 >   2. **The automatic mathematical calculator of the 90/180 rolling window:** The EES system performs the strict calculation in real time:
 >      $$\sum_{t = \text{Date} - 179}^{\text{Date}} \text{Days}_{\text{Schengen}}(t) \le 90$$
 >      The human factor of the border guard is eliminated: the turnstile's light goes red automatically if the sum of days over any 180 preceding days exceeds 90.
->   3. **The automatic `Overstayer` status in SIS II:** If exit is not recorded on the day the limit expires, at midnight the system automatically generates a visa-violation record in SIS II. Consequences: an administrative fine (€500–€3,000), automatic refusal of **ETIAS** authorization, and an *Entry Ban* of 1 to 5 years across the entire EU perimeter.
+>   3. **EES `Overstayer` status and statutory Entry Ban threshold:** If exit is not recorded on the day the limit expires, EES generates an overstay record in its database. However, issuing an entry ban in SIS II is governed by Art. 11 of Return Directive 2008/115/EC: per CJEU precedents (Case C-546/16 *Monté*, Case C-181/16 *Gnandi*), automatic algorithmic bans are prohibited — an individual return decision weighing severity, family ties, and proportionality is required. Real risks: administrative fines (€500–€3,000), friction with future visas/ETIAS, and in cases of willful non-compliance, a formal Entry Ban of 1 to 5 years across the EU.
 > * **Step 3:**
 >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
 >   > **In plain language:** Schengen has turned into a sealed subway turnstile with biometrics. No more "visa runs," tearful stories about the broken car, or second clean passports — none of it saves you from the ban.
