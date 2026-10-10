@@ -376,6 +376,85 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 ---
 
 ---
+
+
+#### **2.5.1. Biological OPEX and Reproductive Investment Asymmetry**
+
+> 🫀 **THE PHYSICS AND ANATOMY OF THE REPRODUCTIVE RISER:**  
+> Marriage and cohabitation from an engineering perspective are not a romantic Disney fairytale; they represent a brutal thermodynamic system with severe asymmetric component wear. If you don't calculate the biological operating expenses (OPEX) of each node, the pipeline will inevitably rupture under the water hammer of mutual resentment.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             BIOLOGICAL OPEX & RISK ASYMMETRY (L1 FORENSIC MATRIX)                      │
+├────────────────────────────────────────┬───────────────────────────────────────────────┤
+│ FEMALE BIOLOGICAL OPEX (PEAK BURDEN)   │ MALE BIOLOGICAL OPEX (DISTRIBUTED EXPOSURE)   │
+├────────────────────────────────────────┼───────────────────────────────────────────────┤
+│ • Finite ovarian reserve (300–400      │ • Continuous spermatogenesis into old age     │
+│   lifetime ovulations; steep cliff     │   (with gradual degradation in genetic QC).   │
+│   after age 35).                       │ • External violent death/suicide rate is      │
+│ • 9 months of gestation: 30–50% surge  │   3.5–4.0x higher than female baseline.       │
+│   in cardiac output, diaphragm shift,  │ • 10–11 year life expectancy deficit in Post- │
+│   risk of preeclampsia and eclampsia.  │   Soviet and deindustrialized blue-collar     │
+│ • Pelvic floor muscular trauma,        │   regions (mid-life cardiovascular collapse). │
+│   postpartum thyroiditis & clinical    │ • Zero biological/legal veto over birth with  │
+│   postpartum depression (10–15%).      │   100% downstream financial liability (L4).   │
+│ • "Motherhood Penalty": 20–30% hit to  │                                               │
+│   lifetime career earnings.            │                                               │
+└────────────────────────────────────────┴───────────────────────────────────────────────┘
+```
+
+---
+
+#### **2.5.2. Biochemical Sabotage: Oral Contraceptives (COCs), HLA/MHC Olfactory Inversion & the 6-Month Quarantine Rule**
+
+> 🧪 **HOW SYNTHETIC HORMONES HIJACK MATE SELECTION (WEDEKIND 1995 & ROBERTS 2008):**  
+> In native human biology, a woman selects a partner through olfactory detection of Major Histocompatibility Complex (**MHC / HLA**) markers. The more genetically dissimilar the man's HLA profile is from hers, the more attractive his natural scent—nature's immutable checksum against inbreeding that maximizes offspring immune immunocompetence.
+>
+> ⚠️ **THE ORAL CONTRACEPTIVE (COC) TRAP MECHANICS:**
+> 1. Combined oral contraceptives biochemically simulate a perpetual pseudo-pregnant endocrine state (elevated progestins).
+> 2. In a pregnant state, a female's evolutionary priority shifts from finding a genetically dissimilar mate to seeking shelter among genetically similar kin (the protective tribe).
+> 3. **Olfactory Inversion:** On COCs, women unconsciously select men with **similar MHC profiles** (resembling a brother or father).
+> 4. **Post-Pill Catastrophe:** When the couple decides to conceive and stops the pill, her natural ovulatory endocrine axis restores. Her husband's natural scent suddenly triggers acute physical revulsion, nausea, and severe loss of sexual attraction. Libido crashes, panic sets in, and the marriage spirals into an unexplained divorce.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ BOB'S PROTOCOL: THE 6-MONTH POST-PILL QUARANTINE                                   │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ When discontinuing oral contraceptives, strictly observe the following:                │
+│ 1. Zero marital commitments or joint mortgage signings during the transition.          │
+│ 2. Impose a strict 180-day moratorium on divorce or breakup decisions.                 │
+│ 3. Understand that sudden emotional detachment is neurochemical receptor recalibration │
+│    in the hypothalamus. Use barrier contraception and allow baseline chemistry to reset│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **2.5.3. Paternity Forensics and Legal DNA Traps**
+
+> 🧬 **BASE RATE REALITY CHECK (BELLIS ET AL. 2005 & LARMUSEAU ET AL. 2016):**  
+> Urban legends claim "one in three children is not the husband's." Empirical forensic genetics establishes two distinct cohorts:
+> * **General Population (unselected cohort):** Non-paternity rate is reliably **1.0–2.0%**.
+> * **Suspected Cohort (men seeking DNA laboratory verification):** Mismatch is confirmed in **25.0–30.0%** of tested cases.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ ⚖️ STATUTORY DNA TRAPS & CROSS-BORDER FORENSICS (L1 / L4)                              │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🇫🇷 FRANCE (Art. 16-11 Code Civil, Art. 226-28 Code Pénal):                            │
+│ • Private commercial DNA paternity testing is strictly criminalized! Mail-order tests  │
+│   are illegal contraband. Penalty: up to 1 year in prison and a €15,000 fine.          │
+│ • Testing is only lawful pursuant to an explicit court order within formal proceedings. │
+│                                                                                        │
+│ 🇷🇺 RUSSIA (Art. 52, Art. 116 Family Code RF):                                          │
+│ • Legal paternity can be revoked via court-ordered genetic testing.                    │
+│ • ⚠️ THE NON-REFUNDABLE CLAMP: Under Art. 116 SK RF, past child support payments       │
+│   CANNOT be clawed back from the mother even after 100% proven paternity fraud!        │
+│   Payment liabilities terminate strictly on the date the court order enters into force.│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
 ### **Chapter 3. Preventive Lipidology and the Psychosocial Circuit**
 
 > 🚨 **Anti-Case No. 2 (Ozempic sarcopenia):** The risk of Ozempic sarcopenia: GLP-1 (Ozempic) use at a calorie deficit WITHOUT strength training and adequate protein ($1.6\text{–}2.2\text{ g/kg}$) threatens the loss of up to **40% of skeletal muscle out of the total weight lost**.

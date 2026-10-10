@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 23.3 → EN 2.6 (Montenegro Nov 1 2026 VFS update, Ukrainian TPD 2028 Architecture, Spanish Housing Decrees, Anglo-Saxon Fiscal Hammer §10.14, Hobby Hydraulics & Somatic Defectoscopy §3.12, P0-111–P0-115)
+**Revision:** 23.3 → EN 2.7 (Relationship & Matrimonial Forensics 2026: Coase-Becker Union Economics, Oral Contraceptives & HLA/MHC Olfactory Inversion, Paternity Fraud & DNA Test Bans, Daminger Mental Load Framework, 3-Bucket Family Treasury Architecture, 12-Jurisdiction Comparative Matrix & LGBTQ+ OpSec)
 
 ---
 
@@ -1596,6 +1596,85 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 ---
 
 ---
+
+
+#### **2.5.1. Biological OPEX and Reproductive Investment Asymmetry**
+
+> 🫀 **THE PHYSICS AND ANATOMY OF THE REPRODUCTIVE RISER:**  
+> Marriage and cohabitation from an engineering perspective are not a romantic Disney fairytale; they represent a brutal thermodynamic system with severe asymmetric component wear. If you don't calculate the biological operating expenses (OPEX) of each node, the pipeline will inevitably rupture under the water hammer of mutual resentment.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             BIOLOGICAL OPEX & RISK ASYMMETRY (L1 FORENSIC MATRIX)                      │
+├────────────────────────────────────────┬───────────────────────────────────────────────┤
+│ FEMALE BIOLOGICAL OPEX (PEAK BURDEN)   │ MALE BIOLOGICAL OPEX (DISTRIBUTED EXPOSURE)   │
+├────────────────────────────────────────┼───────────────────────────────────────────────┤
+│ • Finite ovarian reserve (300–400      │ • Continuous spermatogenesis into old age     │
+│   lifetime ovulations; steep cliff     │   (with gradual degradation in genetic QC).   │
+│   after age 35).                       │ • External violent death/suicide rate is      │
+│ • 9 months of gestation: 30–50% surge  │   3.5–4.0x higher than female baseline.       │
+│   in cardiac output, diaphragm shift,  │ • 10–11 year life expectancy deficit in Post- │
+│   risk of preeclampsia and eclampsia.  │   Soviet and deindustrialized blue-collar     │
+│ • Pelvic floor muscular trauma,        │   regions (mid-life cardiovascular collapse). │
+│   postpartum thyroiditis & clinical    │ • Zero biological/legal veto over birth with  │
+│   postpartum depression (10–15%).      │   100% downstream financial liability (L4).   │
+│ • "Motherhood Penalty": 20–30% hit to  │                                               │
+│   lifetime career earnings.            │                                               │
+└────────────────────────────────────────┴───────────────────────────────────────────────┘
+```
+
+---
+
+#### **2.5.2. Biochemical Sabotage: Oral Contraceptives (COCs), HLA/MHC Olfactory Inversion & the 6-Month Quarantine Rule**
+
+> 🧪 **HOW SYNTHETIC HORMONES HIJACK MATE SELECTION (WEDEKIND 1995 & ROBERTS 2008):**  
+> In native human biology, a woman selects a partner through olfactory detection of Major Histocompatibility Complex (**MHC / HLA**) markers. The more genetically dissimilar the man's HLA profile is from hers, the more attractive his natural scent—nature's immutable checksum against inbreeding that maximizes offspring immune immunocompetence.
+>
+> ⚠️ **THE ORAL CONTRACEPTIVE (COC) TRAP MECHANICS:**
+> 1. Combined oral contraceptives biochemically simulate a perpetual pseudo-pregnant endocrine state (elevated progestins).
+> 2. In a pregnant state, a female's evolutionary priority shifts from finding a genetically dissimilar mate to seeking shelter among genetically similar kin (the protective tribe).
+> 3. **Olfactory Inversion:** On COCs, women unconsciously select men with **similar MHC profiles** (resembling a brother or father).
+> 4. **Post-Pill Catastrophe:** When the couple decides to conceive and stops the pill, her natural ovulatory endocrine axis restores. Her husband's natural scent suddenly triggers acute physical revulsion, nausea, and severe loss of sexual attraction. Libido crashes, panic sets in, and the marriage spirals into an unexplained divorce.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🛡️ BOB'S PROTOCOL: THE 6-MONTH POST-PILL QUARANTINE                                   │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ When discontinuing oral contraceptives, strictly observe the following:                │
+│ 1. Zero marital commitments or joint mortgage signings during the transition.          │
+│ 2. Impose a strict 180-day moratorium on divorce or breakup decisions.                 │
+│ 3. Understand that sudden emotional detachment is neurochemical receptor recalibration │
+│    in the hypothalamus. Use barrier contraception and allow baseline chemistry to reset│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **2.5.3. Paternity Forensics and Legal DNA Traps**
+
+> 🧬 **BASE RATE REALITY CHECK (BELLIS ET AL. 2005 & LARMUSEAU ET AL. 2016):**  
+> Urban legends claim "one in three children is not the husband's." Empirical forensic genetics establishes two distinct cohorts:
+> * **General Population (unselected cohort):** Non-paternity rate is reliably **1.0–2.0%**.
+> * **Suspected Cohort (men seeking DNA laboratory verification):** Mismatch is confirmed in **25.0–30.0%** of tested cases.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ ⚖️ STATUTORY DNA TRAPS & CROSS-BORDER FORENSICS (L1 / L4)                              │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🇫🇷 FRANCE (Art. 16-11 Code Civil, Art. 226-28 Code Pénal):                            │
+│ • Private commercial DNA paternity testing is strictly criminalized! Mail-order tests  │
+│   are illegal contraband. Penalty: up to 1 year in prison and a €15,000 fine.          │
+│ • Testing is only lawful pursuant to an explicit court order within formal proceedings. │
+│                                                                                        │
+│ 🇷🇺 RUSSIA (Art. 52, Art. 116 Family Code RF):                                          │
+│ • Legal paternity can be revoked via court-ordered genetic testing.                    │
+│ • ⚠️ THE NON-REFUNDABLE CLAMP: Under Art. 116 SK RF, past child support payments       │
+│   CANNOT be clawed back from the mother even after 100% proven paternity fraud!        │
+│   Payment liabilities terminate strictly on the date the court order enters into force.│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
 ### **Chapter 3. Preventive Lipidology and the Psychosocial Circuit**
 
 > 🚨 **Anti-Case No. 2 (Ozempic sarcopenia):** The risk of Ozempic sarcopenia: GLP-1 (Ozempic) use at a calorie deficit WITHOUT strength training and adequate protein ($1.6\text{–}2.2\text{ g/kg}$) threatens the loss of up to **40% of skeletal muscle out of the total weight lost**.
@@ -4435,6 +4514,94 @@ Hardware FIDO2 / YubiKey tokens secure only the initial login handshake. Once au
 
 ---
 
+
+
+---
+
+### **6.7. Dating Forensics, Cognitive Overhead & Zero-Sum Games: The Daminger Mental Load, Gini Skew & 6 Partnership Valves**
+
+> 📱 **DATING PLATFORMS AS ASYMMETRIC WEAR ACCELERATORS:**  
+> Modern algorithmic dating platforms (Tinder, Bumble, Hinge) operate under extreme marketplace concentration dynamics (*Büyükeren, Makarin, Xiong, 2026*):
+> * **The Dating Attractiveness Gini Coefficient:** Measures between **0.58–0.62** (higher than income inequality in unstable failed states).
+> * **Attention Monopoly:** The top 20% of male profiles capture **78–80% of all female right swipes (likes)**.
+> * **The Median User Funnel:** The average male profile experiences a match conversion rate **below 0.87%** (1 match per 115 swipes), generating rapid dopamine receptor exhaustion and compulsive attachment to the first responsive contact.
+
+---
+
+#### **The Allison Daminger Mental Load Framework: 4 Phases of Household Pressure**
+
+Domestic warfare rarely starts over unwashed mugs; it stems from asymmetric cognitive RAM usage. Harvard sociologist Allison Daminger decomposed domestic operations into four discrete operational phases:
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             THE FOUR-PHASE MENTAL LOAD ARCHITECTURE (DAMINGER MODEL)                   │
+├───────┬─────────────────┬──────────────────────────────────────────┬───────────────────┤
+│ PHASE │ FUNCTION        │ OPERATIONAL DEFINITION                   │ PRIMARY OPERATOR  │
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 1     │ **Anticipate**  │ Forecasting future bottlenecks (water    │ 80% — Female      │
+│       │ (Early Warning) │ filter expiring, groceries depleting).   │ (Background Daemon│
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 2     │ **Identify**    │ Sourcing options (spec matching, vendor  │ 75% — Female      │
+│       │ (Discovery)     │ pricing, logistics compatibility).       │ (Cognitive Pool)  │
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 3     │ **Decide**      │ Terminal execution choice ("Buy Model A")│ 50/50 — Joint     │
+│       │ (Resolution)    │                                          │                   │
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 4     │ **Monitor**     │ Delivery tracking, cartridge replacement,│ 85% — Female      │
+│       │ (QA & Telemetry)│ calendar scheduling for next cycle.      │ (SLA Enforcer)    │
+└───────┴─────────────────┴──────────────────────────────────────────┴───────────────────┘
+```
+
+> ⚠️ **THE INFRASTRUCTURE PLUMBER'S RCA:** Men routinely complain: *"I do whatever she asks me to do!"*. In computing terms, the man acts as a passive worker node waiting for CLI input, dumping 100% of the Product Management, Systems Architecture, and QA workload (Phases 1, 2, 4) onto his partner's prefrontal cortex until total memory exhaustion triggers a blowout.
+>
+> 🛠️ **BOB'S FIX:** Full turnkey domain ownership. Not *"take out the trash when told,"* but *"you own the end-to-end municipal waste SLA, supply replenishment, and sanitization cycle without a single prompt."*
+
+---
+
+#### **Male Emotional SPOF (Single Point of Failure) and Normative Alexithymia**
+
+* **Normative Male Alexithymia (*Ronald Levant*):** Systemic conditioning preventing emotional verbalization leads men to ignore somatic telemetry until acute breakdown occurs.
+* **The Single Point of Failure (SPOF):** Men frequently route 100% of their psychological venting exclusively through their romantic partner, maintaining zero independent external pressure-relief valves.
+* **Circuit Severance Catastrophe:** Upon divorce, the man loses 100% of his emotional bandwidth in a single stroke. Outcome: post-divorce male suicide spikes (3.5–4x female rates) and severe cardiovascular mortality within 24 months of separation.
+
+---
+
+#### **4 Toxic Relationship Scam Markers (Via Negativa Filter)**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🚩 FOUR RED FLAGS FOR SYSTEMIC UNION INCOMPATIBILITY (VIA NEGATIVA)                    │
+├────────────────────────┬───────────────────────────────────────────────────────────────┤
+│ VECTOR                 │ FORENSIC SIGNATURE & MANIPULATION MECHANISM                   │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 1. **Manufactured      │ "I'm 30, we must marry/conceive immediately." Artificial      │
+│    Urgency**           │ schedule compression, forced co-signing, rushed cohabitation. │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 2. **Asymmetric Yield  │ "What's yours is ours, what's mine is mine." Refusal to fund  │
+│    (Free Lunch)**      │ the baseline operational expenditure (OPEX) accumulator.      │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 3. **Anonymous Crowd   │ "Real men do X," "My friend's husband bought her an apart-    │
+│    Authority**         │ ment." Appeal to unverified collective mandates.              │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 4. **Mind-Reading /    │ "You should have known!" Passive-aggressive silent treatment  │
+│    Unfalsifiable Dem.**│ and gaslighting in place of deterministic, versioned SLAs.     │
+└────────────────────────┴───────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **Bob's 6 Cast-Iron Partnership Valves**
+
+1. 🧭 **The Polar Expedition Model:** Pick a partner not based on showroom polish ("demo mode"), but as a co-navigator for a grueling Arctic crossing. Ability to endure hardship, cold, and friction without throwing tantrums.
+2. 🤝 **The 3-Way TCP Handshake Protocol:** Zero high-stakes decisions under emotional impulse. Proposal $	o$ Risk Analysis & Cost Breakdown $	o$ Signed Mutual Commitment.
+3. 📜 **Pre-Mortem & Binding Prenuptial Agreement:** Engineer the divorce pipeline BEFORE walking into the registry office. A notarized separate property regime protects both parties from downstream creditor clawbacks and joint liability.
+4. 🪣 **The 3-Bucket Treasury Architecture:** Husband Personal Account (100% Sovereign), Wife Personal Account (100% Sovereign), Joint Family Operating Account (Proportional Funding).
+5. 🏕️ **Offline Gemba Dating:** Stress-test candidates in harsh operational conditions (home renovation, multi-day wilderness treks, 12-hour international airport cancellations), not cushioned bistro booths.
+6. 🚨 **The 03:00 AM Crisis Test:** When a main pipe bursts or an emergency knocks at 3 AM, does your partner execute SOPs with cold clarity or disintegrate into catastrophic emotional panic?
+
+
+---
+
 ## **PART III: THE CAPITAL GENERATION ECHELON (L3: RESOURCES)**
 
 > 💡 **STEP 0: HOUSEHOLD GROUNDING OF ECHELON L3 (IN PLAIN TERMS)**
@@ -4948,6 +5115,51 @@ The digital tech community is infected with the infobusiness myth of \"passive i
 | **SecOps Rule Sets** | YARA/Semgrep / GitHub Sponsors | $39 / $9/mo | $0 | **95%** | 0.5 hrs | 5–10 years |
 | **B2B Functional Audio Pack** | FLAC/WAV / Bandcamp | $29–$49 | $0 | **88–92%** | 0 hrs | 20+ years |
 | **Technical Wall Blueprints** | Archival Print / Printful PoD | $39–$49 | ~$18 | **45–55%** | 0 hrs (auto) | 50+ years |
+
+---
+
+
+
+---
+
+#### **7.5.10. The Coase-Becker Economics of Marriage: The 3-Bucket Treasury Architecture & Motherhood Penalty Offsets**
+
+> 🏛️ **TRANSACTION COST THEORY OF THE HOUSEHOLD (COASE & BECKER):**  
+> Nobel laureate Gary Becker demonstrated that the family functions economically as a micro-enterprise producing non-market commodities (offspring development, nutrition, somatic health, shelter), structured specifically to **minimize transaction costs** (following Ronald Coase).
+>
+> 📉 **WHY ARCHAIC MARITAL STRUCTURES COLLAPSE TODAY:**
+> * Historically, marriage was an existential survival monopoly: women were legally locked out of capital markets, while men died from domestic sanitation failures without household labor.
+> * Household mechanization (washing machines, automated delivery, robotics) and female workforce entry dissolved the traditional transaction monopoly.
+> * Unless a modern partnership is refactored into an **explicit Service Level Agreement (SLA)** backed by deterministic financial plumbing, it degenerates into an extractive negative-sum sinkhole.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             THE THREE-BUCKET HOUSEHOLD TREASURY ARCHITECTURE (L3 PROTOCOL)             │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                        │
+│   ┌──────────────────────────┐                          ┌──────────────────────────┐   │
+│   │    BUCKET 1 (HUSBAND)    │                          │     BUCKET 2 (WIFE)      │   │
+│   │ 100% Sovereign Personal  │                          │ 100% Sovereign Personal  │   │
+│   │ Account. Zero audit.     │                          │ Account. Zero audit.     │   │
+│   └────────────┬─────────────┘                          └────────────┬─────────────┘   │
+│                │ (Funded proportionally to net income, e.g. 70%)      │ (Funded 30%)    │
+│                └───────────────────────┬──────────────────────────────┘                 │
+│                                        ▼                                               │
+│                        ┌──────────────────────────────┐                                │
+│                        │    BUCKET 3 (FAMILY OPEX)    │                                │
+│                        │ Joint Household Reservoir    │                                │
+│                        │  • Rent / Mortgage / Energy  │                                │
+│                        │  • Groceries, Kids, Health   │                                │
+│                        │  • 3–6 Month Liquidity Floor │                                │
+│                        └──────────────────────────────┘                                │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+> 🛡️ **TREASURY PLUMBING RULES:**
+> 1. **Zero "Single Black-Hole Account":** Forcing all revenue into a single joint pool breeds financial micromanagement, passive-aggressive resentment, and zero personal sovereignty.
+> 2. **Proportional, Not Equal, OPEX Allocations:** If Husband clears $6,000/mo and Wife clears $3,000/mo, a $4,500 monthly household nut is funded 66.7% ($3,000) and 33.3% ($1,500). Both retain discretionary sovereign reserves.
+> 3. **Motherhood Penalty Compensatory Protocol:** During maternity leave (where female OPEX converts from financial income to extreme physiological investment), the earning partner funds 100% of Bucket 3 and executes contractual, non-revocable transfers into the mother's Bucket 2 to preserve her financial independence.
+
 
 ---
 
@@ -7604,6 +7816,123 @@ In the Netherlands, 95% of the population speaks English fluently, making the co
 
 ---
 
+
+
+---
+
+### **10.15. The 12-Jurisdiction Comparative Matrimonial Matrix: Cohabitation Traps, Prenuptial Enforceability & Cross-Border Decrees**
+
+> 🏛️ **CROSS-BORDER MATRIMONIAL FORENSICS:**  
+> When crossing international borders, expats rarely realize that their marital status instantly switches onto a completely foreign legal pipeline. Unregistered cohabitation—which carries zero legal standing in jurisdictions like Russia or England—can in Australia, New Zealand, or Canada automatically trigger a 50/50 global asset liquidation decree.
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│             12-JURISDICTION COMPARATIVE MATRIMONIAL FORENSIC MATRIX (L4 MATRIX)                  │
+├───────────────┬─────────────────┬───────────────────┬───────────────────────┬────────────────────┤
+│ JURISDICTION  │ MARITAL REGIME  │ DE FACTO COHABIT. │ PRENUPTIAL VALIDITY   │ ALIMONY EXPOSURE   │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇷🇺 **Russia** │ Community 50/50 │ 0% rights (Art.10 │ Property only (easily │ 25–50% of income   │
+│               │ (Art. 34 SK RF) │ SK RF, strict)    │ challenged Art. 44(2))│ (Art. 81/83 SK RF) │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇺🇦 **Ukraine**│ Community 50/50 │ ⚠️ 50/50 AUTOMATIC│ Notarized agreement   │ Statutory share,   │
+│               │ (Art. 60 SKU)   │ (Art. 74 SKU!)    │ (Art. 93 challenge)   │ child's legal asset│
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇺🇸 **USA**    │ Community (9 st)│ Separate (except 8│ UPMAA standards, full │ Title IV-D machine,│
+│               │ vs Equitable(41)│ Common-Law states)│ financial disclosure  │ lifetime alimony   │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇬🇧 **UK**     │ Judicial Discr. │ 0% rights ("Common│ Radmacher v Granatino │ England: Open-ended│
+│ (Eng / Scot)  │ 50/50 starting  │ Law Wife" is myth)│ Scotland: Strict Act  │ Scotland: Max 3 yrs│
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇨🇦 **Canada** │ Equalization NFP│ ⚠️ 50/50 in BC    │ Marriage / Cohabit.   │ Federal Child      │
+│               │ (Ontario model) │ after 2 years!    │ Agreement (valid)     │ Support Guidelines │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇦🇺 **Australia│ 4-Step Test     │ ⚠️ De facto at 2  │ BFA (s. 90G FLA 1975) │ Child Support      │
+│               │ s. 79 FLA 1975  │ yrs (s. 90SB FLA) │ 2 independent lawyers │ Assessment Act     │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇳🇿 **New      │ Equal Sharing   │ ⚠️ De facto at 3  │ Contracting Out Agr.  │ Child Support      │
+│     Zealand** │ PRA 1976        │ yrs (PRA 1976)    │ (Part 6 s. 21 PRA)    │ Act 1991           │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇮🇪 **Ireland**│ Proper Provision│ Up to 5 yrs (Civil│ Not legally binding,  │ Zero Clean Break!  │
+│               │ (No Clean Break)│ Partnership 2010) │ subject to court veto │ Lifetime claims    │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇸🇬 **Singapore│ ANJ v ANK Test  │ 0% rights         │ Taken into account    │ Women's Charter:   │
+│               │ (Contribution)  │ (Unrecognized)    │ but not absolute      │ Alimony for women  │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇲🇹 **Malta**  │ Community of    │ Cohabitation Act  │ Public Deed by notary,│ Strict mediation,  │
+│               │ Acquests (1320) │ 2020 (3 tiers)    │ strict registry audit │ maintenance to 18  │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇭🇰 **Hong Kong│ LKW v DD 50/50  │ 0% rights         │ Radmacher recognized  │ MPF Pension        │
+│               │ starting point  │ (Unrecognized)    │ in SPH v SA (2014)    │ split by court     │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇳🇱 **Netherl.**│ Limited Comm.   │ Samenlevings-     │ Notarized Huwelijkse  │ Partner alimony    │
+│               │ (post-2018 law) │ contract          │ voorwaarden           │ capped at 5 yrs    │
+└───────────────┴─────────────────┴───────────────────┴───────────────────────┴────────────────────┘
+```
+
+---
+
+#### **Crucial Statutory Traps Decoded**
+
+1. 🇺🇦 **The Ukrainian Art. 74 SKU De Facto Trap:**
+   * Unlike English or Russian common law, Ukrainian law codifies cohabitation without marriage as a **factual marriage ("фактичний шлюб")**.
+   * Property acquired during cohabitation is deemed **joint equal property (50/50)**. Text messages, shared photos, and travel tickets suffice in court to expropriate half of an unregistered partner's assets.
+   * *Supreme Court Precedent (25.02.2026):* Judicial recognition of factual family relations extends to de facto same-sex partners regarding inheritance and property claims.
+
+2. 🇪🇺 **Council Regulation (EU) 2016/1103 (Rome IVa — EU Matrimonial Property):**
+   * Applies to transnational couples living across EU member states.
+   * **Article 22 (Choice of Law Agreement):** Authorizes spouses to execute a written agreement selecting the governing law for their matrimonial property (either the law of their habitual residence or the law of nationality of either spouse). Failing to execute this defaults jurisdiction to the couple's first common habitual residence post-marriage.
+
+3. 🇩🇪 **Germany (Zugewinngemeinschaft & Versorgungsausgleich):**
+   * Statutory default (§ 1363 BGB) equalizes asset value accrued during marriage (*Zugewinnausgleich*).
+   * **Versorgungsausgleich:** Imposes mandatory, non-waivable 50/50 equal division of accrued pension points between spouses upon divorce.
+
+4. 🇫🇷 **France (Prestation Compensatoire):**
+   * Even under a strict separate property marriage agreement (*Séparation de biens*), French courts under Art. 270 Code Civil frequently award substantial lump-sum compensatory payments (*Prestation Compensatoire*) to balance post-divorce living standards.
+
+---
+
+### **10.16. LGBTQ+ Operational Security and the 4 Global Pressure Zones**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│           GLOBAL FOUR-ZONE LGBTQ+ PRESSURE MATRIX (L4 FORENSIC MAP)                    │
+├─────────────────┬──────────────────────────────────────────────────────────────────────┤
+│ PRESSURE ZONE   │ JURISDICTIONS & STATUTORY ENVIRONMENT                                │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ 🔴 **RED ZONE** │ **Uzbekistan (Art. 120 CC), Turkmenistan (Art. 135 CC):**            │
+│ (Criminalized)  │ Explicit penal criminalization (2–3 years imprisonment). Torture,    │
+│                 │ forced medical examinations, police entrapment. Total transit ban.   │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ 🟠 **ORANGE**   │ **Russia (Supreme Court 30.11.2023 / Art. 282.2 CC), Belarus:**      │
+│ (Extremism /    │ "Extremist organization" designation (up to 12 years prison). Full   │
+│  Censorship)    │ gender transition bans (Law No. 386-FZ). FSB border phone audits.   │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ ⚪ **GRAY ZONE**│ **Georgia (2024 Family Values Act), Armenia, Kazakhstan, Azerbaijan:**│
+│ (Legal Vacuum)  │ Decriminalized, but zero civil rights. Public pride bans, social      │
+│                 │ conservatism, and total lack of partnership recognition.             │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ 🟢 **GREEN**    │ **Malta (ILGA #1), Netherlands, Spain (Ley Trans 2023), UK, USA:**   │
+│ (Institutional) │ Full marriage equality. Transnational EU residence protection under  │
+│                 │ *ECJ C-673/16 Coman* directive for same-sex spouses.                 │
+└─────────────────┴──────────────────────────────────────────────────────────────────────┘
+```
+
+#### **Sovereign Operational Directives (OpSec Playbook)**
+
+1. 📱 **Border Control Protocol (Red and Orange Zones):**
+   * Complete sanitization of smartphones and laptops prior to immigration checkpoints (wipe Grindr, Hornet, Tinder, specific chat histories, and media).
+   * Utilize a dedicated, clean Burner Device without personal identity linkages.
+2. 📑 **Civil Protections in Gray Jurisdictions (Where Equal Marriage is Absent):**
+   * **Dual Medical Power of Attorney (Healthcare Proxy):** Unlocks ICU visitation and emergency surgical authorization rights.
+   * **Mutual Notarized Wills:** Preempts asset seizure by estranged first-degree biological relatives.
+   * **Tenancy in Common Real Estate Deeds:** Clearly establishes discrete equity percentages in property acquisition contracts.
+3. ⚠️ **Surrogacy Cross-Border Traps:**
+   * Commercial surrogacy is banned for foreign nationals and single individuals in Russia (Law No. 466-FZ) and Georgia.
+   * Secure international legal hubs: United States (California / Illinois), Canada (altruistic framework), Colombia.
+
+
+---
+
 ### **Consolidated Forensic Matrix of World Emigration Risers (2026)**
 
 | Country of Departure / Hub | Departure/Exit Tax Mechanic | Main Hidden Clog (Single Killer Defect) | Extraterritorial Leash | Status for Capital |
@@ -7960,6 +8289,50 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 
 ---
 
+
+
+---
+
+### **Bayesian Calibration of Marital Survival (Base Rates Matrix)**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│               BAYESIAN MARITAL SURVIVAL TELEMETRY (L5 FORENSIC CALIBRATION)            │
+├───────────────────────────────────────────────────────────────────┬────────────────────┤
+│ PARAMETER / RISK VECTOR                                           │ STATISTICAL METRIC │
+├───────────────────────────────────────────────────────────────────┼────────────────────┤
+│ Baseline urban divorce probability (US/UK/CIS metropolitan areas) │ $P(D) = 0.65-0.75$ │
+│ Long-term union survival baseline at 15+ years                    │ $P(S) = 0.25-0.35$ │
+│ Divorce initiator in middle-class marriages (Stanford Rosenfeld)  │ 69–73% — Female    │
+│ Lavish wedding cost >$20,000 (Francis-Tan & Mialon 2014)          │ Divorce risk $\\times 1.6$│
+│ Uncommitted premarital cohabitation drift ("Sliding")             │ Divorce risk $\\times 1.4$│
+│ Executed prenuptial agreement + 3-bucket treasury architecture    │ Survival $\\times 2.2$    │
+└───────────────────────────────────────────────────────────────────┴────────────────────┘
+```
+
+---
+
+### **Operational Runbook: 03:00 AM Relationship Crisis (Emergency Protocol)**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🚨 EMERGENCY SCRIPT FOR SUDDEN DOMESTIC ESCALATION & BLOWOUTS                          │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [STOP ACTION]: Enforce an absolute decision-making embargo between 00:00–07:00.     │
+│    Elevated cortisol and prefrontal cortex exhaustion guarantee catastrophic choices. │
+│ 2. [ISOLATION]: Physical separation of nodes. Relocate to a separate room or hotel.    │
+│    Zero pursuit, zero midnight interrogations ("We need to talk right now!").          │
+│ 3. [DATA HYGIENE]: Total ban on emotional texting in messengers. Every WhatsApp/Signal │
+│    message is an unredacted future courtroom exhibit.                                  │
+│ 4. [FINANCIAL LOCK]: Verify personal accounts (Bucket 1 / Bucket 2). Prohibit hostile │
+│    draining of joint accounts before consulting specialized legal counsel.             │
+│ 5. [MORNING CALIBRATION]: Negotiate exclusively post-rest, post-meal, with HR < 70 bpm.│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
 ### **Appendix G: The operator's revision calendar**
 
 > 💡 **STEP 0: WHY THIS SCHEDULE?**
@@ -8055,7 +8428,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 > **Your action right now:** Hold personal autonomy: a 90-day freeze-dried reserve at home, physical cash in a secure place, independent offline backups on M-DISC media — and a profession that gets paid live money on the world market.
 
 ---
-### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.4)"**
+### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.7)"**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -8065,6 +8438,13 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 2.7 — Matrimonial & Relationship Forensics (Checked: 2026-10-10; Base v23.3):**
+  1. *L1 Biological Echelon (§2.5.1–§2.5.3):* Injected biological OPEX accounting (female gestational cardiac surge vs male violent mortality / life expectancy deficit), biochemical oral contraceptive sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), forensic paternity base rates (1-2% unselected vs 25-30% suspected, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support).
+  2. *L2 Cognitive Echelon (§6.7):* Injected dating platform forensics (Gini coefficient 0.58-0.62, top 20% male like concentration), Allison Daminger 4-phase Mental Load framework (Anticipate, Identify, Decide, Monitor), male emotional SPOF & normative alexithymia, 4 toxic relationship scam markers (Via Negativa), Bob's 6 Cast-Iron Partnership Valves.
+  3. *L3 Capital Echelon (§7.5.10):* Injected Coase-Becker marital transaction economics, Three-Bucket Treasury Architecture (Sovereign Husband, Sovereign Wife, Proportional Joint OPEX), Motherhood Penalty compensatory mechanisms.
+  4. *L4 Legal Echelon (§10.15–§10.16):* Injected 12-Jurisdiction Comparative Matrimonial Matrix (Ukrainian Art. 74 SKU cohabitation trap, US Community vs Equitable, Scottish 3-year Clean Break, Australian BFA s.90G, EU Regulation 2016/1103 Rome IVa Choice of Law Art. 22, French Prestation Compensatoire, German pension splitting) and 4-Zone LGBTQ+ Pressure Matrix (Red, Orange, Gray, Green, border burner protocols, healthcare proxies).
+  5. *L5 Field Telemetry (Appendix F):* Injected Bayesian Marital Survival Matrix ((S)=0.25-0.35$) and the 03:00 AM Relationship Emergency Runbook.
 
 * **Revision EN 2.4 — Bunker Briefing Prologue Cold Open (base EN 2.3; Checked: 2026-10-07):**
   1. *Prologue:* inserted the Sidorovich-style "Bunker Briefing (Sidorovich Had a Point)" addressed to the reader-operator right before the Intake Gate — a bridge from the Origin Story to the starter quests: the closing line ("Here's your pipe wrench, here's the manifold. Get to work.") kicks the door open straight into the ⚡ INTAKE GATE section, where the "10 Mandatory Actions for the First Week" and the 03:00 failure sensors begin.

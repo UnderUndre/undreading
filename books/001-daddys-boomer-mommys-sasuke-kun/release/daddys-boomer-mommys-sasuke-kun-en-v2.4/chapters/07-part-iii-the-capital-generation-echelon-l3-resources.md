@@ -514,6 +514,51 @@ The digital tech community is infected with the infobusiness myth of \"passive i
 
 ---
 
+
+
+---
+
+#### **7.5.10. The Coase-Becker Economics of Marriage: The 3-Bucket Treasury Architecture & Motherhood Penalty Offsets**
+
+> 🏛️ **TRANSACTION COST THEORY OF THE HOUSEHOLD (COASE & BECKER):**  
+> Nobel laureate Gary Becker demonstrated that the family functions economically as a micro-enterprise producing non-market commodities (offspring development, nutrition, somatic health, shelter), structured specifically to **minimize transaction costs** (following Ronald Coase).
+>
+> 📉 **WHY ARCHAIC MARITAL STRUCTURES COLLAPSE TODAY:**
+> * Historically, marriage was an existential survival monopoly: women were legally locked out of capital markets, while men died from domestic sanitation failures without household labor.
+> * Household mechanization (washing machines, automated delivery, robotics) and female workforce entry dissolved the traditional transaction monopoly.
+> * Unless a modern partnership is refactored into an **explicit Service Level Agreement (SLA)** backed by deterministic financial plumbing, it degenerates into an extractive negative-sum sinkhole.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             THE THREE-BUCKET HOUSEHOLD TREASURY ARCHITECTURE (L3 PROTOCOL)             │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                        │
+│   ┌──────────────────────────┐                          ┌──────────────────────────┐   │
+│   │    BUCKET 1 (HUSBAND)    │                          │     BUCKET 2 (WIFE)      │   │
+│   │ 100% Sovereign Personal  │                          │ 100% Sovereign Personal  │   │
+│   │ Account. Zero audit.     │                          │ Account. Zero audit.     │   │
+│   └────────────┬─────────────┘                          └────────────┬─────────────┘   │
+│                │ (Funded proportionally to net income, e.g. 70%)      │ (Funded 30%)    │
+│                └───────────────────────┬──────────────────────────────┘                 │
+│                                        ▼                                               │
+│                        ┌──────────────────────────────┐                                │
+│                        │    BUCKET 3 (FAMILY OPEX)    │                                │
+│                        │ Joint Household Reservoir    │                                │
+│                        │  • Rent / Mortgage / Energy  │                                │
+│                        │  • Groceries, Kids, Health   │                                │
+│                        │  • 3–6 Month Liquidity Floor │                                │
+│                        └──────────────────────────────┘                                │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+> 🛡️ **TREASURY PLUMBING RULES:**
+> 1. **Zero "Single Black-Hole Account":** Forcing all revenue into a single joint pool breeds financial micromanagement, passive-aggressive resentment, and zero personal sovereignty.
+> 2. **Proportional, Not Equal, OPEX Allocations:** If Husband clears $6,000/mo and Wife clears $3,000/mo, a $4,500 monthly household nut is funded 66.7% ($3,000) and 33.3% ($1,500). Both retain discretionary sovereign reserves.
+> 3. **Motherhood Penalty Compensatory Protocol:** During maternity leave (where female OPEX converts from financial income to extreme physiological investment), the earning partner funds 100% of Bucket 3 and executes contractual, non-revocable transfers into the mother's Bucket 2 to preserve her financial independence.
+
+
+---
+
 ### **Chapter 7.6. The Fragility of the Caloric Riser: Just-In-Time Logistics, the Haber-Bosch Process, and the 90-Day Buffer (Mylar & Ghee)**
 
 #### **7.6.1. The Just-in-Time (JIT) model and the 72-hour collapse**

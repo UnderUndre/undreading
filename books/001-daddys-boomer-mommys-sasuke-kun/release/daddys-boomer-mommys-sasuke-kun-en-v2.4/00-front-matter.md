@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 23.3 → EN 2.6 (Montenegro Nov 1 2026 VFS update, Ukrainian TPD 2028 Architecture, Spanish Housing Decrees, Anglo-Saxon Fiscal Hammer §10.14, Hobby Hydraulics & Somatic Defectoscopy §3.12, P0-111–P0-115)
+**Revision:** 23.3 → EN 2.7 (Relationship & Matrimonial Forensics 2026: Coase-Becker Union Economics, Oral Contraceptives & HLA/MHC Olfactory Inversion, Paternity Fraud & DNA Test Bans, Daminger Mental Load Framework, 3-Bucket Family Treasury Architecture, 12-Jurisdiction Comparative Matrix & LGBTQ+ OpSec)
 
 ---
 

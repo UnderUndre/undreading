@@ -2187,3 +2187,91 @@ Hardware FIDO2 / YubiKey tokens secure only the initial login handshake. Once au
 
 ---
 
+
+
+---
+
+### **6.7. Dating Forensics, Cognitive Overhead & Zero-Sum Games: The Daminger Mental Load, Gini Skew & 6 Partnership Valves**
+
+> 📱 **DATING PLATFORMS AS ASYMMETRIC WEAR ACCELERATORS:**  
+> Modern algorithmic dating platforms (Tinder, Bumble, Hinge) operate under extreme marketplace concentration dynamics (*Büyükeren, Makarin, Xiong, 2026*):
+> * **The Dating Attractiveness Gini Coefficient:** Measures between **0.58–0.62** (higher than income inequality in unstable failed states).
+> * **Attention Monopoly:** The top 20% of male profiles capture **78–80% of all female right swipes (likes)**.
+> * **The Median User Funnel:** The average male profile experiences a match conversion rate **below 0.87%** (1 match per 115 swipes), generating rapid dopamine receptor exhaustion and compulsive attachment to the first responsive contact.
+
+---
+
+#### **The Allison Daminger Mental Load Framework: 4 Phases of Household Pressure**
+
+Domestic warfare rarely starts over unwashed mugs; it stems from asymmetric cognitive RAM usage. Harvard sociologist Allison Daminger decomposed domestic operations into four discrete operational phases:
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             THE FOUR-PHASE MENTAL LOAD ARCHITECTURE (DAMINGER MODEL)                   │
+├───────┬─────────────────┬──────────────────────────────────────────┬───────────────────┤
+│ PHASE │ FUNCTION        │ OPERATIONAL DEFINITION                   │ PRIMARY OPERATOR  │
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 1     │ **Anticipate**  │ Forecasting future bottlenecks (water    │ 80% — Female      │
+│       │ (Early Warning) │ filter expiring, groceries depleting).   │ (Background Daemon│
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 2     │ **Identify**    │ Sourcing options (spec matching, vendor  │ 75% — Female      │
+│       │ (Discovery)     │ pricing, logistics compatibility).       │ (Cognitive Pool)  │
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 3     │ **Decide**      │ Terminal execution choice ("Buy Model A")│ 50/50 — Joint     │
+│       │ (Resolution)    │                                          │                   │
+├───────┼─────────────────┼──────────────────────────────────────────┼───────────────────┤
+│ 4     │ **Monitor**     │ Delivery tracking, cartridge replacement,│ 85% — Female      │
+│       │ (QA & Telemetry)│ calendar scheduling for next cycle.      │ (SLA Enforcer)    │
+└───────┴─────────────────┴──────────────────────────────────────────┴───────────────────┘
+```
+
+> ⚠️ **THE INFRASTRUCTURE PLUMBER'S RCA:** Men routinely complain: *"I do whatever she asks me to do!"*. In computing terms, the man acts as a passive worker node waiting for CLI input, dumping 100% of the Product Management, Systems Architecture, and QA workload (Phases 1, 2, 4) onto his partner's prefrontal cortex until total memory exhaustion triggers a blowout.
+>
+> 🛠️ **BOB'S FIX:** Full turnkey domain ownership. Not *"take out the trash when told,"* but *"you own the end-to-end municipal waste SLA, supply replenishment, and sanitization cycle without a single prompt."*
+
+---
+
+#### **Male Emotional SPOF (Single Point of Failure) and Normative Alexithymia**
+
+* **Normative Male Alexithymia (*Ronald Levant*):** Systemic conditioning preventing emotional verbalization leads men to ignore somatic telemetry until acute breakdown occurs.
+* **The Single Point of Failure (SPOF):** Men frequently route 100% of their psychological venting exclusively through their romantic partner, maintaining zero independent external pressure-relief valves.
+* **Circuit Severance Catastrophe:** Upon divorce, the man loses 100% of his emotional bandwidth in a single stroke. Outcome: post-divorce male suicide spikes (3.5–4x female rates) and severe cardiovascular mortality within 24 months of separation.
+
+---
+
+#### **4 Toxic Relationship Scam Markers (Via Negativa Filter)**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🚩 FOUR RED FLAGS FOR SYSTEMIC UNION INCOMPATIBILITY (VIA NEGATIVA)                    │
+├────────────────────────┬───────────────────────────────────────────────────────────────┤
+│ VECTOR                 │ FORENSIC SIGNATURE & MANIPULATION MECHANISM                   │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 1. **Manufactured      │ "I'm 30, we must marry/conceive immediately." Artificial      │
+│    Urgency**           │ schedule compression, forced co-signing, rushed cohabitation. │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 2. **Asymmetric Yield  │ "What's yours is ours, what's mine is mine." Refusal to fund  │
+│    (Free Lunch)**      │ the baseline operational expenditure (OPEX) accumulator.      │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 3. **Anonymous Crowd   │ "Real men do X," "My friend's husband bought her an apart-    │
+│    Authority**         │ ment." Appeal to unverified collective mandates.              │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 4. **Mind-Reading /    │ "You should have known!" Passive-aggressive silent treatment  │
+│    Unfalsifiable Dem.**│ and gaslighting in place of deterministic, versioned SLAs.     │
+└────────────────────────┴───────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **Bob's 6 Cast-Iron Partnership Valves**
+
+1. 🧭 **The Polar Expedition Model:** Pick a partner not based on showroom polish ("demo mode"), but as a co-navigator for a grueling Arctic crossing. Ability to endure hardship, cold, and friction without throwing tantrums.
+2. 🤝 **The 3-Way TCP Handshake Protocol:** Zero high-stakes decisions under emotional impulse. Proposal $	o$ Risk Analysis & Cost Breakdown $	o$ Signed Mutual Commitment.
+3. 📜 **Pre-Mortem & Binding Prenuptial Agreement:** Engineer the divorce pipeline BEFORE walking into the registry office. A notarized separate property regime protects both parties from downstream creditor clawbacks and joint liability.
+4. 🪣 **The 3-Bucket Treasury Architecture:** Husband Personal Account (100% Sovereign), Wife Personal Account (100% Sovereign), Joint Family Operating Account (Proportional Funding).
+5. 🏕️ **Offline Gemba Dating:** Stress-test candidates in harsh operational conditions (home renovation, multi-day wilderness treks, 12-hour international airport cancellations), not cushioned bistro booths.
+6. 🚨 **The 03:00 AM Crisis Test:** When a main pipe bursts or an emergency knocks at 3 AM, does your partner execute SOPs with cold clarity or disintegrate into catastrophic emotional panic?
+
+
+---
+

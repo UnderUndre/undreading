@@ -2165,6 +2165,123 @@ In the Netherlands, 95% of the population speaks English fluently, making the co
 
 ---
 
+
+
+---
+
+### **10.15. The 12-Jurisdiction Comparative Matrimonial Matrix: Cohabitation Traps, Prenuptial Enforceability & Cross-Border Decrees**
+
+> 🏛️ **CROSS-BORDER MATRIMONIAL FORENSICS:**  
+> When crossing international borders, expats rarely realize that their marital status instantly switches onto a completely foreign legal pipeline. Unregistered cohabitation—which carries zero legal standing in jurisdictions like Russia or England—can in Australia, New Zealand, or Canada automatically trigger a 50/50 global asset liquidation decree.
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│             12-JURISDICTION COMPARATIVE MATRIMONIAL FORENSIC MATRIX (L4 MATRIX)                  │
+├───────────────┬─────────────────┬───────────────────┬───────────────────────┬────────────────────┤
+│ JURISDICTION  │ MARITAL REGIME  │ DE FACTO COHABIT. │ PRENUPTIAL VALIDITY   │ ALIMONY EXPOSURE   │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇷🇺 **Russia** │ Community 50/50 │ 0% rights (Art.10 │ Property only (easily │ 25–50% of income   │
+│               │ (Art. 34 SK RF) │ SK RF, strict)    │ challenged Art. 44(2))│ (Art. 81/83 SK RF) │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇺🇦 **Ukraine**│ Community 50/50 │ ⚠️ 50/50 AUTOMATIC│ Notarized agreement   │ Statutory share,   │
+│               │ (Art. 60 SKU)   │ (Art. 74 SKU!)    │ (Art. 93 challenge)   │ child's legal asset│
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇺🇸 **USA**    │ Community (9 st)│ Separate (except 8│ UPMAA standards, full │ Title IV-D machine,│
+│               │ vs Equitable(41)│ Common-Law states)│ financial disclosure  │ lifetime alimony   │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇬🇧 **UK**     │ Judicial Discr. │ 0% rights ("Common│ Radmacher v Granatino │ England: Open-ended│
+│ (Eng / Scot)  │ 50/50 starting  │ Law Wife" is myth)│ Scotland: Strict Act  │ Scotland: Max 3 yrs│
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇨🇦 **Canada** │ Equalization NFP│ ⚠️ 50/50 in BC    │ Marriage / Cohabit.   │ Federal Child      │
+│               │ (Ontario model) │ after 2 years!    │ Agreement (valid)     │ Support Guidelines │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇦🇺 **Australia│ 4-Step Test     │ ⚠️ De facto at 2  │ BFA (s. 90G FLA 1975) │ Child Support      │
+│               │ s. 79 FLA 1975  │ yrs (s. 90SB FLA) │ 2 independent lawyers │ Assessment Act     │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇳🇿 **New      │ Equal Sharing   │ ⚠️ De facto at 3  │ Contracting Out Agr.  │ Child Support      │
+│     Zealand** │ PRA 1976        │ yrs (PRA 1976)    │ (Part 6 s. 21 PRA)    │ Act 1991           │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇮🇪 **Ireland**│ Proper Provision│ Up to 5 yrs (Civil│ Not legally binding,  │ Zero Clean Break!  │
+│               │ (No Clean Break)│ Partnership 2010) │ subject to court veto │ Lifetime claims    │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇸🇬 **Singapore│ ANJ v ANK Test  │ 0% rights         │ Taken into account    │ Women's Charter:   │
+│               │ (Contribution)  │ (Unrecognized)    │ but not absolute      │ Alimony for women  │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇲🇹 **Malta**  │ Community of    │ Cohabitation Act  │ Public Deed by notary,│ Strict mediation,  │
+│               │ Acquests (1320) │ 2020 (3 tiers)    │ strict registry audit │ maintenance to 18  │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇭🇰 **Hong Kong│ LKW v DD 50/50  │ 0% rights         │ Radmacher recognized  │ MPF Pension        │
+│               │ starting point  │ (Unrecognized)    │ in SPH v SA (2014)    │ split by court     │
+├───────────────┼─────────────────┼───────────────────┼───────────────────────┼────────────────────┤
+│ 🇳🇱 **Netherl.**│ Limited Comm.   │ Samenlevings-     │ Notarized Huwelijkse  │ Partner alimony    │
+│               │ (post-2018 law) │ contract          │ voorwaarden           │ capped at 5 yrs    │
+└───────────────┴─────────────────┴───────────────────┴───────────────────────┴────────────────────┘
+```
+
+---
+
+#### **Crucial Statutory Traps Decoded**
+
+1. 🇺🇦 **The Ukrainian Art. 74 SKU De Facto Trap:**
+   * Unlike English or Russian common law, Ukrainian law codifies cohabitation without marriage as a **factual marriage ("фактичний шлюб")**.
+   * Property acquired during cohabitation is deemed **joint equal property (50/50)**. Text messages, shared photos, and travel tickets suffice in court to expropriate half of an unregistered partner's assets.
+   * *Supreme Court Precedent (25.02.2026):* Judicial recognition of factual family relations extends to de facto same-sex partners regarding inheritance and property claims.
+
+2. 🇪🇺 **Council Regulation (EU) 2016/1103 (Rome IVa — EU Matrimonial Property):**
+   * Applies to transnational couples living across EU member states.
+   * **Article 22 (Choice of Law Agreement):** Authorizes spouses to execute a written agreement selecting the governing law for their matrimonial property (either the law of their habitual residence or the law of nationality of either spouse). Failing to execute this defaults jurisdiction to the couple's first common habitual residence post-marriage.
+
+3. 🇩🇪 **Germany (Zugewinngemeinschaft & Versorgungsausgleich):**
+   * Statutory default (§ 1363 BGB) equalizes asset value accrued during marriage (*Zugewinnausgleich*).
+   * **Versorgungsausgleich:** Imposes mandatory, non-waivable 50/50 equal division of accrued pension points between spouses upon divorce.
+
+4. 🇫🇷 **France (Prestation Compensatoire):**
+   * Even under a strict separate property marriage agreement (*Séparation de biens*), French courts under Art. 270 Code Civil frequently award substantial lump-sum compensatory payments (*Prestation Compensatoire*) to balance post-divorce living standards.
+
+---
+
+### **10.16. LGBTQ+ Operational Security and the 4 Global Pressure Zones**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│           GLOBAL FOUR-ZONE LGBTQ+ PRESSURE MATRIX (L4 FORENSIC MAP)                    │
+├─────────────────┬──────────────────────────────────────────────────────────────────────┤
+│ PRESSURE ZONE   │ JURISDICTIONS & STATUTORY ENVIRONMENT                                │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ 🔴 **RED ZONE** │ **Uzbekistan (Art. 120 CC), Turkmenistan (Art. 135 CC):**            │
+│ (Criminalized)  │ Explicit penal criminalization (2–3 years imprisonment). Torture,    │
+│                 │ forced medical examinations, police entrapment. Total transit ban.   │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ 🟠 **ORANGE**   │ **Russia (Supreme Court 30.11.2023 / Art. 282.2 CC), Belarus:**      │
+│ (Extremism /    │ "Extremist organization" designation (up to 12 years prison). Full   │
+│  Censorship)    │ gender transition bans (Law No. 386-FZ). FSB border phone audits.   │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ ⚪ **GRAY ZONE**│ **Georgia (2024 Family Values Act), Armenia, Kazakhstan, Azerbaijan:**│
+│ (Legal Vacuum)  │ Decriminalized, but zero civil rights. Public pride bans, social      │
+│                 │ conservatism, and total lack of partnership recognition.             │
+├─────────────────┼──────────────────────────────────────────────────────────────────────┤
+│ 🟢 **GREEN**    │ **Malta (ILGA #1), Netherlands, Spain (Ley Trans 2023), UK, USA:**   │
+│ (Institutional) │ Full marriage equality. Transnational EU residence protection under  │
+│                 │ *ECJ C-673/16 Coman* directive for same-sex spouses.                 │
+└─────────────────┴──────────────────────────────────────────────────────────────────────┘
+```
+
+#### **Sovereign Operational Directives (OpSec Playbook)**
+
+1. 📱 **Border Control Protocol (Red and Orange Zones):**
+   * Complete sanitization of smartphones and laptops prior to immigration checkpoints (wipe Grindr, Hornet, Tinder, specific chat histories, and media).
+   * Utilize a dedicated, clean Burner Device without personal identity linkages.
+2. 📑 **Civil Protections in Gray Jurisdictions (Where Equal Marriage is Absent):**
+   * **Dual Medical Power of Attorney (Healthcare Proxy):** Unlocks ICU visitation and emergency surgical authorization rights.
+   * **Mutual Notarized Wills:** Preempts asset seizure by estranged first-degree biological relatives.
+   * **Tenancy in Common Real Estate Deeds:** Clearly establishes discrete equity percentages in property acquisition contracts.
+3. ⚠️ **Surrogacy Cross-Border Traps:**
+   * Commercial surrogacy is banned for foreign nationals and single individuals in Russia (Law No. 466-FZ) and Georgia.
+   * Secure international legal hubs: United States (California / Illinois), Canada (altruistic framework), Colombia.
+
+
+---
+
 ### **Consolidated Forensic Matrix of World Emigration Risers (2026)**
 
 | Country of Departure / Hub | Departure/Exit Tax Mechanic | Main Hidden Clog (Single Killer Defect) | Extraterritorial Leash | Status for Capital |

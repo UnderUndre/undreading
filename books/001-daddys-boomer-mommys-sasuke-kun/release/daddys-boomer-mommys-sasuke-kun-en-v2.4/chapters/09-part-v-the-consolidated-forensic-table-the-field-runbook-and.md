@@ -321,6 +321,50 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 
 ---
 
+
+
+---
+
+### **Bayesian Calibration of Marital Survival (Base Rates Matrix)**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│               BAYESIAN MARITAL SURVIVAL TELEMETRY (L5 FORENSIC CALIBRATION)            │
+├───────────────────────────────────────────────────────────────────┬────────────────────┤
+│ PARAMETER / RISK VECTOR                                           │ STATISTICAL METRIC │
+├───────────────────────────────────────────────────────────────────┼────────────────────┤
+│ Baseline urban divorce probability (US/UK/CIS metropolitan areas) │ $P(D) = 0.65-0.75$ │
+│ Long-term union survival baseline at 15+ years                    │ $P(S) = 0.25-0.35$ │
+│ Divorce initiator in middle-class marriages (Stanford Rosenfeld)  │ 69–73% — Female    │
+│ Lavish wedding cost >$20,000 (Francis-Tan & Mialon 2014)          │ Divorce risk $\\times 1.6$│
+│ Uncommitted premarital cohabitation drift ("Sliding")             │ Divorce risk $\\times 1.4$│
+│ Executed prenuptial agreement + 3-bucket treasury architecture    │ Survival $\\times 2.2$    │
+└───────────────────────────────────────────────────────────────────┴────────────────────┘
+```
+
+---
+
+### **Operational Runbook: 03:00 AM Relationship Crisis (Emergency Protocol)**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🚨 EMERGENCY SCRIPT FOR SUDDEN DOMESTIC ESCALATION & BLOWOUTS                          │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 1. [STOP ACTION]: Enforce an absolute decision-making embargo between 00:00–07:00.     │
+│    Elevated cortisol and prefrontal cortex exhaustion guarantee catastrophic choices. │
+│ 2. [ISOLATION]: Physical separation of nodes. Relocate to a separate room or hotel.    │
+│    Zero pursuit, zero midnight interrogations ("We need to talk right now!").          │
+│ 3. [DATA HYGIENE]: Total ban on emotional texting in messengers. Every WhatsApp/Signal │
+│    message is an unredacted future courtroom exhibit.                                  │
+│ 4. [FINANCIAL LOCK]: Verify personal accounts (Bucket 1 / Bucket 2). Prohibit hostile │
+│    draining of joint accounts before consulting specialized legal counsel.             │
+│ 5. [MORNING CALIBRATION]: Negotiate exclusively post-rest, post-meal, with HR < 70 bpm.│
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
 ### **Appendix G: The operator's revision calendar**
 
 > 💡 **STEP 0: WHY THIS SCHEDULE?**
@@ -416,7 +460,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 > **Your action right now:** Hold personal autonomy: a 90-day freeze-dried reserve at home, physical cash in a secure place, independent offline backups on M-DISC media — and a profession that gets paid live money on the world market.
 
 ---
-### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.4)"**
+### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.7)"**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -426,6 +470,13 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 2.7 — Matrimonial & Relationship Forensics (Checked: 2026-10-10; Base v23.3):**
+  1. *L1 Biological Echelon (§2.5.1–§2.5.3):* Injected biological OPEX accounting (female gestational cardiac surge vs male violent mortality / life expectancy deficit), biochemical oral contraceptive sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), forensic paternity base rates (1-2% unselected vs 25-30% suspected, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support).
+  2. *L2 Cognitive Echelon (§6.7):* Injected dating platform forensics (Gini coefficient 0.58-0.62, top 20% male like concentration), Allison Daminger 4-phase Mental Load framework (Anticipate, Identify, Decide, Monitor), male emotional SPOF & normative alexithymia, 4 toxic relationship scam markers (Via Negativa), Bob's 6 Cast-Iron Partnership Valves.
+  3. *L3 Capital Echelon (§7.5.10):* Injected Coase-Becker marital transaction economics, Three-Bucket Treasury Architecture (Sovereign Husband, Sovereign Wife, Proportional Joint OPEX), Motherhood Penalty compensatory mechanisms.
+  4. *L4 Legal Echelon (§10.15–§10.16):* Injected 12-Jurisdiction Comparative Matrimonial Matrix (Ukrainian Art. 74 SKU cohabitation trap, US Community vs Equitable, Scottish 3-year Clean Break, Australian BFA s.90G, EU Regulation 2016/1103 Rome IVa Choice of Law Art. 22, French Prestation Compensatoire, German pension splitting) and 4-Zone LGBTQ+ Pressure Matrix (Red, Orange, Gray, Green, border burner protocols, healthcare proxies).
+  5. *L5 Field Telemetry (Appendix F):* Injected Bayesian Marital Survival Matrix ((S)=0.25-0.35$) and the 03:00 AM Relationship Emergency Runbook.
 
 * **Revision EN 2.4 — Bunker Briefing Prologue Cold Open (base EN 2.3; Checked: 2026-10-07):**
   1. *Prologue:* inserted the Sidorovich-style "Bunker Briefing (Sidorovich Had a Point)" addressed to the reader-operator right before the Intake Gate — a bridge from the Origin Story to the starter quests: the closing line ("Here's your pipe wrench, here's the manifold. Get to work.") kicks the door open straight into the ⚡ INTAKE GATE section, where the "10 Mandatory Actions for the First Week" and the 03:00 failure sensors begin.
