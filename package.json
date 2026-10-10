@@ -43,5 +43,8 @@
     "dictd",
     "stardict",
     "opds"
-  ]
+  ],
+  "dependencies": {
+    "underoute-clai": "^1.0.0"
+  }
 }
