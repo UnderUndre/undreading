@@ -106,6 +106,7 @@ def main():
         ("ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md", "ru-edition/ua", "ua"),
         ("en-edition/en/daddys-boomer-mommys-sasuke-kun-en-v2.4.md", "en-edition/en", "en"),
         ("en-edition/ru/daddys-boomer-mommys-sasuke-kun-en-ru-v2.4.md", "en-edition/ru", "ru"),
+        ("en-edition/ua/daddys-boomer-mommys-sasuke-kun-en-ua-v2.4.md", "en-edition/ua", "ua"),
         ("ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md", "ua-edition/ua", "ua"),
     ]
     for mon, slug, lang in editions:
