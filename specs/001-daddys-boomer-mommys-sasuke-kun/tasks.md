@@ -30,15 +30,15 @@
 
 ---
 
-## Phase 2: Foundational Monograph Release Volume (v18.0)
+## Phase 2: Foundational Monograph Release Volume (v18.0 → v25.2)
 
-**Purpose**: Finalization of the master volume text (`v18.0`) incorporating the Remote Income Atlas, 7 Undrlla Projects, and all 70 P0-Directives.
+**Purpose**: Finalization of the master volume text (`v18.0` evolved to `v25.2` master release + EN v2.4 + UA v1.9) incorporating the Remote Income Atlas, 7 Undrlla Projects, and all 110 P0-Directives.
 
-- [ ] T006 [DOCS] Compile master text file `books/001-daddys-boomer-mommys-sasuke-kun/daddys-boomer-mommys-sasuke-kun-v18.0.md` on base of `v17.5.md`
-- [ ] T007 [DOCS] Author and integrate the **Remote Income Atlas (6 Digital Crafts & Financial Rails)** into Chapter 7.5 and Chapter 8
-- [ ] T008 [DOCS] Author and integrate the **7 Undrlla Ecosystem Projects Topology** (`underoute`, `undevops`, `undreading`, `undreplanning`, `undreposts`, `undreseller`, `unet`) into Chapter 8.2 and Chapter 12
-- [ ] T009 [SEC] Perform Level 1/2 forensic verification of all 70 P0-directives, formulas, drug dosages, and legal statutes
-- [ ] T010 [DOCS] Verify strict boundary between Undre personal biography (N=1) in Prologue and AI Valera external research in chapters
+- [x] T006 [DOCS] Compile master text file `books/001-daddys-boomer-mommys-sasuke-kun/daddys-boomer-mommys-sasuke-kun-v18.0.md` on base of `v17.5.md` *(Evolved and finalized to v25.2 release)*
+- [x] T007 [DOCS] Author and integrate the **Remote Income Atlas (6 Digital Crafts & Financial Rails)** into Chapter 7.5 and Chapter 8
+- [x] T008 [DOCS] Author and integrate the **7 Undrlla Ecosystem Projects Topology** (`underoute`, `undevops`, `undreading`, `undreplanning`, `undreseller`, `unet`) into Chapter 8.2 and Chapter 12
+- [x] T009 [SEC] Perform Level 1/2 forensic verification of all P0-directives, formulas, drug dosages, and legal statutes *(expanded to 110 directives, verified across RU/EN/UA)*
+- [x] T010 [DOCS] Verify strict boundary between Undre personal biography (N=1) in Prologue and AI Valera external research in chapters
 
 ---
 
@@ -47,7 +47,7 @@
 **Goal**: Readers can access, read, and search the 100% open text on `undreading.com` with zero latency and responsive design.
 
 - [ ] T011 [FE] [US1] Initialize VitePress / Astro Starlight documentation site under `docs/` with chapter routing
-- [ ] T012 [FE] [US1] Split master monograph `v18.0.md` into static web chapters under `docs/chapters/`
+- [x] T012 [FE] [US1] Split master monograph into static web chapters under `release/<edition>/chapters/` with `split_chapters.py` and clean `index.md`
 - [ ] T013 [FE] [US1] Implement landing page `docs/index.md` with Executive TL;DR, 5 Echelons overview, and P0-Matrix interactive search
 - [ ] T014 [FE] [US1] Implement custom CSS theme presets («Свиток Шиноби», «Терминал Убежища 3000»)
 - [ ] T015 [FE] [US1] Add non-intrusive callout banner on web chapters: link to Supporter & ZTA Architecture Kit ($12.99 PWYW)

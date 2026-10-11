@@ -36,15 +36,15 @@
 
 #### **7.1. The Special Audit of World of Tanks Macro-Hydraulics & the Corporate Sovereignty of Wargaming**
 * **The closed deflationary seal:** Slava Makarov and Victor Kislyi's team built the perfect deflationary seal: Tier X battles run **at a loss** (repair costs + gold shells burn silver at reactor speed). The player is forced to return to Tier VIII and buy premium farming pumps. Currency isolation: Silver (circulation), Free XP (time), Bonds (a closed PvE damper).
-* **The Cyprus node (Wargaming Group Ltd, Nicosia):** The buyout of the *BigWorld* engine IP for $45M (2012). Use of the Cypriot IP Box (80% deduction $\to$ an effective **~2.5% royalty tax**). A treaty network for pumping liquidity worldwide without WHT.
+* **The Cyprus node (Wargaming Group Ltd, Nicosia):** The buyout of the *BigWorld* engine IP for \$45M (2012). Use of the Cypriot IP Box (80% deduction $\to$ an effective **~2.5% royalty tax**). A treaty network for pumping liquidity worldwide without WHT.
 * **The Hellenic Bank banking shield (€127M):** The 2013 Cypriot crisis (a 47.5% Bank of Cyprus haircut on balances >€100k, the collapse of Laiki Bank). WG and Third Point injected €127M into Hellenic Bank (20.2–26% of shares). Result: 0% haircut on WG deposits, a board seat, direct control over the transactional pipe. A successful exit in 2022–2024 into Eurobank at €2.35–€2.56/share (over €137M raised).
-* **The Great Fork of 2022 (Clean Cut):** A distributed R&D topology (Minsk, Kyiv, Prague, Vilnius, Nicosia, Austin, Singapore). March–April 2022, Clean Cut: severing the RF/BY assets of Lesta Studio with a $250M write-off, 0% sanction damage to the parent company, and rapid hub launches in Belgrade and Warsaw.
+* **The Great Fork of 2022 (Clean Cut):** A distributed R&D topology (Minsk, Kyiv, Prague, Vilnius, Nicosia, Austin, Singapore). March–April 2022, Clean Cut: severing the RF/BY assets of Lesta Studio with a \$250M write-off, 0% sanction damage to the parent company, and rapid hub launches in Belgrade and Warsaw.
 
 #### **7.2. The Arbitrage of the Fundamental Layer: The Founder (McDonald's / Harry Sonneborn)**
 Shifting monetization from the low-margin food-service operation (selling burgers at a cent-level markup) to the fundamental infrastructure layer — the **Real Estate SPV**. Harry Sonneborn explained it to Ray Kroc: *"We are not in the food business. We are in the real estate business."* The franchise legal entity buys or leases the land under each restaurant, leasing it to the franchisee at a fixed margin under a subordinate contract. The burgers are the interface nozzle; the land is the load-bearing riser.
 
 #### **7.3. Fight Club: The Asymmetric Arbitrage of Raw Waste**
-The model of asymmetric raw-waste arbitrage. Extracting fat from liposuction-clinic waste (zero raw-material cost) and refining it into premium soap at $20 a bar. Converting a toxic waste product of the external environment into a high-margin cash flow.
+The model of asymmetric raw-waste arbitrage. Extracting fat from liposuction-clinic waste (zero raw-material cost) and refining it into premium soap at \$20 a bar. Converting a toxic waste product of the external environment into a high-margin cash flow.
 
 ---
 
@@ -59,16 +59,16 @@ The model of asymmetric raw-waste arbitrage. Extracting fat from liposuction-cli
 >
 > Source code, the client's prod, and exclusive rights — **only after Tranche 3 actually lands**. Not before.
 
-#### **7.4. The Collapse of Knight Capital Group ($440M in 45 minutes, 2012)**
-The dead `Power Peg` flag of 2003, live on 1 of 8 cluster servers, bought at ASK and sold at BID with no position limit (4 million trades on $6.6B). And that dead 2003 flag rose from the grave nine years later and said: "Luke, I am your... legacy code."
+#### **7.4. The Collapse of Knight Capital Group (\$440M in 45 minutes, 2012)**
+The dead `Power Peg` flag of 2003, live on 1 of 8 cluster servers, bought at ASK and sold at BID with no position limit (4 million trades on \$6.6B). And that dead 2003 flag rose from the grave nine years later and said: "Luke, I am your... legacy code."
 
 #### **7.5. The LTCM Collapse (1998): The Blindness of Nobel Laureates**
-Nobel laureates Black and Scholes defaulted on $4.6B at 25:1 leverage due to blindness to the fat tails of the Pareto distribution.
+Nobel laureates Black and Scholes defaulted on \$4.6B at 25:1 leverage due to blindness to the fat tails of the Pareto distribution.
 
-#### **7.5.1. The FTX and Alameda Research Collapse (2022) — an $8–11B cash hole in one line of code:**
+#### **7.5.1. The FTX and Alameda Research Collapse (2022) — an \$8–11B cash hole in one line of code:**
 > 🛑 **Post-Mortem [L1 Fact / Bedrock] (Treasury scam): The United States v. Samuel Bankman-Fried case**
-> * **Step 0 (What happened, in plain terms):** The largest crypto exchange claimed segregated custody of client funds. In reality, the affiliated fund Alameda held a secret unlimited overdraft on the client depository. At the first panic withdrawal, an $8–11B hole opened and the exchange died within 7 days.
-> * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):** The criminal case in the US District Court for the Southern District of New York (*United States v. Samuel Bankman-Fried*, No. **1:22-cr-00673**, SDNY, Judge Lewis A. Kaplan); the jury verdict of Guilty on all 7 counts (November 2023); the 28.03.2024 sentence — **25 years in prison and $11B forfeiture**; the Second Circuit ruling (2d Cir. No. **24-961** of 12.06.2026 — AFFIRMED, mandate issued 04.08.2026; a *petition for writ of certiorari* to SCOTUS filed 10.09.2026); parallel settlements with the SEC (*SEC v. Ellison & Wang* 1:22-cv-10794).
+> * **Step 0 (What happened, in plain terms):** The largest crypto exchange claimed segregated custody of client funds. In reality, the affiliated fund Alameda held a secret unlimited overdraft on the client depository. At the first panic withdrawal, an \$8–11B hole opened and the exchange died within 7 days.
+> * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):** The criminal case in the US District Court for the Southern District of New York (*United States v. Samuel Bankman-Fried*, No. **1:22-cr-00673**, SDNY, Judge Lewis A. Kaplan); the jury verdict of Guilty on all 7 counts (November 2023); the 28.03.2024 sentence — **25 years in prison and \$11B forfeiture**; the Second Circuit ruling (2d Cir. No. **24-961** of 12.06.2026 — AFFIRMED, mandate issued 04.08.2026; a *petition for writ of certiorari* to SCOTUS filed 10.09.2026); parallel settlements with the SEC (*SEC v. Ellison & Wang* 1:22-cv-10794).
 > * **Step 2 (Failure mechanism):** Violation of the basic custodial-segregation invariant (*no-arbitrage / custody invariant*): the client float cannot be commingled with a hedge fund's balance (*commingling of funds*). The trading engine's source code contained a special `allow_negative` exception and a flag disabling automatic liquidation for the Alameda sub-account. The fund drew billions of dollars of client deposits to cover losing venture investments and leveraged trades.
 > * **Step 3:**
 >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
@@ -78,13 +78,13 @@ Nobel laureates Black and Scholes defaulted on $4.6B at 25:1 leverage due to bli
 
 #### **7.6. Andy Grove's Breakfast-Factory (Intel) & Lowest-Cost Inspection**
 * **Finding the Limiting Step (the Bottleneck):** Breakfast production is anchored on the 3-minute boiled egg (a non-accelerable process). The bread and coffee adapt to the egg's rhythm (Drum-Buffer-Rope).
-* **Inspection at the point of least cost:** A defective rotten egg is caught at supplier intake for $0.20. If the rotten egg is discovered at cooking — a $1.00 loss; if served to the customer in the dining room — $200 of damage to the institutional brand. **The lesson:** Install automated tests (Sanity Checks) at the point of least resource cost, not in front of the customer in prod.
+* **Inspection at the point of least cost:** A defective rotten egg is caught at supplier intake for \$0.20. If the rotten egg is discovered at cooking — a \$1.00 loss; if served to the customer in the dining room — \$200 of damage to the institutional brand. **The lesson:** Install automated tests (Sanity Checks) at the point of least resource cost, not in front of the customer in prod.
 
-#### **7.7. The Sony Concord Collapse ($400M in 14 days, 2024)**
-8 years of development, a $400M budget $\to$ a peak online of 697 players $\to$ server shutdown after 14 days and the demolition of Firewalk Studios. Management's toxic positivity strangled any real demand validation — the classic *"rowing all night and forgetting to untie the boat"*, or *"we thought we'd hit bottom — and somebody knocked from below."*. **The Concord rule (Kill Criteria):** If people don't vote with their wallets in beta — kill the project in month 1, not year 8.
+#### **7.7. The Sony Concord Collapse (\$400M in 14 days, 2024)**
+8 years of development, a \$400M budget $\to$ a peak online of 697 players $\to$ server shutdown after 14 days and the demolition of Firewalk Studios. Management's toxic positivity strangled any real demand validation — the classic *"rowing all night and forgetting to untie the boat"*, or *"we thought we'd hit bottom — and somebody knocked from below."*. **The Concord rule (Kill Criteria):** If people don't vote with their wallets in beta — kill the project in month 1, not year 8.
 
 #### **7.8. The Engineering Triumph of DeepSeek V3/R1 (2024–2025)**
-Training for $6M (2.788M H800 GPU-hours) against hundreds of millions in the US. Optimization of compute hydraulics: KV-cache compression via MLA (Multi-Head Latent Attention), activation of 37B of 671B parameters (DeepSeekMoE), FP8 mixed precision. **The lesson:** The winner isn't whoever burns billions — it's whoever cleans the hydraulic bottlenecks. There's a new sheriff in town, and he arrived not with a billion-dollar budget but with clean pressure.
+Training for \$6M (2.788M H800 GPU-hours) against hundreds of millions in the US. Optimization of compute hydraulics: KV-cache compression via MLA (Multi-Head Latent Attention), activation of 37B of 671B parameters (DeepSeekMoE), FP8 mixed precision. **The lesson:** The winner isn't whoever burns billions — it's whoever cleans the hydraulic bottlenecks. There's a new sheriff in town, and he arrived not with a billion-dollar budget but with clean pressure.
 
 #### **7.9. Mark Watney's Martian Math (*The Martian*) & the Water Intake of Immortan Joe (*Mad Max*)**
 * *The Martian (recirculation decomposition):* Surviving on Mars isn't an abstract heroic surge — it's a strict decomposition of calorie mass and hydraulics: calculating the calories of 400 potato plants per Sol, the catalytic Sabatier reaction ($\text{CO}_2 + 4\text{H}_2 \rightarrow \text{CH}_4 + 2\text{H}_2\text{O}$), and extracting hydrogen from hydrazine ($\text{N}_2\text{H}_4$). Only the person who counts calories and liters to the third decimal survives.
@@ -151,9 +151,9 @@ In *"Skin in the Game"*, Nassim Taleb dissected the nature of salaried labor thr
   $$Y_{\text{founder}} = \text{Revenue}(t) - \text{Expenses}(t)$$
   In the early stages the operator absorbs 100% of market volatility (including the risk of deep negatives from costs). In exchange, the system gets an open right tail: income can scale exponentially ($+\infty$). But if there's no cash buffer in the pipe, cash-gap cavitation crumples the impeller within days.
 
-  > 🔍 **A forensic footnote: The anatomy of Robert Kiyosaki's debt ($1.2B vs LLC screens):**
-  > On podcasts, Kiyosaki brags: *"I have $1.2B in debt — if I go bankrupt, that's the bank's problem."*. Amateurs see the reckless courage of the wolf. An engineering audit (*Vanity Fair*) shows the dry hydraulics: the debt is syndicated across commercial real estate (~1,500 units) through multi-layer LLCs. Kiyosaki's personal debt exposure is only $30–60M.
-  > In 2012, when a court ordered his company *Rich Global LLC* to pay $23.7M in unpaid royalties, Kiyosaki simply bankrupted that specific LLC. The loss stayed locked in an isolated compartment without touching his main personal capital. That's not "rich-dad magic" — that's a working legal bulkhead (Corporate Firewall / SPV).
+  > 🔍 **A forensic footnote: The anatomy of Robert Kiyosaki's debt (\$1.2B vs LLC screens):**
+  > On podcasts, Kiyosaki brags: *"I have \$1.2B in debt — if I go bankrupt, that's the bank's problem."*. Amateurs see the reckless courage of the wolf. An engineering audit (*Vanity Fair*) shows the dry hydraulics: the debt is syndicated across commercial real estate (~1,500 units) through multi-layer LLCs. Kiyosaki's personal debt exposure is only \$30–60M.
+  > In 2012, when a court ordered his company *Rich Global LLC* to pay \$23.7M in unpaid royalties, Kiyosaki simply bankrupted that specific LLC. The loss stayed locked in an isolated compartment without touching his main personal capital. That's not "rich-dad magic" — that's a working legal bulkhead (Corporate Firewall / SPV).
 
 ```
        RISK-PROFILE TYPES (CONCAVE VS CONVEX)
@@ -203,7 +203,7 @@ Let's clear away the coaches' advertising bullshit and look at the cold telemetr
 3. **Bayesian calibration of the base rate (Bayesian Base Rate):**
    $$P(\text{Success}|\text{Skills}) = \frac{P(\text{Skills}|\text{Success}) \cdot P(\text{Base Rate})}{P(\text{Skills})}$$
    * The prior base rate of tech-microbusiness success over a 3-year horizon: $P(A) \le 0.10\text{–}0.15$.
-   * The correlation between pure engineering skill ("I write god-tier code / machine perfect parts") and business survival sits below $0.20$. Businesses die from absent sales and cash gaps, not from code defects.
+   * The correlation between pure engineering skill ("I write god-tier code / machine perfect parts") and business survival sits below \$0.20$. Businesses die from absent sales and cash gaps, not from code defects.
    * **Conclusion:** If an engineer enters a solo business with only technical skill, no built distribution, and no 18–24-month cushion — the computed default probability $P(\text{Default}) \to \mathbf{85\text{–}90\%}$.
 4. **Via Negativa (debunking the infobusiness scam):**
    The infobusiness model rests on 4 toxic markers:
@@ -219,7 +219,7 @@ Not everyone needs to build a business. Starting your own thing without systemic
 | Diagnostic parameter | When to stay EMPLOYED (lean on someone else's pipe) | When to build YOUR OWN RISER (own business / bootstrap) |
 | :--- | :--- | :--- |
 | **Cash buffer (Burn Runway)** | Under 6 months of family expenses in cash. | **A minimum of 18–24 months** of family life, covered in hard currency outside circulation. |
-| **Volatility tolerance** | Pulse over 100 bpm at the thought the account might hold $0 on the 1st. | Calm sleep with revenue swinging $\pm 70\%$ a month; focus on the annual distance. |
+| **Volatility tolerance** | Pulse over 100 bpm at the thought the account might hold \$0 on the 1st. | Calm sleep with revenue swinging $\pm 70\%$ a month; focus on the annual distance. |
 | **Cognitive profile** | Deep specialized focus ($I$-shaped): "I want to turn only this valve." | A wide adaptive profile ($T$-shaped / Generalist): ready to mop floors, code, and litigate. |
 | **Sales skill (Distribution)** | The belief: "A good product sells itself" (laymen's lie!). | The understanding: **"Distribution > Product."** Readiness to take 99 rejections per 100 contacts. |
 | **The family circuit (L1)** | An infant in arms, a mortgage eating 80% of income, sick relatives. | The family protected, the rear covered, a partner ready for 12 months of hard austerity mode. |
@@ -266,7 +266,7 @@ In v16.0 we introduce **[MOD-TAIL-INSURANCE]**: insurance is treated not as an "
 ```
 
 ##### **1. The self-insurance principle: liquidating parasitic policies**
-Buying an extended warranty on an iron, insurance on a smartphone screen, or a 2-hour flight-delay policy — a tax on mathematical illiteracy. Insurance companies embed margins of up to $70\text{–}80\%$ in household policies.
+Buying an extended warranty on an iron, insurance on a smartphone screen, or a 2-hour flight-delay policy — a tax on mathematical illiteracy. Insurance companies embed margins of up to \$70\text{–}80\%$ in household policies.
 * **The rule:** All bounded-loss risks (a minor fender-bender, a laptop replacement, a plumbing clog, a routine doctor visit) are covered **exclusively from your own reserve liquidity fund (Cash Buffer)**. Spending premium on these small things is forbidden.
 
 ##### **2. Institutional insurance: transferring exclusively the "heavy tails"**
@@ -335,16 +335,16 @@ Payhip / KDP  Voice-over    POD prints    Cohorts        Outreach      P2P crypt
 Most beginning authors treat self-publishing as a romantic act of creativity: "I'll write a brilliant novel, upload the file to the platform, and the world will lose its mind." From a systems-engineering standpoint, modern digital self-publishing is a **high-throughput conveyor e-commerce with algorithmic traffic distribution**, where the rules are dictated by the laws of hydrodynamics and liquidity arbitration. Bob reminds: "The first 90% of a project takes 90% of the time. The remaining 10% — the other 90%."
 
 ```
-[ A STANDALONE BOOK ] ──► CAC ($15–$30) >> Royalty ($1.79) ──► INSTANT CASH DEFAULT
+[ A STANDALONE BOOK ] ──► CAC (\$15–\$30) >> Royalty (\$1.79) ──► INSTANT CASH DEFAULT
                                                 │
 [ THE SERIES CONVEYOR ]          ──► Volume 1 (loss leader) ──► R₁ (60%) ──► R₂ (85%) ──► LTV > CAC (PROFIT)
 ```
 
 ##### **1. The mathematical limit: the CAC vs LTV inequality (why standalones are doomed)**
 Trying to promote a standalone book through paid traffic is the classic pipe breach violating the no-arbitrage condition:
-* **Royalty per copy:** On Amazon KDP at $2.99, the author receives $1.79 (70% royalty minus the delivery fee of $0.15/MB). On non-exclusive 25% base terms at a 199 RUB book price, the author nets ~45–50 RUB (after 22% VAT and 3.5% acquiring).
-* **Acquisition cost (CAC):** A click in targeted advertising (Amazon Ads) in competitive genres costs $0.50–$1.50 (25–60 RUB). Cold conversion from a book page to purchase rarely exceeds 2–4%.
-* **The result:** The marginal cost of one sale through paid traffic is **$15–$30 (600–1500 RUB)**.
+* **Royalty per copy:** On Amazon KDP at \$2.99, the author receives \$1.79 (70% royalty minus the delivery fee of \$0.15/MB). On non-exclusive 25% base terms at a 199 RUB book price, the author nets ~45–50 RUB (after 22% VAT and 3.5% acquiring).
+* **Acquisition cost (CAC):** A click in targeted advertising (Amazon Ads) in competitive genres costs \$0.50–\$1.50 (25–60 RUB). Cold conversion from a book page to purchase rarely exceeds 2–4%.
+* **The result:** The marginal cost of one sale through paid traffic is **\$15–\$30 (600–1500 RUB)**.
 
 $$\text{CAC} \gg \text{LTV}_{\text{single}}$$
 
@@ -352,23 +352,23 @@ Selling a standalone book at a profit through ads is **physically impossible**. 
 
 $$\text{LTV}_{\text{series}} = \text{Royalty}_1 + \sum_{i=2}^{N} (\text{Royalty}_i \times R_1 \times R_2 \times \dots \times R_{i-1})$$
 
-* **The anatomy of the read-through funnel:** The pass from volume 1 to volume 2 ($R_1$) is the system's main filter. The industry normative benchmark: $R_1 \ge 50\text{–}60\%$. Starting with the pass to volume 3 ($R_{2+}$), the figure stabilizes in the **80–85%** corridor (the loyal core). A 5-volume series lifts the LTV of one acquired reader to $8–$12 (250–350 RUB), making it possible to pay back paid traffic and win advertising auctions.
+* **The anatomy of the read-through funnel:** The pass from volume 1 to volume 2 ($R_1$) is the system's main filter. The industry normative benchmark: $R_1 \ge 50\text{–}60\%$. Starting with the pass to volume 3 ($R_{2+}$), the figure stabilizes in the **80–85%** corridor (the loyal core). A 5-volume series lifts the LTV of one acquired reader to \$8–\$12 (250–350 RUB), making it possible to pay back paid traffic and win advertising auctions.
 
 ##### **2. The empirical base rates of the market (Authors Guild & Written Word Media)**
 Switch off the sweet talk of infobusiness courses and pull up the raw research logs:
-* **Median income (Authors Guild Survey, $n = 5699$):** The median book income of all authors is just **$2,000 a year**. For authors working exclusively full-time in self-publishing with 5+ years of tenure, the median rises to **$12,800–$24,000 a year**.
+* **Median income (Authors Guild Survey, $n = 5699$):** The median book income of all authors is just **\$2,000 a year**. For authors working exclusively full-time in self-publishing with 5+ years of tenure, the median rises to **\$12,800–\$24,000 a year**.
 * **The income distribution (Written Word Media Survey 2025, $n = 1346$ commercial indie authors):**
   * **44%** earn from books **$\le \$100$ a month**;
   * Only **8%** cross the **$> \$10,000$ a month** bar;
-  * Among authors with a catalog of 1–3 books, about **80%** sit below $100/mo;
-  * In the cohort of authors with a backlog of **25+ books in series**, the median is **~$3,000 a month**, and 40%+ of them earn above $5,000/mo.
-* **The own retention circuit (Direct Retention):** The median income of authors with their own mailing list/subscriber base is **~$300/mo versus ~$15/mo** for authors with no contact base (a 20× gap!). In the $> \$10\text{k/mo}$ cohort, the average subscriber base reaches 18,300 addresses.
+  * Among authors with a catalog of 1–3 books, about **80%** sit below \$100/mo;
+  * In the cohort of authors with a backlog of **25+ books in series**, the median is **~\$3,000 a month**, and 40%+ of them earn above \$5,000/mo.
+* **The own retention circuit (Direct Retention):** The median income of authors with their own mailing list/subscriber base is **~\$300/mo versus ~\$15/mo** for authors with no contact base (a 20× gap!). In the $> \$10\text{k/mo}$ cohort, the average subscriber base reaches 18,300 addresses.
 
 ##### **3. Platform gatekeeping and upload rules (the 2026 cut)**
 
 | Platform | Royalty & mechanics | Qualification threshold | Restrictions & algorithmic focus |
 | :--- | :--- | :--- | :--- |
-| **Amazon KDP** | 70% in the **$2.99–$12.99** corridor (minus ~$0.15/MB delivery); 35% outside the corridor. The KDP Select / KENP subscription: ~$0.0040–$0.0045 per page. | Available right after registration. | The half-life of a new release's visibility (the Kindle Cliff): 30–90 days. Strategy: *Rapid Release* (publishing cycle volumes every 30–60 days). |
+| **Amazon KDP** | 70% in the **\$2.99–\$12.99** corridor (minus ~\$0.15/MB delivery); 35% outside the corridor. The KDP Select / KENP subscription: ~\$0.0040–\$0.0045 per page. | Available right after registration. | The half-life of a new release's visibility (the Kindle Cliff): 30–90 days. Strategy: *Rapid Release* (publishing cycle volumes every 30–60 days). |
 | **Author.Today** | 70% (non-exclusive), 85% (exclusive). Selling completed books and paid per-chapter subscriptions on drafts. | **Commercial status (the 16.09.2026 reform):** 300 library adds, 200k+ characters of text, 1 week holding 30 reading-hours and 300 daily views. Subscriber threshold: **0**. | **An unconditional ban on commercial status for AI-created books.** Algorithmic lift when uploading 15,000+ character chapters 3–4 times a week. |
 | **Litres: Samizdat** | 25% base non-exclusive, 35% exclusive; up to 50–70% at advanced status (200+ sales in 90 days + registered self-employment). | Free catalog publication; advanced status requires sales. | VAT (20–22%) and acquiring (3.5%) deducted from the royalty base. Slow moderation, an inert recommendation algorithm. |
 | **Litnet** | Per-chapter subscriptions on drafts (up to 3 months). Co-financing programs for external traffic (up to +150% budget match on exclusivity). | A free novel $\ge 250$k characters, 200 subscribers, 150+ regular draft readers. | Focused on a female audience (SLR, romfantasy). First-person narration, dual POV (alternating hero/heroine chapters). |
@@ -391,7 +391,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 * **Steam economics:** The Valve platform keeps a **30% monopoly rent** (the fee drops to 25% after \$10M and 20% after \$50M).
 * **The algorithmic visibility barrier:** For a game to receive organic traffic from Steam's algorithms on release day (*"Popular New Releases"*), the project must gather at least **7,000–10,000 wishlists** before sales start. Under 5k wishlists guarantees the algorithmic doldrums ($< \$1,000$ revenue for the year).
 * **Engine choice:**
-  * *Godot (MIT License):* $0\%$ royalties forever; ideal for 2D/indie 3D;
+  * *Godot (MIT License):* \$0\%$ royalties forever; ideal for 2D/indie 3D;
   * *Unreal Engine:* 5% royalty after the first \$1,000,000 of gross revenue;
   * *Unity:* The risk of unpredictable pricing-policy changes (the Runtime Fee scandal).
 * **The publisher-contract trap (100% Recoupment):** Publishers take 100% of the game's incoming revenue until marketing costs are fully recouped (*Recoupment*), leaving the developer without money in the first critical months after release.
@@ -411,7 +411,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 
 ##### **5. Contract OEM electronics and open hardware:**
 * Rapid PCB prototyping and assembly services (**JLCPCB, PCBWay**) have dropped the threshold for building your own physical devices to a few hundred dollars.
-* Selling niche hardware modules (dev boards, ESP32/RP2040 smart-home controllers, programmers) through specialized marketplaces (**Tindie, Lectronz**) at $40\text{–}60\%$ margins.
+* Selling niche hardware modules (dev boards, ESP32/RP2040 smart-home controllers, programmers) through specialized marketplaces (**Tindie, Lectronz**) at \$40\text{–}60\%$ margins.
 
 ---
 
@@ -419,7 +419,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 
 > 💡 **STAGE 0: HOUSEHOLD GROUNDING (WHAT THIS MEANS IN PLAIN ENGLISH)**  
 > The textbook indie-startup failure: an idea, a business plan drawn up in Excel, a few billion projected — and off to hire juniors to write the code. In 95% of cases, a business plan written before the first live user and the first compiler error is exhaust-fan fan fiction.  
-> The engineering reality: software is built off life-cycle standards (ISO/IEC/IEEE 12207) and falsifiable hypotheses, not off a financial forecast. Each development stage is a separate pipe run with its own test pressure: skip a section, and the water hammer arrives in production — where the same defect costs $1000\times$ more than it did on paper.
+> The engineering reality: software is built off life-cycle standards (ISO/IEC/IEEE 12207) and falsifiable hypotheses, not off a financial forecast. Each development stage is a separate pipe run with its own test pressure: skip a section, and the water hammer arrives in production — where the same defect costs \$1000\times$ more than it did on paper.
 
 ```
 [Idea + Business hypothesis]
@@ -447,7 +447,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 ```
 
 ##### **1. Boehm's cost-of-change curve — and where it's bent:**
-* The classic (Boehm, 1981): a defect caught at specification costs $1$; at architecture $10\text{--}15$; at integration $100$; in production $1000\text{--}10000$ — up to bankruptcy.
+* The classic (Boehm, 1981): a defect caught at specification costs \$1$; at architecture \$10\text{--}15$; at integration \$100$; in production \$1000\text{--}10000$ — up to bankruptcy.
 * *DORA-era correction:* for application-level defects, CI/CD with canary releases and feature flags compresses the production fix cost down to near test-stage levels. **The exponent survives for structural defects**: database schema, authentication protocols, access-control models. Rewriting a relational schema after terabytes of production data means multi-phase dual-write migrations and integrity risk.
 
 ##### **2. Failure base rates and an honest CHAOS Report autopsy:**
@@ -489,28 +489,28 @@ For engineers, developers, and technical specialists there exist narrow market n
 The digital tech community is infected with the infobusiness myth of \"passive income via online courses.\" In reality, launching a video course transforms the creator into a 24/7 customer support slave in Discord channels, while the video content rots in six months and leaks onto torrent trackers.
 
 1. **Adversarial Stress-Test of 4 Popular Passive Monetization Concepts:**
-   * **Indie Gamedev on Steam:** Text-based and narrative simulators suffer **21% to 55% refund rates** within Valve's 2-hour refund window (*Steam Refund Abuse*). Factoring in the $100 Steam Direct fee, Valve's 30% cut, and cross-platform OS bug tracking (Linux/Windows/macOS), the true passive score is abysmal ($2/10$).
-   * **Functional Ambient Audio on Spotify:** Streaming platforms instituted 1,000-stream minimum monetization gates and demonetize tracks under 2 minutes. Music must be sold **directly as B2B sound packs (WAV/FLAC)** on Bandcamp/Gumroad for $29–$49 (passive score $8.5/10$).
-   * **Physical Tyvek EDC Cards (Amazon FBA):** Physical merchandise requires frozen working capital, storage fees, returns handling, and triggers physical inventory tax nexuses (`[P0-97]`). The optimal replacement is a **vector digital PDF deck for home/local printing (CR-80 format)** at $9.99 (passive score $9/10$, margin $>90\%$).
-   * **Interactive Wasm/CLI Simulator:** Client-side WebAssembly simulators running on Cloudflare Pages with zero backend servers and offline Ed25519 cryptographic license verification deliver textbook margin efficiency ($49 B2C / $499 B2B, passive score $8.5/10$).
+   * **Indie Gamedev on Steam:** Text-based and narrative simulators suffer **21% to 55% refund rates** within Valve's 2-hour refund window (*Steam Refund Abuse*). Factoring in the \$100 Steam Direct fee, Valve's 30% cut, and cross-platform OS bug tracking (Linux/Windows/macOS), the true passive score is abysmal (\$2/10$).
+   * **Functional Ambient Audio on Spotify:** Streaming platforms instituted 1,000-stream minimum monetization gates and demonetize tracks under 2 minutes. Music must be sold **directly as B2B sound packs (WAV/FLAC)** on Bandcamp/Gumroad for \$29–\$49 (passive score \$8.5/10$).
+   * **Physical Tyvek EDC Cards (Amazon FBA):** Physical merchandise requires frozen working capital, storage fees, returns handling, and triggers physical inventory tax nexuses (`[P0-97]`). The optimal replacement is a **vector digital PDF deck for home/local printing (CR-80 format)** at \$9.99 (passive score \$9/10$, margin $>90\%$).
+   * **Interactive Wasm/CLI Simulator:** Client-side WebAssembly simulators running on Cloudflare Pages with zero backend servers and offline Ed25519 cryptographic license verification deliver textbook margin efficiency (\$49 B2C / \$499 B2B, passive score \$8.5/10$).
 
 2. **5 New Autonomous Zero-Support Assets:**
-   1. **3D CAD Hardening Kit (STL/STEP/OpenSCAD):** 12 parametric 3D print models (wall mounts for C-A-T Gen 7 tourniquets, mechanical ball-valve locks, DIN-rail breaker brackets, GPON DC-DC holders). Sold on Cults3D/MakerWorld ($14.90, marginal cost $0, margin $90\text{--}95\%$, Lindy Effect $30+$ years).
-   2. **Obsidian Sovereign SCADA Vault:** An out-of-the-box offline workspace with an interactive Canvas graph of all 110 P0 valves, DataviewJS biometric calculators (ApoB, CAC, HOMA-IR), 40/40/20 contract templates, and emergency runbooks ($29 personal / $89 team, 0 server maintenance).
-   3. **SecOps & Hardening Rule Sets:** Curated YARA signatures, Semgrep rules for MCP agent tool poisoning (CVE-2025-49596), Suricata rules, and DNS telemetry blocklists for AdGuard/Pi-hole ($39 one-time / $9/mo via GitHub Sponsors).
-   4. **`zta-check` CLI Pro (`zta-suite` Repository):** Standalone static Rust binary for host security audits, 2G cellular downgrade detection (`[P0-82]`), WebRTC leak checks, and non-root Android ADB debloating ($19 lifetime key signed with Ed25519).
-   5. **Technical Wall Blueprints (POD):** High-resolution museum-grade vector schematics (P0 matrix, MARCH PAWS protocol, 5 Echelons topology) via automated drop-shipping through Printful + Shopify ($39–$49, $21–$28 net profit per print, 0 inventory).
+   1. **3D CAD Hardening Kit (STL/STEP/OpenSCAD):** 12 parametric 3D print models (wall mounts for C-A-T Gen 7 tourniquets, mechanical ball-valve locks, DIN-rail breaker brackets, GPON DC-DC holders). Sold on Cults3D/MakerWorld (\$14.90, marginal cost \$0, margin \$90\text{--}95\%$, Lindy Effect \$30+$ years).
+   2. **Obsidian Sovereign SCADA Vault:** An out-of-the-box offline workspace with an interactive Canvas graph of all 110 P0 valves, DataviewJS biometric calculators (ApoB, CAC, HOMA-IR), 40/40/20 contract templates, and emergency runbooks (\$29 personal / \$89 team, 0 server maintenance).
+   3. **SecOps & Hardening Rule Sets:** Curated YARA signatures, Semgrep rules for MCP agent tool poisoning (CVE-2025-49596), Suricata rules, and DNS telemetry blocklists for AdGuard/Pi-hole (\$39 one-time / \$9/mo via GitHub Sponsors).
+   4. **`zta-check` CLI Pro (`zta-suite` Repository):** Standalone static Rust binary for host security audits, 2G cellular downgrade detection (`[P0-82]`), WebRTC leak checks, and non-root Android ADB debloating (\$19 lifetime key signed with Ed25519).
+   5. **Technical Wall Blueprints (POD):** High-resolution museum-grade vector schematics (P0 matrix, MARCH PAWS protocol, 5 Echelons topology) via automated drop-shipping through Printful + Shopify (\$39–\$49, \$21–\$28 net profit per print, 0 inventory).
 
 3. **Master Unit Economics & Distribution Matrix:**
 
 | Product Asset | Target Format / Platform | Retail Price | Marginal Unit Cost | Net Margin % | Monthly Support | Lindy Effect |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **`zta-check` CLI / Wasm Simulator** | Rust/Wasm / Cloudflare Pages | $19 / $49 | $0 | **92–95%** | <1 hr | 10+ years |
-| **Obsidian SCADA Vault** | Markdown / Gumroad / Paddle | $29 / $89 | $0 | **89–93%** | 0 hrs | 15+ years |
-| **3D CAD Hardening Kit** | STL/STEP / Cults3D / MakerWorld | $14.90 | $0 | **90–95%** | 0 hrs | 30+ years |
-| **SecOps Rule Sets** | YARA/Semgrep / GitHub Sponsors | $39 / $9/mo | $0 | **95%** | 0.5 hrs | 5–10 years |
-| **B2B Functional Audio Pack** | FLAC/WAV / Bandcamp | $29–$49 | $0 | **88–92%** | 0 hrs | 20+ years |
-| **Technical Wall Blueprints** | Archival Print / Printful PoD | $39–$49 | ~$18 | **45–55%** | 0 hrs (auto) | 50+ years |
+| **`zta-check` CLI / Wasm Simulator** | Rust/Wasm / Cloudflare Pages | \$19 / \$49 | \$0 | **92–95%** | <1 hr | 10+ years |
+| **Obsidian SCADA Vault** | Markdown / Gumroad / Paddle | \$29 / \$89 | \$0 | **89–93%** | 0 hrs | 15+ years |
+| **3D CAD Hardening Kit** | STL/STEP / Cults3D / MakerWorld | \$14.90 | \$0 | **90–95%** | 0 hrs | 30+ years |
+| **SecOps Rule Sets** | YARA/Semgrep / GitHub Sponsors | \$39 / \$9/mo | \$0 | **95%** | 0.5 hrs | 5–10 years |
+| **B2B Functional Audio Pack** | FLAC/WAV / Bandcamp | \$29–\$49 | \$0 | **88–92%** | 0 hrs | 20+ years |
+| **Technical Wall Blueprints** | Archival Print / Printful PoD | \$39–\$49 | ~\$18 | **45–55%** | 0 hrs (auto) | 50+ years |
 
 ---
 
@@ -553,7 +553,7 @@ The digital tech community is infected with the infobusiness myth of \"passive i
 
 > 🛡️ **TREASURY PLUMBING RULES:**
 > 1. **Zero "Single Black-Hole Account":** Forcing all revenue into a single joint pool breeds financial micromanagement, passive-aggressive resentment, and zero personal sovereignty.
-> 2. **Proportional, Not Equal, OPEX Allocations:** If Husband clears $6,000/mo and Wife clears $3,000/mo, a $4,500 monthly household nut is funded 66.7% ($3,000) and 33.3% ($1,500). Both retain discretionary sovereign reserves.
+> 2. **Proportional, Not Equal, OPEX Allocations:** If Husband clears \$6,000/mo and Wife clears \$3,000/mo, a \$4,500 monthly household nut is funded 66.7% (\$3,000) and 33.3% (\$1,500). Both retain discretionary sovereign reserves.
 > 3. **Motherhood Penalty Compensatory Protocol:** During maternity leave (where female OPEX converts from financial income to extreme physiological investment), the earning partner funds 100% of Bucket 3 and executes contractual, non-revocable transfers into the mother's Bucket 2 to preserve her financial independence.
 
 
@@ -589,8 +589,8 @@ The digital tech community is infected with the infobusiness myth of \"passive i
 #### **US Federal Estate Tax on Non-Resident Aliens (NRA): The 40% Trap on US Securities ([P0-94])**
 
 Foreign investors (Non-Resident Aliens, NRAs) holding US equities (Apple, Microsoft, Tesla) or US-domiciled ETFs (VOO, SPY, QQQ) via brokerages like Interactive Brokers are subject to an aggressive fiscal trap:
-* **Statutory Exemption Floor:** While US citizens enjoy an exemption exceeding $13M, NRAs under 26 U.S. Code § 2102(b)(1) receive an estate tax exemption of **only $60,000**.
-* **Tax Rate:** All *US-situs assets* (securities with ISINs beginning with `US`) exceeding $60,000 are taxed at rates **up to 40%** upon the owner's death.
+* **Statutory Exemption Floor:** While US citizens enjoy an exemption exceeding \$13M, NRAs under 26 U.S. Code § 2102(b)(1) receive an estate tax exemption of **only \$60,000**.
+* **Tax Rate:** All *US-situs assets* (securities with ISINs beginning with `US`) exceeding \$60,000 are taxed at rates **up to 40%** upon the owner's death.
 * **Asset Lock:** Brokerages freeze all accounts upon notification of death pending issuance of an official *IRS Form 5173 Transfer Certificate*, which requires 12–24 months of forensic probate review.
 
 > 🛠️ **MANDATORY ASSET STRUCTURING:** Complete ban on direct US-domiciled equities/funds for NRAs. Portfolio assets must be allocated exclusively into **European UCITS ETFs domiciled in Ireland or Luxembourg (ISINs starting with `IE` and `LU`, e.g., CSPX, VUAA, EUNL)**. These funds are legally exempt from US estate tax clawbacks.
@@ -619,9 +619,9 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 | Food circuit | Processing & packing | Packaging type | Shelf life | Role in the architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **The carbohydrate core** (white rice, buckwheat, oats) | Dried to $<10\%$ moisture | **7-mil Mylar bags (178 µm)** + $O_2$ absorbers ($<0.01\%$) | **10–25 years** | Base glycogen, the caloric foundation |
-| **Animal protein** (canned beef, turkey, tuna) | Autoclaving ($121^\circ\text{C}$, 2 atm) | Lacquered tinplate cans | **3–5 years** | The amino-acid pool, sodium, iron |
+| **Animal protein** (canned beef, turkey, tuna) | Autoclaving (\$121^\circ\text{C}$, 2 atm) | Lacquered tinplate cans | **3–5 years** | The amino-acid pool, sodium, iron |
 | **Freeze-dried complexes** (vegetables, soups) | Lyophilization (freeze-drying at $-40^\circ\text{C}$) | #10 cans with nitrogen flush | **up to 25 years** | Preserving enzymes and vitamins at minimal weight |
-| **The lipid buffer** (ghee, coconut oil) | Dehydration, casein removal | Glass with screw lids, in the dark | **2–3 years** | $900\text{ kcal}/100\text{g}$ density, steroid synthesis |
+| **The lipid buffer** (ghee, coconut oil) | Dehydration, casein removal | Glass with screw lids, in the dark | **2–3 years** | \$900\text{ kcal}/100\text{g}$ density, steroid synthesis |
 
 *The packing protocol:* Mylar bags (PET/ALU/PE 7 mil) are heat-sealed with active-iron oxygen absorbers (300–500 cc). Zero $O_2$ and water-vapor diffusion blocks lipid oxidation and pest breeding.
 
@@ -632,17 +632,17 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 
 * **The mechanics of speculative bubbles (Pump & Dump) vs Scrooge McDuck's reservoir:** Speculative hypes (*Hamster Kombat*, *Labubu*, Wall Street schemes) are built on artificially pumping pressure into the pipe with no physical fluid — and a sharp dump at the peak. The antidote — the Scrooge McDuck model: 100% coverage by a physical liquid reserve in the safe, with no credit leverage and no investment in foundation-less "air" assets.
 
-> 🛑 **Post-Mortem [L1 Fact / Bedrock] (The anatomy of B-Book "prop-trading" scams): The CFTC v. MyForexFunds / Traders Global case ($310M USD)**
-> * **Step 0 (What happened, in plain terms):** In 2022–2026, the internet filled with ads for retail prop firms (MyForexFunds, FTMO, and their clones): *"Pay $300 for a challenge and get a $100,000 trading account! Keep 80% of the profit!"*. Millions of beginners bought the fairy tale of "free capital." In reality, trades were never routed to a real market (A-Book). It was a closed simulator (a B-Book casino) where the rules were mathematically and software-tuned so that 99.5% of traders bled their deposits.
+> 🛑 **Post-Mortem [L1 Fact / Bedrock] (The anatomy of B-Book "prop-trading" scams): The CFTC v. MyForexFunds / Traders Global case (\$310M USD)**
+> * **Step 0 (What happened, in plain terms):** In 2022–2026, the internet filled with ads for retail prop firms (MyForexFunds, FTMO, and their clones): *"Pay \$300 for a challenge and get a \$100,000 trading account! Keep 80% of the profit!"*. Millions of beginners bought the fairy tale of "free capital." In reality, trades were never routed to a real market (A-Book). It was a closed simulator (a B-Book casino) where the rules were mathematically and software-tuned so that 99.5% of traders bled their deposits.
 > * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):**
 >   * The complaint of the US Commodity Futures Trading Commission (*Commodity Futures Trading Commission v. Murtuza Kazmi and Traders Global Group Inc. d/b/a MyForexFunds*, Case No. **1:23-cv-22358**, D.N.J., September 2023);
->   * The official *CFTC Release No. 8771-23* on freezing assets of **$310M USD**;
+>   * The official *CFTC Release No. 8771-23* on freezing assets of **\$310M USD**;
 >   * The parallel order of the Ontario Securities Commission (*OSC Temporary Cease Trade Order*);
 >   * Internal server telemetry of the *Virtual Dealer / Dealer plugin* modules for MetaTrader 4/5.
 > * **Step 2 (The financial-simulator mechanism and the hidden traps):**
 >   1. **The challenge-fee economy (Challenge Fee Churn):** **60% to 75%** of prop-firm gross revenue comes from entry fees for assessment stages ("challenges"), and another **10–15%** from paid resets of failed attempts. Only **5–7%** of participants pass selection to a first payout, and **under 1%** ever get paid twice.
 >   2. **Software sabotage (Virtual Dealer plugins):** The internal dealer software automatically identified successful traders and engaged asymmetric order execution: artificial execution delays of **300–1500 ms**, spread widening on news, and slippage exclusively in the negative direction.
->   3. **The floating-maximum trap (Trailing High-Water Mark Drawdown):** The max-drawdown rule is computed not from the locked deposit but from the peak unrealized floating profit (*Unrealized Equity Peak*). If a position was up $5,000 for a second and then rolled back to zero — the prop firm books it as "exceeding the allowed drawdown" and voids the account.
+>   3. **The floating-maximum trap (Trailing High-Water Mark Drawdown):** The max-drawdown rule is computed not from the locked deposit but from the peak unrealized floating profit (*Unrealized Equity Peak*). If a position was up \$5,000 for a second and then rolled back to zero — the prop firm books it as "exceeding the allowed drawdown" and voids the account.
 > * **Step 3:**
 >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
 >   > **In plain language:** Retail prop trading is not a trader's job and not "fund management." It's a slot machine in an underground casino dressed up as a trading terminal. You pay for the right to press the button, and the casino owner bends the springs in the machine so you shear the thread on the very first pull.
@@ -652,16 +652,16 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 >   > 2. If you trade financial markets — work **strictly through regulated DMA/ECN brokers** with direct liquidity routing to the interbank (Interactive Brokers, Saxo Bank, and analogues under SEC/FINRA/FCA/BaFin supervision) with segregated client accounts.
 >   > 3. Real capital is created in the real sector (craft, SaaS, B2B services) — not in simulators on someone else's servers.
 
-* **The Tino De Angelis Salad Oil con (1963) & the "Surface Mocking" hole:** $1.85B of AmEx-pledged salad oil turned out to be reservoirs of salt water ($\rho=1.025$) with a 5 cm oil layer on top ($\rho=0.92$) and hidden transfer pipes between tanks. Inspectors measured the floating top layer while pumps moved oil to the next tank. **The lesson:** Check the depth of the macro-substrate — don't trust the top-level `200 OK` or a pretty report!
+* **The Tino De Angelis Salad Oil con (1963) & the "Surface Mocking" hole:** \$1.85B of AmEx-pledged salad oil turned out to be reservoirs of salt water ($\rho=1.025$) with a 5 cm oil layer on top ($\rho=0.92$) and hidden transfer pipes between tanks. Inspectors measured the floating top layer while pumps moved oil to the next tank. **The lesson:** Check the depth of the macro-substrate — don't trust the top-level `200 OK` or a pretty report!
 * **The institutional default of The Great Gatsby & the sharks of *Pain & Gain*:**
   * **Gatsby:** Building a giant facade castle on bootlegger money with a total absence of legal capital-protection infrastructure. Any random household collision instantly zeroes the owner.
   * **Pain & Gain:** Street criminals' inability to run their millions through legal financial plumbing. Money without institutional hydraulics burns within weeks.
 * **The Queen's Gambit & the Skin in the Game of John Kramer (*Saw*):**
   * **Queen's Gambit:** Calculating the game tree and combination tempo 10 moves ahead. Imposing your hydraulic rhythm on the counterparty.
   * **John Kramer (*Saw*):** Type 1 decisions under a ticking timer. Kramer forces subjects to pay with real skin in the game, where any wrong move means physical liquidation.
-* **The financial lever of $0 Base / 100% Backend (Jim Carrey & George Lucas & J.K. Rowling):**
-  * *Jim Carrey (Yes Man, 2008):* Cutting the studio's fixed opex to $0 (refusing the standard $20M fee) in exchange for **36.2% of net profit**. The studio agreed due to zero initial risk. The film grossed $223M $\to$ Carrey took home **$35M** in pure cash.
-  * *George Lucas (Star Wars, 1973):* Agreed to a $50,000 cut of the director's fee in exchange for 100% of merchandising rights (toys, memorabilia) and all sequel rights. Fox considered toys "junk." The result: the $4B+ financial empire of *Lucasfilm*, with no dependence on studio budgets. **The lesson:** Cut the base opex and the fixed fee at deal entry — take 100% of the long-term asymmetric rights to the foundation.
+* **The financial lever of \$0 Base / 100% Backend (Jim Carrey & George Lucas & J.K. Rowling):**
+  * *Jim Carrey (Yes Man, 2008):* Cutting the studio's fixed opex to \$0 (refusing the standard \$20M fee) in exchange for **36.2% of net profit**. The studio agreed due to zero initial risk. The film grossed \$223M $\to$ Carrey took home **\$35M** in pure cash.
+  * *George Lucas (Star Wars, 1973):* Agreed to a \$50,000 cut of the director's fee in exchange for 100% of merchandising rights (toys, memorabilia) and all sequel rights. Fox considered toys "junk." The result: the \$4B+ financial empire of *Lucasfilm*, with no dependence on studio budgets. **The lesson:** Cut the base opex and the fixed fee at deal entry — take 100% of the long-term asymmetric rights to the foundation.
   * *J.K. Rowling (the Pottermore platform, 2011) — the sovereign IP SPV:* When the digital book market was being captured by Amazon Kindle — imposing draconian fees and monopolistic file control on publishers — Rowling flatly refused to hand digital rights to her publishers (*Bloomsbury*) and Amazon. She kept 100% of e-book rights in her own company and built her own D2C store, *Pottermore*, forcing Amazon and Apple to sell the books through API redirection into her gateway. **The lesson:** Never hand master rights to your craft to monopolistic aggregators; keep the sovereign monetization gateway.
 * **Ken Thompson (1984) — Reflections on Trusting Trust (the poisoned-instrument law):** The C/UNIX co-author modified the compiled binary of the C compiler. When compiling `login.c` it injected a root password; when compiling `cc.c` — the code injecting the backdoor itself. The source code stayed 100% clean! **The lesson:** Whoever controls the build instrument (the compiler, the platform, the framework) owns the system without dirtying the source blueprints.
 * **GHSC in EVE Online (2005) — Operation 547 & the atomic water hammer:** The mercenary operative slept for 11 months, rose to top executive $\to$ on the `NICOLE` signal destroyed the CEO's ship within 60 seconds and simultaneously emptied the treasuries of 10 stations (30B ISK). **The lesson:** Preparation takes years; the execution phase takes one indivisible beat. Pull the valve simultaneously at every node of the network.
@@ -686,7 +686,7 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 
 * **The collapse of Gerald Ratner's empire (1991):** A speech at a banquet (*"our products are total crap"*) wiped £500M off capitalization in 48 hours. The lesson: speech OpSec and second-order thinking!
 * **Gresham's Law (1982):** The flushing of copper pennies out of circulation when the raw-material price rises above face value.
-* **TCO & Sam Vimes's Boots Theory:** An ultra-cheap Zamak faucet ($5) floods 3 floors for $20,000. Buying Industrial Grade is cheaper over a 10-year horizon.
+* **TCO & Sam Vimes's Boots Theory:** An ultra-cheap Zamak faucet (\$5) floods 3 floors for \$20,000. Buying Industrial Grade is cheaper over a 10-year horizon.
 * **The mathematical concept of *Balatro* ($\times\text{XMult}$ vs $+\text{Mult}$):** In *Balatro*, linear additive score boosts ($+\text{Mult}$) get chewed up fast by the exponential growth of level requirements (Ante). Reaching stable profit and surviving the environment's inflation is possible STRICTLY through multiplicative multipliers ($\times\text{XMult}$) that compound base capital. Linear grinding alone ($+\text{Mult}$) always burns out against compound interest and inflation; train systems with exponential leverage ($\times\text{XMult}$).
 * **Kingman's formula (Slack Time $\ge 20\%$):** System load $\rho \to 1.0 \implies$ queue wait time $W_q \to \infty$.
 * **Revenue concentration and the Herfindahl-Hirschman Index (HHI):**
@@ -739,7 +739,7 @@ Household capital-accumulation advice based on penny-pinching ("the latte factor
 [ Surface CAPEX ]                                   [ Hidden TCO (60–80% of costs) ]
 - The price on the tag                              - Ongoing OPEX and consumables
 - The Sam Vimes boots trap                          - Downtime and failures
-- Imaginary savings of $10                          - Repair and disposal costs
+- Imaginary savings of \$10                          - Repair and disposal costs
 ```
 
 1. **The decomposition of Thaler's mental accounting (*Mental Accounting*, 1999):**
@@ -770,7 +770,7 @@ The classic beginner-entrepreneur error — fixing shares 50/50 at the start wit
 ```
 
 1. **The 4-year vesting with a 1-year cliff standard (4-Year Vesting / 1-Year Cliff):**
-   * All founder shares are initially subject to company repurchase at par ($0.0001 per share);
+   * All founder shares are initially subject to company repurchase at par (\$0.0001 per share);
    * *The 12-month cliff:* If a founder exits within the first year, he leaves with **0% of shares**;
    * In month 13, **25%** of shares unlock at once, and the remaining 75% vest in equal 1/48 monthly portions over the following 3 years.
 
@@ -829,24 +829,24 @@ The sovereign technology ecosystem **Undrlla** is engineered as a self-balancing
    * **`unet`:** A secured zero-trust overlay P2P mesh based on WireGuard and gVisor netstack protocols, tying sovereign devices together without external VPN providers.
 
 2. **The investment model and utility returns (Runway First):**
-   * *Covering the founder's base life support (L1 Runway):* The investment ask is calculated strictly including the founder's $1,500–$2,500/mo living check in the relocation hub (housing + food + taxes) and a $30\%$ safety cushion for force majeure.
+   * *Covering the founder's base life support (L1 Runway):* The investment ask is calculated strictly including the founder's \$1,500–\$2,500/mo living check in the relocation hub (housing + food + taxes) and a \$30\%$ safety cushion for force majeure.
    * *Three investment tranches:*
      - **Tranche 1 (\$10,000 Seed Bootstrap):** Covering 6 months of founder life, server payments, and packaging the `undreseller` B2B conveyor;
      - **Tranche 2 (\$50,000 Acceleration):** Entity registration (Armenia 1% / US LLC), the first procurement batch of vetted equipment for the marketplace, hiring a local inspection master;
      - **Tranche 3 (\$150,000 Scale):** Deploying the physical Hacker House and scaling the platform.
    * *Utility return and revenue share for investors:* Investors get lifetime free access to all paid products of the ecosystem at the nominal value of invested capital + a **10–15% pool of net company profit (Revenue Share Pool)** until a 2× return on investment is reached.
 
-* **The liquidity-control cascade & the Undrlla ecosystem capital roadmap ($10k / $100k / $1M):**
-  * **The $10k tier (Phase 0–1: Low-Burn Bootstrap & the Armenian LLC seal):**
-    * *Earning liquidity:* Collecting the first $2.5k–$10k through custom B2B product sprints and Upwork Direct Contracts (0% commission) with Payoneer ACH withdrawal.
-    * *Cutting housing opex ($0–$225/mo):* Web-dev tech-barter (10–15 h/week of code for Yerevan art residencies in exchange for free housing) or splitting a 2-room apartment ($175–$225/mo).
-    * *The legal seal:* Registering an LLC in Yerevan at a 1% turnover tax under Armenian law HO-498-N (a limit up to 115M AMD, ~$290k/year). Employing the founder as general director starts the mandatory 365-day tenure required for skilled-worker visas to Canada (ICT C61) and the US (L-1A / EB-1C).
-    * *The payment tee:* Fiat acquiring through a Merchant of Record (Paddle) under NACE 62.01 (`undreading.com` + the ZTA Kit) + Telegram `@CryptoBot` (USDT/TON) for recurring `undrlla.citizen` subscriptions ($19/mo).
-  * **The $100k tier (Phase 2: industrial deploy & Hacker Houses):**
+* **The liquidity-control cascade & the Undrlla ecosystem capital roadmap (\$10k / \$100k / \$1M):**
+  * **The \$10k tier (Phase 0–1: Low-Burn Bootstrap & the Armenian LLC seal):**
+    * *Earning liquidity:* Collecting the first \$2.5k–\$10k through custom B2B product sprints and Upwork Direct Contracts (0% commission) with Payoneer ACH withdrawal.
+    * *Cutting housing opex (\$0–\$225/mo):* Web-dev tech-barter (10–15 h/week of code for Yerevan art residencies in exchange for free housing) or splitting a 2-room apartment (\$175–\$225/mo).
+    * *The legal seal:* Registering an LLC in Yerevan at a 1% turnover tax under Armenian law HO-498-N (a limit up to 115M AMD, ~\$290k/year). Employing the founder as general director starts the mandatory 365-day tenure required for skilled-worker visas to Canada (ICT C61) and the US (L-1A / EB-1C).
+    * *The payment tee:* Fiat acquiring through a Merchant of Record (Paddle) under NACE 62.01 (`undreading.com` + the ZTA Kit) + Telegram `@CryptoBot` (USDT/TON) for recurring `undrlla.citizen` subscriptions (\$19/mo).
+  * **The \$100k tier (Phase 2: industrial deploy & Hacker Houses):**
     * *Infrastructure:* Deploying our own non-custodial processor `SHKeeper` on a k3s cluster to escape third-party custodians.
-    * *Product releases:* Selling `undevops` ($49 Ops Pack), `unet` ($29 Tauri GUI), and `undreplanning` ($19/mo).
+    * *Product releases:* Selling `undevops` (\$49 Ops Pack), `unet` (\$29 Tauri GUI), and `undreplanning` (\$19/mo).
     * *Hacker Houses (dual-circuit isolation):* Renting villas/hotels for Hacker Houses at a 50% discount STRICTLY under a separate legal entity with a hospitality NACE (excluding GAAR risks and the loss of IT benefits).
-  * **The $1M+ tier (Phase 3: the digital state & international expropriation protection):**
+  * **The \$1M+ tier (Phase 3: the digital state & international expropriation protection):**
     * *Expansion:* Buying out 100% of master rights, activating the relocation rails of Canada ICT C61 / US EB-1C, and entering bank capital on the Wargaming–Hellenic Bank model for direct protection of transactional pipes against deposit haircuts.
 
 * **The hydraulics of commercial distribution (Distribution > Product):**
@@ -904,6 +904,79 @@ The landmark ruling of December 23, 2019 entrenched the pursuit of relatives' as
 
 ---
 
+#### **8.4. The Mastercard MATCH (TMF) 5-Year Processing Blacklist ([P0-104: MASTERCARD-MATCH-TMF-LOCK])**
+
+For an online enterprise, losing card processing is immediate death. When an acquirer terminates a merchant account due to excessive disputes ($>0.9\%$ on Visa VDMP or $>1.5\%$ on Mastercard) or fraud suspicions, card schemes mandate reporting to the **MATCH (Member Alert to Control High-Risk Merchants)** database, formerly known as **TMF (Terminated Merchant File)**.
+
+1. **Anatomy of the Blacklist:**
+   * MATCH records corporate data and **the personal identification of all beneficial owners and directors (Full Name, Passport, SSN/TIN, residential address)** under Reason Codes 01–14.
+   * Records persist for **exactly 5 years with zero administrative appeal or early pardon**.
+   * Global acquiring banks query MATCH during merchant underwriting; a positive hit triggers automatic rejection across 99.9% of legitimate processors worldwide.
+
+2. **Engineering Defense Protocols ([P0-104]):**
+   * Multi-acquirer routing architecture: never concentrate 100% of volume on a single Stripe account;
+   * Deploy pre-dispute networks (**Verifi RDR** for Visa and **Ethoca Consumer Clarity** for Mastercard);
+   * **Dispute Rate Containment:** Under the *Mastercard Scam Merchant Monitoring Program (SMMP 2026)*, combined chargeback and refund volumes must remain **strictly below \$5\%$ of processing**, otherwise automated RDR refunds trigger fraud compliance reviews.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-104] MASTERCARD-MATCH-TMF-LOCK (L3): MATCH listing bars principals from card       │
+│ processing globally for 5 yrs; multi-acquirer routing; deploy Verifi/Ethoca gateways;  │
+│ maintain combined refunds + chargebacks <5% to evade Mastercard SMMP enforcement.      │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **8.5. The 30-Day Section 83(b) Election Statutory Cliff on Startup Equity ([P0-105: SECTION-83B-ELECTION-CLIFF])**
+
+When incorporating a US C-Corp / LLC and granting restricted stock with standard 4-year founder vesting, founders routinely walk into a catastrophic six-figure tax trap.
+
+1. **Tax Mechanics of the Breach (IRC § 83(a)):**
+   * Under US tax law, restricted unvested stock is taxed as **Ordinary Income as it vests based on the fair market value on the vesting date**.
+   * If 1,000,000 shares are worth \$1,000 at formation, and the startup raises capital at a \$20M valuation two years later, a vesting tranche creates \$1,250,000 in phantom taxable income.
+   * The IRS assesses up to **\$450,000 in real cash tax liability** on illiquid private shares, forcing personal bankruptcy.
+
+2. **The Section 83(b) Protective Valve:**
+   * Founders **must physically mail the Section 83(b) Election form to the IRS strictly within 30 calendar days of the stock grant** (*26 U.S. Code § 83(b), Treas. Reg. § 1.83-2*).
+   * The 30-day deadline is absolute: the IRS is statutory prohibited from granting 9100 relief for late filings. Filing 83(b) taxes the nominal incorporation value (\$10), completely immunizing all future vesting from ordinary income taxation.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-105] SECTION-83B-ELECTION-CLIFF (L3): Ordinary income tax assessed on startup     │
+│ vesting valuations; physically file Section 83(b) Election with IRS within 30 days     │
+│ of grant without exception (zero 9100 relief available).                               │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### **8.6. Symmetrical Corporate Deadlock (50/50 Deadlock) & Judicial Liquidation ([P0-109: CORPORATE-DEADLOCK-50-50])**
+
+Splitting equity 50/50 between two co-founders without formal deadlock dispute mechanisms is structural suicide.
+
+1. **Mechanics of Judicial Dissolution:**
+   * When an intractable dispute arises, the board loses quorum: payroll approvals, tax filings, and banking mandates freeze.
+   * Under Delaware law (*DGCL § 273*) and UK statutes (*Companies Act 2006 s. 994 / Insolvency Act 1986 s. 122(1)(g)*), 50/50 deadlock triggers **mandatory Judicial Dissolution**. The court appoints a liquidator (*Custodian*), bank accounts freeze, and company IP is auctioned off for pennies.
+
+2. **Engineering Deadlock Breaking ([P0-109]):**
+   * Structure an odd-numbered board with an independent industry arbitrator holding a decisive **Casting Vote**;
+   * Embed mandatory pre-emptive exit mechanisms into the Shareholders' Agreement (SHA):
+     1. **"Russian Roulette" (Shotgun Clause):** Partner A offers to buy Partner B at price $X$; Partner B must within 21 days either sell at price $X$ or buy Partner A's shares at that exact price;
+     2. **Texas Shootout:** Sealed-bid escrow auction where the highest bidder buys out the other for cash.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [P0-109] CORPORATE-DEADLOCK-50-50 (L3): 50/50 deadlock triggers court liquidation;     │
+│ establish odd-numbered boards (Casting Vote); bake 21-day Shotgun or Texas Shootout    │
+│ mandatory buyout clauses into the Shareholders' Agreement.                             │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+
+
 ### **Chapter 9. The Pre-Mortem Pressure Test, the Meta-Circuit of Chaos & 🔴 Kill Criteria**
 
 > 🔧 **[MOD-SUNK-COST]: Overcoming the Sunk Cost Fallacy**
@@ -940,8 +1013,8 @@ The fundamental concept of the fractal interconnection of 5 safety circuits (the
 6. Jurisdictional Clamping (1 country).
 7. **Phantom Leverage (leverage $>2\text{x}$ and off-balance derivatives):**
    > 🛑 **Post-Mortem [L1 Fact / Bedrock] (Hidden leverage & the margin call): The collapse of Archegos Capital Management (Bill Hwang)**
-   > * **Step 0 (What happened, in plain terms):** A family office with $10B of capital accumulated hidden derivative credit from 6 global banks at up to 10x leverage, controlling $50B of stock with no position disclosure. When one paper moved down, all 6 banks issued margin calls simultaneously: $36B burned in 72 hours, and one of Europe's oldest banks (*Credit Suisse*) wrote off $5.5B in losses and collapsed into bankruptcy.
-   > * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):** The criminal case in the US District Court for the Southern District of New York (*United States v. Sung Kook Hwang and Patrick Halligan*, No. **1:22-cr-00240**, SDNY, Judge Alvin K. Hellerstein, jury verdict of Guilty on 10 counts on 10.07.2024; the 18-year sentence pronounced 20.11.2024; the final restitution order to victims — **ECF 453 of 29.07.2025 for $9,409,521,514.76 ($9.41B: banks $9,376,525,022.18 + former employees $32,996,491.58 with payment priority)**, the formal Judgment **ECF 458 of 07.08.2025**; the prosecution's forfeiture demand of $12.35B ($12,352,849,075.16) — an unsigned draft Preliminary Order at ECF 340-1 (at the 20.11.2024 hearing, "I deny forfeiture" was stated, Tr. 96–97; no signed order exists in the public docket)); the official SEC civil suit (*SEC v. Sung Kook Hwang et al.*, Case No. **1:22-cv-03402**, SDNY, SEC PR 2022-70); the independent *Paul, Weiss Report on Archegos* (July 2021).
+   > * **Step 0 (What happened, in plain terms):** A family office with \$10B of capital accumulated hidden derivative credit from 6 global banks at up to 10x leverage, controlling \$50B of stock with no position disclosure. When one paper moved down, all 6 banks issued margin calls simultaneously: \$36B burned in 72 hours, and one of Europe's oldest banks (*Credit Suisse*) wrote off \$5.5B in losses and collapsed into bankruptcy.
+   > * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):** The criminal case in the US District Court for the Southern District of New York (*United States v. Sung Kook Hwang and Patrick Halligan*, No. **1:22-cr-00240**, SDNY, Judge Alvin K. Hellerstein, jury verdict of Guilty on 10 counts on 10.07.2024; the 18-year sentence pronounced 20.11.2024; the final restitution order to victims — **ECF 453 of 29.07.2025 for \$9,409,521,514.76 (\$9.41B: banks \$9,376,525,022.18 + former employees \$32,996,491.58 with payment priority)**, the formal Judgment **ECF 458 of 07.08.2025**; the prosecution's forfeiture demand of \$12.35B (\$12,352,849,075.16) — an unsigned draft Preliminary Order at ECF 340-1 (at the 20.11.2024 hearing, "I deny forfeiture" was stated, Tr. 96–97; no signed order exists in the public docket)); the official SEC civil suit (*SEC v. Sung Kook Hwang et al.*, Case No. **1:22-cv-03402**, SDNY, SEC PR 2022-70); the independent *Paul, Weiss Report on Archegos* (July 2021).
    > * **Step 2 (Failure mechanism):** The use of off-balance synthetic **Total Return Swaps (TRS)**. Since the stocks were physically bought by the prime-broker banks, Archegos bypassed mandatory position disclosure under **SEC Form 13F**, hiding from the market — and from the banks themselves — a gigantic risk concentration. On the margin call, Kingman's formula engaged: the liquidation queue $W_q \to \infty$ in an order book of limited liquidity produced an avalanche water hammer and a 50% one-day stock collapse.
    > * **Step 3:**
    >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
@@ -954,12 +1027,12 @@ The fundamental concept of the fractal interconnection of 5 safety circuits (the
 
 ##### **🔴 The Red Button (Kill Criteria)**
 
-If after 90 days and 300+ pitches you have $< 2$ paying clients or the ceiling of $Burn > $1,500$ is breached — **the project is liquidated**. Remember the old folk wisdom: *"What the heart strains over, the rest of you doesn't fucking need"*, and continuing to burn resources in hopelessness is *"let the three-phase bus blow itself to hell"* — time to pull the stop-cock.
+If after 90 days and 300+ pitches you have $< 2$ paying clients or the ceiling of $Burn > \$1,500$ is breached — **the project is liquidated**. Remember the old folk wisdom: *"What the heart strains over, the rest of you doesn't fucking need"*, and continuing to burn resources in hopelessness is *"let the three-phase bus blow itself to hell"* — time to pull the stop-cock.
 
 > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
 > **In plain language:** If your startup or pet project hasn't found at least 2 real clients who paid with live money in 90 days of active selling — **PRESS THE RED BUTTON AND SHUT THE FUCKER DOWN**.
-> **Where the trap is:** The Sunk Cost Fallacy: "I've already put in 6 months of life and $3,000 — just a little more feature-polish and it'll take off." It won't. You'll just drown another year of life and dig into debt.
-> **Your action right now:** Write your Kill Criteria on paper in advance: a 90-day deadline, a $1,500 burned-money limit, a minimum of 2 paying clients. Deadline hits, no clients — demolish the repository, bank the experience, and move to the next idea without tears.
+> **Where the trap is:** The Sunk Cost Fallacy: "I've already put in 6 months of life and \$3,000 — just a little more feature-polish and it'll take off." It won't. You'll just drown another year of life and dig into debt.
+> **Your action right now:** Write your Kill Criteria on paper in advance: a 90-day deadline, a \$1,500 burned-money limit, a minimum of 2 paying clients. Deadline hits, no clients — demolish the repository, bank the experience, and move to the next idea without tears.
 
 > 🎧 **Operator's soundtrack epigraph:**
 > **Track:** Nine Inch Nails — "The Hand That Feeds" (Listen: 01:10–01:40)
@@ -1010,77 +1083,6 @@ The P0/P1/P2 safety framework from Chapter 1 is extrapolated onto the daily task
 ---
 
 ---
-
----
-
-#### **8.4. The Mastercard MATCH (TMF) 5-Year Processing Blacklist ([P0-104: MASTERCARD-MATCH-TMF-LOCK])**
-
-For an online enterprise, losing card processing is immediate death. When an acquirer terminates a merchant account due to excessive disputes ($>0.9\%$ on Visa VDMP or $>1.5\%$ on Mastercard) or fraud suspicions, card schemes mandate reporting to the **MATCH (Member Alert to Control High-Risk Merchants)** database, formerly known as **TMF (Terminated Merchant File)**.
-
-1. **Anatomy of the Blacklist:**
-   * MATCH records corporate data and **the personal identification of all beneficial owners and directors (Full Name, Passport, SSN/TIN, residential address)** under Reason Codes 01–14.
-   * Records persist for **exactly 5 years with zero administrative appeal or early pardon**.
-   * Global acquiring banks query MATCH during merchant underwriting; a positive hit triggers automatic rejection across 99.9% of legitimate processors worldwide.
-
-2. **Engineering Defense Protocols ([P0-104]):**
-   * Multi-acquirer routing architecture: never concentrate 100% of volume on a single Stripe account;
-   * Deploy pre-dispute networks (**Verifi RDR** for Visa and **Ethoca Consumer Clarity** for Mastercard);
-   * **Dispute Rate Containment:** Under the *Mastercard Scam Merchant Monitoring Program (SMMP 2026)*, combined chargeback and refund volumes must remain **strictly below $5\%$ of processing**, otherwise automated RDR refunds trigger fraud compliance reviews.
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ [P0-104] MASTERCARD-MATCH-TMF-LOCK (L3): MATCH listing bars principals from card       │
-│ processing globally for 5 yrs; multi-acquirer routing; deploy Verifi/Ethoca gateways;  │
-│ maintain combined refunds + chargebacks <5% to evade Mastercard SMMP enforcement.      │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-#### **8.5. The 30-Day Section 83(b) Election Statutory Cliff on Startup Equity ([P0-105: SECTION-83B-ELECTION-CLIFF])**
-
-When incorporating a US C-Corp / LLC and granting restricted stock with standard 4-year founder vesting, founders routinely walk into a catastrophic six-figure tax trap.
-
-1. **Tax Mechanics of the Breach (IRC § 83(a)):**
-   * Under US tax law, restricted unvested stock is taxed as **Ordinary Income as it vests based on the fair market value on the vesting date**.
-   * If 1,000,000 shares are worth $1,000 at formation, and the startup raises capital at a $20M valuation two years later, a vesting tranche creates $1,250,000 in phantom taxable income.
-   * The IRS assesses up to **$450,000 in real cash tax liability** on illiquid private shares, forcing personal bankruptcy.
-
-2. **The Section 83(b) Protective Valve:**
-   * Founders **must physically mail the Section 83(b) Election form to the IRS strictly within 30 calendar days of the stock grant** (*26 U.S. Code § 83(b), Treas. Reg. § 1.83-2*).
-   * The 30-day deadline is absolute: the IRS is statutory prohibited from granting 9100 relief for late filings. Filing 83(b) taxes the nominal incorporation value ($10), completely immunizing all future vesting from ordinary income taxation.
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ [P0-105] SECTION-83B-ELECTION-CLIFF (L3): Ordinary income tax assessed on startup     │
-│ vesting valuations; physically file Section 83(b) Election with IRS within 30 days     │
-│ of grant without exception (zero 9100 relief available).                               │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-#### **8.6. Symmetrical Corporate Deadlock (50/50 Deadlock) & Judicial Liquidation ([P0-109: CORPORATE-DEADLOCK-50-50])**
-
-Splitting equity 50/50 between two co-founders without formal deadlock dispute mechanisms is structural suicide.
-
-1. **Mechanics of Judicial Dissolution:**
-   * When an intractable dispute arises, the board loses quorum: payroll approvals, tax filings, and banking mandates freeze.
-   * Under Delaware law (*DGCL § 273*) and UK statutes (*Companies Act 2006 s. 994 / Insolvency Act 1986 s. 122(1)(g)*), 50/50 deadlock triggers **mandatory Judicial Dissolution**. The court appoints a liquidator (*Custodian*), bank accounts freeze, and company IP is auctioned off for pennies.
-
-2. **Engineering Deadlock Breaking ([P0-109]):**
-   * Structure an odd-numbered board with an independent industry arbitrator holding a decisive **Casting Vote**;
-   * Embed mandatory pre-emptive exit mechanisms into the Shareholders' Agreement (SHA):
-     1. **"Russian Roulette" (Shotgun Clause):** Partner A offers to buy Partner B at price $X$; Partner B must within 21 days either sell at price $X$ or buy Partner A's shares at that exact price;
-     2. **Texas Shootout:** Sealed-bid escrow auction where the highest bidder buys out the other for cash.
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ [P0-109] CORPORATE-DEADLOCK-50-50 (L3): 50/50 deadlock triggers court liquidation;     │
-│ establish odd-numbered boards (Casting Vote); bake 21-day Shotgun or Texas Shootout    │
-│ mandatory buyout clauses into the Shareholders' Agreement.                             │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
