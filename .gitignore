@@ -1,4 +1,6 @@
 node_modules/
+dist/
+*.bak
 
 # clai-helpers (auto-managed by `clai-helpers init`)
 # staging directory for atomic writes

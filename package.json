@@ -28,7 +28,14 @@
     "rollup": "^4.22.4"
   },
   "scripts": {
-    "build": "npx rollup -c"
+    "build": "python scripts/build.py build",
+    "build:docs": "python scripts/build.py build:docs",
+    "build:epub": "python scripts/build.py build:epub",
+    "build:pdf": "python scripts/build.py build:pdf",
+    "split:chapters": "python scripts/build.py split:chapters",
+    "validate:books": "python scripts/build.py validate",
+    "lint:markdown": "python scripts/build.py lint:markdown",
+    "lint:all": "python scripts/build.py lint:all"
   },
   "keywords": [
     "ebook",

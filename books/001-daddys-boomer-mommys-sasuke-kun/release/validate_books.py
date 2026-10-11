@@ -2,13 +2,15 @@ import re
 import sys
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent
+
 def validate_edition(monolith_path: str, dir_slug: str, lang: str) -> None:
     print(f"\n================ VALIDATING {lang.upper()} EDITION ({monolith_path}) ================")
-    src = Path(monolith_path)
-    assert src.exists(), f"Source file {monolith_path} does not exist"
+    src = (BASE_DIR / monolith_path).resolve()
+    assert src.exists(), f"Source file {src} does not exist"
     content = src.read_text(encoding="utf-8")
 
-    out_dir = src.parent / dir_slug
+    out_dir = (BASE_DIR / dir_slug).resolve()
     chapters_dir = out_dir / "chapters"
     front_matter_path = out_dir / "00-front-matter.md"
     index_path = out_dir / "index.md"

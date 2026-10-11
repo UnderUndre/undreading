@@ -22,11 +22,11 @@
 
 **Purpose**: Scaffolding directories, Makefile targets, and build toolchains.
 
-- [ ] T001 [SETUP] Verify and configure project directory layout per `plan.md` (`books/`, `docs/`, `templates/`, `assets/`, `dist/`)
-- [ ] T002 [SETUP] Configure root `package.json` with scripts (`build:docs`, `build:epub`, `build:pdf`, `lint:markdown`)
-- [ ] T003 [OPS] Create `Makefile` with targets `build`, `build:docs`, `build:epub`, `build:pdf`, `pack:zta-kit`, `validate`
-- [ ] T004 [OPS] Setup Typst template `templates/book-paperback-6x9.typ` with proper margins (0.125" bleed, inner gutter 0.75", outer 0.5") and open fonts
-- [ ] T005 [OPS] Setup clean CSS stylesheet `templates/epub-style.css` for EPUB 3 rendering
+- [x] T001 [SETUP] Verify and configure project directory layout per `plan.md` (`books/`, `docs/`, `templates/`, `assets/`, `dist/`, `dict/`, `scripts/`)
+- [x] T002 [SETUP] Configure root `package.json` with scripts (`build`, `build:docs`, `build:epub`, `build:pdf`, `split:chapters`, `validate:books`, `lint:markdown`, `lint:all`)
+- [x] T003 [OPS] Create `Makefile` & cross-platform `scripts/build.py` with targets `build`, `build:docs`, `build:epub`, `build:pdf`, `pack:zta-kit`, `validate`
+- [x] T004 [OPS] Setup Typst template `templates/book-paperback-6x9.typ` with proper margins (6x9 Trade Paperback, 0.875" gutter, DeviceGray 100% K, KDP barcode page)
+- [x] T005 [OPS] Setup clean CSS stylesheet `templates/epub-style.css` for EPUB 3 rendering
 
 ---
 
