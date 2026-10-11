@@ -53,7 +53,7 @@
 - [x] T014 [DOCS] Translate English Edition into Ukrainian (`en-edition/ua/daddys-boomer-mommys-sasuke-kun-en-ua-v2.4.md`) — rendering Bob's US/UK legal and cognitive blueprint into authentic Ukrainian
 
 ### Lane C: Ukrainian Edition Translations (Дядя Толя's Wartime & Digital Diia Blueprint)
-- [ ] T015 [DOCS] Translate Ukrainian Edition into Russian (`ua-edition/ru/daddys-boomer-mommys-sasuke-kun-ua-ru-v1.9.md`) — translating Uncle Tolya's wartime engineering, Diia.City, FOP 3, NBU #18, and Art. 206 CPC into Russian
+- [x] T015 [DOCS] Translate Ukrainian Edition into Russian (`ua-edition/ru/daddys-boomer-mommys-sasuke-kun-ua-ru-v1.9.md`) — translating Uncle Tolya's wartime engineering, Diia.City, FOP 3, NBU #18, and Art. 206 CPC into Russian
 - [ ] T016 [DOCS] Translate Ukrainian Edition into English (`ua-edition/en/daddys-boomer-mommys-sasuke-kun-ua-en-v1.9.md`) — translating Uncle Tolya's complete Ukrainian defense and business blueprint into English for international expats, volunteers, and researchers
 
 ---
