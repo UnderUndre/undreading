@@ -102,12 +102,13 @@ def validate_edition(monolith_path: str, dir_slug: str, lang: str) -> None:
 def main():
     editions = [
         ("ru-edition/ru/daddys-boomer-mommys-sasuke-kun-v25.2.md", "ru-edition/ru", "ru"),
+        ("ru-edition/en/daddys-boomer-mommys-sasuke-kun-ru-en-v25.2.md", "ru-edition/en", "en"),
         ("en-edition/en/daddys-boomer-mommys-sasuke-kun-en-v2.4.md", "en-edition/en", "en"),
         ("ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md", "ua-edition/ua", "ua"),
     ]
     for mon, slug, lang in editions:
         validate_edition(mon, slug, lang)
-    print("\n🎉 ALL AUDITS PASSED WITH ZERO ERRORS ACROSS ALL THREE EDITIONS! 🎉")
+    print("\n🎉 ALL AUDITS PASSED WITH ZERO ERRORS ACROSS ALL EDITIONS! 🎉")
 
 if __name__ == "__main__":
     main()
