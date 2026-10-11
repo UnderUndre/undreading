@@ -49,7 +49,7 @@
 - [x] T012 [DOCS] Translate Russian Edition into Ukrainian (`ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md`) — preserving Valera's full monolithic text with Ukrainian linguistic idiom
 
 ### Lane B: English Edition Translations (Bob's Anglo-Saxon / US / UK Blueprint)
-- [ ] T013 [DOCS] Translate English Edition into Russian (`en-edition/ru/daddys-boomer-mommys-sasuke-kun-en-ru-v2.4.md`) — preserving Bob's cynical voice, US/UK common law analysis, PACER, Departure Tax, and US SMLLC hydraulics in Russian
+- [x] T013 [DOCS] Translate English Edition into Russian (`en-edition/ru/daddys-boomer-mommys-sasuke-kun-en-ru-v2.4.md`) — preserving Bob's cynical voice, US/UK common law analysis, PACER, Departure Tax, and US SMLLC hydraulics in Russian
 - [ ] T014 [DOCS] Translate English Edition into Ukrainian (`en-edition/ua/daddys-boomer-mommys-sasuke-kun-en-ua-v2.4.md`) — rendering Bob's US/UK legal and cognitive blueprint into authentic Ukrainian
 
 ### Lane C: Ukrainian Edition Translations (Дядя Толя's Wartime & Digital Diia Blueprint)
