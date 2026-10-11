@@ -1,7 +1,7 @@
-# Tasks: 001-daddys-boomer-mommys-sasuke-kun — «Сантехника Бытия»
+# Tasks: 001-daddys-boomer-mommys-sasuke-kun — «Сантехника Бытия» (Книги и Матрица Переводов)
 
-**Input**: Design documents from `specs/001-daddys-boomer-mommys-sasuke-kun/` (`spec.md`, `plan.md`, `research.md`, `data-model.md`, `quickstart.md`)  
-**Prerequisites**: `plan.md` (complete), `spec.md` (complete)
+**Scope**: Авторский текст монографии «Сантехника Бытия», канонические оригиналы и матрица из 6 перекрёстных переводов (всего 9 изданий).  
+**Platform / Publishing Scope**: Задачи веб-ридера, генерации EPUB 3, вёрстки Typst PDF, ZTA Kit и Amazon KDP перенесены в спецификацию `specs/002-publishing-pipeline-and-platform/`.
 
 ---
 
@@ -9,142 +9,78 @@
 
 | Tag | Agent / Skill | Domain |
 | :--- | :--- | :--- |
-| `[SETUP]` | orchestrator | Scaffolding, shared configs, Makefile, toolchain setup |
-| `[DOCS]` | documentation-writer | Monograph text authoring, chapters, P0 matrix, appendices |
-| `[FE]` | frontend-specialist | VitePress / Astro Starlight web-reader, CSS themes, UI |
-| `[OPS]` | devops-engineer | Build automation, Pandoc/Typst pipelines, Cloudflare Pages deploy, packaging |
-| `[SEC]` | security-auditor | Fact-checking, zero-trust audit Level 1/2, legal compliance (NACE 62.01, W-8BEN) |
-| `[E2E]` | test-engineer | Build verification, epubcheck, PDF geometry audit, link linter |
+| `[SETUP]` | orchestrator | Scaffolding, directory hierarchy, validation toolchains |
+| `[DOCS]` | documentation-writer | Monograph authoring, cross-translations, style guards |
+| `[SEC]` | security-auditor | Fact-checking Level 1/2, legal compliance, P0 directives |
+| `[E2E]` | test-engineer | Automated chapter splitting, byte-exact concatenation audit, linting |
 
 ---
 
-## Phase 1: Setup & Build Scaffolding
+## Phase 1: Setup & Monograph Directory Architecture
 
-**Purpose**: Scaffolding directories, Makefile targets, and build toolchains.
+**Purpose**: Scaffolding directory structure and cross-platform verification tooling.
 
-- [x] T001 [SETUP] Verify and configure project directory layout per `plan.md` (`books/`, `docs/`, `templates/`, `assets/`, `dist/`, `dict/`, `scripts/`)
-- [x] T002 [SETUP] Configure root `package.json` with scripts (`build`, `build:docs`, `build:epub`, `build:pdf`, `split:chapters`, `validate:books`, `lint:markdown`, `lint:all`)
-- [x] T003 [OPS] Create `Makefile` & cross-platform `scripts/build.py` with targets `build`, `build:docs`, `build:epub`, `build:pdf`, `pack:zta-kit`, `validate`
-- [x] T004 [OPS] Setup Typst template `templates/book-paperback-6x9.typ` with proper margins (6x9 Trade Paperback, 0.875" gutter, DeviceGray 100% K, KDP barcode page)
-- [x] T005 [OPS] Setup clean CSS stylesheet `templates/epub-style.css` for EPUB 3 rendering
-
----
-
-## Phase 2: Foundational Monograph Release Volume (v18.0 → v25.2)
-
-**Purpose**: Finalization of the master volume text (`v18.0` evolved to `v25.2` master release + EN v2.4 + UA v1.9) incorporating the Remote Income Atlas, 7 Undrlla Projects, and all 110 P0-Directives.
-
-- [x] T006 [DOCS] Compile master text file `books/001-daddys-boomer-mommys-sasuke-kun/daddys-boomer-mommys-sasuke-kun-v18.0.md` on base of `v17.5.md` *(Evolved and finalized to v25.2 release)*
-- [x] T007 [DOCS] Author and integrate the **Remote Income Atlas (6 Digital Crafts & Financial Rails)** into Chapter 7.5 and Chapter 8
-- [x] T008 [DOCS] Author and integrate the **7 Undrlla Ecosystem Projects Topology** (`underoute`, `undevops`, `undreading`, `undreplanning`, `undreseller`, `unet`) into Chapter 8.2 and Chapter 12
-- [x] T009 [SEC] Perform Level 1/2 forensic verification of all P0-directives, formulas, drug dosages, and legal statutes *(expanded to 110 directives, verified across RU/EN/UA)*
-- [x] T010 [DOCS] Verify strict boundary between Undre personal biography (N=1) in Prologue and AI Valera external research in chapters
+- [x] T001 [SETUP] Verify and configure hierarchical directory layout (`ru-edition/`, `en-edition/`, `ua-edition/` with subfolders for each language)
+- [x] T002 [SETUP] Configure root `package.json` scripts (`split:chapters`, `validate:books`, `lint:all`)
+- [x] T003 [SETUP] Create `Makefile` & cross-platform `scripts/build.py` with targets `split:chapters`, `validate`, `clean`
+- [x] T004 [DOCS] Setup style guards `STYLE-GUARD-EN.md` and `STYLE-GUARD-UA.md` with persona voices and taboo calques
+- [x] T005 [E2E] Develop automated validation suite `validate_books.py` ensuring byte-for-byte concatenation integrity
 
 ---
 
-## Phase 3: User Story 1 (US1: Open-Source Static Web Reader Platform)
+## Phase 2: Foundational Master Volumes (3 Canonical Originals)
 
-**Goal**: Readers can access, read, and search the 100% open text on `undreading.com` with zero latency and responsive design.
+**Purpose**: Finalization and pressure-testing of the 3 culturally adapted master volumes.
 
-- [ ] T011 [FE] [US1] Initialize VitePress / Astro Starlight documentation site under `docs/` with chapter routing
-- [x] T012 [FE] [US1] Split master monograph into static web chapters under `release/<edition>/chapters/` with `split_chapters.py` and clean `index.md`
-- [ ] T013 [FE] [US1] Implement landing page `docs/index.md` with Executive TL;DR, 5 Echelons overview, and P0-Matrix interactive search
-- [ ] T014 [FE] [US1] Implement custom CSS theme presets («Свиток Шиноби», «Терминал Убежища 3000»)
-- [ ] T015 [FE] [US1] Add non-intrusive callout banner on web chapters: link to Supporter & ZTA Architecture Kit ($12.99 PWYW)
-- [ ] T016 [OPS] [US1] Configure Cloudflare Pages / GitHub Pages automated deployment pipeline
-
----
-
-## Phase 4: User Story 2 (US2: EPUB 3 & Amazon KDP Paperback Print Pipeline)
-
-**Goal**: Readers can read offline on e-readers (EPUB 3) or buy physical 6"x9" trade paperbacks on Amazon KDP with zero price matching issues.
-
-- [ ] T017 [OPS] [US2] Automate Pandoc compilation script for EPUB 3 generation with cover image and metadata
-- [ ] T018 [OPS] [US2] Automate Typst compilation script for Amazon KDP Paperback PDF (6"x9" Trade Paperback format)
-- [ ] T019 [E2E] [US2] Validate generated EPUB 3 via `epubcheck` (0 errors, 0 warnings)
-- [ ] T020 [E2E] [US2] Validate generated PDF geometry via `pdfinfo` and visual check against Amazon KDP print specifications
-- [ ] T021 [SEC] [US2] Verify Amazon KDP account settings: Paperback PoD only ($24.99), Payoneer US ACH payout, Form W-8BEN 0% withholding
+- [x] T006 [DOCS] Finalize Russian Master Volume `v25.2` (`ru-edition/ru/daddys-boomer-mommys-sasuke-kun-v25.2.md`) — Persona: Валера (Digital Plumber), 110 P0 valves, Remote Income Atlas, 7 Undrlla projects, post-Soviet legal hydraulics (115-FZ, 572-FZ, 127-FZ)
+- [x] T007 [DOCS] Finalize English Master Volume `en-v2.4` (`en-edition/en/daddys-boomer-mommys-sasuke-kun-en-v2.4.md`) — Persona: Bob the Gray, Anglo-Saxon US/UK dual-jurisdiction (IRC § 864, UK Non-Dom, PACER, Scottish aquamation)
+- [x] T008 [DOCS] Finalize Ukrainian Master Volume `ua-v1.9` (`ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md`) — Persona: Дядя Толя, Ukrainian wartime legal hydraulics (Diia, FOP Group 3, military levy, Art. 206 CPCU, Art. 42 CPCB)
+- [x] T009 [SEC] Level 1/2 forensic verification across all 110 P0 directives, medical dosages (aspirin 300mg, NAC, Ramack-Matthew nomogram), and statutory citations
+- [x] T010 [E2E] Eliminate structural defects: fix chapter transpositions (8.4-8.6, 10.13-10.17, 14-15, Appendix E 13-19), deduplicate 10.5.3, normalize headings to H2-H5, fix mixed alphabets
 
 ---
 
-## Phase 5: User Story 3 (US3: Supporter & ZTA Architecture Kit Packaging)
+## Phase 3: Trilingual Cross-Translation Matrix (6 Targeted Cross-Translations)
 
-**Goal**: Supporters can purchase the complete ZTA Architecture Kit & e-book bundle through Paddle MoR under NACE 62.01 with 1% tax protection.
+**Purpose**: Direct, authentic cross-translations of each regional edition into the other two languages, creating a complete 9-book master library.
 
-- [ ] T022 [OPS] [US3] Assemble ZTA Architecture Kit bundle structure in `templates/zta-kit/` (Terraform, Docker Compose, Traefik v3 SSL, Restic S3, WireGuard)
-- [ ] T023 [DOCS] [US3] Include Markdown templates in ZTA Kit: Decision Journal Type 1, 8-Point CPA LLC Checklist, Emergency 03:00 Runbook
-- [ ] T024 [OPS] [US3] Automate `make pack:zta-kit` producing `dist/zta-architecture-kit-v18.0.zip`
-- [ ] T025 [SEC] [US3] Verify Paddle MoR product descriptor: *"ZTA Security Architecture Specification & Infrastructure Implementation Kit (NACE 62.01)"*
+### Lane A: Russian Edition Translations (Валера's Post-Soviet Blueprint)
+- [ ] T011 [DOCS] Translate Russian Edition into English (`ru-edition/en/daddys-boomer-mommys-sasuke-kun-ru-en-v25.2.md`) — preserving Valera's voice, Soviet/post-Soviet institutional analysis (115-FZ, 572-FZ, housing orders), and 110 P0 valves in English
+- [ ] T012 [DOCS] Translate Russian Edition into Ukrainian (`ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md`) — preserving Valera's full monolithic text with Ukrainian linguistic idiom
 
----
+### Lane B: English Edition Translations (Bob's Anglo-Saxon / US / UK Blueprint)
+- [ ] T013 [DOCS] Translate English Edition into Russian (`en-edition/ru/daddys-boomer-mommys-sasuke-kun-en-ru-v2.4.md`) — preserving Bob's cynical voice, US/UK common law analysis, PACER, Departure Tax, and US SMLLC hydraulics in Russian
+- [ ] T014 [DOCS] Translate English Edition into Ukrainian (`en-edition/ua/daddys-boomer-mommys-sasuke-kun-en-ua-v2.4.md`) — rendering Bob's US/UK legal and cognitive blueprint into authentic Ukrainian
 
-## Phase 6: User Story 4 (US4: Expat Marketplace & Business Plans Sync)
-
-**Goal**: Align `undreseller` marketplace and `undrlla` master business plans with the released monograph.
-
-- [ ] T026 [DOCS] [US4] Update `undreplans/docs/projects/undreseller/undreseller-business-plan.md` with Expat Refurbished Marketplace model (6-month warranty, certified stock)
-- [ ] T027 [DOCS] [US4] Update `undreplans/docs/projects/undrlla/undrlla-business-plan.md` with 7-node project topology, investment tranches ($10k/$50k/$150k), and utility return model
-- [ ] T028 [SEC] [US4] Verify unit economics, margin floors (>88%), and GAAR compliance across all business plan files
+### Lane C: Ukrainian Edition Translations (Дядя Толя's Wartime & Digital Diia Blueprint)
+- [ ] T015 [DOCS] Translate Ukrainian Edition into Russian (`ua-edition/ru/daddys-boomer-mommys-sasuke-kun-ua-ru-v1.9.md`) — translating Uncle Tolya's wartime engineering, Diia.City, FOP 3, NBU #18, and Art. 206 CPC into Russian
+- [ ] T016 [DOCS] Translate Ukrainian Edition into English (`ua-edition/en/daddys-boomer-mommys-sasuke-kun-ua-en-v1.9.md`) — translating Uncle Tolya's complete Ukrainian defense and business blueprint into English for international expats, volunteers, and researchers
 
 ---
 
-## Phase 7: Polish & Release Verification (Quality Gates)
+## Phase 4: Automated Split, Quality Gates & Library Verification
 
-**Purpose**: Final end-to-end verification, stage snapshotting, and public launch.
+**Purpose**: Generate static navigation and verify mathematical integrity across all 9 editions.
 
-- [ ] T029 [E2E] Run complete build pipeline `make build` and verify all artifacts in `dist/`
-- [ ] T030 [SEC] Perform constitution compliance check against all principles
-- [ ] T031 [DOCS] Update version tags, release notes, and documentation index
-- [ ] T032 [SETUP] Tag stage snapshot `snapshot-stage plan 001-daddys-boomer-mommys-sasuke-kun` and `tasks`
+- [ ] T017 [E2E] Run `split_chapters.py` across all 9 monograph files, generating `chapters/*.md`, `00-front-matter.md`, and clean `index.md` for each edition
+- [ ] T018 [E2E] Execute comprehensive `validate_books.py` audit across all 9 books (byte-exact concatenation, P0 directive preservation, monotonicity)
+- [ ] T019 [SEC] Final terminology and constitution compliance audit for all 9 books
+- [ ] T020 [SETUP] Tag stage snapshot `snapshot-stage books-9-matrix 001-daddys-boomer-mommys-sasuke-kun`
 
 ---
 
-## Dependency Graph & Parallel Execution Lanes
+## Dependency Graph & Execution Matrix
 
 ```text
-LANE 1 (Monograph & Content - [DOCS]/[SEC]):
-  T006 (v18.0) ──► T007 (Remote Atlas) ──► T008 (7 Projects) ──► T009 (Fact-Check) ──► T010 (Demarcation)
-                                                                                               │
-LANE 2 (Tooling & Pipelines - [OPS]/[SETUP]):                                                  │
-  T001 ──► T002 ──► T003 ──► T004 (Typst) & T005 (EPUB CSS) ───────────────────────────────────┼──► T029 (Build All)
-                                                                                               │
-LANE 3 (Web Platform - [FE]):                                                                  │
-  T011 (VitePress Init) ──► T012 (Split Chapters) ──► T013 (Landing) ──► T014 (Themes) ──► T015 (Banner) ──► T016 (Deploy)
-                                                                                               │
-LANE 4 (Publishing & Commerce - [OPS]/[SEC]):                                                  │
-  T017 (EPUB Pandoc) & T018 (PDF Typst) ──► T019 (epubcheck) & T020 (pdfinfo) ──► T021 (KDP)  │
-  T022 (ZTA Bundle) ──► T023 (Templates) ──► T024 (Zip) ──► T025 (Paddle MoR)                  │
-  T026 (undreseller BP) ──► T027 (undrlla BP) ──► T028 (Unit Eco Audit)                        │
-                                                                                               ▼
-                                                                                  T030 (Constitution Check) ──► T031 ──► T032
+3 ORIGINALS (Complete [x]):
+  RU Original (v25.2) [x] ──────┬──► T011 (RU ➔ EN) ──┐
+                                └──► T012 (RU ➔ UA) ──┤
+                                                      │
+  EN Original (v2.4)  [x] ──────┬──► T013 (EN ➔ RU) ──┼──► T017 (Split All 9) ──► T018 (Validate All 9) ──► Release
+                                └──► T014 (EN ➔ UA) ──┤
+                                                      │
+  UA Original (v1.9)  [x] ──────┬──► T015 (UA ➔ RU) ──┤
+                                └──► T016 (UA ➔ EN) ──┘
 ```
 
----
-
-## Critical Path
-
-`T006` (Compile v18.0) $\to$ `T007` (Remote Atlas) $\to$ `T008` (7 Projects) $\to$ `T012` (Split Web Chapters) $\to$ `T018` (Typst PDF) $\to$ `T024` (ZTA Zip) $\to$ `T029` (Full Build) $\to$ `T030` (Gate Check) $\to$ **Public Release**
-
----
-
-## Agent Dispatch Summary
-
-- **[SETUP] Orchestrator**: T001, T002, T032 (3 tasks)
-- **[DOCS] documentation-writer**: T006, T007, T008, T010, T023, T026, T027, T031 (8 tasks)
-- **[FE] frontend-specialist**: T011, T012, T013, T014, T015 (5 tasks)
-- **[OPS] devops-engineer**: T003, T004, T005, T016, T017, T018, T022, T024 (8 tasks)
-- **[SEC] security-auditor**: T009, T021, T025, T028, T030 (5 tasks)
-- **[E2E] test-engineer**: T019, T020, T029 (3 tasks)
-
-**Total Tasks**: 32 tasks | **Suggested MVP Scope**: Phases 1, 2, 3, 4, 5
-
-### Phase 4.1: Multi-Vendor Print & Layout Production Pipeline
-
-- [ ] **T033**: Develop multi-vendor cover geometry and spine calculation engine `scripts/generate-covers.py` with parameterized targets `build:cover:kdp`, `build:cover:ingram`, and `build:cover:lulu` implementing exact vendor paper caliper and barcode clearance formulas.
-- [ ] **T034**: Implement Typst 6"x9" master book print layout `templates/book-paperback-6x9.typ` featuring dynamic gutter curve scaling (0.500"–1.000"), 100% DeviceGray color profiles, automatic recto chapter opening with blank verso suppression, ASCII diagram 68-char constraint, and repeating table headers.
-- [ ] **T035**: Build two-stage PDF/X-1a transcoding script `scripts/transcode-pdfx1a.sh` utilizing Ghostscript and `cpdf` for OutputIntent color profile embedding and layer flattening.
-- [ ] **T036**: Develop automated pre-flight quality verification script `scripts/validate-print-pdf.sh` integrating `veraPDF` ISO 15930-1 validation, deep PostScript operator color scanning (`pdftops -level2` catching vector RGB), `pdffonts` embedding audit, and `pdfinfo` boundary box checks.
-- [ ] **T037**: Implement micro-typography linter `scripts/lint-typography.py` utilizing Markdown AST parsing to enforce non-breaking space placement (`~`) strictly within `Text` AST nodes while completely ignoring `CodeBlock`, `InlineCode`, `HtmlBlock`, and `Table` nodes.
-- [ ] **T037a**: Set up multilingual spellchecking engine `scripts/lint-spelling.sh` powered by `cspell` with custom project dictionaries `dict/ru-technical.txt`, `dict/en-technical.txt`, and `dict/ua-technical.txt` covering all 300+ medical, legal, and cryptographic domain terms.
-- [ ] **T037b**: Implement AST-aware punctuation and quotation mark linter `scripts/lint-punctuation.py` enforcing Russian/Ukrainian guillemets (`«...»`), English directional quotes (`“...”`), en-dash numerical ranges (`15–30`), and eliminating double spaces/trailing whitespace.
-- [ ] **T038**: Enforce Amazon KDP factory barcode protocol by appending an explicit blank terminal Verso page to the Typst template, verifying page count stability and spine alignment across production builds.
+**Total Tasks**: 20 tasks | **Completed**: 10 tasks (50%) | **Pending**: 10 tasks (6 translations + 4 verification/release)

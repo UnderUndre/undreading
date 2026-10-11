@@ -1,7 +1,7 @@
 """Split book markdown into part files + chapter index.
 
-Usage: python split_chapters.py <book.md>
-Creates: <slug>/chapters/NN-part.md ... and <slug>/index.md
+Usage: python split_chapters.py <book.md> [out_dir]
+Creates: [out_dir]/chapters/NN-part.md ... and [out_dir]/index.md
 """
 import re
 import sys
@@ -21,17 +21,17 @@ def clean_title(line: str) -> str:
     return t.strip()
 
 
-def main(book_path: str) -> None:
-    src = Path(book_path)
+def main(book_path: str, out_path: str = None) -> None:
+    src = Path(book_path).resolve()
     lines = src.read_text(encoding="utf-8").splitlines(keepends=True)
 
     # Locate part boundaries (level-2 headings)
     starts = [i for i, l in enumerate(lines) if l.startswith("## ")]
     if not starts:
-        sys.exit("No '## ' headings found")
+        sys.exit(f"No '## ' headings found in {src}")
 
     book_slug = src.stem
-    out_dir = src.parent / book_slug
+    out_dir = Path(out_path).resolve() if out_path else src.parent
     chapters_dir = out_dir / "chapters"
     chapters_dir.mkdir(parents=True, exist_ok=True)
 
@@ -78,5 +78,9 @@ def main(book_path: str) -> None:
 
 
 if __name__ == "__main__":
-    for p in sys.argv[1:]:
-        main(p)
+    if len(sys.argv) > 2:
+        main(sys.argv[1], sys.argv[2])
+    elif len(sys.argv) > 1:
+        main(sys.argv[1])
+    else:
+        print("Usage: python split_chapters.py <book.md> [out_dir]")

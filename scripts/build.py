@@ -9,9 +9,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BOOK_DIR = ROOT / "books" / "001-daddys-boomer-mommys-sasuke-kun" / "release"
-RU_MASTER = BOOK_DIR / "daddys-boomer-mommys-sasuke-kun-v25.2.md"
-EN_MASTER = BOOK_DIR / "daddys-boomer-mommys-sasuke-kun-en-v2.4.md"
-UA_MASTER = BOOK_DIR / "daddys-boomer-mommys-sasuke-kun-ua-v1.9.md"
+RU_MASTER = BOOK_DIR / "ru-edition" / "ru" / "daddys-boomer-mommys-sasuke-kun-v25.2.md"
+EN_MASTER = BOOK_DIR / "en-edition" / "en" / "daddys-boomer-mommys-sasuke-kun-en-v2.4.md"
+UA_MASTER = BOOK_DIR / "ua-edition" / "ua" / "daddys-boomer-mommys-sasuke-kun-ua-v1.9.md"
 
 DIST_DIR = ROOT / "dist"
 SITE_DIR = DIST_DIR / "site"
@@ -49,7 +49,7 @@ def build_docs():
         return run_cmd(["npx", "vitepress", "build", "docs", "--outDir", str(SITE_DIR)], "Building VitePress docs")
     else:
         print(f"==> Populating {SITE_DIR} from release directory...")
-        ru_dist = BOOK_DIR / "daddys-boomer-mommys-sasuke-kun-v25.2"
+        ru_dist = BOOK_DIR / "ru-edition" / "ru"
         if ru_dist.exists():
             shutil.copytree(ru_dist, SITE_DIR, dirs_exist_ok=True)
             print(f"Copied release navigation to {SITE_DIR}")

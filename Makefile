@@ -1,9 +1,9 @@
 .PHONY: all build build:docs build:epub build:pdf pack:zta-kit validate lint:markdown lint:all split:chapters clean
 
 BOOK_DIR := books/001-daddys-boomer-mommys-sasuke-kun/release
-RU_MASTER := $(BOOK_DIR)/daddys-boomer-mommys-sasuke-kun-v25.2.md
-EN_MASTER := $(BOOK_DIR)/daddys-boomer-mommys-sasuke-kun-en-v2.4.md
-UA_MASTER := $(BOOK_DIR)/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md
+RU_MASTER := $(BOOK_DIR)/ru-edition/ru/daddys-boomer-mommys-sasuke-kun-v25.2.md
+EN_MASTER := $(BOOK_DIR)/en-edition/en/daddys-boomer-mommys-sasuke-kun-en-v2.4.md
+UA_MASTER := $(BOOK_DIR)/ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md
 
 DIST_DIR := dist
 SITE_DIR := $(DIST_DIR)/site

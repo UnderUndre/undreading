@@ -7,21 +7,19 @@
 
 ## Summary
 
-Монография «Сантехника Бытия» (Daddy's Boomer Mommy's Sasuke-kun) представляет собой открытую цифровую книгу-манифест и прикладную ZTA-инструкцию для человека (System Prompt for Humans). Проект реализует открытую дистрибуцию через статический веб-ридер (VitePress/Astro), физическую печать через Amazon KDP Print (Paperback 6"x9" PoD) и коммерческую продажу сопутствующего софтверного комплекта **ZTA Security Architecture Kit (NACE 62.01)** по модели Pay-What-You-Want ($12.99) через Paddle Merchant of Record.
+Монография «Сантехника Бытия» (Daddy's Boomer Mommy's Sasuke-kun) представляет собой открытую цифровую книгу-манифест и прикладную ZTA-инструкцию для человека (System Prompt for Humans). Фича `001-daddys-boomer-mommys-sasuke-kun` сосредоточена на каноническом тексте и **полной матрице из 3 региональных оригиналов и 6 перекрёстных переводов** (всего 9 книг в библиотеке).
+
+Все платформенные, веб- и сборочно-издательские задачи (VitePress/Astro веб-ридер `undreading.com`, конвейер Amazon KDP Print / Typst PDF/X-1a, коммерческий Supporter & ZTA Architecture Kit через Paddle MoR) вынесены в спецификацию [`specs/002-publishing-pipeline-and-platform/`](../002-publishing-pipeline-and-platform/).
 
 ---
 
 ## Technical Context
 
-**Language/Version**: Markdown (CommonMark/GFM), Typst (0.11+), HTML/CSS/TypeScript (Node.js 20+, VitePress / Astro Starlight), Bash/Makefile  
-**Primary Dependencies**: Pandoc 3.1+, Typst CLI (0.11+), Ghostscript, cpdf, veraPDF, VitePress/Astro, epubcheck, pdfinfo, zip  
-**Storage**: Static files (Markdown `.md`, Typst `.typ`, `.epub`, `.pdf`), Git-версионирование 3-2-1-1-0, Cloudflare CDN / GitHub Pages  
-**Testing/Validation**: Markdownlint, epubcheck, pdfinfo, internal zero-trust fact-checking audit Level 1/2  
-**Target Platform**: Web (undreading.com), E-readers (EPUB 3), Physical Print (Amazon KDP Paperback 6"x9"), GitHub Releases  
-**Project Type**: Open-Source Digital Publishing & Infrastructure Architecture Kit Platform  
-**Performance Goals**: 0 ms server latency (100% pre-rendered SSG on Cloudflare CDN), <2s сборка Typst PDF, <5s генерация EPUB через Pandoc  
-**Constraints**: 0% DRM, 0 token cost per read (pre-generated static translations), 100% NACE 62.01 compliance в Paddle MoR для сохранения 1% ставки налога в Грузии/Армении  
-**Scale/Scope**: 1 мастер-том монографии (12 глав, 11 частей, 5 приложений, 70 P0-задвижек, 220+ концептов, $\ge 120\,000$ слов, 4300+ строк), 3 формата дистрибуции (Web, EPUB, PDF), 1 ZTA Architecture Kit архив
+**Language/Version**: Markdown (CommonMark/GFM), Python 3.10+ (сплиттеры, валидация)  
+**Storage**: Иерархические каталоги `books/001-daddys-boomer-mommys-sasuke-kun/release/` (`ru-edition/`, `en-edition/`, `ua-edition/`), Git-версионирование 3-2-1-1-0  
+**Testing/Validation**: Автоматический проверочный комплекс `validate_books.py` (байт-в-байт конкатенация, проверка монотонности, дефектоскопия 110 задвижек P0)  
+**Target Matrix**: 3 региональных оригинала × 3 языка = 9 мастер-монолитов + раздельные пакеты глав `chapters/`  
+**Scale/Scope**: 9 полных томов монографии (110 P0-задвижек, $\ge 120\,000$ слов в каждом томе)  
 
 ---
 
@@ -33,7 +31,7 @@
 | :--- | :--- | :--- |
 | **I. Negative Selection (Вычитание шума)** | **PASS** | Монография не содержит абстрактного инфобизнеса; все рекомендации строго выведены из физических, липидологических и юридических пределов. |
 | **II. Zero-Trust & Level 1/2 Factuality** | **PASS** | Все дозировки (Аспирин 300 мг, Адреналин 0.3 мг, CWI), формулы (TCO, Little's Law, HOMA-IR) и статьи законов (IRC §864, 127-ФЗ, CP Испании) верифицированы. |
-| **III. Strict Authorship Demarcation** | **PASS** | Личный опыт Undre N=1 изолирован в Прологе; внешняя доказательная база синтезирована от лица системного сантехника Валеры. |
+| **III. Strict Authorship Demarcation** | **PASS** | Личный опыт Undre N=1 изолирован в Прологе; внешняя доказательная база синтезирована от лица системного сантехника Валеры / Bob / Дяди Толи. |
 | **IV. Open-Source First & Zero-DRM** | **PASS** | Отказ от проприетарного DRM в пользу открытого текста на VitePress/GitHub. Коммерциализация через Supporter Kit (NACE 62.01). |
 | **V. Immutable Versioning** | **PASS** | Каждая версия фиксируется как неизменяемый файл `daddys-boomer-mommys-sasuke-kun-v<N>.md`. Старые версии не затираются. |
 
@@ -41,52 +39,36 @@
 
 ## Project Structure
 
-### Documentation (this feature)
-
-```text
-specs/001-daddys-boomer-mommys-sasuke-kun/
-├── spec.md              # Feature specification & Clarifications log
-├── plan.md              # This file (Implementation Plan)
-├── research.md          # Phase 0 Decision Records (Publishing, Pricing, Legal)
-├── data-model.md        # Phase 1 Data Model & Schemas (Entities, Directives, SKUs)
-├── quickstart.md        # Phase 1 Build & Release Pipeline Runbook
-└── tasks.md             # Phase 2 Task Breakdown by Agents & Parallel Lanes
-```
-
 ### Source Code & Monograph Layout (`repos/undreading`)
 
 ```text
 undreading/
 ├── books/
 │   └── 001-daddys-boomer-mommys-sasuke-kun/
-│       ├── daddys-boomer-mommys-sasuke-kun-v17.5.md  # Master text (Current v17.5)
-│       └── daddys-boomer-mommys-sasuke-kun-v18.0.md  # Target release volume
-├── docs/                                             # VitePress / Astro Web Reader source
-│   ├── .vitepress/
-│   │   └── config.ts                                 # Site navigation & theme config
-│   ├── index.md                                      # Landing page & Executive TL;DR
-│   └── chapters/                                     # Web-reader chapters
-├── dict/                                             # Technical whitelist dictionaries (RU, EN, UA)
-│   ├── ru-technical.txt
-│   ├── en-technical.txt
-│   └── ua-technical.txt
-├── templates/
-│   ├── book-paperback-6x9.typ                        # Typst Print-on-Demand layout (No-Bleed 6x9, pure K)
-│   ├── epub-style.css                                # Clean CSS for EPUB 3
-│   └── zta-kit/                                      # Infrastructure templates bundle
-│       ├── engine/                                   # Compiled ztacheck CLI source (NACE 62.01)
-│       └── configs/                                  # Hardened Terraform, Docker, WireGuard configs
-├── assets/
-│   ├── cover-paperback.pdf                           # Full wrap cover (6"x9" + spine)
-│   ├── cover-ebook.jpg                               # Digital cover art
-│   └── fonts/                                        # Licensed open typography
-├── dist/                                             # Compiled artifacts (Git-ignored)
-│   ├── site/                                         # Static website build
-│   ├── sanitary-engineering-of-being.epub            # EPUB 3 release
-│   ├── sanitary-engineering-of-being-paperback.pdf   # Typst print PDF
-│   └── zta-architecture-kit-v18.0.zip               # Supporter Kit bundle
-├── Makefile                                          # Build automation
-└── package.json                                      # Node.js tooling & scripts
+│       ├── archive/                                      # Исторический архив ревизий (v10–v25.1)
+│       └── release/                                      # Релизная матрица изданий (3 оригинала + 6 переводов)
+│           ├── STYLE-GUARD-EN.md                         # Английский стилистический гайд (Bob the Gray)
+│           ├── STYLE-GUARD-UA.md                         # Украинский стилистический гайд (Дядя Толя)
+│           ├── split_chapters.py                         # Скрипт нарезки монолитов на главы
+│           ├── validate_books.py                         # Комплексный верификатор целостности
+│           │
+│           ├── ru-edition/                               # [Оригинал: Валера, постсоветский контур L1-L5]
+│           │   ├── ru/                                   # Канонический монолит v25.2, chapters/, index.md
+│           │   ├── en/                                   # Перевод RU оригинала на английский язык
+│           │   └── ua/                                   # Перевод RU оригинала на украинский язык
+│           │
+│           ├── en-edition/                               # [Оригинал: Bob the Gray, Anglo-Saxon US/UK L1-L5]
+│           │   ├── en/                                   # Канонический монолит v2.4, chapters/, index.md
+│           │   ├── ru/                                   # Перевод EN оригинала на русский язык
+│           │   └── ua/                                   # Перевод EN оригинала на украинский язык
+│           │
+│           └── ua-edition/                               # [Оригинал: Дядя Толя, украинский контур во время войны]
+│               ├── ua/                                   # Канонический монолит v1.9, chapters/, index.md
+│               ├── ru/                                   # Перевод UA оригинала на русский язык
+│               └── en/                                   # Перевод UA оригинала на английский язык
+└── specs/
+    ├── 001-daddys-boomer-mommys-sasuke-kun/              # Спецификация монографий и матрицы переводов
+    └── 002-publishing-pipeline-and-platform/             # Спецификация веб-ридера, KDP, Typst и ZTA Kit
 ```
 
 ---
