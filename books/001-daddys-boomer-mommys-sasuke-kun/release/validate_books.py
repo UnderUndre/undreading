@@ -109,10 +109,11 @@ def main():
         ("en-edition/ua/daddys-boomer-mommys-sasuke-kun-en-ua-v2.4.md", "en-edition/ua", "ua"),
         ("ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md", "ua-edition/ua", "ua"),
         ("ua-edition/ru/daddys-boomer-mommys-sasuke-kun-ua-ru-v1.9.md", "ua-edition/ru", "ru"),
+        ("ua-edition/en/daddys-boomer-mommys-sasuke-kun-ua-en-v1.9.md", "ua-edition/en", "en"),
     ]
     for mon, slug, lang in editions:
         validate_edition(mon, slug, lang)
-    print("\n🎉 ALL AUDITS PASSED WITH ZERO ERRORS ACROSS ALL EDITIONS! 🎉")
+    print("\n🎉 ALL AUDITS PASSED WITH ZERO ERRORS ACROSS ALL 9 EDITIONS! 🎉")
 
 if __name__ == "__main__":
     main()

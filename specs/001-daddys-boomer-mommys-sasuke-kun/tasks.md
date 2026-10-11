@@ -54,7 +54,7 @@
 
 ### Lane C: Ukrainian Edition Translations (Дядя Толя's Wartime & Digital Diia Blueprint)
 - [x] T015 [DOCS] Translate Ukrainian Edition into Russian (`ua-edition/ru/daddys-boomer-mommys-sasuke-kun-ua-ru-v1.9.md`) — translating Uncle Tolya's wartime engineering, Diia.City, FOP 3, NBU #18, and Art. 206 CPC into Russian
-- [ ] T016 [DOCS] Translate Ukrainian Edition into English (`ua-edition/en/daddys-boomer-mommys-sasuke-kun-ua-en-v1.9.md`) — translating Uncle Tolya's complete Ukrainian defense and business blueprint into English for international expats, volunteers, and researchers
+- [x] T016 [DOCS] Translate Ukrainian Edition into English (`ua-edition/en/daddys-boomer-mommys-sasuke-kun-ua-en-v1.9.md`) — translating Uncle Tolya's complete Ukrainian defense and business blueprint into English for international expats, volunteers, and researchers
 
 ---
 
@@ -62,9 +62,9 @@
 
 **Purpose**: Generate static navigation and verify mathematical integrity across all 9 editions.
 
-- [ ] T017 [E2E] Run `split_chapters.py` across all 9 monograph files, generating `chapters/*.md`, `00-front-matter.md`, and clean `index.md` for each edition
-- [ ] T018 [E2E] Execute comprehensive `validate_books.py` audit across all 9 books (byte-exact concatenation, P0 directive preservation, monotonicity)
-- [ ] T019 [SEC] Final terminology and constitution compliance audit for all 9 books
+- [x] T017 [E2E] Run `split_chapters.py` across all 9 monograph files, generating `chapters/*.md`, `00-front-matter.md`, and clean `index.md` for each edition
+- [x] T018 [E2E] Execute comprehensive `validate_books.py` audit across all 9 books (byte-exact concatenation, P0 directive preservation, monotonicity)
+- [x] T019 [SEC] Final terminology and constitution compliance audit for all 9 books
 - [ ] T020 [SETUP] Tag stage snapshot `snapshot-stage books-9-matrix 001-daddys-boomer-mommys-sasuke-kun`
 
 ---
