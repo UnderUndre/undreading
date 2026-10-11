@@ -46,7 +46,7 @@
 
 ### Lane A: Russian Edition Translations (Валера's Post-Soviet Blueprint)
 - [x] T011 [DOCS] Translate Russian Edition into English (`ru-edition/en/daddys-boomer-mommys-sasuke-kun-ru-en-v25.2.md`) — preserving Valera's voice, Soviet/post-Soviet institutional analysis (115-FZ, 572-FZ, housing orders), and 110 P0 valves in English
-- [ ] T012 [DOCS] Translate Russian Edition into Ukrainian (`ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md`) — preserving Valera's full monolithic text with Ukrainian linguistic idiom
+- [x] T012 [DOCS] Translate Russian Edition into Ukrainian (`ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md`) — preserving Valera's full monolithic text with Ukrainian linguistic idiom
 
 ### Lane B: English Edition Translations (Bob's Anglo-Saxon / US / UK Blueprint)
 - [ ] T013 [DOCS] Translate English Edition into Russian (`en-edition/ru/daddys-boomer-mommys-sasuke-kun-en-ru-v2.4.md`) — preserving Bob's cynical voice, US/UK common law analysis, PACER, Departure Tax, and US SMLLC hydraulics in Russian
