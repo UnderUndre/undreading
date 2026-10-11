@@ -1,9 +1,12 @@
 ---
-
 description: "Task list template for feature implementation with agent routing and dependency graph"
 ---
 
 # Tasks: [FEATURE NAME]
+
+> "Never half-ass two things. Whole-ass one thing." («Никогда не делай два дела вполсилы. Делай одно дело на всю катушку.») — Рон Свонсон (_Parks and Recreation_)  
+> "Чё там с сосисками, Чарли? — Пять минут, Турецкий. — Пять минут назад ты сказал, что будет готово через две минуты!" — _Большой куш / Snatch_ (о дейликах и эстимейтах)  
+> "Первые 90% проекта занимают 90% времени. Оставшиеся 10% — другие 90%." — The 90-90 rule
 
 **Input**: Design documents from `/specs/[###-feature-name]/`
 **Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
@@ -21,30 +24,36 @@ description: "Task list template for feature implementation with agent routing a
 
 ## Agent Tags
 
-| Tag | Agent | Domain |
-|-----|-------|--------|
-| `[SETUP]` | — (orchestrator) | Project init, shared config, scaffolding, shared dependency installs |
-| `[DB]` | database-architect | Schema, migrations, seeds, indexes |
-| `[BE]` | backend-specialist | API routes, services, middleware, server logic + unit tests |
-| `[FE]` | frontend-specialist | Components, pages, styles, client state, UI design + unit tests |
-| `[OPS]` | devops-engineer | Docker, CI/CD, infra, deploy configs |
-| `[E2E]` | test-engineer | Cross-boundary integration/E2E tests only |
-| `[SEC]` | security-auditor | Security audit, vulnerability review (conditional) |
+| Tag       | Agent                   | Domain                                                                 |
+| --------- | ----------------------- | ---------------------------------------------------------------------- |
+| `[SETUP]` | — (orchestrator)        | Project init, shared config, scaffolding, shared dependency installs   |
+| `[DB]`    | database-architect      | Schema, migrations, seeds, indexes                                     |
+| `[BE]`    | backend-specialist      | API routes, services, middleware, server logic + unit tests            |
+| `[FE]`    | frontend-specialist     | Components, pages, styles, client state, UI design + unit tests        |
+| `[OPS]`   | devops-engineer         | Docker, CI/CD, infra, deploy configs                                   |
+| `[E2E]`   | test-engineer           | Cross-boundary integration/E2E tests only                              |
+| `[SEC]`   | security-auditor        | Security audit, vulnerability review (conditional)                     |
+| `[FIN]`   | human-financial-analyst | Unit economics, acquiring, payouts, pricing models (Human Role)        |
+| `[LAW]`   | human-legal-counsel     | Terms of Service, DMCA UGC disclaimers, entity compliance (Human Role) |
+| `[MKT]`   | human-marketing-lead    | Growth campaigns, viral video demos, ProductHunt launch (Human Role)   |
+| `[QA]`    | human-qa-tester         | Manual end-to-end testing, physical device & audio checks (Human Role) |
+| `[BIZ]`   | human-bizdev-lead       | Partnerships, skin author contracts, strategic sales (Human Role)      |
 
 **Assignment rules:**
-- By file path: `models/`, `prisma/`, `migrations/` → `[DB]`; `api/`, `services/`, `middleware/` → `[BE]`; `components/`, `pages/`, `app/`, `styles/` → `[FE]`; `Dockerfile`, `.github/workflows/`, `infra/` → `[OPS]`; `tests/e2e/`, `tests/integration/` (cross-domain) → `[E2E]`
-- By description fallback: "audit"/"security review" → `[SEC]`; "create schema"/"migration" → `[DB]`
+
+- By file path: `models/`, `prisma/`, `migrations/` → `[DB]`; `api/`, `services/`, `middleware/` → `[BE]`; `components/`, `pages/`, `app/`, `styles/` → `[FE]`; `Dockerfile`, `.github/workflows/`, `infra/` → `[OPS]`; `tests/e2e/`, `tests/integration/` (cross-domain) → `[E2E]`; `docs/business-plan.md`, `financial/` → `[FIN]`; `LEGAL.md`, `TOS.md` → `[LAW]`; `marketing/`, `gtm/` → `[MKT]`; `qa/`, `tests/manual/` → `[QA]`
+- By description fallback: "audit"/"security review" → `[SEC]`; "create schema"/"migration" → `[DB]`; "financial model"/"Stripe setup" → `[FIN]`; "TOS"/"privacy policy" → `[LAW]`; "marketing video"/"launch post" → `[MKT]`; "manual test"/"physical check" → `[QA]`
 - Phase 1 tasks without clear domain → `[SETUP]`
 - `[SEC]` and `[E2E]` are conditional — only include when spec.md/plan.md requires them
 
 ## Task Statuses
 
-| Status | Meaning |
-|--------|---------|
-| `- [ ]` | Pending |
-| `- [→]` | In progress |
-| `- [X]` | Completed |
-| `- [!]` | Failed |
+| Status  | Meaning                                    |
+| ------- | ------------------------------------------ |
+| `- [ ]` | Pending                                    |
+| `- [→]` | In progress                                |
+| `- [X]` | Completed                                  |
+| `- [!]` | Failed                                     |
 | `- [~]` | Blocked (cascade from a failed dependency) |
 
 ## Path Conventions
@@ -78,6 +87,8 @@ description: "Task list template for feature implementation with agent routing a
 **Purpose**: Project initialization, basic structure, shared dependency installs
 
 - [ ] T001 [SETUP] Create project structure per implementation plan
+- [ ] T00X [OPS] Run dependency vulnerability scan and license compliance audit (npm audit / license-checker)
+- [ ] T00Y [SETUP] Spike disposal: Remove temporary prototype fixtures, spike branches, and exploratory scripts
 - [ ] T002 [SETUP] Initialize project with all shared dependencies
 - [ ] T003 [OPS] Configure linting and formatting tools
 
@@ -91,7 +102,10 @@ description: "Task list template for feature implementation with agent routing a
 
 Examples of foundational tasks (adjust based on your project):
 
-- [ ] T004 [DB] Setup database schema and migrations framework
+- [ ] T004 [DB] [Expand] Setup database schema, additive migrations, and migration framework
+- [ ] T00X [SEC] Conduct STRIDE threat analysis and implement core security boundaries (conditional)
+- [ ] T00Y [BE] Implement structured logging, request correlation IDs, and /health probes
+- [ ] T00Z [OPS] Tracer Bullet: Deploy end-to-end integration path (interface/API to DB) to staging environment
 - [ ] T005 [BE] Implement authentication/authorization framework
 - [ ] T006 [BE] Setup API routing and middleware structure
 - [ ] T007 [DB] Create base models/entities that all stories depend on
@@ -158,11 +172,16 @@ Examples of foundational tasks (adjust based on your project):
 
 **Purpose**: Improvements that affect multiple user stories
 
-- [ ] TXXX [OPS] Documentation updates in docs/
+- [ ] TXXX [OPS] Documentation and operational Runbook updates in docs/
 - [ ] TXXX [BE] Code cleanup and refactoring
 - [ ] TXXX [FE] Performance optimization across all stories
-- [ ] TXXX [E2E] Additional E2E tests in tests/e2e/
-- [ ] TXXX [SEC] Security hardening and audit
+- [ ] TXXX [E2E] Additional E2E and consumer contract tests in tests/
+- [ ] TXXX [DB] [Contract] Drop legacy deprecated columns/tables and remove dual-write adapters (Expand/Contract Phase 4)
+- [ ] TXXX [OPS] Test and verify rollback down-migration and killswitch procedure in test environment
+- [ ] TXXX [SEC] Conduct final supply chain and transitive dependency review (SBOM SPDX & license verification)
+- [ ] TXXX [SEC] Audit staging telemetry logs for zero plain-text PII or credential leakage (PCI DSS Req 10 / ISO 27001)
+- [ ] TXXX [OPS] Conduct DR GameDay simulation (node/DB outage) verifying RTO/RPO bounds and Runbook
+- [ ] TXXX [OPS] Component Disposal: decommission and archive obsolete assets/endpoints (ISO 12207 Disposal Process)
 - [ ] TXXX [OPS] Run quickstart.md validation
 
 ---
@@ -190,19 +209,20 @@ T001, T002 → T003, T004        # multi-to-multi — decompose
 
 ### Dependencies
 
-T001 → T002, T003, T004        # project setup unlocks all foundational work
-T004 → T007                    # DB framework before base models
-T007 → T012, T013              # base models unlock story-specific models
-T005 + T006 → T014             # auth + routing before service implementation
-T012 + T013 → T014             # entity models before service
-T014 → T015                    # service before endpoint
-T015 → T016                    # API endpoint before FE component (if FE calls API)
-T016 → T017                    # component before page
-T014 + T016 → T011             # E2E needs both BE and FE ready
+T001 → T002, T003, T004 # project setup unlocks all foundational work
+T004 → T007 # DB framework before base models
+T007 → T012, T013 # base models unlock story-specific models
+T005 + T006 → T014 # auth + routing before service implementation
+T012 + T013 → T014 # entity models before service
+T014 → T015 # service before endpoint
+T015 → T016 # API endpoint before FE component (if FE calls API)
+T016 → T017 # component before page
+T014 + T016 → T011 # E2E needs both BE and FE ready
 
 ### Self-Validation Checklist
 
 > The generator MUST verify before writing:
+>
 > - [ ] Every task ID in Dependencies exists in the task list above
 > - [ ] No circular dependencies (A→B→A)
 > - [ ] No orphan task IDs referenced that don't exist
@@ -232,6 +252,7 @@ graph LR
 ```
 
 > **Generator rule:** Convert each Dependency line to mermaid syntax:
+>
 > - `T001 → T002` becomes `T001 --> T002`
 > - `T001 → T002, T003` becomes `T001 --> T002` and `T001 --> T003` (separate lines)
 > - `T002 + T003 → T004` becomes `T002 & T003 --> T004`
@@ -240,29 +261,29 @@ graph LR
 
 ## Parallel Lanes
 
-| Lane | Agent Flow | Tasks | Blocked By |
-|------|-----------|-------|------------|
-| 1 | [SETUP] | T001, T002 | — |
-| 2 | [DB] | T004 → T007 → T012, T013 | T001 |
-| 3 | [BE] | T005, T006 → T008 → T014 → T015 | T001, T007 |
-| 4 | [FE] | T016 → T017 | T015 |
-| 5 | [OPS] | T003, T009 | T001 |
-| 6 | [E2E] | T011 | T014 + T016 |
-| 7 | [SEC] | TXXX | all US tasks |
+| Lane | Agent Flow | Tasks                           | Blocked By   |
+| ---- | ---------- | ------------------------------- | ------------ |
+| 1    | [SETUP]    | T001, T002                      | —            |
+| 2    | [DB]       | T004 → T007 → T012, T013        | T001         |
+| 3    | [BE]       | T005, T006 → T008 → T014 → T015 | T001, T007   |
+| 4    | [FE]       | T016 → T017                     | T015         |
+| 5    | [OPS]      | T003, T009                      | T001         |
+| 6    | [E2E]      | T011                            | T014 + T016  |
+| 7    | [SEC]      | TXXX                            | all US tasks |
 
 ---
 
 ## Agent Summary
 
-| Agent | Task Count | Can Start After |
-|-------|-----------|-----------------|
-| [SETUP] | 2 | immediately |
-| [DB] | 4 | T001 |
-| [BE] | 5 | T001 |
-| [FE] | 2 | T015 |
-| [OPS] | 3 | T001 |
-| [E2E] | 1 | T014 + T016 |
-| [SEC] | 1 | all US complete |
+| Agent   | Task Count | Can Start After |
+| ------- | ---------- | --------------- |
+| [SETUP] | 2          | immediately     |
+| [DB]    | 4          | T001            |
+| [BE]    | 5          | T001            |
+| [FE]    | 2          | T015            |
+| [OPS]   | 3          | T001            |
+| [E2E]   | 1          | T014 + T016     |
+| [SEC]   | 1          | all US complete |
 
 **Critical Path**: T001 → T004 → T007 → T012 → T014 → T015 → T016 → T017
 
@@ -272,39 +293,46 @@ graph LR
 
 > For each agent that has tasks, provide the context needed to spawn a subagent (Claude Code) or switch role context (Gemini/Copilot). The orchestrator or human uses this table to dispatch without re-reading plan.md.
 
-| Agent | Subagent | Skills | Input Context | Tasks | Files |
-|-------|----------|--------|---------------|-------|-------|
-| `[SETUP]` | — (orchestrator) | — | plan.md §structure | T001, T002 | `package.json`, `tsconfig.json`, project root |
-| `[DB]` | `database-architect` | `database-design` | data-model.md, plan.md §storage | T004, T007, T012, T013 | `src/models/`, `migrations/` |
-| `[BE]` | `backend-specialist` | `api-patterns`, `system-design-patterns` | contracts/, plan.md §tech-stack, data-model.md §entities | T005, T006, T008, T014, T015 | `src/api/`, `src/services/`, `src/middleware/` |
-| `[FE]` | `frontend-specialist` | `react-patterns`, `tailwind-patterns`, `frontend-design` | contracts/ §endpoints, plan.md §ui-framework | T016, T017 | `src/components/`, `src/pages/` |
-| `[OPS]` | `devops-engineer` | `deployment-procedures` | plan.md §infra, quickstart.md | T003, T009 | `Dockerfile`, `.github/workflows/`, `infra/` |
-| `[E2E]` | `test-engineer` | `testing-patterns`, `webapp-testing` | contracts/, quickstart.md §scenarios | T011 | `tests/e2e/`, `tests/integration/` |
-| `[SEC]` | `security-auditor` | `vulnerability-scanner` | spec.md §security, plan.md §auth | TXXX | project-wide |
+| Agent     | Subagent / Command    | Skills                                                                            | Input Context                                            | Tasks                        | Files                                          |
+| --------- | --------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------- | ---------------------------------------------- |
+| `[SETUP]` | `orchestrator`        | `architecture`, `system-design-patterns`, `app-builder`, `clean-code`             | plan.md §structure                                       | T001, T002                   | `package.json`, `tsconfig.json`, project root  |
+| `[DB]`    | `database-architect`  | `database-design`, `prisma-expert`, `clean-code`                                  | data-model.md, plan.md §storage                          | T004, T007, T012, T013       | `src/models/`, `migrations/`                   |
+| `[BE]`    | `backend-specialist`  | `api-patterns`, `nodejs-best-practices`, `typescript-expert`, `clean-code`        | contracts/, plan.md §tech-stack, data-model.md §entities | T005, T006, T008, T014, T015 | `src/api/`, `src/services/`, `src/middleware/` |
+| `[FE]`    | `frontend-specialist` | `react-patterns`, `nextjs-best-practices`, `tailwind-patterns`, `frontend-design` | contracts/ §endpoints, plan.md §ui-framework             | T016, T017                   | `src/components/`, `src/pages/`                |
+| `[OPS]`   | `devops-engineer`     | `docker-expert`, `server-management`, `deployment-procedures`, `bash-linux`       | plan.md §infra, quickstart.md                            | T003, T009                   | `Dockerfile`, `.github/workflows/`, `infra/`   |
+| `[E2E]`   | `test-engineer`       | `testing-patterns`, `webapp-testing`, `tdd-workflow`                              | contracts/, quickstart.md §scenarios                     | T011                         | `tests/e2e/`, `tests/integration/`             |
+| `[SEC]`   | `security-auditor`    | `vulnerability-scanner`, `ai-engineering-hygiene`, `code-review-checklist`        | spec.md §security, plan.md §auth                         | TXXX                         | project-wide                                   |
 
 <!--
   ============================================================================
   GENERATOR RULES for Agent Dispatch Plan:
 
   1. Only include agents that have actual tasks (skip unused conditional agents)
-  2. Skills: pull from .claude/agents/<agent>.md frontmatter `skills:` field
-  3. Input Context: list specific sections from plan.md/data-model.md/contracts/
+  2. Subagent / Command: MUST select exact command file from .claude/commands/<command>.md
+  3. Skills: MUST select exact skills from .claude/skills/<skill>/
+  4. Input Context: list specific sections from plan.md/data-model.md/contracts/
      that the agent needs — NOT the whole file
-  4. Tasks: list actual task IDs assigned to this agent
-  5. Files: list directories/files the agent will create or modify
-  6. For conditional agents ([PERF], [DOC], [DEBUG], [REFACTOR], [SEO], [MOBILE],
-     [UIUX], [PENTEST], [GAME]) — add rows only when tasks exist
+  5. Tasks: list actual task IDs assigned to this agent
+  6. Files: list directories/files the agent will create or modify
 
-  Additional conditional agent mappings (add row if tasks exist):
-  - [PERF]     → performance-optimizer  → performance-profiling
-  - [DOC]      → documentation-writer   → documentation-templates
-  - [DEBUG]    → debugger               → systematic-debugging
-  - [REFACTOR] → (general-purpose)      → legacy-code, testing-patterns
-  - [SEO]      → seo-specialist         → seo-fundamentals, geo-fundamentals
-  - [MOBILE]   → mobile-developer       → mobile-design + framework-specific
-  - [UIUX]     → (general-purpose)      → ui-ux-pro-max, frontend-design
-  - [PENTEST]  → penetration-tester     → red-team-tactics
-  - [GAME]     → game-developer         → game-development
+  Full command & skill mapping for dispatch table:
+  - [SETUP]    → orchestrator          → architecture, system-design-patterns, app-builder, clean-code
+  - [DB]       → database-architect    → database-design, prisma-expert, clean-code
+  - [BE]       → backend-specialist    → api-patterns, nodejs-best-practices, typescript-expert, clean-code, nestjs-expert
+  - [FE]       → frontend-specialist   → react-patterns, nextjs-best-practices, tailwind-patterns, frontend-design, ui-ux-pro-max
+  - [OPS]      → devops-engineer       → docker-expert, server-management, deployment-procedures, bash-linux, powershell-windows
+  - [E2E]/[QA] → test-engineer         → testing-patterns, webapp-testing, tdd-workflow
+  - [SEC]      → security-auditor      → vulnerability-scanner, ai-engineering-hygiene, code-review-checklist
+  - [PENTEST]  → penetration-tester   → red-team-tactics, vulnerability-scanner
+  - [PERF]     → performance-optimizer → performance-profiling, system-design-patterns
+  - [DOC]      → documentation-writer  → documentation-templates, knowledge-adaptation
+  - [DEBUG]    → debugger             → systematic-debugging, lint-and-validate
+  - [REFACTOR] → backend-specialist    → clean-code, ai-engineering-hygiene, testing-patterns
+  - [SEO]      → seo-specialist       → seo-fundamentals, geo-fundamentals
+  - [MOBILE]   → mobile-developer     → mobile-design, react-patterns, typescript-expert
+  - [UIUX]     → ui-ux-pro-max        → ui-ux-pro-max, frontend-design, tailwind-patterns
+  - [GAME]     → game-developer       → game-development, systems-programming
+  - [FIN]/[LAW]/[MKT]/[BIZ] → project-planner → plan-writing, semver-versioning, knowledge-adaptation, brainstorming
   ============================================================================
 -->
 

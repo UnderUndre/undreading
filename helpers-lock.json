@@ -6,7 +6,7 @@
     "ref": "latest",
     "commit": "f4c87e9099479be233309bdba55af6e3d5e7b856"
   },
-  "installedAt": "2026-10-10T04:34:13.379Z",
+  "installedAt": "2026-10-10T20:31:57.354Z",
   "targets": [
     "claude",
     "copilot",
@@ -20,8 +20,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:27f3c0a12980f405cb4ee9b88948119ec119baf842d7d354dcca01c02dbacb35",
-      "localCanonicalHash": "sha256:27f3c0a12980f405cb4ee9b88948119ec119baf842d7d354dcca01c02dbacb35"
+      "sourceCanonicalHash": "sha256:fc54222df6e77b6cbf5626cbb634c84a62d457bc35717e64327259063947579b",
+      "localCanonicalHash": "sha256:fc54222df6e77b6cbf5626cbb634c84a62d457bc35717e64327259063947579b"
     },
     {
       "path": ".claude/agents/brainstorm.md",
@@ -44,8 +44,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:78b2a8bbaa49de74f0a002318fa7ee8cc1aff4a7d8b1551967af146b5efbf799",
-      "localCanonicalHash": "sha256:78b2a8bbaa49de74f0a002318fa7ee8cc1aff4a7d8b1551967af146b5efbf799"
+      "sourceCanonicalHash": "sha256:6a3b4a0ab9d2cd98945dc4c6571408d0354d20ac2cc4afb3621c1dceb7875fca",
+      "localCanonicalHash": "sha256:6a3b4a0ab9d2cd98945dc4c6571408d0354d20ac2cc4afb3621c1dceb7875fca"
     },
     {
       "path": ".claude/agents/debugger.md",
@@ -68,8 +68,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:7ffbdb360ad5a7e0de83f0edcd220100bade55bef0043b5b116d76f9d3f73a1e",
-      "localCanonicalHash": "sha256:7ffbdb360ad5a7e0de83f0edcd220100bade55bef0043b5b116d76f9d3f73a1e"
+      "sourceCanonicalHash": "sha256:0e3266bdcbd5c680971d9e83cfebb08a946285955998920b6f9601134deb4cc2",
+      "localCanonicalHash": "sha256:0e3266bdcbd5c680971d9e83cfebb08a946285955998920b6f9601134deb4cc2"
     },
     {
       "path": ".claude/agents/documentation-writer.md",
@@ -156,8 +156,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:b08aa087ec8fac76998b9f765939e14d61b876de13e5e17db5a95cd279ffb07d",
-      "localCanonicalHash": "sha256:b08aa087ec8fac76998b9f765939e14d61b876de13e5e17db5a95cd279ffb07d"
+      "sourceCanonicalHash": "sha256:e39a4bf1b6f603f461f65d84cb43bb2ace2aef2b2dca7606642904c2fd9b0910",
+      "localCanonicalHash": "sha256:e39a4bf1b6f603f461f65d84cb43bb2ace2aef2b2dca7606642904c2fd9b0910"
     },
     {
       "path": ".claude/agents/plan.md",
@@ -188,8 +188,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:50ce6c281e29be3083262f0d99580290397248e9901650ccf0dbae0e1b16473f",
-      "localCanonicalHash": "sha256:50ce6c281e29be3083262f0d99580290397248e9901650ccf0dbae0e1b16473f"
+      "sourceCanonicalHash": "sha256:7405a2ac8b669da4eb07ebde0b56e6e1bf772446d822a2ba669dd08c9e993d77",
+      "localCanonicalHash": "sha256:7405a2ac8b669da4eb07ebde0b56e6e1bf772446d822a2ba669dd08c9e993d77"
     },
     {
       "path": ".claude/agents/seo-specialist.md",
@@ -212,8 +212,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:dd2877fe742cb3646ecd5f18be0e75b32439f5949818da14d08ce38022a1f4f6",
-      "localCanonicalHash": "sha256:dd2877fe742cb3646ecd5f18be0e75b32439f5949818da14d08ce38022a1f4f6"
+      "sourceCanonicalHash": "sha256:aeef37790bf7055bca9ecaf889aa2ddad9501050e57eff322ad93c2842a3f205",
+      "localCanonicalHash": "sha256:aeef37790bf7055bca9ecaf889aa2ddad9501050e57eff322ad93c2842a3f205"
     },
     {
       "path": ".claude/agents/test.md",
@@ -620,8 +620,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:5ee49b4da2be964e0dc5d7e4e9fd5d482d5d44784e8ab074f93c255159052948",
-      "localCanonicalHash": "sha256:5ee49b4da2be964e0dc5d7e4e9fd5d482d5d44784e8ab074f93c255159052948"
+      "sourceCanonicalHash": "sha256:4b3443c7b0cf938b6bec10d84666be00094550d5293d3d1ced6cfd9cf3de0f52",
+      "localCanonicalHash": "sha256:4b3443c7b0cf938b6bec10d84666be00094550d5293d3d1ced6cfd9cf3de0f52"
     },
     {
       "path": ".claude/commands/security-auditor.md",
@@ -644,40 +644,40 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:b2f47106105943cd0b1d928ad88f4a7d037bb088b634eb9a352da79b74d6d66e",
-      "localCanonicalHash": "sha256:b2f47106105943cd0b1d928ad88f4a7d037bb088b634eb9a352da79b74d6d66e"
+      "sourceCanonicalHash": "sha256:f8df280a68bde5d090df009fef8513b72677aa708e1f8e0972a62228212f7050",
+      "localCanonicalHash": "sha256:f8df280a68bde5d090df009fef8513b72677aa708e1f8e0972a62228212f7050"
     },
     {
       "path": ".claude/commands/speckit.business-plan-review.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:dcd4f7ea33a44fe901671125859e4ea6e5335925784fd13890666a487b12b9af",
-      "localCanonicalHash": "sha256:dcd4f7ea33a44fe901671125859e4ea6e5335925784fd13890666a487b12b9af"
+      "sourceCanonicalHash": "sha256:1822e2fa6b3afd81c5dc6fe9daf63fe85aead42c76cb148358ac175139015ed2",
+      "localCanonicalHash": "sha256:1822e2fa6b3afd81c5dc6fe9daf63fe85aead42c76cb148358ac175139015ed2"
     },
     {
       "path": ".claude/commands/speckit.business-plan.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:c64c21f7fb20c7438305fbe6206db53f6ef16c14beb5b39f5318f3ba806031e1",
-      "localCanonicalHash": "sha256:c64c21f7fb20c7438305fbe6206db53f6ef16c14beb5b39f5318f3ba806031e1"
+      "sourceCanonicalHash": "sha256:9c0143c8389b04953fc23bc47128d9bc3a12f04e0e7655a30fe77204a9fdd161",
+      "localCanonicalHash": "sha256:9c0143c8389b04953fc23bc47128d9bc3a12f04e0e7655a30fe77204a9fdd161"
     },
     {
       "path": ".claude/commands/speckit.checklist.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:9dfbef923542fe9155618f8086b71d1d2cdbbdb08c2dc9a5e2d2282d843d32ed",
-      "localCanonicalHash": "sha256:9dfbef923542fe9155618f8086b71d1d2cdbbdb08c2dc9a5e2d2282d843d32ed"
+      "sourceCanonicalHash": "sha256:6d5422d574dd10a42f2492e60b1f0adf834d8cbdc2426299fbade827357714ab",
+      "localCanonicalHash": "sha256:6d5422d574dd10a42f2492e60b1f0adf834d8cbdc2426299fbade827357714ab"
     },
     {
       "path": ".claude/commands/speckit.clarify.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:91f868c338affdc3f9fa3d18a449ead4117d1fa0f04479f65afca48867624166",
-      "localCanonicalHash": "sha256:91f868c338affdc3f9fa3d18a449ead4117d1fa0f04479f65afca48867624166"
+      "sourceCanonicalHash": "sha256:3d53e7cd4d320df0a345833d23984020e9f07464179e3dab2b98f588af3df6b9",
+      "localCanonicalHash": "sha256:3d53e7cd4d320df0a345833d23984020e9f07464179e3dab2b98f588af3df6b9"
     },
     {
       "path": ".claude/commands/speckit.constitution.md",
@@ -716,8 +716,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:22d30af2997230d0a88428260107c533817a13697adeac73fab8ebc5b2c6de83",
-      "localCanonicalHash": "sha256:22d30af2997230d0a88428260107c533817a13697adeac73fab8ebc5b2c6de83"
+      "sourceCanonicalHash": "sha256:959f660e30291a546b896d40375ca829bc76c97d064c8b6fc5e0b9bb62f4d5d8",
+      "localCanonicalHash": "sha256:959f660e30291a546b896d40375ca829bc76c97d064c8b6fc5e0b9bb62f4d5d8"
     },
     {
       "path": ".claude/commands/speckit.migrate.md",
@@ -732,24 +732,24 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:a6fe7e0869dcc3ea96ddb79e202ee421a66659bb9dfee7b3aa79e13a5b2ce069",
-      "localCanonicalHash": "sha256:a6fe7e0869dcc3ea96ddb79e202ee421a66659bb9dfee7b3aa79e13a5b2ce069"
+      "sourceCanonicalHash": "sha256:949083c4b4a9f31885de70e4d67da3375da7fcac935659e3532b5b24da784c10",
+      "localCanonicalHash": "sha256:949083c4b4a9f31885de70e4d67da3375da7fcac935659e3532b5b24da784c10"
     },
     {
       "path": ".claude/commands/speckit.retrospective.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:6e4d22e5dde4531cac2da8766aa8ae49d17a7d35cc30886a298b4937c462860b",
-      "localCanonicalHash": "sha256:6e4d22e5dde4531cac2da8766aa8ae49d17a7d35cc30886a298b4937c462860b"
+      "sourceCanonicalHash": "sha256:ba155f547bd8b04f4a858093f9df40c080064d8d2c9c427bf66612473c6afd37",
+      "localCanonicalHash": "sha256:ba155f547bd8b04f4a858093f9df40c080064d8d2c9c427bf66612473c6afd37"
     },
     {
       "path": ".claude/commands/speckit.review.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:e1960ef7b989d77a8bd755d197ed9de1876b576ec87de88d7f95953be2c3d2ed",
-      "localCanonicalHash": "sha256:e1960ef7b989d77a8bd755d197ed9de1876b576ec87de88d7f95953be2c3d2ed"
+      "sourceCanonicalHash": "sha256:5ad063e0cbfdcc5acb29f8aae8383fc8054656fa1c6f1c442a3788c57abb7a43",
+      "localCanonicalHash": "sha256:5ad063e0cbfdcc5acb29f8aae8383fc8054656fa1c6f1c442a3788c57abb7a43"
     },
     {
       "path": ".claude/commands/speckit.scope.md",
@@ -764,8 +764,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:8e0e5398b59fa3d9d341ef57191222ff9adc26e4b02017eb17bf1c4800f2cb45",
-      "localCanonicalHash": "sha256:8e0e5398b59fa3d9d341ef57191222ff9adc26e4b02017eb17bf1c4800f2cb45"
+      "sourceCanonicalHash": "sha256:222ed7c6ead003e12ff5cfb3cebe151db4d94c5951d3814eb20a59df7d592f2f",
+      "localCanonicalHash": "sha256:222ed7c6ead003e12ff5cfb3cebe151db4d94c5951d3814eb20a59df7d592f2f"
     },
     {
       "path": ".claude/commands/speckit.start.md",
@@ -788,8 +788,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:0b463ba449f4df85b97aff89caf40ba33b0c3765c0998cfce8c317200eeb4552",
-      "localCanonicalHash": "sha256:0b463ba449f4df85b97aff89caf40ba33b0c3765c0998cfce8c317200eeb4552"
+      "sourceCanonicalHash": "sha256:0eef90838dbe39bf77810ee2601f03a3ebfc14a0e03e4e8cafc1b87ead3527c5",
+      "localCanonicalHash": "sha256:0eef90838dbe39bf77810ee2601f03a3ebfc14a0e03e4e8cafc1b87ead3527c5"
     },
     {
       "path": ".claude/commands/speckit.taskstoissues.md",
@@ -2273,15 +2273,6 @@
       "status": "managed"
     },
     {
-      "path": ".github/prompts/backend-specialist.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/backend-specialist.md",
-      "renderedHash": "sha256:013a5c88e4c853b456366f48f582d75102ad0839c549eb12daf2b4b4ab2777a8",
-      "localRenderedHash": "sha256:013a5c88e4c853b456366f48f582d75102ad0839c549eb12daf2b4b4ab2777a8",
-      "status": "managed"
-    },
-    {
       "path": ".github/prompts/backup_before_ai.prompt.md",
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
@@ -2300,66 +2291,12 @@
       "status": "managed"
     },
     {
-      "path": ".github/prompts/brainstorm.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/brainstorm.md",
-      "renderedHash": "sha256:eb7fc253d827ba7fe2d607a2af0778631b1c1955daf1b2774e2c8ab849ca13e2",
-      "localRenderedHash": "sha256:eb7fc253d827ba7fe2d607a2af0778631b1c1955daf1b2774e2c8ab849ca13e2",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/bump.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/bump.md",
-      "renderedHash": "sha256:2219426cbdc19b2e0f4ce995b98305e6a8de380ac3eab62923ed8c3002255b79",
-      "localRenderedHash": "sha256:2219426cbdc19b2e0f4ce995b98305e6a8de380ac3eab62923ed8c3002255b79",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/code_review.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/code_review.md",
-      "renderedHash": "sha256:0db218f598d3510412e1568a1fd6ab2657d0222a13042e6662a6d40b02360931",
-      "localRenderedHash": "sha256:0db218f598d3510412e1568a1fd6ab2657d0222a13042e6662a6d40b02360931",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/commit.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/commit.md",
-      "renderedHash": "sha256:53e3fe28047c09d9e673f2752decef6be95b52d5b69d4d4607706013db170369",
-      "localRenderedHash": "sha256:53e3fe28047c09d9e673f2752decef6be95b52d5b69d4d4607706013db170369",
-      "status": "managed"
-    },
-    {
       "path": ".github/prompts/create.prompt.md",
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/create.md",
       "renderedHash": "sha256:b52a583862119e69adeb414cf2be45c2db8ccc6958f72c1c742b0065d900e3b4",
       "localRenderedHash": "sha256:b52a583862119e69adeb414cf2be45c2db8ccc6958f72c1c742b0065d900e3b4",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/database-architect.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/database-architect.md",
-      "renderedHash": "sha256:44bcecb8570b7ba85325ac182059f43b9efd735d5c731f6fe8a80171ae3b048c",
-      "localRenderedHash": "sha256:44bcecb8570b7ba85325ac182059f43b9efd735d5c731f6fe8a80171ae3b048c",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/debugger.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/debugger.md",
-      "renderedHash": "sha256:44b7d2fbd7d3c639663c32dca762bc9899628491a2ccf447abd0cb671411c6e7",
-      "localRenderedHash": "sha256:44b7d2fbd7d3c639663c32dca762bc9899628491a2ccf447abd0cb671411c6e7",
       "status": "managed"
     },
     {
@@ -2381,15 +2318,6 @@
       "status": "managed"
     },
     {
-      "path": ".github/prompts/devops-engineer.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/devops-engineer.md",
-      "renderedHash": "sha256:74919e5b396612a82dd86c0aec6ac3912f12f5cbed363d198b842c704ed5e308",
-      "localRenderedHash": "sha256:74919e5b396612a82dd86c0aec6ac3912f12f5cbed363d198b842c704ed5e308",
-      "status": "managed"
-    },
-    {
       "path": ".github/prompts/diff.prompt.md",
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
@@ -2405,15 +2333,6 @@
       "fromSource": ".claude/commands/dispatch.md",
       "renderedHash": "sha256:dcfd02a73ec68c9f952c6a05fa4769421f5bbdd2be940ebca2c6a47adfb822ae",
       "localRenderedHash": "sha256:dcfd02a73ec68c9f952c6a05fa4769421f5bbdd2be940ebca2c6a47adfb822ae",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/documentation-writer.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/documentation-writer.md",
-      "renderedHash": "sha256:29b628c6b69ed585a18f6995244c25a7aff6eb3f6475e40f0dbd250fc1848af8",
-      "localRenderedHash": "sha256:29b628c6b69ed585a18f6995244c25a7aff6eb3f6475e40f0dbd250fc1848af8",
       "status": "managed"
     },
     {
@@ -2459,24 +2378,6 @@
       "fromSource": ".claude/commands/fix-types.md",
       "renderedHash": "sha256:4a6436ebbccd90f994480ec85c1624244a584cc30dc140fa88752ba43a76daf2",
       "localRenderedHash": "sha256:4a6436ebbccd90f994480ec85c1624244a584cc30dc140fa88752ba43a76daf2",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/fix_from_review.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/fix_from_review.md",
-      "renderedHash": "sha256:49d5d8f7efea715fd6ac24851e1c384f8ca0f82fbebc490c3af6fe5d034a59a6",
-      "localRenderedHash": "sha256:49d5d8f7efea715fd6ac24851e1c384f8ca0f82fbebc490c3af6fe5d034a59a6",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/frontend-specialist.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/frontend-specialist.md",
-      "renderedHash": "sha256:9412c4f4bb07f1870f169c25c45b8b4304aa6d6d0a8003f85906eb8afdac1aa7",
-      "localRenderedHash": "sha256:9412c4f4bb07f1870f169c25c45b8b4304aa6d6d0a8003f85906eb8afdac1aa7",
       "status": "managed"
     },
     {
@@ -2597,15 +2498,6 @@
       "status": "managed"
     },
     {
-      "path": ".github/prompts/performance-optimizer.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/performance-optimizer.md",
-      "renderedHash": "sha256:855fc7342b03c501f923323b803208cc71ecd687ba9b7d552170cf2eb3e41247",
-      "localRenderedHash": "sha256:855fc7342b03c501f923323b803208cc71ecd687ba9b7d552170cf2eb3e41247",
-      "status": "managed"
-    },
-    {
       "path": ".github/prompts/plan.prompt.md",
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
@@ -2700,26 +2592,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/review_and_merge_pr.md",
-      "renderedHash": "sha256:2854d9bee8dc2bc5d38161296c14475163dff89c979fb0c69caead6b03a3d93c",
-      "localRenderedHash": "sha256:2854d9bee8dc2bc5d38161296c14475163dff89c979fb0c69caead6b03a3d93c",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/security-auditor.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/security-auditor.md",
-      "renderedHash": "sha256:68de01eb9e61d6ecd842514ae7fbab3e3bca7cb38fd07d03cc19284ec9ea1f10",
-      "localRenderedHash": "sha256:68de01eb9e61d6ecd842514ae7fbab3e3bca7cb38fd07d03cc19284ec9ea1f10",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/seo-specialist.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/seo-specialist.md",
-      "renderedHash": "sha256:732281e78fa5a96ec29157b02230204f91ca322d1309401d1266c727f9b8853a",
-      "localRenderedHash": "sha256:732281e78fa5a96ec29157b02230204f91ca322d1309401d1266c727f9b8853a",
+      "renderedHash": "sha256:36e692bcb2828f813aa0391edbc0776b9536cf60b66a10a29ce034bb37fe9272",
+      "localRenderedHash": "sha256:36e692bcb2828f813aa0391edbc0776b9536cf60b66a10a29ce034bb37fe9272",
       "status": "managed"
     },
     {
@@ -2727,8 +2601,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.analyze.md",
-      "renderedHash": "sha256:52594e67926d4668f95100a5e4868b0f3d3aaa4677327fe15ce68b6a694c38d1",
-      "localRenderedHash": "sha256:52594e67926d4668f95100a5e4868b0f3d3aaa4677327fe15ce68b6a694c38d1",
+      "renderedHash": "sha256:fbb66034910a5d95b2b7f3f76e7f3b324d758985b8a74cf9254def7ce4b96856",
+      "localRenderedHash": "sha256:fbb66034910a5d95b2b7f3f76e7f3b324d758985b8a74cf9254def7ce4b96856",
       "status": "managed"
     },
     {
@@ -2736,8 +2610,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.business-plan-review.md",
-      "renderedHash": "sha256:add90b8d09902c184c99d875b2b25830305b61e13fd560ee652fbcd31d4a2a9e",
-      "localRenderedHash": "sha256:add90b8d09902c184c99d875b2b25830305b61e13fd560ee652fbcd31d4a2a9e",
+      "renderedHash": "sha256:4ae6896561ff946ceb6f3d38fe9096cfb39ebcbdf0fef540a7902457bf78a4e4",
+      "localRenderedHash": "sha256:4ae6896561ff946ceb6f3d38fe9096cfb39ebcbdf0fef540a7902457bf78a4e4",
       "status": "managed"
     },
     {
@@ -2745,8 +2619,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.business-plan.md",
-      "renderedHash": "sha256:2492a472a6abbe2774642b5965708539915a85d34fa3bd59420fd9169ee0189e",
-      "localRenderedHash": "sha256:2492a472a6abbe2774642b5965708539915a85d34fa3bd59420fd9169ee0189e",
+      "renderedHash": "sha256:cfdd1cd360ae380acadd9bdb30eb92d52608fe627329f293e3f8691e948bc1cb",
+      "localRenderedHash": "sha256:cfdd1cd360ae380acadd9bdb30eb92d52608fe627329f293e3f8691e948bc1cb",
       "status": "managed"
     },
     {
@@ -2754,8 +2628,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.checklist.md",
-      "renderedHash": "sha256:ba3a464f83109b9a32a933e5758a050e7425be58bbffccaefd7006522106782d",
-      "localRenderedHash": "sha256:ba3a464f83109b9a32a933e5758a050e7425be58bbffccaefd7006522106782d",
+      "renderedHash": "sha256:1701da99b9be4f3a5c579b8bd2c3f515ce93101721ce2bdd46a12007bb4345e5",
+      "localRenderedHash": "sha256:1701da99b9be4f3a5c579b8bd2c3f515ce93101721ce2bdd46a12007bb4345e5",
       "status": "managed"
     },
     {
@@ -2763,8 +2637,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.clarify.md",
-      "renderedHash": "sha256:fa0a169621409f7f43e88e8802c73af5d27aee9977db4674495cbefe6e93c8fe",
-      "localRenderedHash": "sha256:fa0a169621409f7f43e88e8802c73af5d27aee9977db4674495cbefe6e93c8fe",
+      "renderedHash": "sha256:16e169747c5cc02a6c4dbe761e77dd6260a820fdef4f63dd7f21dfb74e10cdd7",
+      "localRenderedHash": "sha256:16e169747c5cc02a6c4dbe761e77dd6260a820fdef4f63dd7f21dfb74e10cdd7",
       "status": "managed"
     },
     {
@@ -2808,8 +2682,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.implement.md",
-      "renderedHash": "sha256:ad14af10c72094ceba4ab54e04940fafc4f253c6f5c876ded662afa0a34723b1",
-      "localRenderedHash": "sha256:ad14af10c72094ceba4ab54e04940fafc4f253c6f5c876ded662afa0a34723b1",
+      "renderedHash": "sha256:e5de212c4ca8ad741db53b4971b16932355cd565fdd1f2462fcf587516dcbbe2",
+      "localRenderedHash": "sha256:e5de212c4ca8ad741db53b4971b16932355cd565fdd1f2462fcf587516dcbbe2",
       "status": "managed"
     },
     {
@@ -2826,8 +2700,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.plan.md",
-      "renderedHash": "sha256:5574040a5dda09b6aa12c70235853b0f3faf0c52ea4c57f21db038b0cf737a7a",
-      "localRenderedHash": "sha256:5574040a5dda09b6aa12c70235853b0f3faf0c52ea4c57f21db038b0cf737a7a",
+      "renderedHash": "sha256:16e7e8228056ce5ad7b4251d6fc229bc1d22dba3d7a1fcc81e79b8954eea7eed",
+      "localRenderedHash": "sha256:16e7e8228056ce5ad7b4251d6fc229bc1d22dba3d7a1fcc81e79b8954eea7eed",
       "status": "managed"
     },
     {
@@ -2835,8 +2709,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.retrospective.md",
-      "renderedHash": "sha256:2e4460462ed7eb8930a1947dbe3784fef2ac90f6dc70f28686bbcb307d1d94fe",
-      "localRenderedHash": "sha256:2e4460462ed7eb8930a1947dbe3784fef2ac90f6dc70f28686bbcb307d1d94fe",
+      "renderedHash": "sha256:3b662b6aa12b68a62eb7c84244738e7fc7058ac21a86b53f0d9554ca968cd752",
+      "localRenderedHash": "sha256:3b662b6aa12b68a62eb7c84244738e7fc7058ac21a86b53f0d9554ca968cd752",
       "status": "managed"
     },
     {
@@ -2844,8 +2718,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.review.md",
-      "renderedHash": "sha256:1d80382264a4b6cb84d169865fcc321b95e386ef039d66cdb41d1cb42592cb80",
-      "localRenderedHash": "sha256:1d80382264a4b6cb84d169865fcc321b95e386ef039d66cdb41d1cb42592cb80",
+      "renderedHash": "sha256:17d680c75437287404217915694b99516912c0ec4fca55ab21d910b0597cdaf1",
+      "localRenderedHash": "sha256:17d680c75437287404217915694b99516912c0ec4fca55ab21d910b0597cdaf1",
       "status": "managed"
     },
     {
@@ -2862,8 +2736,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.specify.md",
-      "renderedHash": "sha256:69115d2279bc223ffda5073625ca8948d5dd79cd90b1ee87c0acbb1f6634468a",
-      "localRenderedHash": "sha256:69115d2279bc223ffda5073625ca8948d5dd79cd90b1ee87c0acbb1f6634468a",
+      "renderedHash": "sha256:2e3aff7f401e4d0e74cbee7bdbdcd61ed34f2cba6937378e40b2ac99d84e64ce",
+      "localRenderedHash": "sha256:2e3aff7f401e4d0e74cbee7bdbdcd61ed34f2cba6937378e40b2ac99d84e64ce",
       "status": "managed"
     },
     {
@@ -2889,8 +2763,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/speckit.tasks.md",
-      "renderedHash": "sha256:a16c280124d334c7c7485769a170fce001d55db319a78ab76235e0d99f72be02",
-      "localRenderedHash": "sha256:a16c280124d334c7c7485769a170fce001d55db319a78ab76235e0d99f72be02",
+      "renderedHash": "sha256:e7356219f21323f0d6aa34e9b487dc3910a78681aeff4cc9a5b52176bceada1c",
+      "localRenderedHash": "sha256:e7356219f21323f0d6aa34e9b487dc3910a78681aeff4cc9a5b52176bceada1c",
       "status": "managed"
     },
     {
@@ -2912,30 +2786,12 @@
       "status": "managed"
     },
     {
-      "path": ".github/prompts/test-engineer.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/test-engineer.md",
-      "renderedHash": "sha256:1d246944ec2c3ebe3a9ded673d1131b5147e1792f9eae685b75c59e3fab427fc",
-      "localRenderedHash": "sha256:1d246944ec2c3ebe3a9ded673d1131b5147e1792f9eae685b75c59e3fab427fc",
-      "status": "managed"
-    },
-    {
       "path": ".github/prompts/test.prompt.md",
       "kind": "generated",
       "transformer": "claude-to-copilot-prompt",
       "fromSource": ".claude/commands/test.md",
       "renderedHash": "sha256:3c6a51cb7e12e51bc0fb52de659f5c908a32aafbf7cda109141e475db614cc3c",
       "localRenderedHash": "sha256:3c6a51cb7e12e51bc0fb52de659f5c908a32aafbf7cda109141e475db614cc3c",
-      "status": "managed"
-    },
-    {
-      "path": ".github/prompts/ui-ux-pro-max.prompt.md",
-      "kind": "generated",
-      "transformer": "claude-to-copilot-prompt",
-      "fromSource": ".claude/commands/ui-ux-pro-max.md",
-      "renderedHash": "sha256:ceb7226152727f3edd2127f0ce9ae657c7106638a7f23b9ac80f2989a3cddf07",
-      "localRenderedHash": "sha256:ceb7226152727f3edd2127f0ce9ae657c7106638a7f23b9ac80f2989a3cddf07",
       "status": "managed"
     },
     {
@@ -2961,8 +2817,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-instructions",
       "fromSource": ".claude/agents/backend-specialist.md",
-      "renderedHash": "sha256:89b2c34d3c3de9e4fe1cef46166d309e0250f8bd7abcb4fcdb6bbb0789af05ab",
-      "localRenderedHash": "sha256:89b2c34d3c3de9e4fe1cef46166d309e0250f8bd7abcb4fcdb6bbb0789af05ab",
+      "renderedHash": "sha256:b2e294de2b72d69546a4d1b4acfb90b91b4a0f6cd8b2771cf1659a07d53e88c0",
+      "localRenderedHash": "sha256:b2e294de2b72d69546a4d1b4acfb90b91b4a0f6cd8b2771cf1659a07d53e88c0",
       "status": "managed"
     },
     {
@@ -2988,8 +2844,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-instructions",
       "fromSource": ".claude/agents/database-architect.md",
-      "renderedHash": "sha256:3690745c99af67e27acee6f6fc0a51ff3ef63775db8bb1fc86acd18279261677",
-      "localRenderedHash": "sha256:3690745c99af67e27acee6f6fc0a51ff3ef63775db8bb1fc86acd18279261677",
+      "renderedHash": "sha256:1bb00a5d7345a3348e366fd78df6b2279a420f45cbcdd67fd715fca025a38c70",
+      "localRenderedHash": "sha256:1bb00a5d7345a3348e366fd78df6b2279a420f45cbcdd67fd715fca025a38c70",
       "status": "managed"
     },
     {
@@ -3015,8 +2871,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-instructions",
       "fromSource": ".claude/agents/devops-engineer.md",
-      "renderedHash": "sha256:45501113d531330c26fc9994c6c7cc166883e21d1e1e00fa1311af94c533e5de",
-      "localRenderedHash": "sha256:45501113d531330c26fc9994c6c7cc166883e21d1e1e00fa1311af94c533e5de",
+      "renderedHash": "sha256:cb8af19f1d7897423763b2835e9efd010f7e7c128f06825bbf60efd2c4377ea9",
+      "localRenderedHash": "sha256:cb8af19f1d7897423763b2835e9efd010f7e7c128f06825bbf60efd2c4377ea9",
       "status": "managed"
     },
     {
@@ -3114,8 +2970,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-instructions",
       "fromSource": ".claude/agents/performance-optimizer.md",
-      "renderedHash": "sha256:a0fa15eff1df1596e84761e1d62ee45c08ee6fb9e6de2d3c568646d99e7a0f0e",
-      "localRenderedHash": "sha256:a0fa15eff1df1596e84761e1d62ee45c08ee6fb9e6de2d3c568646d99e7a0f0e",
+      "renderedHash": "sha256:e7f8cee0a92f611145f8319aa12d09eeb86e867ed45072c242fd9cf96bb19be3",
+      "localRenderedHash": "sha256:e7f8cee0a92f611145f8319aa12d09eeb86e867ed45072c242fd9cf96bb19be3",
       "status": "managed"
     },
     {
@@ -3150,8 +3006,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-instructions",
       "fromSource": ".claude/agents/security-auditor.md",
-      "renderedHash": "sha256:ad7937bb9b736658cf313cff9e88985b98ceac26ca83f09495e7dcc2d08067f1",
-      "localRenderedHash": "sha256:ad7937bb9b736658cf313cff9e88985b98ceac26ca83f09495e7dcc2d08067f1",
+      "renderedHash": "sha256:bfae3518e21af0f0c7c9296f2dc364780cd4419c9285f776ba80c8690e18d018",
+      "localRenderedHash": "sha256:bfae3518e21af0f0c7c9296f2dc364780cd4419c9285f776ba80c8690e18d018",
       "status": "managed"
     },
     {
@@ -3177,8 +3033,8 @@
       "kind": "generated",
       "transformer": "claude-to-copilot-instructions",
       "fromSource": ".claude/agents/test-engineer.md",
-      "renderedHash": "sha256:86d568985ff5c49868b1bd69586efc8d1ce14017f6970c63f6fe5e9f64eac800",
-      "localRenderedHash": "sha256:86d568985ff5c49868b1bd69586efc8d1ce14017f6970c63f6fe5e9f64eac800",
+      "renderedHash": "sha256:f92196a5e10a679264ca47d2811ffcb7a75df64e3a945f5995ec5221e3c48594",
+      "localRenderedHash": "sha256:f92196a5e10a679264ca47d2811ffcb7a75df64e3a945f5995ec5221e3c48594",
       "status": "managed"
     },
     {
@@ -3218,15 +3074,6 @@
       "status": "managed"
     },
     {
-      "path": ".gemini/commands/backend-specialist.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/backend-specialist.md",
-      "renderedHash": "sha256:77c6696ec89eaffb44a4df6b2d28d486a982a874899ebf3c80ebab810eff83be",
-      "localRenderedHash": "sha256:77c6696ec89eaffb44a4df6b2d28d486a982a874899ebf3c80ebab810eff83be",
-      "status": "managed"
-    },
-    {
       "path": ".gemini/commands/backup_before_ai.toml",
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
@@ -3245,66 +3092,12 @@
       "status": "managed"
     },
     {
-      "path": ".gemini/commands/brainstorm.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/brainstorm.md",
-      "renderedHash": "sha256:4001640e9c16d9829190cf9c5acf5802febb51424a45c8a6d3bd4b37f8c9530e",
-      "localRenderedHash": "sha256:4001640e9c16d9829190cf9c5acf5802febb51424a45c8a6d3bd4b37f8c9530e",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/bump.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/bump.md",
-      "renderedHash": "sha256:672e599589547cf2c41dffd8b6301d12a9ceb78633d56b5f4158f9fa6203e31b",
-      "localRenderedHash": "sha256:672e599589547cf2c41dffd8b6301d12a9ceb78633d56b5f4158f9fa6203e31b",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/code_review.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/code_review.md",
-      "renderedHash": "sha256:427555bd543aeab6949d71752f771c7797c8f7355b83537ecdb84efa206c80cb",
-      "localRenderedHash": "sha256:427555bd543aeab6949d71752f771c7797c8f7355b83537ecdb84efa206c80cb",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/commit.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/commit.md",
-      "renderedHash": "sha256:0b5cbbd3b6568e61b30c8fd78a9d9a9260f9f46240ff6d678e76b26477c02c33",
-      "localRenderedHash": "sha256:0b5cbbd3b6568e61b30c8fd78a9d9a9260f9f46240ff6d678e76b26477c02c33",
-      "status": "managed"
-    },
-    {
       "path": ".gemini/commands/create.toml",
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/create.md",
       "renderedHash": "sha256:55cae8af32c848ae9fe8453cdb5de5022da312b938c7f294e52557340dc4236c",
       "localRenderedHash": "sha256:55cae8af32c848ae9fe8453cdb5de5022da312b938c7f294e52557340dc4236c",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/database-architect.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/database-architect.md",
-      "renderedHash": "sha256:f0aaf2b6175b8daf0ce32206b57a275ebcb3bd867b5fbac74db899b5eb8d1f12",
-      "localRenderedHash": "sha256:f0aaf2b6175b8daf0ce32206b57a275ebcb3bd867b5fbac74db899b5eb8d1f12",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/debugger.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/debugger.md",
-      "renderedHash": "sha256:db4d4c98655f60670ec5779982ea577907ac5f0137d16a4310b7950cddfa2e38",
-      "localRenderedHash": "sha256:db4d4c98655f60670ec5779982ea577907ac5f0137d16a4310b7950cddfa2e38",
       "status": "managed"
     },
     {
@@ -3326,15 +3119,6 @@
       "status": "managed"
     },
     {
-      "path": ".gemini/commands/devops-engineer.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/devops-engineer.md",
-      "renderedHash": "sha256:a2a1bf458aa06302cca3da2256b7069ad3c5b5d1833b34fb8b258a289408ec2d",
-      "localRenderedHash": "sha256:a2a1bf458aa06302cca3da2256b7069ad3c5b5d1833b34fb8b258a289408ec2d",
-      "status": "managed"
-    },
-    {
       "path": ".gemini/commands/diff.toml",
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
@@ -3350,15 +3134,6 @@
       "fromSource": ".claude/commands/dispatch.md",
       "renderedHash": "sha256:5306b275a92a17987afa7cea604a6d2628c90a573a5cfb4a2feb3ef5addbab6e",
       "localRenderedHash": "sha256:5306b275a92a17987afa7cea604a6d2628c90a573a5cfb4a2feb3ef5addbab6e",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/documentation-writer.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/documentation-writer.md",
-      "renderedHash": "sha256:c44a22dff206b2b7b27fde398634f262e4f1339eaadeec2728b3307bfa39209b",
-      "localRenderedHash": "sha256:c44a22dff206b2b7b27fde398634f262e4f1339eaadeec2728b3307bfa39209b",
       "status": "managed"
     },
     {
@@ -3404,24 +3179,6 @@
       "fromSource": ".claude/commands/fix-types.md",
       "renderedHash": "sha256:76e0679db4b865a8b896ec847aa7905025b1c30420207c52225fa40636e7c422",
       "localRenderedHash": "sha256:76e0679db4b865a8b896ec847aa7905025b1c30420207c52225fa40636e7c422",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/fix_from_review.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/fix_from_review.md",
-      "renderedHash": "sha256:543da81ba4de6850bac075ad43939c4fbb66d456f95edfa15846e1143125ea28",
-      "localRenderedHash": "sha256:543da81ba4de6850bac075ad43939c4fbb66d456f95edfa15846e1143125ea28",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/frontend-specialist.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/frontend-specialist.md",
-      "renderedHash": "sha256:0459d38bc305535f52904379958407e8fd8711834be80bb90c6a39621fb8259a",
-      "localRenderedHash": "sha256:0459d38bc305535f52904379958407e8fd8711834be80bb90c6a39621fb8259a",
       "status": "managed"
     },
     {
@@ -3542,15 +3299,6 @@
       "status": "managed"
     },
     {
-      "path": ".gemini/commands/performance-optimizer.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/performance-optimizer.md",
-      "renderedHash": "sha256:9eea6f002e86b8a338164b0643082bf1106619b1cd6d11f6abbc1dfddb44ff10",
-      "localRenderedHash": "sha256:9eea6f002e86b8a338164b0643082bf1106619b1cd6d11f6abbc1dfddb44ff10",
-      "status": "managed"
-    },
-    {
       "path": ".gemini/commands/plan.toml",
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
@@ -3645,26 +3393,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/review_and_merge_pr.md",
-      "renderedHash": "sha256:1f9ed484e9ff87ef9f7c658966cda61dc1765d3a6fd302d691b6f24edc8c2c1d",
-      "localRenderedHash": "sha256:1f9ed484e9ff87ef9f7c658966cda61dc1765d3a6fd302d691b6f24edc8c2c1d",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/security-auditor.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/security-auditor.md",
-      "renderedHash": "sha256:6baeb07e0bc4695d4ac10b4d44976e730d447e2a411c75193ea6b182ce7362bb",
-      "localRenderedHash": "sha256:6baeb07e0bc4695d4ac10b4d44976e730d447e2a411c75193ea6b182ce7362bb",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/seo-specialist.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/seo-specialist.md",
-      "renderedHash": "sha256:a3f443b4ff7750b6d374f8116bff4b04ec504021b3efa1eaad560a192366e3d8",
-      "localRenderedHash": "sha256:a3f443b4ff7750b6d374f8116bff4b04ec504021b3efa1eaad560a192366e3d8",
+      "renderedHash": "sha256:542f48c46b6dfb6ab586e95717e3b9e65608f5e19bc4a3b4ba091db13c31fe63",
+      "localRenderedHash": "sha256:542f48c46b6dfb6ab586e95717e3b9e65608f5e19bc4a3b4ba091db13c31fe63",
       "status": "managed"
     },
     {
@@ -3672,8 +3402,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.analyze.md",
-      "renderedHash": "sha256:d6a9c70ab9095d7b024633100682efbe151c7963da672031e6f58ae8550b982a",
-      "localRenderedHash": "sha256:d6a9c70ab9095d7b024633100682efbe151c7963da672031e6f58ae8550b982a",
+      "renderedHash": "sha256:6adab098833d1389e35b9d24c1f38616049c262232bcbc2e862d389ba9a63a28",
+      "localRenderedHash": "sha256:6adab098833d1389e35b9d24c1f38616049c262232bcbc2e862d389ba9a63a28",
       "status": "managed"
     },
     {
@@ -3681,8 +3411,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.business-plan-review.md",
-      "renderedHash": "sha256:df62b7ca17b9f86b9947c606333556954565fd95a3370edbab40ce4fd6d4a3f0",
-      "localRenderedHash": "sha256:df62b7ca17b9f86b9947c606333556954565fd95a3370edbab40ce4fd6d4a3f0",
+      "renderedHash": "sha256:664c2c8e72b0e752b5adfad94c2316e360f8437a58f042239cf483109db54961",
+      "localRenderedHash": "sha256:664c2c8e72b0e752b5adfad94c2316e360f8437a58f042239cf483109db54961",
       "status": "managed"
     },
     {
@@ -3690,8 +3420,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.business-plan.md",
-      "renderedHash": "sha256:6bc349407d99ae6f666cd79d7682e440266f208dd03e6abcc3fd82a3009065b1",
-      "localRenderedHash": "sha256:6bc349407d99ae6f666cd79d7682e440266f208dd03e6abcc3fd82a3009065b1",
+      "renderedHash": "sha256:881acdc9de2e68cbef45c112df1fe1111e3aedff14532bd89e7b543272880ec0",
+      "localRenderedHash": "sha256:881acdc9de2e68cbef45c112df1fe1111e3aedff14532bd89e7b543272880ec0",
       "status": "managed"
     },
     {
@@ -3699,8 +3429,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.checklist.md",
-      "renderedHash": "sha256:30141e5bfb0b0d51ab8404e9f46eb80438d250274920b30f32926d1aae38e4cf",
-      "localRenderedHash": "sha256:30141e5bfb0b0d51ab8404e9f46eb80438d250274920b30f32926d1aae38e4cf",
+      "renderedHash": "sha256:390b05153057f8bfaf65f91c34a1a78a7484dde5a92641aec4827af7037fda17",
+      "localRenderedHash": "sha256:390b05153057f8bfaf65f91c34a1a78a7484dde5a92641aec4827af7037fda17",
       "status": "managed"
     },
     {
@@ -3708,8 +3438,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.clarify.md",
-      "renderedHash": "sha256:dccc3c19ed5b303ec29f54fab0643779ce53989ec1a2c2b3e17ba0f4c135f865",
-      "localRenderedHash": "sha256:dccc3c19ed5b303ec29f54fab0643779ce53989ec1a2c2b3e17ba0f4c135f865",
+      "renderedHash": "sha256:e7d5dc23f601fface674350e141720a4e23911c5962573372ca77c3cc412f5a0",
+      "localRenderedHash": "sha256:e7d5dc23f601fface674350e141720a4e23911c5962573372ca77c3cc412f5a0",
       "status": "managed"
     },
     {
@@ -3753,8 +3483,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.implement.md",
-      "renderedHash": "sha256:eddd34bbbfb1268b9463daee270f6f7f1b7341b1d9877445d9a5b8f2e9b5343d",
-      "localRenderedHash": "sha256:eddd34bbbfb1268b9463daee270f6f7f1b7341b1d9877445d9a5b8f2e9b5343d",
+      "renderedHash": "sha256:6f68d2f87f131c2a749ff9b319d488c9512091678f59cc68e19a543fe0cadd35",
+      "localRenderedHash": "sha256:6f68d2f87f131c2a749ff9b319d488c9512091678f59cc68e19a543fe0cadd35",
       "status": "managed"
     },
     {
@@ -3771,8 +3501,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.plan.md",
-      "renderedHash": "sha256:e49bef36078545eef64d10c2ceda23e318273206f2de48576dbb09d57f9c344c",
-      "localRenderedHash": "sha256:e49bef36078545eef64d10c2ceda23e318273206f2de48576dbb09d57f9c344c",
+      "renderedHash": "sha256:4543aec9a128a5a026014a5243b8fa65b49efce1d2e4440a800297bf4d57add8",
+      "localRenderedHash": "sha256:4543aec9a128a5a026014a5243b8fa65b49efce1d2e4440a800297bf4d57add8",
       "status": "managed"
     },
     {
@@ -3780,8 +3510,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.retrospective.md",
-      "renderedHash": "sha256:211c290f4ff51c63974264d9670e158e36324535337ff72e9be5e16c2ed767a4",
-      "localRenderedHash": "sha256:211c290f4ff51c63974264d9670e158e36324535337ff72e9be5e16c2ed767a4",
+      "renderedHash": "sha256:22a22183add44d0ea6ebbd5513b4a453bc429f6c4c57f801094c410bb4f59315",
+      "localRenderedHash": "sha256:22a22183add44d0ea6ebbd5513b4a453bc429f6c4c57f801094c410bb4f59315",
       "status": "managed"
     },
     {
@@ -3789,8 +3519,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.review.md",
-      "renderedHash": "sha256:05f647b2ced39af72586986458c5957c20d6aff44946fc0b312410093fda35b2",
-      "localRenderedHash": "sha256:05f647b2ced39af72586986458c5957c20d6aff44946fc0b312410093fda35b2",
+      "renderedHash": "sha256:328777d90402edc8a154ec93d75b6793feaff7425f14fcd3d999a8e845cafba1",
+      "localRenderedHash": "sha256:328777d90402edc8a154ec93d75b6793feaff7425f14fcd3d999a8e845cafba1",
       "status": "managed"
     },
     {
@@ -3807,8 +3537,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.specify.md",
-      "renderedHash": "sha256:07000c58825f45a731575749f1b6a9538be88ce831d70a7404eb72b814da737b",
-      "localRenderedHash": "sha256:07000c58825f45a731575749f1b6a9538be88ce831d70a7404eb72b814da737b",
+      "renderedHash": "sha256:0285faa455a03987ed8a775d6d7bf24158e2894ef257f78ea4c314725a79a91b",
+      "localRenderedHash": "sha256:0285faa455a03987ed8a775d6d7bf24158e2894ef257f78ea4c314725a79a91b",
       "status": "managed"
     },
     {
@@ -3834,8 +3564,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/speckit.tasks.md",
-      "renderedHash": "sha256:7bd8d43d4e0d87b8b8df382bf2b287f0a5bf7fa8d95a75f084a95279aa283ce4",
-      "localRenderedHash": "sha256:7bd8d43d4e0d87b8b8df382bf2b287f0a5bf7fa8d95a75f084a95279aa283ce4",
+      "renderedHash": "sha256:99015c58b4ead8d973a10a45e8086a4b3314feec5602ac97f0f327dd45806e09",
+      "localRenderedHash": "sha256:99015c58b4ead8d973a10a45e8086a4b3314feec5602ac97f0f327dd45806e09",
       "status": "managed"
     },
     {
@@ -3857,30 +3587,12 @@
       "status": "managed"
     },
     {
-      "path": ".gemini/commands/test-engineer.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/test-engineer.md",
-      "renderedHash": "sha256:a10dc65bce89005d5088ab02ee047bd5459ec9d2604ef74bd0cc7df7e7dcaf91",
-      "localRenderedHash": "sha256:a10dc65bce89005d5088ab02ee047bd5459ec9d2604ef74bd0cc7df7e7dcaf91",
-      "status": "managed"
-    },
-    {
       "path": ".gemini/commands/test.toml",
       "kind": "generated",
       "transformer": "claude-to-gemini-command",
       "fromSource": ".claude/commands/test.md",
       "renderedHash": "sha256:e21a2dddbbab15af116eebb824addd20f1943dbceb5927379cfa3df56ddf0650",
       "localRenderedHash": "sha256:e21a2dddbbab15af116eebb824addd20f1943dbceb5927379cfa3df56ddf0650",
-      "status": "managed"
-    },
-    {
-      "path": ".gemini/commands/ui-ux-pro-max.toml",
-      "kind": "generated",
-      "transformer": "claude-to-gemini-command",
-      "fromSource": ".claude/commands/ui-ux-pro-max.md",
-      "renderedHash": "sha256:b95ccaf995324750813ed52da94d9b0034153db8824db49d2df0f7626562e454",
-      "localRenderedHash": "sha256:b95ccaf995324750813ed52da94d9b0034153db8824db49d2df0f7626562e454",
       "status": "managed"
     },
     {
@@ -3906,8 +3618,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-agent",
       "fromSource": ".claude/agents/backend-specialist.md",
-      "renderedHash": "sha256:7f5f89c412ebeb128b183f79ce7c5774587382f715e879cc060fdd734034adc8",
-      "localRenderedHash": "sha256:7f5f89c412ebeb128b183f79ce7c5774587382f715e879cc060fdd734034adc8",
+      "renderedHash": "sha256:607bc1cd69d4aa2d7c71970864357d3cd7704f5735e75a6140d7cff631f59c25",
+      "localRenderedHash": "sha256:607bc1cd69d4aa2d7c71970864357d3cd7704f5735e75a6140d7cff631f59c25",
       "status": "managed"
     },
     {
@@ -3933,8 +3645,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-agent",
       "fromSource": ".claude/agents/database-architect.md",
-      "renderedHash": "sha256:2993793974a3fbccd9268bc9a1e127b20acd3d8887d1b227e096a1a61ad0bb0b",
-      "localRenderedHash": "sha256:2993793974a3fbccd9268bc9a1e127b20acd3d8887d1b227e096a1a61ad0bb0b",
+      "renderedHash": "sha256:86c5105f39f70272ea3b8fd881efa9e34713a1a3d229f27573a63d799d971f1c",
+      "localRenderedHash": "sha256:86c5105f39f70272ea3b8fd881efa9e34713a1a3d229f27573a63d799d971f1c",
       "status": "managed"
     },
     {
@@ -3960,8 +3672,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-agent",
       "fromSource": ".claude/agents/devops-engineer.md",
-      "renderedHash": "sha256:a3b3bbcaafc8b207fa3ee49523a568ba3ad4b256a029bc4958fd880109b521aa",
-      "localRenderedHash": "sha256:a3b3bbcaafc8b207fa3ee49523a568ba3ad4b256a029bc4958fd880109b521aa",
+      "renderedHash": "sha256:d53f40b5b764eb4aa60a86a6ecff4b6dd605dbfe74896a24c35274fea27ee629",
+      "localRenderedHash": "sha256:d53f40b5b764eb4aa60a86a6ecff4b6dd605dbfe74896a24c35274fea27ee629",
       "status": "managed"
     },
     {
@@ -4059,8 +3771,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-agent",
       "fromSource": ".claude/agents/performance-optimizer.md",
-      "renderedHash": "sha256:8e5906266d13206d5a3810e937593d229567e973ff8e32dcd32753eeb1a33532",
-      "localRenderedHash": "sha256:8e5906266d13206d5a3810e937593d229567e973ff8e32dcd32753eeb1a33532",
+      "renderedHash": "sha256:f3eab9abf1a121271babc5e117e99cdbfedc82de935acc14d98a5b6d90387ccd",
+      "localRenderedHash": "sha256:f3eab9abf1a121271babc5e117e99cdbfedc82de935acc14d98a5b6d90387ccd",
       "status": "managed"
     },
     {
@@ -4095,8 +3807,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-agent",
       "fromSource": ".claude/agents/security-auditor.md",
-      "renderedHash": "sha256:c59fe3bae51b8988e47a71ea2af74bf4debb055155aec4acb7af3d09abdb5228",
-      "localRenderedHash": "sha256:c59fe3bae51b8988e47a71ea2af74bf4debb055155aec4acb7af3d09abdb5228",
+      "renderedHash": "sha256:5dda6099d023055d1cddb47f472e6dc1a8f6d6e5b442df4886abb0bb92b446a3",
+      "localRenderedHash": "sha256:5dda6099d023055d1cddb47f472e6dc1a8f6d6e5b442df4886abb0bb92b446a3",
       "status": "managed"
     },
     {
@@ -4122,8 +3834,8 @@
       "kind": "generated",
       "transformer": "claude-to-gemini-agent",
       "fromSource": ".claude/agents/test-engineer.md",
-      "renderedHash": "sha256:f97f1b5c4b717a9bde1235d65ed23d211ae1ef05878ab096d37fb6ea19a191b2",
-      "localRenderedHash": "sha256:f97f1b5c4b717a9bde1235d65ed23d211ae1ef05878ab096d37fb6ea19a191b2",
+      "renderedHash": "sha256:509e2c9ca01944e802e0e2d1092610b05747a87199f1eb5b175307015775c699",
+      "localRenderedHash": "sha256:509e2c9ca01944e802e0e2d1092610b05747a87199f1eb5b175307015775c699",
       "status": "managed"
     },
     {
@@ -4166,16 +3878,16 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:1d22b449fc66bf28328b3d159b73f0e33c24121bf65e9cf4cff82cbbfa5d78d6",
-      "localCanonicalHash": "sha256:1d22b449fc66bf28328b3d159b73f0e33c24121bf65e9cf4cff82cbbfa5d78d6"
+      "sourceCanonicalHash": "sha256:96255995c6827c447d03a87550e0d9d87337b0ea5b8c26cf7a4223d19dce2208",
+      "localCanonicalHash": "sha256:96255995c6827c447d03a87550e0d9d87337b0ea5b8c26cf7a4223d19dce2208"
     },
     {
       "path": ".specify/checklists/data-migration.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:8ddd00e0ba7f6cd8248093eb13b9fddb240b6388b8bf113990dfe892bba42854",
-      "localCanonicalHash": "sha256:8ddd00e0ba7f6cd8248093eb13b9fddb240b6388b8bf113990dfe892bba42854"
+      "sourceCanonicalHash": "sha256:d10914dd03e3d801a165eb95766f287e187551391bcd5ef2a45d6e08343a8857",
+      "localCanonicalHash": "sha256:d10914dd03e3d801a165eb95766f287e187551391bcd5ef2a45d6e08343a8857"
     },
     {
       "path": ".specify/checklists/i18n.md",
@@ -4190,40 +3902,40 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:c2ef2b0f39be4b103f111128a22fc0a602d439e12023ad783dd05dddfd37dc64",
-      "localCanonicalHash": "sha256:c2ef2b0f39be4b103f111128a22fc0a602d439e12023ad783dd05dddfd37dc64"
+      "sourceCanonicalHash": "sha256:cb47fe20a0bb3327436a71abe777a51d3f2bf3e28c8ea4e6da83bf84ab99db21",
+      "localCanonicalHash": "sha256:cb47fe20a0bb3327436a71abe777a51d3f2bf3e28c8ea4e6da83bf84ab99db21"
     },
     {
       "path": ".specify/checklists/security.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:160e87f73e762fe80581a736fe91b42605749c8d8e8056e436b2b3f3d3231136",
-      "localCanonicalHash": "sha256:160e87f73e762fe80581a736fe91b42605749c8d8e8056e436b2b3f3d3231136"
+      "sourceCanonicalHash": "sha256:1b5780c627edd1954eb1a1cb1aa8dd6d7a5cac0c07c57d795ba63693e0a47a0d",
+      "localCanonicalHash": "sha256:1b5780c627edd1954eb1a1cb1aa8dd6d7a5cac0c07c57d795ba63693e0a47a0d"
     },
     {
       "path": ".specify/memory/constitution.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:fd016725d4b7482bc063da1cd9619bc86acd0fbb9152e3510c8de11f37c68b1b",
-      "localCanonicalHash": "sha256:fd016725d4b7482bc063da1cd9619bc86acd0fbb9152e3510c8de11f37c68b1b"
+      "sourceCanonicalHash": "sha256:1c9ade1bd0d626fd4684f5b90c67b9be351a2d7ca11ce1e84f63c03ee04b2c7c",
+      "localCanonicalHash": "sha256:1c9ade1bd0d626fd4684f5b90c67b9be351a2d7ca11ce1e84f63c03ee04b2c7c"
     },
     {
       "path": ".specify/scripts/bash/check-prerequisites.sh",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:b8784dd9bdce038955ac69955074c819229b1619931a094ec3810f7394722eba",
-      "localCanonicalHash": "sha256:b8784dd9bdce038955ac69955074c819229b1619931a094ec3810f7394722eba"
+      "sourceCanonicalHash": "sha256:887ef51d498bfe073949c63b1755eaeda0cb9fa4a34878f157f58a8ac5c7e908",
+      "localCanonicalHash": "sha256:887ef51d498bfe073949c63b1755eaeda0cb9fa4a34878f157f58a8ac5c7e908"
     },
     {
       "path": ".specify/scripts/bash/common.sh",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:e58fe0b681121b172ddb79e68bec8171511430de71e5899c56ec4d77c256e1f3",
-      "localCanonicalHash": "sha256:e58fe0b681121b172ddb79e68bec8171511430de71e5899c56ec4d77c256e1f3"
+      "sourceCanonicalHash": "sha256:44992e8329fa09622b723b33e5fe730d6c985e2778406acdb11ae625ca3918c4",
+      "localCanonicalHash": "sha256:44992e8329fa09622b723b33e5fe730d6c985e2778406acdb11ae625ca3918c4"
     },
     {
       "path": ".specify/scripts/bash/create-new-feature.sh",
@@ -4246,8 +3958,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:7ad7930934f10196abf78cf1599eb6801892a63173f3302b9d4ae4b6330ad649",
-      "localCanonicalHash": "sha256:7ad7930934f10196abf78cf1599eb6801892a63173f3302b9d4ae4b6330ad649"
+      "sourceCanonicalHash": "sha256:ce238238ad35cab4f72d7719312410b365c39d5c12c69d1fabcd2556feaf8118",
+      "localCanonicalHash": "sha256:ce238238ad35cab4f72d7719312410b365c39d5c12c69d1fabcd2556feaf8118"
     },
     {
       "path": ".specify/scripts/bash/update-agent-context.sh",
@@ -4262,16 +3974,16 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:bcb37804b0757c37799b65a9321c1d3fb7b7ddcab6703c55c5b9a142c9166bf1",
-      "localCanonicalHash": "sha256:bcb37804b0757c37799b65a9321c1d3fb7b7ddcab6703c55c5b9a142c9166bf1"
+      "sourceCanonicalHash": "sha256:93925d198b760dbf277354686d67e3607bab641965210e3272bdb118e755580f",
+      "localCanonicalHash": "sha256:93925d198b760dbf277354686d67e3607bab641965210e3272bdb118e755580f"
     },
     {
       "path": ".specify/scripts/powershell/common.ps1",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:f17e2c63b17bf4f96ec0613910601dd42a123e91cf2c58c38111eb0a65f4f410",
-      "localCanonicalHash": "sha256:f17e2c63b17bf4f96ec0613910601dd42a123e91cf2c58c38111eb0a65f4f410"
+      "sourceCanonicalHash": "sha256:61e8f5e9512a6b084a9445d789aab3442a5f76237aaef02013ca688fc82d2bd4",
+      "localCanonicalHash": "sha256:61e8f5e9512a6b084a9445d789aab3442a5f76237aaef02013ca688fc82d2bd4"
     },
     {
       "path": ".specify/scripts/powershell/create-new-feature.ps1",
@@ -4294,8 +4006,8 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:f87f9e286c57c33d329bd6f340ceff3a774604b6ce14e0825f77d77b043f7215",
-      "localCanonicalHash": "sha256:f87f9e286c57c33d329bd6f340ceff3a774604b6ce14e0825f77d77b043f7215"
+      "sourceCanonicalHash": "sha256:6c67daab26e0c1037a5098dfddb42a711f185d4ea62ad47710cb6ee10872cb57",
+      "localCanonicalHash": "sha256:6c67daab26e0c1037a5098dfddb42a711f185d4ea62ad47710cb6ee10872cb57"
     },
     {
       "path": ".specify/scripts/powershell/update-agent-context.ps1",
@@ -4318,48 +4030,566 @@
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:f8a7258d520889b3c8e2288ba6936395f65328736134476417e80e8edf054bdd",
-      "localCanonicalHash": "sha256:f8a7258d520889b3c8e2288ba6936395f65328736134476417e80e8edf054bdd"
+      "sourceCanonicalHash": "sha256:f01396e2671cd28931fb97dab272acf096f86db0a7eeb7471a46ed28f3826ffe",
+      "localCanonicalHash": "sha256:f01396e2671cd28931fb97dab272acf096f86db0a7eeb7471a46ed28f3826ffe"
     },
     {
       "path": ".specify/templates/checklist-template.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:312eee8291dfa984b21f95ddd0ca778e7a1f0b3a64bfc470d79762a3e3f5d7b8",
-      "localCanonicalHash": "sha256:312eee8291dfa984b21f95ddd0ca778e7a1f0b3a64bfc470d79762a3e3f5d7b8"
+      "sourceCanonicalHash": "sha256:a243cfd2809db02bf91d19ef372bae018f41b962c8f47ec0a793caf070f3d10e",
+      "localCanonicalHash": "sha256:a243cfd2809db02bf91d19ef372bae018f41b962c8f47ec0a793caf070f3d10e"
     },
     {
       "path": ".specify/templates/constitution-template.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:ce7549540fa45543cca797a150201d868e64495fdff39dc38246fb17bd4024b3",
-      "localCanonicalHash": "sha256:ce7549540fa45543cca797a150201d868e64495fdff39dc38246fb17bd4024b3"
+      "sourceCanonicalHash": "sha256:05c754e9764e21e2b8e2baa97167247e0261b4483855943065650fb09f73a051",
+      "localCanonicalHash": "sha256:05c754e9764e21e2b8e2baa97167247e0261b4483855943065650fb09f73a051"
     },
     {
       "path": ".specify/templates/plan-template.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:873e84b226fe3d24afe28046931b20db9bbb9210366428dc958a515349ed6e68",
-      "localCanonicalHash": "sha256:873e84b226fe3d24afe28046931b20db9bbb9210366428dc958a515349ed6e68"
+      "sourceCanonicalHash": "sha256:38d0a1a8fa235f5476aa93f5d3a24b88039d20cbdfb5c35c7e32b812511ee4c2",
+      "localCanonicalHash": "sha256:38d0a1a8fa235f5476aa93f5d3a24b88039d20cbdfb5c35c7e32b812511ee4c2"
     },
     {
       "path": ".specify/templates/spec-template.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:bd529dda1cccaaee34fce4355100c5bfcf56d3811698c6aa7dbab5f6b5476c60",
-      "localCanonicalHash": "sha256:bd529dda1cccaaee34fce4355100c5bfcf56d3811698c6aa7dbab5f6b5476c60"
+      "sourceCanonicalHash": "sha256:454794a110bc177f1504624b75510d62d27348981b345a621acd615af549dd63",
+      "localCanonicalHash": "sha256:454794a110bc177f1504624b75510d62d27348981b345a621acd615af549dd63"
     },
     {
       "path": ".specify/templates/tasks-template.md",
       "kind": "source",
       "class": "core",
       "status": "managed",
-      "sourceCanonicalHash": "sha256:bee0a491e3e0173088013043c99f6ba73ecd27cfb4097c94e18432721ef7e1cd",
-      "localCanonicalHash": "sha256:bee0a491e3e0173088013043c99f6ba73ecd27cfb4097c94e18432721ef7e1cd"
+      "sourceCanonicalHash": "sha256:1ea29f6bdf582977158c035f76c6ad4b8e931fb9d26624803fb67138d0dd8a78",
+      "localCanonicalHash": "sha256:1ea29f6bdf582977158c035f76c6ad4b8e931fb9d26624803fb67138d0dd8a78"
+    },
+    {
+      "path": ".claude/commands/speckit.backend-specialist.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:58e779d37ed8af431c7b1dcc597d8fd6e3d2862cb0b08b2519fa65ce3f56bac3",
+      "localCanonicalHash": "sha256:58e779d37ed8af431c7b1dcc597d8fd6e3d2862cb0b08b2519fa65ce3f56bac3"
+    },
+    {
+      "path": ".claude/commands/speckit.brainstorm.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:2d4880e43bdf96c5bfc8d37e00c366698ab00dacda72977b7dc026ddc7a7b67c",
+      "localCanonicalHash": "sha256:2d4880e43bdf96c5bfc8d37e00c366698ab00dacda72977b7dc026ddc7a7b67c"
+    },
+    {
+      "path": ".claude/commands/speckit.bump.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:bce05674080d8d0116c91678277e142406ccbbf7f79a8404e5131b56ab88119b",
+      "localCanonicalHash": "sha256:bce05674080d8d0116c91678277e142406ccbbf7f79a8404e5131b56ab88119b"
+    },
+    {
+      "path": ".claude/commands/speckit.business-audit-review.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:7bc53cde5e20c7802cb0e93b692039e43e91bcbf47aaa4d9b52d1ce52f698bed",
+      "localCanonicalHash": "sha256:7bc53cde5e20c7802cb0e93b692039e43e91bcbf47aaa4d9b52d1ce52f698bed"
+    },
+    {
+      "path": ".claude/commands/speckit.business-audit.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:8062fc746288fa26a8d04a0840b4d2b633921e0f3c3e1bf764bcb3c1d62136cc",
+      "localCanonicalHash": "sha256:8062fc746288fa26a8d04a0840b4d2b633921e0f3c3e1bf764bcb3c1d62136cc"
+    },
+    {
+      "path": ".claude/commands/speckit.code-review.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:b00c178308db80b55c6c261c26963c31d60635a9d136c82e2030342b5ce339f7",
+      "localCanonicalHash": "sha256:b00c178308db80b55c6c261c26963c31d60635a9d136c82e2030342b5ce339f7"
+    },
+    {
+      "path": ".claude/commands/speckit.commit.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:23b48698c4f3a8a6da3fa691956b0ce78592bc8372716e45d0eaf3f2d6eb1528",
+      "localCanonicalHash": "sha256:23b48698c4f3a8a6da3fa691956b0ce78592bc8372716e45d0eaf3f2d6eb1528"
+    },
+    {
+      "path": ".claude/commands/speckit.database-architect.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:089cfb2f8d80fe83fa7f0c034cafc7c9e62f410528710c6ecac70a8da6868124",
+      "localCanonicalHash": "sha256:089cfb2f8d80fe83fa7f0c034cafc7c9e62f410528710c6ecac70a8da6868124"
+    },
+    {
+      "path": ".claude/commands/speckit.debugger.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:3aafd9ca4234b822a756cae82e813c5375488e7823013dd40fa37fd83cb48033",
+      "localCanonicalHash": "sha256:3aafd9ca4234b822a756cae82e813c5375488e7823013dd40fa37fd83cb48033"
+    },
+    {
+      "path": ".claude/commands/speckit.devops-engineer.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:d6894b9a0d800a4bdc9e74f2000d7b18521a2f8a8b5e6b6b9ca6c207bd8cc225",
+      "localCanonicalHash": "sha256:d6894b9a0d800a4bdc9e74f2000d7b18521a2f8a8b5e6b6b9ca6c207bd8cc225"
+    },
+    {
+      "path": ".claude/commands/speckit.documentation-writer.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:6261c3975610a4e9a289aa8abcff8aa9b528158eb2c88aee502e8ab1d4a543a6",
+      "localCanonicalHash": "sha256:6261c3975610a4e9a289aa8abcff8aa9b528158eb2c88aee502e8ab1d4a543a6"
+    },
+    {
+      "path": ".claude/commands/speckit.fix-review.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:d62591a4f616b9341c8a48e79a6b82b0b0099f7a27ef206188e1a7db14fe57ac",
+      "localCanonicalHash": "sha256:d62591a4f616b9341c8a48e79a6b82b0b0099f7a27ef206188e1a7db14fe57ac"
+    },
+    {
+      "path": ".claude/commands/speckit.frontend-specialist.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:6adfb83e412c071510923106b72db1b19535d49ccf8ed08d04ed257249efc22e",
+      "localCanonicalHash": "sha256:6adfb83e412c071510923106b72db1b19535d49ccf8ed08d04ed257249efc22e"
+    },
+    {
+      "path": ".claude/commands/speckit.internet-research.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:0bbd59f492b86a5c190c132da45bf2296f6a7752b6235ad1050ddbcb1760145e",
+      "localCanonicalHash": "sha256:0bbd59f492b86a5c190c132da45bf2296f6a7752b6235ad1050ddbcb1760145e"
+    },
+    {
+      "path": ".claude/commands/speckit.performance-optimizer.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:20d294c9451e90d1d582b51d4b732c3206a0837a2fc036a3575a576a409dd8b0",
+      "localCanonicalHash": "sha256:20d294c9451e90d1d582b51d4b732c3206a0837a2fc036a3575a576a409dd8b0"
+    },
+    {
+      "path": ".claude/commands/speckit.security-auditor.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:88e18675d27a25dbc2842e1820a310cb9cb9382067a53535aeae1146a528eaa9",
+      "localCanonicalHash": "sha256:88e18675d27a25dbc2842e1820a310cb9cb9382067a53535aeae1146a528eaa9"
+    },
+    {
+      "path": ".claude/commands/speckit.seo-specialist.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:0a274c527d25e70e5358d327639377c5f960558d403931b9f60d0de13a88cc3d",
+      "localCanonicalHash": "sha256:0a274c527d25e70e5358d327639377c5f960558d403931b9f60d0de13a88cc3d"
+    },
+    {
+      "path": ".claude/commands/speckit.test-engineer.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:2fbae2770b1121632d789db3a12b84e73c503b31904aef7e440f4bc7d3a1d19e",
+      "localCanonicalHash": "sha256:2fbae2770b1121632d789db3a12b84e73c503b31904aef7e440f4bc7d3a1d19e"
+    },
+    {
+      "path": ".claude/commands/speckit.ui-ux-pro-max.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:7840d94bb94eea7ae0b6dc320b243b826ed9db80cd72251aed74d4f71e19fac1",
+      "localCanonicalHash": "sha256:7840d94bb94eea7ae0b6dc320b243b826ed9db80cd72251aed74d4f71e19fac1"
+    },
+    {
+      "path": ".github/prompts/speckit.backend-specialist.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.backend-specialist.md",
+      "renderedHash": "sha256:8b1513dbbbdc54850486f5c2339e60987675bc7dae77ab4f0f0df2c1ac9b436f",
+      "localRenderedHash": "sha256:8b1513dbbbdc54850486f5c2339e60987675bc7dae77ab4f0f0df2c1ac9b436f",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.brainstorm.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.brainstorm.md",
+      "renderedHash": "sha256:9f138bf8e49160e6ece04aebfe1d3af8aa50691a2746f100377223ad795f7fa3",
+      "localRenderedHash": "sha256:9f138bf8e49160e6ece04aebfe1d3af8aa50691a2746f100377223ad795f7fa3",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.bump.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.bump.md",
+      "renderedHash": "sha256:710da9de0279d330dcb7da4f1e496f75e7d8ab8eea0f1719037c342b3461833a",
+      "localRenderedHash": "sha256:710da9de0279d330dcb7da4f1e496f75e7d8ab8eea0f1719037c342b3461833a",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.business-audit-review.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.business-audit-review.md",
+      "renderedHash": "sha256:a05d84ff8ec5d1e5ff5974ed9646b064d05d0f2c86e9410fe161b8bcca9b3503",
+      "localRenderedHash": "sha256:a05d84ff8ec5d1e5ff5974ed9646b064d05d0f2c86e9410fe161b8bcca9b3503",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.business-audit.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.business-audit.md",
+      "renderedHash": "sha256:89f5caec47c5f1e9c7baa31b8d2dfd9055208c43adde074e70838c83bb7d171f",
+      "localRenderedHash": "sha256:89f5caec47c5f1e9c7baa31b8d2dfd9055208c43adde074e70838c83bb7d171f",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.code-review.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.code-review.md",
+      "renderedHash": "sha256:76f80e2cf030afe0f37c1576d2713f6356b4b046890bc3182a89361851104f86",
+      "localRenderedHash": "sha256:76f80e2cf030afe0f37c1576d2713f6356b4b046890bc3182a89361851104f86",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.commit.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.commit.md",
+      "renderedHash": "sha256:7c82dea4d58f73833efe5470b05a0be61e30669db9c334e950ed0d0dcc5f6924",
+      "localRenderedHash": "sha256:7c82dea4d58f73833efe5470b05a0be61e30669db9c334e950ed0d0dcc5f6924",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.database-architect.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.database-architect.md",
+      "renderedHash": "sha256:12426062016484713e7dff38db96b1bc193627ff3de421d23c60d451dfeb6c35",
+      "localRenderedHash": "sha256:12426062016484713e7dff38db96b1bc193627ff3de421d23c60d451dfeb6c35",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.debugger.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.debugger.md",
+      "renderedHash": "sha256:bed94b29b70876cacfc463922759564d00bd08d9584af05c1c3479c70678a05d",
+      "localRenderedHash": "sha256:bed94b29b70876cacfc463922759564d00bd08d9584af05c1c3479c70678a05d",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.devops-engineer.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.devops-engineer.md",
+      "renderedHash": "sha256:56001da1d231ac7fa699674e0eee03db52c1a506a277925996cbd019e2e495a8",
+      "localRenderedHash": "sha256:56001da1d231ac7fa699674e0eee03db52c1a506a277925996cbd019e2e495a8",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.documentation-writer.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.documentation-writer.md",
+      "renderedHash": "sha256:3d7e52001b688baedc2f1f3f53c376692cfac564f17e34ceb15bab5ff3ad92ad",
+      "localRenderedHash": "sha256:3d7e52001b688baedc2f1f3f53c376692cfac564f17e34ceb15bab5ff3ad92ad",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.fix-review.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.fix-review.md",
+      "renderedHash": "sha256:de461a5e670b7e41f92570ea06805d65ce0bfb22b03d83bd9fddbf69b8417695",
+      "localRenderedHash": "sha256:de461a5e670b7e41f92570ea06805d65ce0bfb22b03d83bd9fddbf69b8417695",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.frontend-specialist.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.frontend-specialist.md",
+      "renderedHash": "sha256:01ac925e23443f825eae505f689a53d3206b87969299c94563eec290cf856933",
+      "localRenderedHash": "sha256:01ac925e23443f825eae505f689a53d3206b87969299c94563eec290cf856933",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.internet-research.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.internet-research.md",
+      "renderedHash": "sha256:6c8885c7cf148d9e29c2450e53a57bb67304d276e9754b6b4004e1c010d17e00",
+      "localRenderedHash": "sha256:6c8885c7cf148d9e29c2450e53a57bb67304d276e9754b6b4004e1c010d17e00",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.performance-optimizer.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.performance-optimizer.md",
+      "renderedHash": "sha256:438dcee16a778babbb8058e0d9ea6d58bbd9b8940ef9e3a6f13e229cfcaf124a",
+      "localRenderedHash": "sha256:438dcee16a778babbb8058e0d9ea6d58bbd9b8940ef9e3a6f13e229cfcaf124a",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.security-auditor.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.security-auditor.md",
+      "renderedHash": "sha256:a6130eb22b6759532dd549fb7161a027b918da33c3ebb5cdd983af45caa596c5",
+      "localRenderedHash": "sha256:a6130eb22b6759532dd549fb7161a027b918da33c3ebb5cdd983af45caa596c5",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.seo-specialist.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.seo-specialist.md",
+      "renderedHash": "sha256:587334bee6a98713d01230ef03c324faf10d537aea09447039c5790ac5bd74b0",
+      "localRenderedHash": "sha256:587334bee6a98713d01230ef03c324faf10d537aea09447039c5790ac5bd74b0",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.test-engineer.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.test-engineer.md",
+      "renderedHash": "sha256:f1ecbb41f53e0ac0517cc105beee499e2739bfdd45dd6febdf823fc644664b8f",
+      "localRenderedHash": "sha256:f1ecbb41f53e0ac0517cc105beee499e2739bfdd45dd6febdf823fc644664b8f",
+      "status": "managed"
+    },
+    {
+      "path": ".github/prompts/speckit.ui-ux-pro-max.prompt.md",
+      "kind": "generated",
+      "transformer": "claude-to-copilot-prompt",
+      "fromSource": ".claude/commands/speckit.ui-ux-pro-max.md",
+      "renderedHash": "sha256:d2b985a163fd18e965c93ffeb5f55273316399bfa2523047e5b1dff15d62c08b",
+      "localRenderedHash": "sha256:d2b985a163fd18e965c93ffeb5f55273316399bfa2523047e5b1dff15d62c08b",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.backend-specialist.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.backend-specialist.md",
+      "renderedHash": "sha256:4bc14aa7f871bff5d752fd1927f304e1d78f1dc3ac771114434a90be9665fa45",
+      "localRenderedHash": "sha256:4bc14aa7f871bff5d752fd1927f304e1d78f1dc3ac771114434a90be9665fa45",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.brainstorm.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.brainstorm.md",
+      "renderedHash": "sha256:f0f2f6a3217e80189b9da885b0448e293468ecc287f8ed1b466655bceb224936",
+      "localRenderedHash": "sha256:f0f2f6a3217e80189b9da885b0448e293468ecc287f8ed1b466655bceb224936",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.bump.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.bump.md",
+      "renderedHash": "sha256:cdbcc50d175749d5441c5881738cb24e51061b84b51085c33b70ddbdc32ae0c1",
+      "localRenderedHash": "sha256:cdbcc50d175749d5441c5881738cb24e51061b84b51085c33b70ddbdc32ae0c1",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.business-audit-review.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.business-audit-review.md",
+      "renderedHash": "sha256:11f0d705b0800e3c24c45a9580e7f5818a80e4cfa2a8bc928bd30283e1e7c3f3",
+      "localRenderedHash": "sha256:11f0d705b0800e3c24c45a9580e7f5818a80e4cfa2a8bc928bd30283e1e7c3f3",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.business-audit.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.business-audit.md",
+      "renderedHash": "sha256:717734fe98d1338c9cbe10928a18b82c0faa46251692dabc81893da983e3a68a",
+      "localRenderedHash": "sha256:717734fe98d1338c9cbe10928a18b82c0faa46251692dabc81893da983e3a68a",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.code-review.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.code-review.md",
+      "renderedHash": "sha256:c0ad0dca1abdece2b4a0d31704c10be65beadaeda0c2fe40e7af05e3c3e6b21b",
+      "localRenderedHash": "sha256:c0ad0dca1abdece2b4a0d31704c10be65beadaeda0c2fe40e7af05e3c3e6b21b",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.commit.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.commit.md",
+      "renderedHash": "sha256:7b818759b20a7b97e3ec1b01d0ee9508b21189ddb5bd90a060aa7518128901fd",
+      "localRenderedHash": "sha256:7b818759b20a7b97e3ec1b01d0ee9508b21189ddb5bd90a060aa7518128901fd",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.database-architect.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.database-architect.md",
+      "renderedHash": "sha256:da56160433343244790a3c0296e4b7c2485221e61854f9f31da1c08b0f340d19",
+      "localRenderedHash": "sha256:da56160433343244790a3c0296e4b7c2485221e61854f9f31da1c08b0f340d19",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.debugger.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.debugger.md",
+      "renderedHash": "sha256:90978e42474100079425db01304e3a93f22b7163e5d8509541de5bcb9b16329c",
+      "localRenderedHash": "sha256:90978e42474100079425db01304e3a93f22b7163e5d8509541de5bcb9b16329c",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.devops-engineer.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.devops-engineer.md",
+      "renderedHash": "sha256:f8f2c4952602e1fb2050297410f620864bf8b1d59a00f92c8cf7c87f59cc5b7a",
+      "localRenderedHash": "sha256:f8f2c4952602e1fb2050297410f620864bf8b1d59a00f92c8cf7c87f59cc5b7a",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.documentation-writer.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.documentation-writer.md",
+      "renderedHash": "sha256:28cb4fab570f8198a6a129cf23b229add88aacf7979e0468c3db77cd9e4eeff6",
+      "localRenderedHash": "sha256:28cb4fab570f8198a6a129cf23b229add88aacf7979e0468c3db77cd9e4eeff6",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.fix-review.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.fix-review.md",
+      "renderedHash": "sha256:4cb6d29d495e19046f04d87f05cfed11aa6b5fc73e6476a0ab2ccd2eaefa909b",
+      "localRenderedHash": "sha256:4cb6d29d495e19046f04d87f05cfed11aa6b5fc73e6476a0ab2ccd2eaefa909b",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.frontend-specialist.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.frontend-specialist.md",
+      "renderedHash": "sha256:3a51012f933bddf06031be0d576e4c925639f34bc861e647dd94c0ab8aa056cc",
+      "localRenderedHash": "sha256:3a51012f933bddf06031be0d576e4c925639f34bc861e647dd94c0ab8aa056cc",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.internet-research.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.internet-research.md",
+      "renderedHash": "sha256:afd4867bedc113fc256e3c28d1398d7b2cc9eebeeda543efb251780f5632305c",
+      "localRenderedHash": "sha256:afd4867bedc113fc256e3c28d1398d7b2cc9eebeeda543efb251780f5632305c",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.performance-optimizer.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.performance-optimizer.md",
+      "renderedHash": "sha256:72313b41260cd8e1d61fe19e026a540531be511bdf83b26e9abea652338534cd",
+      "localRenderedHash": "sha256:72313b41260cd8e1d61fe19e026a540531be511bdf83b26e9abea652338534cd",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.security-auditor.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.security-auditor.md",
+      "renderedHash": "sha256:cfc6ff38ba9c95368c5ef5c6d0cc4277ade3a39a8df7f2d993228dd8c17f6149",
+      "localRenderedHash": "sha256:cfc6ff38ba9c95368c5ef5c6d0cc4277ade3a39a8df7f2d993228dd8c17f6149",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.seo-specialist.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.seo-specialist.md",
+      "renderedHash": "sha256:3cfafa33bd8b038feb079aaba0de1d202b6c2845b47d338ab82ccef090ccc938",
+      "localRenderedHash": "sha256:3cfafa33bd8b038feb079aaba0de1d202b6c2845b47d338ab82ccef090ccc938",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.test-engineer.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.test-engineer.md",
+      "renderedHash": "sha256:6d691966aeb90b0bc8d34114b9abf29ec7db7a88d86a953037fc33bb2e30ccb5",
+      "localRenderedHash": "sha256:6d691966aeb90b0bc8d34114b9abf29ec7db7a88d86a953037fc33bb2e30ccb5",
+      "status": "managed"
+    },
+    {
+      "path": ".gemini/commands/speckit.ui-ux-pro-max.toml",
+      "kind": "generated",
+      "transformer": "claude-to-gemini-command",
+      "fromSource": ".claude/commands/speckit.ui-ux-pro-max.md",
+      "renderedHash": "sha256:9d8e5fbe1fc08b4fc4818bf7316ab4d8895335f5d905819b301d461bcf9de144",
+      "localRenderedHash": "sha256:9d8e5fbe1fc08b4fc4818bf7316ab4d8895335f5d905819b301d461bcf9de144",
+      "status": "managed"
+    },
+    {
+      "path": ".specify/checklists/operational-readiness.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:32f74b53d25999a4ffe0faf0f4f692f54a7b53bdc5e1c737a8ae1c7ee35f657b",
+      "localCanonicalHash": "sha256:32f74b53d25999a4ffe0faf0f4f692f54a7b53bdc5e1c737a8ae1c7ee35f657b"
+    },
+    {
+      "path": ".specify/checklists/regulatory-compliance.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:73400c06c3138a52e1114ca5531300785750e042bf311c548930dcf55fcad2b4",
+      "localCanonicalHash": "sha256:73400c06c3138a52e1114ca5531300785750e042bf311c548930dcf55fcad2b4"
+    },
+    {
+      "path": ".specify/checklists/spike-governance.md",
+      "kind": "source",
+      "class": "core",
+      "status": "managed",
+      "sourceCanonicalHash": "sha256:b0b24cab407740b0324559017d946f800e42c05e6f07250825dd9af62c1133f0",
+      "localCanonicalHash": "sha256:b0b24cab407740b0324559017d946f800e42c05e6f07250825dd9af62c1133f0"
     }
   ]
 }
