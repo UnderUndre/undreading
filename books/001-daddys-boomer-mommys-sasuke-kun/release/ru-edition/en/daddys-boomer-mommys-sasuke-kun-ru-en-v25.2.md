@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Russian Monograph Translated to English*
 
 **Author:** Undre & Valera (Digital Plumber)  
-**Revision:** 25.4 (ru-en-v25.2-release)  
+**Revision:** 25.5 (ru-en-v25.2-release)  
 **Format:** Monograph / Operational Runbook / Systemic Forensic Blueprint  
 **Status:** Canonical Russian Monograph in Full English Translation  
 
@@ -312,6 +312,7 @@ Before you start turning valves, let's normalize all the codes into plain human 
 | **[P0-113]** | **IHT 10-Year Tail (UK)** | **L4** | Inheritance Tax Act 1984; Finance Act 2024 (Non-Dom Reform) | Emigration from UK after 10+ years of residence retains 40% inheritance tax on all worldwide assets for up to 10 years after departure | With LTR status (10 of last 20 years in UK) — transfer assets to protection trusts or gifts 7+ years before emigration. Use spousal exemptions (Nil-Rate Band £325k + Residence Nil-Rate Band £175k). Document date of residency termination. |
 | **[P0-114]** | **Domicile vs Residency Decoupling (IE/UK)** | **L4** | Taxes Consolidation Act 1997 s. 531AA; Finance Act 2024 | Irish domicile or UK LTR status creates extraterritorial tax tails after departure | Before emigrating from Ireland — check ordinarily resident status (5 years). From UK — check LTR (10 of 20 years). If thresholds exceeded (IE: €5M assets / €1M income) — early asset structuring. Use Remittance Basis for non-domicile individuals with source-of-funds documentation. |
 | **[P0-115]** | **Hobby Pressure Relief & Anti-Monetization Gate** | **L1/L2** | US: OSHA / NIOSH REL 85 dBA; FTC Docket C-4565 | UK: HSE RR900; IARC Monograph Vol. 100C; Deci 1971; Lepper 1973 (Overjustification); Bediou 2018 (Action $g=0.34$); Hansraj 2014 (Text Neck 27 kg at \$60^\circ$); Altenmüller 2010 ($S1$ focal dystonia 1%); Shattock & Tipton 2012 (Autonomic Conflict); US Navy Diving Manual (Boyle's Law / AGE); Laidlaw 2017 (Pb BLL $>20\ \mu\text{g/dL}$); Azimi 2016 (UFP $<100\text{ nm}$) | Monetizing a pressure-relief hobby turns your safety valve into an inefficient second sweatshop (Overjustification); unmetered extreme sports or unventilated craft destroy L1 somatic risers | Keep hobbies strictly unprofitable (pure cognitive R&M expense). Video games capped at $\le 60\text{--}90\text{ min/day}$ on paid native titles (no loot boxes). Musical practice metered in 45-min blocks + linear attenuation earplugs (NIOSH 85 dBA). Reading strictly eye-level (music stand/podium). Endurance running in Zone 2 $\le 40\text{--}50\text{ km/wk}$ strictly to thirst (blockade of right-ventricular fibrosis and fatal EAH). Strength training with open-glottis hissing exhale (ban valsalva spikes to 480/350 mmHg). Martial arts: absolute ban on hard head sparring (CTE p-tau) and instant tap-out on neck chokes (carotid dissection). Woodworking in FFP3/N95 with forced extraction (IARC Group 1 oak/beech dust). Negative-pressure ducting and nitrile gloves for 3D printing and soldering. |
+| **[P0-117]** | **PRC Sovereign Hydraulic & Exit-Ban Gate** | **L4/L2** | SAFE Regulations Arts. 39, 45; PRC Counter-Espionage Law Art. 4; Art. 266 CPL (2023); MSS Orders No. 3 & 4; Operation 断卡 | PRC institutional hydraulic press: personal border exit bans (Biānkòng), bank freezes for P2P crypto, and felony espionage exposure for corporate due diligence | Absolute refusal of Legal Representative (*fǎdìng dàibiǎorén*) status in Chinese entities. Cross border strictly on sanitized Burner Devices with zero production access, databases, or Signal/TG. Ban P2P crypto conversions (wire yuan abroad strictly via banking rails backed by official *Wánshuì Zhèngmíng* tax receipts). Work strictly under official Category A/B Work Permits. Audit LLC registered capital under 2024 Company Law (Arts. 47/54: 5-year contribution limit and shield against accelerated capital calls). |
 | **[P1-01]** | **Harness Suspension Trauma Shock** | **L1** | OSHA SHIB 03-24-2004 / Thomassen 2009 / ANSI Z359.2 | Orthostatic shock from pooling 1.5–2.0 L blood in legs during motionless suspension in harness | Equip full-body harnesses with Trauma Relief Straps; place rescued operators flat on their backs immediately (the old "Rescue Death" semi-seated myth is debunked). |
 | **[P1-02]** | **Session Cookie Hijacking (DPoP)** | **L2** | IETF RFC 9449 (DPoP) / W3C WebAuthn L3 / Chrome DBSC | Infostealers dump decrypted session cookies from browser RAM, bypassing primary FIDO2 MFA | Enforce short session TTLs (4–8 hrs); implement cryptographic DPoP (RFC 9449) and Device Bound Session Credentials (DBSC); isolate critical admin profiles. | | **L1–L5** | US: CDC / Brenner 2009 (swimming <4 yo) | UK: ERC Kids Save Lives / Hartshorne 2018 (L2 syntax <10–12 yo); Rose 2008 (>10,000 lux); 12-country jurisdictional atlas (CBT, Enlistment Act, JISA/RESP) | Commercial toddler fads (preschool coding/mental arithmetic) blind parents to craniofacial collapse, axial myopia, and lifelong citizenship traps | Foundational Somatic Core: certified swimming survival (88% drowning risk reduction), 120 min/day ambient daylight (myopia blockade), hard mastication (airway development), Ukemi fall kinematics (50–70% head acceleration damping), peak bone mass accumulation, pediatric CPR/Heimlich. Cognitive Tooling: touch typing 80+ WPM, SHEG lateral reading, epistemic silence, terminal CLI. Jurisdictional Defense: proactive audit of conscription exposure (Singapore Enlistment Act bond SGD 75k, UK Plan 5, US CBT/FATCA compliance) and property restriction statutes. | | **L5** | US: NFPA 70 (NEC Art. 250) | UK: BS 7671 (18th Ed); open PEN in TN-C-S overhead grids; two-stage RCD cascade (Type S) | Overhead neutral burn dumps neighborhood unbalanced current into your ground rod, energizing pipes to 220V | Convert rural/overhead grid dwellings to a **TT grounding system** (complete galvanic isolation of local PE from grid PEN/N). Install a two-stage selective RCD cascade: 100–300 mA Type S (Class A/F) main RCD + 10–30 mA branch RCDs. Install 3-phase overvoltage monitoring relays wired to a shunt-trip contactor. | | **L3** | ISO/IEC/IEEE 12207:2017/2026; ISO/IEC/IEEE 29148:2018; NIST SP 800-218 (SSDF); PCI DSS v4.0.1; DORA State of DevOps | Coding off a business plan without Discovery/SRS/architecture spikes = landing in the fat tail of project failures (Flyvbjerg fat tails, planning fallacy) | **No business logic before the foundation:** Phase 0 — CustDev + regulatory screening; Phase 1 — SRS (FR/NFR) + STRIDE threat modeling; Phase 2 — modular monolith + ADRs + timeboxed spikes (spike code gets deleted); Phase 3 — IaC + CI/CD + one end-to-end Tracer Bullet; Phase 4 — iterative delivery with tests and Expand/Contract schema migrations; Phase 5 — load tests + DR GameDay + canary release; Phase 6 — SLO/Error Budgets, post-mortems, SBOM. Exception: an isolated tokenization microservice under PCI DSS CDE. |
 
@@ -7542,6 +7543,7 @@ In the Netherlands, 95% of the population speaks English fluently, making the co
 | 🇺🇸 **USA** | Expatriation Tax § 877A (mark-to-market above deduction) | CBT: lifelong passport tax; FBAR (\$10k penalty); PFIC (37%+) | Total worldwide FATCA surveillance | **[LIFELONG SERFDOM]** |
 | 🇷🇺 **Russia** | No direct departure tax | Subpoena registry (127-FZ); CIC penalties up to 1M rubles; currency control 173-FZ | Property transaction ban upon non-appearance | **[SYSTEMIC SANCTIONS RISK]** |
 | 🇺🇦 **Ukraine** | Absent | Mobilization travel ban for men 18–60; passport block without Reserv+ | Double taxation of FOP vs Europe | **[MARTIAL LAW]** |
+| 🇨🇳 **China (PRC)** | SAFE quota $50k/yr; Art. 45 FX Regulations; IIT 20%/45% | Exit Bans under Art. 266 CPL; 2024 Company Law capital calls (Art. 47/54); San Fei regime | Counter-Espionage Law 2023; MSS Orders No. 3 & 4; Operation Duan Ka | **[INSTITUTIONAL HYDRAULIC PRESS]** |
 
 ---
 
@@ -7555,6 +7557,132 @@ Remember the fundamental law of plumbing: **before tapping into a new pipe, you 
 4. **If you're choosing an English-speaking base in Europe:** **Malta** with its fixed €5,000 tax for non-doms remains the cheapest and most predictable solution, while the Netherlands drowns in court reversals of Box 3 tax, and Portugal buries the NHR regime.
 
 Keep your documents in order, verify invoice wording to the dot, and cut financial tails before crossing the border. Over and out from the terminal.
+
+---
+
+#### **10.18. 🇨🇳 China (PRC): "The PRC Sovereign Hydraulic Press" — The SAFE FX Strangulation, The Counter-Espionage Law, Art. 266 CPL PRC Exit Bans, and the "Three Illegals" Regime ([P0-117: PRC-SOVEREIGN-HYDRAULIC-GATE])**
+
+> *"Without paper, you're a liability; without raw Level 1 statutory data, your words are just hot air in an empty pipe."*  
+> — **Bob the Infrastructure Plumber (Digital Plumber & OSINT Investigator)**
+
+Greetings, seekers of digital sovereignty, witnesses of the "great pivot to the East," and builders of sweet illusions about the Middle Kingdom flowing with cheap yuan and digital freedom. Toss your pipe wrenches on the oily rag, take a seat on an empty server crate. Right now, Bob is cracking open the world's highest-pressure municipal collector — the **People's Republic of China (PRC)**.
+
+In the heads of digital nomads and LinkedIn hustlers, China is a fever dream of two diametrically opposed delusions:
+1. **The Western Liberal Myth:** "It's an Orwellian dystopia where robo-dogs execute you for jaywalking, a social credit score takes away your rice, and expats get thrown into labor camps for glancing sideways at Chairman Mao's portrait."
+2. **The Naive Eurasian Cargo Cult:** "China is our eternal ally; there are no Western sanctions, consumer tech is cheap, domestic taxes are zero, and if you come from a 'friendly' nation, they'll greet you with green tea and let you run businesses completely off the radar."
+
+Both premises are unadulterated info-sludge [UNRELIABLE: LEVEL 3]. The real China is a **ruthlessly pragmatic, hermetically sealed hydraulic monolith**, where statutory mechanics, capital flows, and digital surveillance operate with the unforgiving precision of an industrial stamping press. If you don't know where the pressure relief valves are in this manifold, you'll be pulverized into ground meat — whether you're a PRC national, a US corporate expat, or an Eastern European trader.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ [ ECHELON L4/L2: THE ANATOMY OF THE CHINESE HYDRAULIC PRESS IN 2025–2026 ]             │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ • L1 (Body): Hukou internal caste system, "San Fei" detention, biometric gate scans.   │
+│ • L2 (Cognitive/Net): GFW, MSS Orders 3 & 4, V2Ray deep inspection, WeChat telemetry.  │
+│ • L3 (Capital): SAFE $50k FX cap, Guanzhu Mingdan blacklists, 断卡 sweeps, EO 14114.   │
+│ • L4 (Statute/Court): Biānkòng exit bans (Art. 266 CPL), 2023 Espionage Law, 2024 CoLaw │
+│ • L5 (Hardware/Env): Air-gapped intranet, eSIM software bans, real-name identity mesh. │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+##### **10.18.0. The Physics of the Chinese Hydraulic Press: 5 Fundamental Conservation Laws**
+
+The state machinery of the PRC operates on five immutable conservation laws of institutional hydraulics:
+1. **Conservation of Currency Pressure (SAFE Capital Control):** The Chinese Yuan (RMB) is a pressurized closed loop. Inward capital flow is lubricated and cheap; outward capital flow without an explicit state stamp is prosecuted as economic subversion.
+2. **The Sovereign Data Boundary Principle (Data Sovereignty):** Every byte generated on mainland soil belongs to Chinese jurisdiction. Exporting telemetry, geographic maps, supply-chain datasets, or proprietary algorithms is legally equivalent to transferring state resources (CAC Provisions 2024, PIPL).
+3. **Presumption of Substantive Physical Liability:** In China, the corporate veil is paper-thin. In commercial disputes or tax claims, the state doesn't merely levy the corporate entity (*fǎrén* 法人); it seizes the physical body of the company's Legal Representative (*fǎdìng dàibiǎorén* 法定代表人) via indefinite border exit bans (*Biānkòng* 边控).
+4. **Total Real-Name Identity Binding:** Mobile phone numbers, SIM cards, WeChat Pay wallets, bank accounts, high-speed rail tickets, and residential leases are permanently hard-linked to a single immutable hash (a National Resident ID for citizens or a passport number for foreigners). Bare-metal anonymity does not exist.
+5. **Flow Asymmetry:** The intake valve into the Chinese market opens with zero resistance, but the discharge manifold is welded shut with triple check valves.
+
+---
+
+##### **10.18.1. PRC Citizens (Mainland Locals): SAFE $50k Quota, IIT 20%/45%, Caste-like Hukou, and the 2024 Company Law Capital Squeeze**
+
+If a mainland citizen believes that accumulating yuan in a Bank of China account and buying a third concrete flat in Hangzhou confers true sovereignty, the machine shatters that illusion the moment they test the pipeline's relief valves.
+
+* **The $50,000 USD Annual SAFE Quota & Monitoring Lists:**  
+  The State Administration of Foreign Exchange (*SAFE Notice on Personal Foreign Exchange*) sets an unyielding conversion ceiling: **$50,000 USD equivalent per citizen per calendar year**. Attempting to bypass this limit by smurfing across family members (*fēncāi jiéshòuhuì* 分拆结售汇) triggers automated heuristic flags across the banking core. When flagged, the individual is placed on the *Guānzhù Míngdān* (关注名单) monitoring list under Art. 62 of the SAFE Guiding Directory: all remote online foreign exchange channels are disabled for the current and subsequent two years (forcing in-person branch visits with complete documentary proof), along with administrative fines under Art. 45 of the Foreign Exchange Regulations (up to 30%, or up to 100% under aggravating circumstances).
+* **Article 225 Criminal Law vs. Personal FX Conversion:**  
+  Article 225 of the PRC Criminal Law (illegal business operations) levies 5 to 15 years of imprisonment against professional operators of underground banks (*dìxià qiánzhuāng* 地下钱庄) and unlicensed cross-border settlement rings operating for commercial profit (SPC/SPP Judicial Interpretation 法释〔2019〕1号). Crucially, purchasing foreign exchange for personal private needs (*zìyòng* 自用 — such as tuition or travel) is decriminalized and treated as an administrative violation under Art. 45 of SAFE Regulations, rather than a criminal felony.
+* **The Worldwide IIT Trap & CRS Auto-Exchange:**  
+  Under Art. 1 of the Individual Income Tax (IIT) Law, PRC domiciled tax residents carry 100% tax liability on their **worldwide income**. However, the progressive scale up to 45% applies exclusively to "comprehensive active income" (*Zōnghé Suǒdé* 综合所得). Passive offshore capital returns (dividends, interest, securities gains) are taxed at a flat rate of **20%** (Art. 3, Item 3). Through OECD Common Reporting Standard (CRS) data feeds, the State Taxation Administration (STA) systematically audits undeclared offshore wealth in Singapore, Hong Kong, and the Caymans. Foreign tax residents maintain the procedural safe harbor of the "six-year rule" (*Liù Nián Guīzé* 六年规则).
+* **Hukou (户口) Internal Caste Restrictions & Preemptive Biānkòng:**  
+  Hukou is not a residential registration; it is a feudal entitlement gate to Tier-1 tertiary healthcare (三甲医院), state pensions, and the right for children to sit the Gaokao (高考) entrance exam for elite universities (Tsinghua/Peking). Relocating without an authorized Hukou transfer demotes the citizen to "internal migrant" status with zero municipal rights. Concurrently, teachers, medical doctors, and SOE employees face mandatory passport custody: travel documents must be surrendered to HR, and foreign travel requires written clearance from the local party branch.
+* **The Digital Leash & Article 293 Criminal Law:**  
+  The mandatory "National Anti-Fraud Center" app (国家反诈中心) demands system-level `QUERY_ALL_PACKAGES` permissions, scanning the device for unauthorized VPN configs and offshore trading tools. Meanwhile, the catch-all Article 293 of the Criminal Law (寻衅滋事罪 — "picking quarrels and provoking trouble") delivers up to 5 years of detention for online petitions, forming WeChat groups to contest stalled Evergrande/Country Garden developments, or publicly criticizing municipal governance.
+* **The Blind Spot: 2024 Company Law Capital Reforms (Arts. 47, 54, 266):**  
+  Effective July 1, 2024, the decade-long regime of indefinite capital contribution deadlines was abolished. LLC shareholders must fully pay up subscribed registered capital within 5 years. In insolvency proceedings, creditors are statutorily empowered under Art. 54 to trigger accelerated capital calls (*Zīběn Jiāsù Dàoqī* 资本加速到期), piercing the corporate veil to seize personal homes and bank accounts of founders, all monitored in real time by the "Golden Tax IV" big-data engine (*Jīnshuì Sìqī* 金税四期).
+
+---
+
+##### **10.18.2. Foreigners from Western Jurisdictions (G7/Five Eyes): Counter-Espionage Law 2023, MSS Orders No. 3 & 4, Art. 266 CPL Exit Bans, and CAC 2024 Cross-Border Data Rules**
+
+If your passport is issued by a G7 nation, the Five Eyes, or a close US treaty ally, the Ministry of State Security (MSS) analytical grid views you by default as a vector for corporate espionage and extraterritorial data harvesting.
+
+* **Statutory Shift in the Counter-Espionage Law (effective 01.07.2023, Art. 4):**  
+  The legal definition of espionage was expanded far beyond classified "State Secrets." It now criminalizes the unauthorized procurement or transfer of any *"documents, data, materials, or items related to national security and national interests."* Standard due diligence, supply-chain ESG mapping, tracking semiconductor logistics, or interviewing defense contractor personnel falls under statutory espionage.  
+  *Level 1 Case Law:* The raid on Mintz Group's Beijing office ($1.5M administrative penalty), investigative raids on Capvision and Bain & Company, and the formal arrest of an Astellas Pharma executive before departure from Beijing. Cross-border investigations require an official Foreign-Related Survey License (涉外调查许可证).
+* **MSS Administrative Orders No. 3 and No. 4 (effective 01.07.2024, Art. 40 of Order No. 3):**  
+  State security counter-espionage officers hold the statutory authority to inspect electronic devices (laptops, tablets, smartphones) of foreign nationals. Standard protocol requires written authorization from a municipal-level security director (设区的市级以上); in emergent national security scenarios, on-the-spot inspections are authorized upon presenting police credentials. Importing corporate laptops with intact corporate VPN certificates, sensitive git repositories, or encrypted Signal chats instantly triggers investigative holds.
+* **Commercial Hostage-Taking: Exit Bans under Art. 266 CPL PRC:**  
+  Under Art. 266 of the PRC Civil Procedure Law (2023 Revision, effective 01.01.2024) and Art. 28 of the Exit & Entry Administration Law, Chinese courts may impose an enforceable exit ban (*Biānkòng* 边控) on any foreign national involved in an unresolved civil or commercial proceeding (Arts. 103, 104 CPL).  
+  *The Mechanism:* In a dispute over a $50k contract claim, a domestic supplier files a motion to freeze the foreign entity's Legal Representative (*fǎdìng dàibiǎorén* 法定代表人) in-country. The executive is halted at airport immigration and stranded for years while appellate litigation drags on. The only statutory relief valve is posting an equivalent cash counter-guarantee into the court's escrow account (Art. 104 CPL).
+* **Cross-Border Data Export (CAC Provisions of 22.03.2024) & PIPL (Art. 38):**  
+  Exporting personal data exceeding 100,000 mainland individuals mandates undergoing a mandatory CAC Security Assessment or executing a certified CAC Standard Contract. Exfiltrating source code or engineering drawings without internal classification under the Data Security Law (DSL) risks fines up to 10 million RMB.
+* **The Anti-Foreign Sanctions Law (AFSL 2021, Art. 12):**  
+  Complying with Western sanctions (OFAC/EU) inside the PRC is a direct statutory tort. Domestic courts routinely seize assets of multinational branches that refuse to service sanctioned Chinese entities under US executive orders.
+
+---
+
+##### **10.18.3. Foreigners from "Friendly/Neutral" Jurisdictions (RF/CIS): The Illusion of Strategic Alliance, EO 14114, Operation "Break Cards" (断卡), and "Three Illegals" (三非) Deportations**
+
+The primary engineering pathology of CIS and developing-world expats is naive complacency ("our presidents are strategic partners, so the local police won't touch me"). In PRC jurisprudence, the category of "citizen of a friendly country" does not exist: statutory codes are enforced with robotic indifference.
+
+* **US Secondary Sanctions (Executive Order 14114) and Big Four Banking Paralysis:**  
+  Following the signing of EO 14114 in December 2023, China's core commercial banks (ICBC, Bank of China, CCB, ABC) deployed barrier-level compliance to protect their clearance accounts in US correspondent centers (Fedwire/CHIPS).  
+  *Settlement Realities:* Settlements originating from Russia—even denominated in **onshore Yuan**—face clearance delays of 40 to 90 days. Banks demand exhaustive end-user certifications and HS codes. The baseline rejection rate for corporate account opening where the UBO is an RF/CIS national stands at $P(\text{Refusal}) \ge 95\%$. Settlements have bottlenecked into niche regional border institutions and the VTB Shanghai branch.
+* **Operation "Break Cards" (断卡行动) and P2P Fiat Traps:**  
+  The joint decree of 10 ministries dated 24.09.2021 stripped all virtual asset transactions of legal protection.  
+  *The Trap:* Selling USDT for RMB via P2P onto an Alipay, WeChat, or UnionPay card links the account to money laundering rings tied to Southeast Asian cyber-fraud syndicates. The card is tagged as a secondary/tertiary laundering instrument (*èrjí kǎ / sānjí kǎ*) by economic crime units (*Jīngzhēn* 经侦), freezing all domestic accounts for 6 months with rolling renewals. Unfreezing requires traveling in person to provincial police bureaus thousands of kilometers away and forfeiting the entire tainted transaction volume to the state.
+* **The Only Legal Conduit for Outbound Yuan:**  
+  Yuan earned inside the PRC cannot be wired abroad through commercial banks without presenting an official **Tax Payment Certificate (完税证明 *Wánshuì Zhèngmíng*)** issued by the STA for every single yuan. Without certified tax documentation, RMB liquidity remains permanently locked within local payment rails.
+* **The "Three Illegals" Crackdown (三非 *Sān Fēi*, Art. 80 Exit & Entry Law):**  
+  Living in China on business (M) or tourist (L) visas while teaching English or doing remote coding is over. Unauthorized employment without an official *Foreigner's Work Permit* (Category A/B/C) triggers: fines up to 20,000 RMB, **administrative detention of 5 to 15 days in closed deportation facilities**, self-funded deportation, and an **entry ban to China for 5 to 10 years**. Hotels and private landlords report guest presence to the PSB within 24 hours under Art. 39.
+
+---
+
+##### **10.18.4. Consolidated Forensic Risk Matrix: The PRC Circuit**
+
+| Cohort / Subject | Verified Hypothesis / Vector | Statutory / Physical Boundary | Audit Status | Data Tier | Level 1 Source / Legal Precedent | Bob's Engineering Counter-Valve ([P0-117]) |
+| :--- | :--- | :--- | :---: | :---: | :--- | :--- |
+| **PRC Citizens** | Capital smurfing via family ($50k) is safe | SAFE annual ceiling; Arts. 39, 45 FX Regulations | **REFUTED** | **Level 1** | SAFE Notice on Personal FX; Art. 62 Directory | Utilize licensed outbound conduits (QDII); absolute ban on P2P FX smurfing. |
+| **PRC Citizens** | Foreign income escapes domestic taxation | Art. 1 IIT Law; OECD CRS feeds; 20%/45% split | **REFUTED** | **Level 1** | PRC Individual Income Tax Law Arts. 1, 3 | Document foreign tax credits before STA audits; observe the 6-year rule. |
+| **PRC Citizens** | Social credit is an Orwellian points system | Court judgment enforcement blacklists (*Shīxìn*) | **VERIFIED (with caveats)** | **Level 1** | SPC Provisions 法发〔2013〕17号 on Debtors | Prevent civil default judgments; prevent inclusion on the 失信被执行人 registry. |
+| **PRC Citizens** | Registered capital can remain unpaid forever | Arts. 47, 54, 266 Company Law 2024; Golden Tax IV | **REFUTED** | **Level 1** | Company Law 2024 Arts. 47, 54 (accelerated call) | Audit LLC equity; align contribution schedules to the mandatory 5-year limit. |
+| **Foreigners (G7/US)** | Commercial due diligence is legal | Art. 4 Counter-Espionage Law (broadened scope) | **REFUTED** | **Level 1** | Counter-Espionage Law 2023; Mintz Group Case ($1.5M) | Cease field OSINT in-country; commission research strictly via licensed PRC entities. |
+| **Foreigners (G7/US)** | Electronics protected by privacy at border | MSS Orders No. 3 & 4 (device inspection) | **REFUTED** | **Level 1** | MSS Administrative Orders No. 3 & 4 (in force 01.07.2024)| **Burner Devices Only**; zero Signal/TG or production databases on physical storage. |
+| **Foreigners (G7/US)** | Contract dispute does not affect mobility | Art. 266 CPL; Art. 28 Exit & Entry Law | **REFUTED** | **Level 1** | Civil Procedure Law Arts. 266, 103, 104 (Exit Bans) | Never serve as Legal Representative (*fǎdìng dàibiǎorén*); post escrow deposit. |
+| **Foreigners (G7/US)** | Unrestricted export of corporate datasets | CAC Provisions (22.03.2024); PIPL Art. 38 | **REFUTED** | **Level 1** | CAC Provisions on Cross-Border Data; PIPL Art. 38 | Localize data within mainland boundaries; audit volume below 100k records. |
+| **Foreigners (CIS/RF)** | Chinese banks clear yuan without friction | US EO 14114; Big-4 bank de-risking | **REFUTED** | **Level 1** | US Executive Order 14114; interbank practice | Settle via specialized border regional banks, VTB Shanghai, or barter channels. |
+| **Foreigners (CIS/RF)** | P2P crypto sales to domestic cards are safe | Operation "Break Cards" (断卡); Arts. 287-2, 312 CL | **HIGH SCAM RISK** | **Level 1** | Joint Ministerial Circular of 24.09.2021 | Total ban on P2P USDT/RMB transfers; wire earnings abroad strictly via 完税证明. |
+| **Foreigners (All)** | Side-income tutoring/remote work on M/L visa | Art. 80 Exit & Entry Law ("San Fei" regime) | **REFUTED** | **Level 1** | Exit & Entry Admin Law Art. 80 (Detention + Ban) | Work exclusively under Category A/B Work Permit (Z-visa); register within 24h. |
+
+---
+
+##### **10.18.5. Inset from Bob: Plain English Translation & Engineering Safe Harbors**
+
+**CHINESE JURISDICTION STATUS: `[CRITICAL STATE-HYDRAULIC PRESSURE / ZERO-TRUST MANDATORY]`**  
+**BAYESIAN CONFIDENCE IN ARBITRAGE BREAKDOWN: `96%`**  
+**THE SINGLE KILLER CONTRADICTION:**  
+> **The Illusion of the Autonomous Corporate Shell.** In China, the corporate veil (WFOE / JV / Representative Office) **does not protect the physical body of the executive**. In any commercial conflict, tax dispute, or perceived national security risk, the state strikes not at the corporate balance sheet, but at the executive's physical freedom via **Exit Bans (*Biānkòng* 边控)** under Art. 266 of the Civil Procedure Law. You won't notice until you reach the boarding gate and your passport is retained, turning your luxury hotel into an open-air prison for years.
+
+###### **🔧 Bob's Engineering Survival Rules:**
+
+1. **For PRC Citizens:** Forget fairy tales about an off-grid crypto homestead inside mainland firewalls. If you want a sovereign perimeter, transfer capital through white state-sanctioned channels (QDII) years in advance, establish bona fide foreign tax residency (leveraging the 6-year rule), and audit your company equity under Art. 47 of the 2024 Company Law.
+2. **For Western Professionals (G7/Five Eyes):** Cross the Chinese border **STRICTLY on sanitized burner hardware (*Burner Phone / Burner Laptop*)** running ephemeral sessions with zero access to production codebases, corporate Slack, or Signal. Never accept the nominal title of Legal Representative (*fǎdìng dàibiǎorén* 法定代表人) for a Chinese entity.
+3. **For Expatriates from "Friendly" Nations (RF/CIS):** Strip off the naive rose-tinted glasses of geopolitical brotherhood. In Chinese banking rails, your passport is a high-risk compliance flag under OFAC scrutiny. Never use P2P crypto on UnionPay/Alipay/WeChat (Operation 断卡 will crush your accounts instantly). Never work without an official Z-visa and Work Permit. Wire yuan abroad **only through banking channels backed by an official Tax Payment Certificate (完税证明)**.
+
+Monitor the pressure gauges, keep your pipelines dry, and never enter a pressurized collector without verified architectural schematics. Over and out from the terminal.
 
 ---
 
@@ -8083,6 +8211,7 @@ The mass exploitation of dialogue LLM agents has exposed severe neuropsychiatric
 | **United Kingdom / EU** | 10-year IHT tail + Schengen EES biometric gateway + CARF/DAC8 + EU ATAD 3 Unshell | **85%** | UK Finance Act 2025, Regulation (EU) 2017/2226 (EES), COM(2021) 565, OECD CARF | Relocate from UK prior to 10th year of tax residency (prevents 40% worldwide IHT tail). Count Schengen days strictly via EC calculator; EES logs overstay mathematically (fines €500–€3,000; SIS II bans require individual proportionality decision). Ensure real substance for EU SPVs under ATAD 3 (prevents 30–35% WHT). Cold storage on Multisig Air-Gap [P0-19, P0-113, P0-114]. |
 | **Ukraine (Domestic)** | Winter grid destruction (L5) + NBU P2P limit (150k UAH/mo) + arts. 200/209 CCU (droppers) | **70–85%** | NBU Resolution 102, Law 3633-IX, art. 206 CPC | Deploy 3–5 kWh LiFePO4 battery under IEC 62619 / UL 1973 with self-heating (no charge at T < +5°C); settle IT exports via direct IBAN (statutory exemption from 180-day rule under Res. 67); account freezing under Law 3633-IX requires standard State Executive Service enforcement, not unilateral bank freezes; invoke art. 206 CPC against unlawful detention [P0-20, P0-72, P0-74]. |
 | **Ukrainians in EU / West** | Termination of Bürgergeld via Job-Turbo + 800+ schooling trap in Poland + CRS auto-exchange (Law 2970-IX) | **60–75%** | Council Decision (EU) 2026/1912 (TPD 2028), Polish CUKR Act, Law No. 2970-IX | Transition to official employment or business entity; enroll children in local schools; obtain multi-year residence cards (CUKR / Lex 7). Deregister domestic FOP, cancel address registration (propyska), and secure local Tax Residence Certificate to prevent retrospective 18% PIT + 25% penalties under CRS [P0-112, P0-116]. |
+| **China (PRC)** | SAFE FX quota ($50k) + Counter-Espionage Law 2023 + Exit Bans (Art. 266 CPL) + Operation 断卡 and "San Fei" sweeps | **90–95%** | Arts. 39, 45 FX Regulations, Art. 4 Counter-Espionage Law, Art. 266 CPL PRC, MSS Orders No. 3 & 4, EO 14114 | Reject Legal Representative (法定代表人) status in WFOE/JV; travel strictly on Burner Devices without production codebases; absolute ban on P2P crypto (wire yuan abroad strictly with 完税证明); work strictly under Work Permit Z; audit equity under 2024 Company Law (Arts. 47/54) [P0-117]. |
 
 ---
 
@@ -8739,6 +8868,11 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 2.8 — "The PRC Sovereign Hydraulic Press": Institutional Hydraulics, Capital Controls & Border Sovereignty (Checked: 2026-10-12; Base EN 2.7):**
+  1. *L4 Legal Echelon (New Section §10.18):* Injected sovereign forensic module on the PRC based on primary Level 1 statutes: the 5 conservation laws of the Chinese system, SAFE FX strangulation ($50k annual ceiling, Guānzhù Míngdān monitoring lists under Art. 62 of SAFE Directory, Arts. 39/45 FX Regulations, decriminalization of private FX conversion zìyòng vs Art. 225 Criminal Law commercial syndicates), IIT worldwide taxation (20% flat on offshore passive capital vs 45% on labor, 6-year rule), feudal Hukou internal passport system and preemptive Biānkòng on state personnel, Counter-Espionage Law 2023 (Art. 4 broadening of espionage to supply-chain intelligence, Mintz/Capvision precedents), MSS Administrative Orders No. 3 & 4 (in force 01.07.2024, counter-espionage device searches), commercial Exit Bans under Art. 266 CPL PRC (2023 Revision) and Art. 28 Exit & Entry Law with court counter-security safe harbors (Art. 104 CPL), CAC Cross-Border Data Transfer Provisions (22.03.2024) and PIPL (100k subject threshold), Anti-Foreign Sanctions Law 2021 (Art. 12); US Secondary Sanctions (EO 14114) and Big-4 banking clearance paralysis, Operation "Break Cards" (断卡行动) and account freeze risks on P2P USDT/RMB, mandatory STA Tax Payment Certificate (完税证明) for legitimate outbound wire transfers, "Three Illegals" (三非 Sān Fēi, Art. 80) deportation crackdowns; 2024 Company Law capital call exposure (Arts. 47/54/266 5-year paid-in capital mandate) and Golden Tax IV big-data enforcement.
+  2. *P0 Matrix Expansion:* Appended **[P0-117: PRC-SOVEREIGN-HYDRAULIC-GATE]** (L4/L2: Protection against PRC institutional hydraulic pressure — Burner Devices, refusal of Legal Representative 法定代表人 status, white tax documentation for RMB outflows, official Category A/B Work Permits).
+  3. *Part V:* Consolidated Forensic Risk Matrix expanded with dedicated PRC regional block.
 
 * **Revision EN 2.7 — Systemic & Forensic Resilience Update (Checked: 2026-10-10; Base v23.3):**
   1. *L1 Biological Echelon (§2.5.1–§2.6):* Injected biological OPEX accounting (gestational load vs male violent mortality / life expectancy deficit), oral contraceptive biochemical sabotage (MHC/HLA olfactory inversion via Wedekind/Roberts, 6-month quarantine protocol), paternity forensics (1-2% unselected vs 25-30% suspected base rates, French Art. 16-11 Code Civil criminal testing bans, Art. 116 SK RF non-refundable child support); Acute Sensorineural Hearing Loss protocol (SSNHL Rule 3-3-3, Weber/Rauch Hum test, Prednisolone 1 mg/kg/d + mandatory 7–10 day tapering against Addisonian crisis, [P0-89]); Acute Angle-Closure Glaucoma protocol (AACG pupillary block from decongestants in darkness, IOP surge, LPI 6–12h window, [P0-90]); Acetaminophen / Paracetamol hepatotoxicity thresholds (NAPQI accumulation, 3g/2g caps, 8h IV N-acetylcysteine golden window, [P0-91]).
