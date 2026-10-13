@@ -1,49 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2400" width="1600" height="2400">
   <defs>
     <!-- Background Gradients -->
-    <radialGradient id="bgGlow" cx="50%" cy="52%" r="60%">
-      <stop offset="0%" stop-color="#141E30" stop-opacity="0.85"/>
-      <stop offset="60%" stop-color="#0F1117" stop-opacity="0.98"/>
-      <stop offset="100%" stop-color="#08090C" stop-opacity="1"/>
+    <radialGradient id="bgGlow" cx="50%" cy="54%" r="65%">
+      <stop offset="0%" stop-color="#141E30" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#0F1117" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#07080B" stop-opacity="1"/>
     </radialGradient>
     
-    <linearGradient id="bladeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2D3748"/>
-      <stop offset="45%" stop-color="#CBD5E0"/>
-      <stop offset="50%" stop-color="#F7FAFC"/>
-      <stop offset="55%" stop-color="#A0AEC0"/>
-      <stop offset="100%" stop-color="#1A202C"/>
+    <!-- Steel Blade Gradient (Dark Damascus / Gunmetal) -->
+    <linearGradient id="steelBladeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A202C"/>
+      <stop offset="45%" stop-color="#718096"/>
+      <stop offset="50%" stop-color="#CBD5E0"/>
+      <stop offset="55%" stop-color="#4A5568"/>
+      <stop offset="100%" stop-color="#171923"/>
     </linearGradient>
 
-    <linearGradient id="bladeRuneGlow" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00F2FE"/>
-      <stop offset="50%" stop-color="#4FACFE"/>
-      <stop offset="100%" stop-color="#00C6FF"/>
-    </linearGradient>
-
-    <linearGradient id="steelWrench" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Silver Blade Gradient (Mirror Polished Silver) -->
+    <linearGradient id="silverBladeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#4A5568"/>
-      <stop offset="30%" stop-color="#CBD5E0"/>
+      <stop offset="40%" stop-color="#E2E8F0"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#CBD5E0"/>
+      <stop offset="100%" stop-color="#2D3748"/>
+    </linearGradient>
+
+    <!-- Glowing Cyan Magic / Runes -->
+    <linearGradient id="runeGlowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="100%" stop-color="#4FACFE"/>
+    </linearGradient>
+
+    <!-- Metallic Wrench Tools -->
+    <linearGradient id="wrenchMetal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A5568"/>
+      <stop offset="35%" stop-color="#E2E8F0"/>
       <stop offset="70%" stop-color="#718096"/>
       <stop offset="100%" stop-color="#2D3748"/>
     </linearGradient>
 
     <linearGradient id="leatherWrap" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#2C1810"/>
-      <stop offset="30%" stop-color="#5C3826"/>
-      <stop offset="70%" stop-color="#3D2314"/>
+      <stop offset="50%" stop-color="#5C3826"/>
       <stop offset="100%" stop-color="#1F1008"/>
     </linearGradient>
 
-    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F6D365"/>
-      <stop offset="100%" stop-color="#FDA085"/>
-    </linearGradient>
-
-    <!-- Filter Glow -->
+    <!-- Glow & Shadow Filters -->
     <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur1"/>
-      <feGaussianBlur stdDeviation="15" result="blur2"/>
+      <feGaussianBlur stdDeviation="5" result="blur1"/>
+      <feGaussianBlur stdDeviation="14" result="blur2"/>
       <feMerge>
         <feMergeNode in="blur2"/>
         <feMergeNode in="blur1"/>
@@ -51,151 +56,186 @@
       </feMerge>
     </filter>
 
-    <filter id="shadowHeavy" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="25" stdDeviation="35" flood-color="#000000" flood-opacity="0.8"/>
+    <filter id="shadowHeavy" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="25" stdDeviation="30" flood-color="#000000" flood-opacity="0.85"/>
     </filter>
 
-    <!-- Industrial Grid Pattern -->
+    <!-- Industrial Grid -->
     <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
-      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.04"/>
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.035"/>
     </pattern>
   </defs>
 
-  <!-- Base Canvas -->
+  <!-- Background -->
   <rect width="1600" height="2400" fill="#0A0B0E"/>
   <rect width="1600" height="2400" fill="url(#bgGlow)"/>
   <rect width="1600" height="2400" fill="url(#grid)"/>
 
-  <!-- Subtle Atmospheric Spark Rings -->
-  <circle cx="800" cy="1250" r="480" fill="none" stroke="#00F2FE" stroke-width="1.5" stroke-dasharray="8 24" stroke-opacity="0.25"/>
-  <circle cx="800" cy="1250" r="540" fill="none" stroke="#FDA085" stroke-width="1" stroke-dasharray="4 32" stroke-opacity="0.2"/>
+  <!-- Subtle Tactical Geometry Behind Crossed Weapons -->
+  <g opacity="0.35">
+    <circle cx="800" cy="1260" r="420" fill="none" stroke="#00F2FE" stroke-width="1.5" stroke-dasharray="10 20"/>
+    <circle cx="800" cy="1260" r="460" fill="none" stroke="#FDA085" stroke-width="1" stroke-dasharray="4 30"/>
+    <!-- Cardinal Alignment Markers -->
+    <line x1="320" y1="1260" x2="1280" y2="1260" stroke="#4A5568" stroke-width="0.5" stroke-dasharray="4 12"/>
+    <line x1="800" y1="780" x2="800" y2="1740" stroke="#4A5568" stroke-width="0.5" stroke-dasharray="4 12"/>
+  </g>
 
-  <!-- ==================== CENTRAL WEAPON ARTIFACT ==================== -->
-  <g id="plumber-kunai-artifact" filter="url(#shadowHeavy)">
+  <!-- ==================== CROSSED KUNAI PAIR ==================== -->
+  <g id="crossed-blades" filter="url(#shadowHeavy)">
 
-    <!-- BACKDROP BLUE CORE AURA -->
-    <ellipse cx="800" cy="1220" rx="140" ry="420" fill="#00F2FE" opacity="0.12" filter="blur(50px)"/>
+    <!-- ================= 1. LEFT DAGGER: STEEL KUNAI (32MM WRENCH) ================= -->
+    <g id="left-steel-kunai" transform="translate(800, 1260) rotate(-22) translate(-800, -1260)">
+      <!-- Blade -->
+      <polygon points="800,560 890,1160 800,1250 710,1160" fill="url(#steelBladeGrad)" stroke="#CBD5E0" stroke-width="1.5"/>
+      <polygon points="800,560 710,1160 800,1250" fill="#12161F" opacity="0.5"/>
+      <line x1="800" y1="560" x2="800" y2="1250" stroke="#E2E8F0" stroke-width="2.5" opacity="0.8"/>
 
-    <!-- 1. KUNAI BLADE (DIAMOND SHAPE) -->
-    <!-- Outer Blade Edge -->
-    <polygon points="800,480 910,1180 800,1280 690,1180" fill="url(#bladeGrad)" stroke="#E2E8F0" stroke-width="2"/>
-    
-    <!-- Left Blade Bevel Shadow -->
-    <polygon points="800,480 690,1180 800,1280" fill="#1A202C" opacity="0.45"/>
+      <!-- Fuller & Assassin Notch -->
+      <polygon points="800,680 828,1110 800,1140 772,1110" fill="#0D1117" stroke="#4A5568" stroke-width="1"/>
+      <polygon points="800,740 816,860 800,840 784,860" fill="none" stroke="#718096" stroke-width="1.5"/>
 
-    <!-- Central Ridge Line (High Polish Spine) -->
-    <line x1="800" y1="480" x2="800" y2="1280" stroke="#FFFFFF" stroke-width="3" opacity="0.9"/>
+      <!-- Crossguard -->
+      <rect x="745" y="1245" width="110" height="20" rx="4" fill="url(#wrenchMetal)" stroke="#1A202C" stroke-width="1.5"/>
+      <line x1="770" y1="1265" x2="770" y2="1480" stroke="#4A5568" stroke-width="2.5"/>
+      <line x1="830" y1="1265" x2="830" y2="1480" stroke="#4A5568" stroke-width="2.5"/>
 
-    <!-- 2. ASSASSIN CREST EMBOSSED FULLER -->
-    <polygon points="800,640 835,1120 800,1160 765,1120" fill="#0D1117" stroke="#4A5568" stroke-width="1.5"/>
-    <!-- Triangular Assassin Glyph Apex -->
-    <polygon points="800,700 820,860 800,830 780,860" fill="none" stroke="#CBD5E0" stroke-width="2" opacity="0.75"/>
-    <circle cx="800" cy="770" r="6" fill="#00F2FE" filter="url(#neonGlow)"/>
+      <!-- Leather Grip -->
+      <rect x="768" y="1265" width="64" height="215" fill="#150C07"/>
+      <g fill="url(#leatherWrap)" stroke="#110703" stroke-width="1.5">
+        <path d="M 768,1270 L 832,1300 L 832,1320 L 768,1290 Z"/>
+        <path d="M 832,1305 L 768,1335 L 768,1355 L 832,1325 Z"/>
+        <path d="M 768,1340 L 832,1370 L 832,1390 L 768,1360 Z"/>
+        <path d="M 832,1375 L 768,1405 L 768,1425 L 832,1395 Z"/>
+        <path d="M 768,1410 L 832,1440 L 832,1460 L 768,1430 Z"/>
+        <path d="M 832,1445 L 768,1475 L 768,1485 L 832,1465 Z"/>
+      </g>
 
-    <!-- 3. WITCHER ALCHEMICAL & CIRCUIT RUNES (GLOWING CYAN) -->
-    <g id="glowing-runes" filter="url(#neonGlow)" stroke="#00F2FE" stroke-width="2.5" fill="none" stroke-linecap="round">
-      <!-- Ground Glyph ⏚ -->
-      <line x1="800" y1="890" x2="800" y2="920"/>
-      <line x1="785" y1="920" x2="815" y2="920"/>
-      <line x1="790" y1="926" x2="810" y2="926"/>
-      <line x1="795" y1="932" x2="805" y2="932"/>
-
-      <!-- Alchemical Sign Quen (Shield / Hydraulic Gate) -->
-      <path d="M 790,960 L 800,945 L 810,960 L 800,975 Z"/>
-      <line x1="800" y1="975" x2="800" y2="995"/>
-
-      <!-- Pressure Diode Symbol -->
-      <polygon points="792,1010 808,1010 800,1025" fill="#00F2FE" opacity="0.6"/>
-      <line x1="792" y1="1025" x2="808" y2="1025"/>
-
-      <!-- Check Valve Glyphs (Alchemical Igni / Fire Core) -->
-      <path d="M 788,1045 L 800,1065 L 812,1045"/>
-      <circle cx="800" cy="1090" r="8"/>
-      <line x1="800" y1="1082" x2="800" y2="1098"/>
-      <line x1="792" y1="1090" x2="808" y2="1090"/>
+      <!-- Pommel: 32mm Wrench Head -->
+      <g id="wrench-32" transform="translate(800, 1575)">
+        <rect x="-22" y="-95" width="44" height="30" rx="3" fill="url(#wrenchMetal)" stroke="#2D3748" stroke-width="1.5"/>
+        <circle cx="0" cy="0" r="86" fill="url(#wrenchMetal)" stroke="#1A202C" stroke-width="2.5"/>
+        <circle cx="0" cy="0" r="68" fill="#2D3748"/>
+        <!-- 12-Point Hex Star -->
+        <path d="M 0,-56 L 14,-45 L 30,-48 L 38,-34 L 54,-28 L 54,-13 L 61,0 L 54,13 L 54,28 L 38,34 L 30,48 L 14,45 L 0,56 L -14,45 L -30,48 L -38,34 L -54,28 L -54,13 L -61,0 L -54,-13 L -54,-28 L -38,-34 L -30,-48 L -14,-45 Z" fill="#0A0D12" stroke="#4A5568" stroke-width="1.5"/>
+        <!-- 32 Stamped Text -->
+        <text x="0" y="8" font-family="'Courier New', monospace" font-size="26" font-weight="900" fill="#E2E8F0" text-anchor="middle">32</text>
+        <text x="0" y="-68" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#A0AEC0" text-anchor="middle">CR-V</text>
+      </g>
     </g>
 
-    <!-- 4. HILT / GUARD (ASSASSIN BRACER MECHANICAL INTEGRATION) -->
-    <!-- Crossguard Fittings -->
-    <rect x="740" y="1275" width="120" height="22" rx="4" fill="url(#steelWrench)" stroke="#1A202C" stroke-width="2"/>
-    <circle cx="755" cy="1286" r="4" fill="#E2E8F0"/>
-    <circle cx="845" cy="1286" r="4" fill="#E2E8F0"/>
-    <!-- Mechanical Sliding Rails -->
-    <line x1="770" y1="1297" x2="770" y2="1520" stroke="#718096" stroke-width="3"/>
-    <line x1="830" y1="1297" x2="830" y2="1520" stroke="#718096" stroke-width="3"/>
+    <!-- ================= 2. RIGHT DAGGER: SILVER KUNAI (42MM WRENCH + RUNES) ================= -->
+    <g id="right-silver-kunai" transform="translate(800, 1260) rotate(22) translate(-800, -1260)">
+      <!-- Blade (Bright Polished Silver) -->
+      <polygon points="800,530 895,1160 800,1250 705,1160" fill="url(#silverBladeGrad)" stroke="#FFFFFF" stroke-width="2"/>
+      <polygon points="800,530 705,1160 800,1250" fill="#1A202C" opacity="0.3"/>
+      <line x1="800" y1="530" x2="800" y2="1250" stroke="#FFFFFF" stroke-width="3" opacity="0.95"/>
 
-    <!-- 5. LEATHER WRAPPED HANDLE -->
-    <!-- Handle Core -->
-    <rect x="765" y="1295" width="70" height="230" fill="#1A100A"/>
-    <!-- Leather Straps Overlap (Tsuka-ito / Assassin bracer wrap) -->
-    <g fill="url(#leatherWrap)" stroke="#170D07" stroke-width="2">
-      <path d="M 765,1300 L 835,1335 L 835,1355 L 765,1320 Z"/>
-      <path d="M 835,1340 L 765,1375 L 765,1395 L 835,1360 Z"/>
-      <path d="M 765,1380 L 835,1415 L 835,1435 L 765,1400 Z"/>
-      <path d="M 835,1420 L 765,1455 L 765,1475 L 835,1440 Z"/>
-      <path d="M 765,1460 L 835,1495 L 835,1515 L 765,1480 Z"/>
+      <!-- Fuller Core -->
+      <polygon points="800,660 830,1110 800,1140 770,1110" fill="#070C12" stroke="#2B6CB0" stroke-width="1.5"/>
+
+      <!-- GLOWING WITCHER ALCHEMICAL & CIRCUIT RUNES (CYAN #00F2FE) -->
+      <g id="silver-runes" filter="url(#neonGlow)" stroke="#00F2FE" stroke-width="2.5" fill="none" stroke-linecap="round">
+        <circle cx="800" cy="740" r="5" fill="#00F2FE"/>
+        <!-- Ground Glyph ⏚ -->
+        <line x1="800" y1="810" x2="800" y2="840"/>
+        <line x1="786" y1="840" x2="814" y2="840"/>
+        <line x1="791" y1="846" x2="809" y2="846"/>
+        <line x1="796" y1="852" x2="804" y2="852"/>
+
+        <!-- Witcher Quen Sign (Diamond Shield) -->
+        <path d="M 790,880 L 800,865 L 810,880 L 800,895 Z"/>
+        <line x1="800" y1="895" x2="800" y2="920"/>
+
+        <!-- Reverse Pressure Diode -->
+        <polygon points="792,935 808,935 800,950" fill="#00F2FE" opacity="0.6"/>
+        <line x1="792" y1="950" x2="808" y2="950"/>
+        <line x1="800" y1="950" x2="800" y2="975"/>
+
+        <!-- Alchemical Igni / Flame Valve -->
+        <path d="M 788,995 L 800,1020 L 812,995"/>
+        <line x1="800" y1="1020" x2="800" y2="1045"/>
+        <circle cx="800" cy="1065" r="9"/>
+        <line x1="791" y1="1065" x2="809" y2="1065"/>
+      </g>
+
+      <!-- Crossguard -->
+      <rect x="742" y="1245" width="116" height="20" rx="4" fill="url(#wrenchMetal)" stroke="#2B6CB0" stroke-width="1.5"/>
+      <circle cx="756" cy="1255" r="3.5" fill="#00F2FE" filter="url(#neonGlow)"/>
+      <circle cx="844" cy="1255" r="3.5" fill="#00F2FE" filter="url(#neonGlow)"/>
+
+      <!-- Leather Grip -->
+      <rect x="768" y="1265" width="64" height="215" fill="#1A100A"/>
+      <g fill="url(#leatherWrap)" stroke="#110703" stroke-width="1.5">
+        <path d="M 768,1270 L 832,1300 L 832,1320 L 768,1290 Z"/>
+        <path d="M 832,1305 L 768,1335 L 768,1355 L 832,1325 Z"/>
+        <path d="M 768,1340 L 832,1370 L 832,1390 L 768,1360 Z"/>
+        <path d="M 832,1375 L 768,1405 L 768,1425 L 832,1395 Z"/>
+        <path d="M 768,1410 L 832,1440 L 832,1460 L 768,1430 Z"/>
+        <path d="M 832,1445 L 768,1475 L 768,1485 L 832,1465 Z"/>
+      </g>
+
+      <!-- Pommel: 42mm Wrench Head (Hitchhiker's Guide to the Galaxy / Main Riser) -->
+      <g id="wrench-42" transform="translate(800, 1590)">
+        <rect x="-26" y="-110" width="52" height="32" rx="3" fill="url(#wrenchMetal)" stroke="#2B6CB0" stroke-width="1.5"/>
+        <!-- Massive 42mm Outer Ring -->
+        <circle cx="0" cy="0" r="105" fill="url(#wrenchMetal)" stroke="#1A202C" stroke-width="3"/>
+        <circle cx="0" cy="0" r="84" fill="#1A202C"/>
+        <!-- 12-Point Hex Star Profile -->
+        <path d="M 0,-70 L 17,-56 L 37,-60 L 48,-42 L 67,-35 L 67,-16 L 76,0 L 67,16 L 67,35 L 48,42 L 37,60 L 17,56 L 0,70 L -17,56 L -37,60 L -48,42 L -67,35 L -67,16 L -76,0 L -67,-16 L -67,-35 L -48,-42 L -37,-60 L -17,-56 Z" fill="#070C12" stroke="#00F2FE" stroke-width="1.5" filter="url(#neonGlow)"/>
+        <!-- 42 Stamped Text -->
+        <text x="0" y="10" font-family="'Courier New', monospace" font-size="34" font-weight="900" fill="#00F2FE" text-anchor="middle" letter-spacing="2">42</text>
+        <text x="0" y="-84" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">GALAXY</text>
+      </g>
     </g>
 
-    <!-- 6. POMMEL: 32MM BOX-END PIPE WRENCH (НАКИДНОЙ КЛЮЧ НА 32) -->
-    <g id="wrench-32-pommel" transform="translate(800, 1630)">
-      <!-- Wrench Neck / Collar -->
-      <rect x="-24" y="-115" width="48" height="35" rx="3" fill="url(#steelWrench)" stroke="#2D3748" stroke-width="2"/>
-      <path d="M -24,-80 L -38,-50 L 38,-50 L 24,-80 Z" fill="url(#steelWrench)"/>
-
-      <!-- Outer Heavy Wrench Ring -->
-      <circle cx="0" cy="0" r="95" fill="url(#steelWrench)" stroke="#1A202C" stroke-width="3"/>
-      
-      <!-- Inner Beveled Ring -->
-      <circle cx="0" cy="0" r="75" fill="#2D3748"/>
-
-      <!-- 12-Point Hex Star Wrench Teeth (Разводные шлицы накидного ключа) -->
-      <path d="
-        M 0,-62 L 15,-50 L 34,-54 L 43,-38 L 60,-32 L 60,-15 L 68,0 L 60,15 L 60,32 L 43,38 L 34,54 L 15,50 
-        L 0,62 L -15,50 L -34,54 L -43,38 L -60,32 L -60,15 L -68,0 L -60,-15 L -60,-32 L -43,-38 L -34,-54 L -15,-50 Z
-      " fill="#0A0D12" stroke="#4A5568" stroke-width="1.5"/>
-
-      <!-- Embossed Metric Caliber "32" Engraving -->
-      <text x="0" y="8" font-family="'Courier New', monospace" font-size="28" font-weight="900" fill="#E2E8F0" text-anchor="middle" letter-spacing="2">32</text>
-      <text x="0" y="-76" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#CBD5E0" text-anchor="middle" letter-spacing="3">CR-V</text>
+    <!-- CROSSOVER SPARKS (INTERSECTION CORE) -->
+    <g transform="translate(800, 1220)" filter="url(#neonGlow)">
+      <circle cx="0" cy="0" r="12" fill="#FFFFFF"/>
+      <circle cx="0" cy="0" r="28" fill="#00F2FE" opacity="0.5"/>
+      <!-- Hydraulic Pressure Amber Sparks -->
+      <circle cx="-35" cy="-25" r="3" fill="#FDA085"/>
+      <circle cx="42" cy="-18" r="2.5" fill="#FF8C00"/>
+      <circle cx="-20" cy="30" r="2" fill="#FDA085"/>
+      <circle cx="30" cy="22" r="3" fill="#FF8C00"/>
     </g>
 
   </g>
 
-  <!-- ==================== TYPOGRAPHY & COVER LAYOUT ==================== -->
+  <!-- ==================== TYPOGRAPHY & COVER BRANDING ==================== -->
   
-  <!-- TOP BRANDING & APEX BADGE -->
   <g text-anchor="middle">
-    <!-- Sovereign Monograph Tag -->
-    <rect x="580" y="160" width="440" height="36" rx="18" fill="#1A202C" stroke="#4A5568" stroke-width="1"/>
-    <text x="800" y="184" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#00F2FE" letter-spacing="4">SYSTEM PROMPT FOR HUMANS</text>
+    <!-- Top System Badge -->
+    <rect x="560" y="145" width="480" height="38" rx="19" fill="#141E30" stroke="#00F2FE" stroke-width="1" opacity="0.9"/>
+    <text x="800" y="170" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#00F2FE" letter-spacing="4">SYSTEM PROMPT FOR HUMANS</text>
 
-    <!-- MAIN TITLE: САНТЕХНИКА БЫТИЯ -->
-    <text x="800" y="300" font-family="'Impact', 'Arial Black', sans-serif" font-size="94" font-weight="900" fill="#FFFFFF" letter-spacing="4">САНТЕХНИКА БЫТИЯ</text>
-    <text x="800" y="300" font-family="'Impact', 'Arial Black', sans-serif" font-size="94" font-weight="900" fill="none" stroke="#00F2FE" stroke-width="1.5" opacity="0.6" letter-spacing="4">САНТЕХНИКА БЫТИЯ</text>
+    <!-- Main Title -->
+    <text x="800" y="280" font-family="'Impact', 'Arial Black', sans-serif" font-size="94" font-weight="900" fill="#FFFFFF" letter-spacing="4">САНТЕХНИКА БЫТИЯ</text>
+    <text x="800" y="280" font-family="'Impact', 'Arial Black', sans-serif" font-size="94" font-weight="900" fill="none" stroke="#00F2FE" stroke-width="1.5" opacity="0.6" letter-spacing="4">САНТЕХНИКА БЫТИЯ</text>
 
-    <!-- SUBTITLE -->
-    <text x="800" y="360" font-family="'PT Sans', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#CBD5E0" letter-spacing="4">АРХИТЕКТУРА СУВЕРЕНИТЕТА, ТЕЛЕМЕТРИИ И ВЫЖИВАНИЯ</text>
-    <text x="800" y="395" font-family="'PT Sans', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#718096" letter-spacing="3">В ЭПОХУ ЦИФРОВОГО ХАОСА</text>
+    <!-- Subtitle -->
+    <text x="800" y="340" font-family="'PT Sans', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#CBD5E0" letter-spacing="4">АРХИТЕКТУРА СУВЕРЕНИТЕТА, ТЕЛЕМЕТРИИ И ВЫЖИВАНИЯ</text>
+    <text x="800" y="375" font-family="'PT Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#718096" letter-spacing="3">В ЭПОХУ ЦИФРОВОГО ХАОСА</text>
 
-    <!-- SAKURA & SASUKE SUBTITLE BADGE -->
-    <text x="800" y="445" font-family="'Georgia', serif" font-size="19" font-style="italic" fill="#FDA085" letter-spacing="2">«Папин бумер, мамин Саске-кун»</text>
+    <!-- Subtitle Epigraph / Witcher Motto -->
+    <text x="800" y="425" font-family="'Georgia', serif" font-size="17" font-style="italic" fill="#FDA085" letter-spacing="2">«Сталь на 32 — для чугуна. Серебро на 42 — для системы.»</text>
+    <text x="800" y="455" font-family="'PT Sans', sans-serif" font-size="14" font-weight="600" fill="#4A5568" letter-spacing="2">(Папин бумер, мамин Саске-кун)</text>
   </g>
 
-  <!-- BOTTOM AUTHOR & TECH CREDENTIALS -->
+  <!-- Bottom Brand Block -->
   <g text-anchor="middle">
-    <!-- Division line -->
-    <line x1="450" y1="2100" x2="1150" y2="2100" stroke="#2D3748" stroke-width="1"/>
-    <circle cx="800" cy="2100" r="5" fill="#00F2FE"/>
+    <!-- Division bar -->
+    <line x1="420" y1="2110" x2="1180" y2="2110" stroke="#2D3748" stroke-width="1"/>
+    <circle cx="800" cy="2110" r="5" fill="#00F2FE"/>
 
-    <!-- P0 Matrix Badge -->
-    <text x="800" y="2145" font-family="'Courier New', monospace" font-size="16" font-weight="700" fill="#00F2FE" letter-spacing="3">[ 110 КЛЮЧЕВЫХ ЗАДВИЖЕК МАТРИЦЫ P0 • 5 ЭШЕЛОНОВ L1-L5 ]</text>
+    <!-- P0 Matrix & Echelons -->
+    <text x="800" y="2155" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#00F2FE" letter-spacing="3">[ 110 КЛЮЧЕВЫХ ЗАДВИЖЕК МАТРИЦЫ P0 • 5 ЭШЕЛОНОВ L1-L5 ]</text>
 
-    <!-- Author Names -->
-    <text x="800" y="2225" font-family="'Impact', 'Arial Black', sans-serif" font-size="44" font-weight="900" fill="#FFFFFF" letter-spacing="6">UNDRE &amp; ВАЛЕРА</text>
-    <text x="800" y="2265" font-family="'PT Sans', Arial, sans-serif" font-size="16" font-weight="700" fill="#A0AEC0" letter-spacing="4">DIGITAL PLUMBER &amp; ZERO TRUST INVESTIGATOR</text>
+    <!-- Authors -->
+    <text x="800" y="2230" font-family="'Impact', 'Arial Black', sans-serif" font-size="44" font-weight="900" fill="#FFFFFF" letter-spacing="6">UNDRE &amp; ВАЛЕРА</text>
+    <text x="800" y="2270" font-family="'PT Sans', Arial, sans-serif" font-size="15" font-weight="700" fill="#A0AEC0" letter-spacing="4">DIGITAL PLUMBER &amp; ZERO TRUST INVESTIGATOR</text>
 
-    <!-- Technical spec bar -->
-    <text x="800" y="2330" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#4A5568" letter-spacing="2">OPEN-SOURCE KNOWLEDGE BASE • ZERO-DRM CANONICAL RELEASE</text>
+    <!-- Footer specs -->
+    <text x="800" y="2330" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" fill="#4A5568" letter-spacing="2">OPEN-SOURCE KNOWLEDGE BASE • ZERO-DRM CANONICAL RELEASE</text>
   </g>
 
 </svg>
