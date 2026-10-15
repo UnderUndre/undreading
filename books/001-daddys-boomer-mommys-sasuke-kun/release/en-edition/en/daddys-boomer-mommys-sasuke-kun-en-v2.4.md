@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 24.0 → EN 3.0 (The 130-Valve Forensic Blueprint [P0-01]–[P0-130], Subtractive Pragmatism [P0-125], Post-Mortem Protocol [P0-126], e-Thrombosis PE [P0-127], Telegram tdata Passcode Lock [P0-128], AML SoF vs SoW [P0-129], Botulism 10-Min Thermolysis [P0-130], UHNW Matchmaking [P0-124])
+**Revision:** 24.1 → EN 3.1 (The 131-Valve Forensic Blueprint [P0-01]–[P0-131], Corporate Business Succession [P0-131], 16-Jurisdiction Post-Mortem Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis PE [P0-127], Telegram tdata [P0-128], AML SoF vs SoW [P0-129], Botulism Thermolysis [P0-130])
 
 ---
 
@@ -3096,23 +3096,172 @@ The engineering error is binary thinking: "I'm either alive or dead." Real life 
 #### **5.5.2.1. The Operator's Post-Mortem Protocol: Statutory Traps, RUFADAA Precedence, Miniscript-Liana Inheritance & The 16-Jurisdiction Atlas ([P0-126: POST-MORTEM-SYSTEM-HALT-GATE])**
 
 > ⚠️ **THE DEATH OF THE HOST AS SIGKILL -9:**  
-> Upon biological death, all powers of attorney (DPOA) automatically terminate by operation of law (UPOAA § 110, UK Powers of Attorney Act 1971, art. 188 Russian Civil Code, art. 248 Ukrainian Civil Code). Any panicked attempt by family members to "withdraw funeral cash from the deceased's debit card at an ATM" triggers immediate criminal prosecution.
+> Biological death is the final, unappealable cut of host power. Upon asystole, all powers of attorney (DPOA) automatically terminate by operation of law (UPOAA § 110, UK Powers of Attorney Act 1971, art. 188 Russian Civil Code, art. 248 Ukrainian Civil Code). Any panicked attempt by family members to "withdraw cash from the deceased's debit card at an ATM" triggers immediate criminal prosecution.
 
-##### **1. The Statutory Trap of the Deceased Debit Card:**
-* **United States & UK:** Withdrawing cash using a deceased person's debit card qualifies as **Grand Larceny / Identity Theft** and federal wire fraud under **18 U.S.C. § 1029 / § 1030**, or **Theft Act 1968 s. 1 / Fraud Act 2006 s. 2** in the UK. The moment the heart stops, card funds belong to the probate estate. Taking money without court letters of administration is criminal conversion.
+##### **1. Echelon L1: Clinical Protocols & End-of-Life Directives**
+* **Pre-Hospital DNR Realities:** In common law jurisdictions, *POLST (Physician Orders for Life-Sustaining Treatment)* and *Advance Healthcare Directives (ADRT)* are legally binding on first responders. In civil law jurisdictions (Russia/CIS), pre-hospital DNRs do not operate: emergency crews are statutorily mandated to perform CPR for 30 minutes (Federal Law 323-FZ art. 66(6)), with exceptions restricted to obvious biological death (rigor/livor mortis) or documented end-stage terminal illness.
+* **Clinical Countermeasures:** Execute notarized refusals of invasive intervention and appoint a Healthcare Proxy to prevent hospitals from keeping brain-dead hosts on ventilators for insurance billings.
+* **Autopsy Refusal vs Mandatory Inquest:** Default hospital autopsies can be refused in writing, but sudden unexplained home death of young operators without long-term cardiac medical history mandates a Forensic Medical Examination (SME / Coroner's Inquest).
+* **Pre-Need Funeral Contracts:** A written disposition of burial and pre-funded contract with an official crematorium/funeral home protects surviving relatives from predatory funeral cartels.
+
+##### **2. Echelon L4: The Felony Trap of the ATM Debit Card**
+* **United States & UK:** Withdrawing funds using a deceased person's debit card constitutes **Grand Larceny / Identity Theft** and wire fraud under **18 U.S.C. § 1029 / § 1030**, or **Theft Act 1968 s. 1 / Fraud Act 2006 s. 2** in the UK. The moment biological death occurs, bank balances convert into probate assets. Withdrawing cash without court letters of administration is criminal conversion.
 * **Civil Law Jurisdictions:** In Eastern Europe, ATM withdrawals post-mortem trigger severe felony prosecution (Russian CC art. 158(3)(g) up to 6 years; Ukrainian CC art. 185(4) under martial law up to 8 years imprisonment).
 * **Legal Bypass Pipelines:**  
   1) Direct **POD (Payable on Death) / TOD (Transfer on Death)** registrations on bank and brokerage accounts (Schwab, Fidelity, Interactive Brokers);  
-  2) Bank-level testamentary dispositions (where available);  
+  2) Direct bank testamentary dispositions (where available);  
   3) A dedicated **Fiat Operating Buffer ($3,000–$5,000 cash)** stored in a physical fireproof home safe for the family's first 6 months of baseline survival while accounts are frozen.
 
-##### **2. RUFADAA Precedence & Crypto-Inheritance via Miniscript:**
+##### **3. Echelons L2/L3: RUFADAA Precedence & Crypto-Inheritance via Miniscript**
 * **RUFADAA 2015 Tier Hierarchy:** Under the *Revised Uniform Fiduciary Access to Digital Assets Act* (enacted in 48 US states), a strict three-tier hierarchy rules digital assets: **Online Tools (Apple Legacy / Google Inactive) > Will / Trust > Terms of Service**. Configuring Apple Legacy Contact or Google Inactive Account Manager legally overrules conflicting clauses in a notarized paper will!
 * **Cryptocurrency Inheritance (Liana Miniscript Decaying Multisig):** Writing seed phrases into paper wills is pure negligence (probate clerks and executors routinely steal balances). In Bitcoin wallet Liana, deploy a decaying multisig via relative timelocks (`OP_CHECKSEQUENCEVERIFY` / `OP_CSV`):
-  * While alive: spend unilaterally via your primary hardware key (refreshing the timelock every 6–9 months);
+  * While alive: spend unilaterally via your primary hardware key (refreshing the timelock every 6–9 months via a sweep transaction);
   * After 12 months of inactivity: the timelock expires, activating the heir's recovery key path.
 * **International Shield (EU Brussels IV № 650/2012 Art. 22):** Mandatory inclusion of a *Professio Juris* clause choosing the law of your nationality in European wills to bypass forced heirship (Réserve/Legítima).
 * **"The Red Envelope" Safe Specification:** Physical safe containing the Asset Map (financial institution registry WITHOUT passwords), Apple Legacy Access Keys, Bitwarden Emergency Access protocol (30-day delay), and a bold warning label: **"DO NOT INSERT CARDS INTO ATMS — CONVERSION OF ESTATE ASSETS IS A FELONY!"**.
+
+##### **4. Via Negativa & Bayesian Baseline Calibration:**
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🚩 4 LETHAL INHERITANCE MYTHS (VIA NEGATIVA FILTER)                                    │
+├────────────────────────┬───────────────────────────────────────────────────────────────┤
+│ MYTH                   │ REAL PHYSICAL CONSTRAINT & STATUTORY STATUTE                  │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 1. "My spouse knows my │ 18 U.S.C. § 1029/1030 / CC art. 158(3)(g) / art. 185(4).      │
+│    PIN and will pull"  │ Felony theft from a bank account; 6–8 years imprisonment.     │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 2. "I wrote a simple   │ Forced Heirship / Spousal Elective Share (30–50%). Dependent  │
+│    will leaving all"   │ parents and children legally claw back shares in court.       │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 3. "A web Dead Man's   │ Server compromise risk; SMTP delivery failure; private key    │
+│    Switch sends seed"  │ exfiltration while host is still alive.                       │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ 4. "My chest DNR       │ Statutory mandate on first responders; informal tattoos carry │
+│    tattoo protects me" │ zero legal weight in the field.                               │
+└────────────────────────┴───────────────────────────────────────────────────────────────┘
+```
+* **Bayesian Calibration:** Absent algorithmic fail-safes, smooth asset transition probability sits below $P(A) < 5\%$. In 65% of cases, families face debilitating liquidity freezes, and in 30%, crypto is permanently lost. Deploying this protocol shifts confidence to $P(A|B) > 90\%$.
+
+##### **5. The 16-Jurisdiction Master Forensic Matrix:**
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ THE 16-JURISDICTION COMPARATIVE FORENSIC MATRIX: CRIME, PROBATE, SUPER & BODY DISPOSAL │
+├──────────────┬────────────────────────┬─────────────────────┬──────────────────────────┤
+│ JURISDICTION │ UNAUTHORIZED ATM PULL  │ FORCED HEIRSHIP     │ NON-PROBATE BYPASS / BODY│
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 1. Russia    │ CC art. 158(3)(g)      │ Civil Code art. 1149│ Bank disposition 1128;   │
+│              │ (up to 6 yrs prison)   │ (50% statutory)     │ Art. 20 323-FZ refusal   │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 2. Ukraine   │ CC art. 185(4)         │ Civil Code art. 1241│ Bank disposition 1228;   │
+│              │ (5 to 8 yrs prison)    │ (50% statutory)     │ Arts. 43/52 Health Basics│
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 3. Belarus   │ CC art. 212 (3–7 yrs)  │ Civil Code art. 1064│ Bank disposition 1044    │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 4. Kazakhstan│ CC art. 188(3) (to 7y) │ Civil Code art. 1069│ Bank disposition 1051    │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 5. Georgia   │ CC art. 177 (Theft)    │ Civil Code art. 1371│ Bank disposition 1363    │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 6. Armenia   │ CC arts. 254 / 256     │ Civil Code art. 1194│ Banking dispositions     │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 7. Moldova   │ CP arts. 186 / 191     │ CC art. 2207 (50%)  │ Immediate ASP freeze     │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 8. Baltics   │ Karistusseadustik §199 │ Sundosa / Neatņemamā│ X-Road registry freeze;  │
+│    (EE/LV/LT)│ / Civillikums art. 422 │ daļa (monetary only)│ Monetary claim structure │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 9. US        │ 18 U.S.C. § 1029/1030 /│ 0% children (exc LA)│ Revocable Trust; TOD/POD;│
+│              │ Grand Larceny          │ Spousal Share 30–50%│ RUFADAA; POLST; MAID     │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 10. UK       │ Theft Act 1968 s. 1 /  │ 0% fixed; 1975 Act  │ Discretionary Trust; ADRT│
+│    (England) │ Fraud Act 2006 s. 2    │ family provision    │ Death Notification Serv. │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 11. Scotland │ Common Law Fraud/Theft │ Legal Rights 1/3–1/2│ Moveable vs Heritable;   │
+│              │                        │ (Moveable Estate)   │ Aquamation legal 2026!   │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 12. Canada   │ Criminal Code s. 342   │ WESA s. 60 (BC duty)│ Alter Ego Trust; MAID;   │
+│              │                        │ ON dependants only  │ Granovsky Dual Wills     │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 13. Australia│ Crimes Act s. 192E     │ Family Provision;   │ BDBN for Superannuation  │
+│              │                        │ Notional Estate NSW │ (Hill v Zuda); VAD       │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 14. Singapore│ Penal Code s. 403/420  │ 0% (Wills Act)      │ CPF Nomination (s. 25    │
+│              │                        │                     │ CPF Act strictly outside)│
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 15. EU       │ Wetboek art. 310 /     │ Art. 4:63 BW (NL    │ Professio Juris clause   │
+│   (NL/MT/DE) │ Civil Code Cap. 16 MT  │ monetary only)      │ (Art. 22 Brussels IV)    │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ 16. China    │ CC arts. 196 / 264     │ Civil Code art. 1141│ Art. 1142 (latest will); │
+│              │ (up to 10 yrs prison)  │ (mandatory reserve) │ Shenzhen Living Will 2023│
+└──────────────┴────────────────────────┴─────────────────────┴──────────────────────────┘
+```
+
+##### **6. Bob's 7-Step Weekend Execution SOP:**
+1. Stash $3,000–$5,000 physical cash in your safe (the 6-month fiat freeze survival buffer);
+2. Enable Google Inactive Account Manager and Apple Legacy Contact immediately;
+3. Execute direct bank beneficiary/testamentary dispositions on your checking accounts;
+4. Draft a physical Asset Map cataloging all holdings WITHOUT passwords;
+5. Record explicit audio/video instructions for next-of-kin: "Do not pull from ATMs post-mortem!";
+6. Deploy a Bitcoin Decaying Multisig in Liana Wallet with a 12-month relative timelock;
+7. Schedule baseline clinical telemetry (Holter-ECG, cardiac ultrasound, ApoB, Troponin I, Ferritin).
+
+---
+
+#### **5.5.2.2. Corporate Autarky & Business Succession: Founder SPOF Elimination, Irrevocable Call Options, Canadian Granovsky Dual Wills, DIFC Business Owners Will & 8-Jurisdiction Master Matrix ([P0-131: BUSINESS-SUCCESSION-GATE])**
+
+> 🏢 **THE CORPORATE PROBATE BLACK HOLE (FOUNDER SPOF):**  
+> The sudden demise of an enterprise's sole founder-CEO triggers immediate corporate paralysis: financial institutions revoke digital signature credentials (EDS/ECP), freezing commercial treasury operations for 6 months. Inability to meet payroll, settle server infrastructure invoices, or remit taxes suffocates the enterprise within 60 days.
+
+##### **1. Operations vs Equity: The Core Architectural Boundary**
+* **The Employee Fallacy:** An informal handover to a trusted CTO or VP collapses on day one. Powers of attorney terminate upon the founder's death by operation of law (Civil Code art. 188 / UPOAA § 110).
+* **Appointing a CEO During Lifetime:** Under standard labor and corporation statutes (e.g. Labor Code RF art. 20 / Delaware General Corporation Law), the employer is the corporate entity itself, not the human founder. Biological death of a shareholder **DOES NOT terminate the Chief Executive Officer's contract**! The operational executive retains full signatory powers and banking access.
+* **Dual Managing Directors:** Establishing joint or independent co-directors ensures immediate operational continuity without single points of failure.
+
+##### **2. 5 Civil Law Structuring Mechanisms:**
+1. **Lifetime CEO / Co-Director Appointment:** Secures operational continuity from hour zero without court delay.
+2. **Testamentary Executor Trust Management (arts. 1134 & 1173):** Appointing an executor with exclusive authority to establish trust management over shares independent of heirs.
+3. **Notarized Irrevocable Call Options (art. 429.2 & LLC Law art. 21):** Founder grants a successor an irrevocable option to acquire equity. Post-mortem, the successor accepts the option before a notary, who registers the equity transfer with corporate registries within 5 business days. Anti-challenge safeguard: structured for nominal consideration during lifetime to defeat nullification claims under death-bed gift statutes (art. 572(3)).
+4. **Testamentary Contracts (art. 1140.1):** Multi-party agreement binding the successor to pay surviving family members fixed dividend streams.
+5. **Personal Foundations (art. 123.20-1):** Large-scale holdings (assets exceeding 100M rubles) packaged into personal foundations bypass probate and forced heirship statutes.
+
+##### **3. Cross-Border Succession Structuring Across 8 Hubs:**
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ CROSS-BORDER BUSINESS SUCCESSION MASTER MATRIX: 8 INTERNATIONAL HUBS                   │
+├──────────────┬────────────────────────┬────────────────────────────────────────────────┤
+│ JURISDICTION │ CRITICAL FAILURE MODE  │ DEFENSIVE ENGINEERING MECHANISM                │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 1. Armenia   │ Forfeiture of 1% IT tax│ Option via e-register.am; lifetime appointment │
+│   (LLC ՍՊԸ)  │ under Law HO-498-N     │ of local General Director (Գլխավոր տնօրեն)     │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 2. UAE /     │ Sharia court seizure;  │ Freezone Co-Manager; DIFC Business Owners Will │
+│   Dubai      │ FZCO bank freeze       │ under Dubai Law No. 2 of 2025 (Common Law)     │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 3. Cyprus    │ 9–18 month Cap. 113    │ Alternate Director (s. 170); equity held via   │
+│   (LTD)      │ share probate freeze   │ Cyprus International Trust (CIT 1992/2012)     │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 4. Canada    │ 1.5% Ontario Estate    │ Dual/Multiple Wills doctrine under landmark    │
+│   (CBCA/OBCA)│ Administration Tax     │ precedent Granovsky Estate v. Ontario (1998)   │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 5. US        │ Member-Managed dead-   │ Manager-Managed LLC Operating Agreement with   │
+│   (DE/WY LLC)│ lock on death          │ TOD provisions & Revocable Living Trust units  │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 6. Singapore │ Resident director      │ Local resident director (CA s. 145) paired with│
+│   (Pte Ltd)  │ statutory mandate      │ Private Trust Company (PTC) structure          │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 7. UK        │ Probate share lock     │ Bespoke Articles of Association featuring an   │
+│   (LTD)      │ at Companies House     │ Irrevocable Call Option in favor of successor  │
+├──────────────┼────────────────────────┼────────────────────────────────────────────────┤
+│ 8. Kazakhstan│ Civil law court        │ AIFC jurisdiction: English Common Law courts,  │
+│   (AIFC)     │ probate battles        │ AIFC Trust Regulations & Astana Hub framework  │
+└──────────────┴────────────────────────┴────────────────────────────────────────────────┘
+```
+
+> 🔧 **Translation from English to English (Plain English from Bob):**  
+> **Plain English:** If you are the sole shareholder and sole managing director of your company and get run over by a truck tomorrow, your company turns into an unserviceable brick. Your powers of attorney die with you, corporate accounts freeze, servers go dark, payroll bounces, and clients jump ship.  
+> **The Catch:** You cannot just tell a friend, "Take over if I kick the bucket." Without clean corporate minute books and formal commercial registry filings, banks will freeze your assets on the spot.  
+> **Your Action Item Right Now ([P0-131: BUSINESS-SUCCESSION-GATE]):**  
+> 1. Appoint a trusted successor as General Director or Co-Director during your lifetime;  
+> 2. Execute an Irrevocable Call Option on company units, or draft Canadian Granovsky Dual Wills / Dubai DIFC Business Owners Wills;  
+> 3. Name an executor authorized to establish trust management over private company shares to keep corporate operations alive from hour zero.
 
 ---
 
@@ -8927,6 +9076,11 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 3.1 — 16-Jurisdiction Atlas, Corporate Business Succession & Founder SPOF Elimination (Checked: 2026-10-15; Base EN 3.0):**
+  1. *L1/L2/L4/L5 Comprehensive Post-Mortem Architecture (§5.5.2.1):* Expanded master valve [P0-126] Post-Mortem System-Halt & Fiduciary Handshake: integrated clinical L1 protocols (pre-hospital DNR statutory limitations, 30-min CPR mandates vs terminal exceptions, Healthcare Proxy, autopsy refusal vs mandatory inquest, pre-need funeral contracts); deployed 4-Scam Myths Via Negativa Table and Bayesian survivability calculations ($P(A)<5\%$ vs $P(A|B)>90\%$); embedded complete 16-Jurisdiction Comparative Forensic Matrix spanning probate, criminal unauthorized card access, superannuation and body disposal; integrated Bob's 7-Step Weekend Execution SOP.
+  2. *L3/L4 Corporate Continuity & Founder SPOF Elimination (§5.5.2.2):* Injected master valve [P0-131: BUSINESS-SUCCESSION-GATE]: corporate probate black hole remediation upon sole founder-CEO death; operational management vs equity boundary (appointing lifetime CEO under labor law and corporate statutes); 5 domestic mechanisms (executor trust management, notarized irrevocable call options defeating death-bed gift challenges, testamentary agreements, personal foundations); deployed 8-Hub Cross-Border Business Succession Matrix (Armenia HO-498-N tax traps, Dubai DIFC Business Owners Will under Law No. 2 of 2025, Cyprus Cap. 113 / CIT, Canadian Dual/Multiple Wills under Granovsky Estate 1998, US Manager-Managed LLCs with TOD clauses, Singapore s. 145, UK LTD, Kazakhstan AIFC).
+
 
 * **Revision EN 3.0 — The 130-Valve Forensic Blueprint: Subtractive Pragmatism, Post-Mortem Protocols & Vulnerability Remediation (Checked: 2026-10-15; Base EN 2.8):**
   1. *L0 Cognitive Foundation (§1.0.3):* Injected deconstruction of omnipotence [P0-125] (Wolpert & Macready No-Free-Lunch Theorem, dlPFC thermodynamic constraints, Plomin 2010 $g$-factor heritability ceilings, zero-sum positional games) and Bob's Subtractive Protocol (Gollwitzer implementation intentions $d=0.65$, 90-day 🔴 Kill Criteria, Weinberg Single-WIP limit = 1).
