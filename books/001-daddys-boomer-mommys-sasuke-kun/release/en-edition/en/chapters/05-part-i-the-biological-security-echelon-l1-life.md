@@ -502,6 +502,22 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 
 ---
 
+---
+
+#### **2.7. e-Thrombosis: Pulmonary Embolism (PE), Economy Class Syndrome & Deep Vein Stasis ([P0-127: E-THROMBOSIS-VTE-GATE])**
+
+> 🫀 **PHYSICAL MECHANICS OF REMOTE WORKER VENOUS STASIS (VIRCHOW'S TRIAD):**  
+> The primary silent killer of software engineers and gamers is acute Pulmonary Embolism (PE) triggered by unmitigated sitting. The clinical term **e-Thrombosis** was formally established by *Beasley et al. (Eur Respir J, 2003, DOI: 10.1183/09031936.03.00039403)* documenting a 32-year-old programmer sitting 12–18 hours daily who suffered near-fatal bilateral deep vein thrombosis and massive PE.
+
+* **WHO WRIGHT Project Baseline:** Continuous seated immobility $\ge 4$ hours (at desks, in cars, or long-haul flights) quadruples relative venous thromboembolism (VTE) risk. A 90° popliteal knee bend coupled with edge-of-chair femoral vein compression drops calf blood flow velocity by 3–4x.
+* **The Embolic Detachment Catastrophe:** The clot forms silently in deep soleal veins. The operator stands up at 03:00 AM for water — the thrombus shears off, travels through the inferior vena cava, and occludes the pulmonary arterial tree. **Death from acute right ventricular failure occurs in 90–180 seconds.**
+* **Bob's Counter-Valve Protocol [P0-127]:**
+  1. *Graduated Compression:* **Class 1 compression socks (15–21 mmHg)** mandatory during flights $>4$ hours and extended coding shifts $>6$ hours;
+  2. *Ultradian Break Limit:* Break seated posture every **60–90 minutes** (aligned with BRAC cycles [P0-06]) for 3–5 minutes of calf activation and ambulation;
+  3. *Diagnostic Triage:* Asymmetric calf edema, localized tenderness on foot dorsiflexion $\to$ **D-Dimer assay (<500 ng/mL FEU)** + venous duplex ultrasound (CUS). **NEVER MASSAGE A TENDER CALF!** (massage mechanically dislodges the thrombus, triggering instant death).
+
+---
+
 ### **Chapter 3. Preventive Lipidology and the Psychosocial Circuit**
 
 > 🚨 **Anti-Case No. 2 (Ozempic sarcopenia):** The risk of Ozempic sarcopenia: GLP-1 (Ozempic) use at a calorie deficit WITHOUT strength training and adequate protein (\$1.6\text{–}2.2\text{ g/kg}$) threatens the loss of up to **40% of skeletal muscle out of the total weight lost**.

@@ -658,6 +658,31 @@ The engineering error is binary thinking: "I'm either alive or dead." Real life 
 
 ---
 
+---
+
+#### **5.5.2.1. The Operator's Post-Mortem Protocol: Statutory Traps, RUFADAA Precedence, Miniscript-Liana Inheritance & The 16-Jurisdiction Atlas ([P0-126: POST-MORTEM-SYSTEM-HALT-GATE])**
+
+> ⚠️ **THE DEATH OF THE HOST AS SIGKILL -9:**  
+> Upon biological death, all powers of attorney (DPOA) automatically terminate by operation of law (UPOAA § 110, UK Powers of Attorney Act 1971, art. 188 Russian Civil Code, art. 248 Ukrainian Civil Code). Any panicked attempt by family members to "withdraw funeral cash from the deceased's debit card at an ATM" triggers immediate criminal prosecution.
+
+##### **1. The Statutory Trap of the Deceased Debit Card:**
+* **United States & UK:** Withdrawing cash using a deceased person's debit card qualifies as **Grand Larceny / Identity Theft** and federal wire fraud under **18 U.S.C. § 1029 / § 1030**, or **Theft Act 1968 s. 1 / Fraud Act 2006 s. 2** in the UK. The moment the heart stops, card funds belong to the probate estate. Taking money without court letters of administration is criminal conversion.
+* **Civil Law Jurisdictions:** In Eastern Europe, ATM withdrawals post-mortem trigger severe felony prosecution (Russian CC art. 158(3)(g) up to 6 years; Ukrainian CC art. 185(4) under martial law up to 8 years imprisonment).
+* **Legal Bypass Pipelines:**  
+  1) Direct **POD (Payable on Death) / TOD (Transfer on Death)** registrations on bank and brokerage accounts (Schwab, Fidelity, Interactive Brokers);  
+  2) Bank-level testamentary dispositions (where available);  
+  3) A dedicated **Fiat Operating Buffer ($3,000–$5,000 cash)** stored in a physical fireproof home safe for the family's first 6 months of baseline survival while accounts are frozen.
+
+##### **2. RUFADAA Precedence & Crypto-Inheritance via Miniscript:**
+* **RUFADAA 2015 Tier Hierarchy:** Under the *Revised Uniform Fiduciary Access to Digital Assets Act* (enacted in 48 US states), a strict three-tier hierarchy rules digital assets: **Online Tools (Apple Legacy / Google Inactive) > Will / Trust > Terms of Service**. Configuring Apple Legacy Contact or Google Inactive Account Manager legally overrules conflicting clauses in a notarized paper will!
+* **Cryptocurrency Inheritance (Liana Miniscript Decaying Multisig):** Writing seed phrases into paper wills is pure negligence (probate clerks and executors routinely steal balances). In Bitcoin wallet Liana, deploy a decaying multisig via relative timelocks (`OP_CHECKSEQUENCEVERIFY` / `OP_CSV`):
+  * While alive: spend unilaterally via your primary hardware key (refreshing the timelock every 6–9 months);
+  * After 12 months of inactivity: the timelock expires, activating the heir's recovery key path.
+* **International Shield (EU Brussels IV № 650/2012 Art. 22):** Mandatory inclusion of a *Professio Juris* clause choosing the law of your nationality in European wills to bypass forced heirship (Réserve/Legítima).
+* **"The Red Envelope" Safe Specification:** Physical safe containing the Asset Map (financial institution registry WITHOUT passwords), Apple Legacy Access Keys, Bitwarden Emergency Access protocol (30-day delay), and a bold warning label: **"DO NOT INSERT CARDS INTO ATMS — CONVERSION OF ESTATE ASSETS IS A FELONY!"**.
+
+---
+
 #### **5.5.3. Echelon L2/L5: The Crypto-Agility Inventory [P0-22: PQC-INVENTORY] and Defense Against Harvest-Now-Decrypt-Later (HNDL)**
 
 FIDO2 tokens close the authentication perimeter against instantaneous phishing. But the system's long-lived artifacts — company legal archives, wills, biometric and medical imagery (CBCT, DNA profiles), long-term multisig contracts — are exposed to a strategic threat: **"Harvest Now, Decrypt Later" (HNDL)**.
@@ -1099,6 +1124,11 @@ Email is the root key of your digital identity. Getting into the mailbox (via a 
 * [ ] **Calls (the IP leak):** `Calls -> Peer-to-Peer -> Nobody` (or `My contacts`). By default Telegram connects devices directly P2P in calls, leaking your exact white IP address to the other party — visible in Wireshark.
 * [ ] **Message forwarding:** `Forwarding -> Who can link to my account: Nobody`. When your text gets forwarded, the link to your profile stops being clickable.
 * [ ] **Session audit:** `Devices`. Terminate all old sessions from unknown browsers, dacha tablets, and emulators.
+* [ ] **Telegram Desktop Protection from Info-Stealers via Local Passcode Lock ([P0-128: TDATA-SESSION-GUARD-GATE]):**
+  * *Attack Mechanics (MITRE ATT&CK T1539 / T1552.001):* Modern malware stealers (LummaC2, Stealc, Vidar) automatically exfiltrate the `%APPDATA%\\Telegram Desktop\\tdata` directory upon running untrusted scripts or compromised open-source repos.
+  * *Why Cloud 2FA Fails:* Two-Step Verification protects ONLY *new* device logins. The `tdata` directory holds a pre-authenticated `AuthKey` (`key_datas`). Attackers clone this folder into a portable Telegram Desktop instance and land directly inside your live profile WITHOUT triggering SMS or 2FA prompts!
+  * *The Cryptographic Lock:* Enable local locking: `Settings -> Privacy & Security -> Passcode Lock`. In Telegram Desktop's source (*storage_account.cpp*), setting a passcode encrypts the `tdata` store using `PKCS5_PBKDF2_HMAC_SHA1` (4,000 iterations) + AES-IGE / AES-256. Without the passcode, stolen `tdata` is unreadable garbage.
+  * *Operational SOP:* Configure auto-lock for **1–5 minutes** of inactivity, and NEVER store recovery seed phrases, passport scans, or server credentials in "Saved Messages" (steal scripts siphon this chat first).
 
 ---
 

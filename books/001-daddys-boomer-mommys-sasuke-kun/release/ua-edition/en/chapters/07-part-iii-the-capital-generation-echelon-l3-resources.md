@@ -627,6 +627,23 @@ Foreign investors (Non-Resident Aliens, NRAs) holding US equities (Apple, Micros
 
 ---
 
+---
+
+##### **7.5.12.2. Banking AML Paralysis: The Chasm Between Source of Funds (SoF) and Source of Wealth (SoW) ([P0-129: AML-SOW-AUDIT-TRAIL-GATE])**
+
+> 💼 **FORENSIC COMPLIANCE AUDIT (WOLFSBERG GROUP & FATF R.10):**  
+> Expats and global operators routinely suffer total banking paralysis during cross-border transfers by conflating two fundamentally distinct compliance concepts:
+> * **Source of Funds (SoF / Transaction Origin):** Where did this specific tranche of money come from? (*"Sold real estate / wired from Stripe payout / closed a P2P trade"*).
+> * **Source of Wealth (SoW / Cumulative Origin):** What lifetime economic activities generated the client's entire net worth? (*"How did you legitimately accumulate the capital to buy that apartment 7 years ago?"*).
+
+* **The Freeze Mechanism:** Under EU 6AMLD directives and FATF recommendations, transfers exceeding $\$10,000\text{--}\$50,000$ trigger mandatory SoW reviews by Tier-1 institutions. Presenting a closing statement for real estate or a crypto exchange payout is wholly inadequate. Absent multi-year verified tax returns (IRS transcripts / P60s / audited corporate distributions), compliance teams flag unverifiable SoW, freeze funds for 6–12 months, and file a Suspicious Activity Report (SAR), effectively blacklisting the operator across international clearing networks.
+* **The Defensive Protocol [P0-129]:**
+  1. *The 7-Year WORM Audit Trail Rule:* Retain immutable, certified copies of all historical tax filings, dividend certificates, and corporate ledgers for a minimum of **7 trailing years**;
+  2. *Pre-Clearance Consultation:* Never initiate incoming wires exceeding $\$20,000$ without written pre-approval of documentation packages from receiving bank compliance officers;
+  3. *Segregation of P2P Capital:* Never mix P2P exchange receipts with primary business or personal operating treasuries.
+
+---
+
 ### **Chapter 7.6. The Fragility of the Caloric Riser: Just-In-Time Logistics, the Haber-Bosch Process, and the 90-Day Buffer (Mylar & Ghee)**
 
 #### **7.6.1. The Just-in-Time (JIT) model and the 72-hour collapse**
