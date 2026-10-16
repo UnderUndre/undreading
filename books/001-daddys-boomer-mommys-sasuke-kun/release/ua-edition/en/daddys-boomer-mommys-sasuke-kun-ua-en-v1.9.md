@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Ukrainian Edition (Uncle Tolya) Translated to English*
 
 **Author:** Undre & Uncle Tolya (Master Vasyl, Field Plumbing Engineer)  
-**Revision:** 24.2 (ua-en-v1.9-release) (132-Valve Forensic Blueprint [P0-01]–[P0-132], Sovereign Birth Engineering [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis [P0-127], Telegram tdata [P0-128], AML SoF/SoW [P0-129], Botulism [P0-130])  
+**Revision:** 24.3 (ua-en-v1.9-release) (135-Valve Forensic Blueprint [P0-01]–[P0-135], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis [P0-127], Telegram tdata [P0-128], AML SoF/SoW [P0-129], Botulism [P0-130])  
 **Format:** Monograph / Operational Runbook / Ukrainian Legal, Military & Digital Forensics  
 **Status:** Canonical Ukrainian Monograph in Full English Translation  
 
@@ -8235,6 +8235,62 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
+---
+
+#### **11.4.0.1. Postpartum Thermodynamic Collapse & Parental Sleep Deprivation ([P0-133: POSTPARTUM-BURNOUT-SLEEP-GATE])**
+
+> 🫀 **THE THREE-MONTH METABOLIC SHOCK:**  
+> Introducing a new biological biomass (an infant) into the family grid shatters baseline thermodynamic constants. Landmark research by *Richter et al. (2019)* proved that parental sleep quality collapses catastrophically during the first three postpartum months and **fails to return to pre-pregnancy baseline corridors for up to six years**.
+
+##### **1. Sleep Architecture Collapse & Burnout Metrics:**
+* **Phase Fragmentation:** Newborns lack circadian cortisol/melatonin rhythms, waking every 90–120 minutes. For operators, this continuous NREM slow-wave sleep disruption induces acute prefrontal cortex degradation.
+* **The Marital Satisfaction Cliff (Twenge et al., 2003):** 67% of couples report a sharp drop in marital satisfaction within the first year postpartum driven by chronic sleep debt, domestic OPEX friction, and oxytocin depletion.
+* **Paternal Postpartum Depression (Paulson & Bazemore, 2010):** Up to **10% of fathers** experience clinical depression under financial and sleep deprivation pressures, frequently manifesting as irritability and workaholism.
+
+##### **2. Emergency Riser Protocols (PURPLE Crying & SBS Prevention):**
+* **The Period of PURPLE Crying:** Infant inconsolable crying peaks at 2 months of age. Attempting to force silence via physical shaking triggers **Shaken Baby Syndrome (SBS)**: bridging vein rupture, subdural hemorrhage, and irreversible neuronal death within seconds.
+* **Pressure Release SOP:** When parental frustration hits critical threshold, execute the hard rule: **"Place the infant safely in the crib and step out of the room for 10 minutes."** Safe solitary crying has never killed an infant; shaking kills instantly.
+
+---
+
+#### **11.4.0.2. Distributed Care, Paternal Plasticity & The Zero-Trust Nanny Protocol ([P0-134: PATERNAL-SUBSTITUTION-NANNY-GATE])**
+
+> 🧬 **THE NEUROBIOLOGICAL PLASTICITY OF FATHERHOOD:**  
+> The archaic myth that "mothers are innate operators while fathers are mere wallets" has been dismantled by neuroscience. *Abraham et al. (2014, PNAS)* proved that primary-caregiver fathers exhibit **identical amygdala and oxytocin circuit activation** as mothers when interacting with infants. Active paternal care remodels the male brain just as deeply.
+
+##### **1. Nurseries vs. Dedicated In-Home Care (Vermeer & van IJzendoorn, 2006):**
+* Group daycare facilities for toddlers under 3 induce **chronic elevations in salivary cortisol** during afternoon hours due to sensory overload and lack of individualized adult mirroring.
+* 1:1 home care (parents or vetted professional nannies) maintains normal diurnal cortisol circadian curves.
+
+##### **2. The Zero-Trust Nanny Protocol:**
+1. *Continuous Video Monitoring:* Uncompromised security cameras covering all infant spaces with encrypted cloud backups.
+2. *1-Year Probationary Gate:* Phased integration coupled with random, unannounced audits.
+3. *Medical Vetting:* Mandatory vaccination compliance (Tdap/Adacel against pertussis, diphtheria, tetanus) and recent chest radiographs.
+4. *Biometric Lockdown:* Immediate keycard/lock code revocation upon contract termination.
+
+---
+
+#### **11.4.0.3. Evidence-Based Developmental Architecture: From PFC Myelination to Corporal Punishment Bans ([P0-135: EVIDENCE-PARENTING-AUTHORITATIVE-GATE])**
+
+> 🧠 **PREFRONTAL CORTEX MYELINATION UNTIL AGE 25:**  
+> A child's brain is an uncompleted data center with open wiring trays. Complete myelination of frontal lobe white matter tracts continues until ages 23–25. A four-year-old having a meltdown is not a "manipulator" but an **overloaded hardware buffer** of the limbic system, incapable of self-regulation without external co-regulation.
+
+##### **1. Refuting Physical Punishment (Gershoff & Grogan-Kaylor, 2016):**
+* A meta-analysis of 75 studies ($N = 160,927$) proved that physical discipline (spanking, corporal strikes) **carries zero long-term positive effects**. It correlates directly with increased aggression, antisocial conduct, anxiety, and reduced prefrontal cortex gray matter volume.
+
+##### **2. Authoritative Parenting (Pinquart Meta-Analysis):**
+* The optimal operational balance of **unconditional emotional warmth** (secure attachment) and **rigid, predictable boundaries** (rules paired with natural logical consequences). Authoritarian parenting ("because I said so") breeds deceit and learned helplessness; permissive parenting ("do whatever you want") breeds entitlement and poor impulse control.
+
+##### **3. Screen Time and Cognitive Development (AAP & WHO Standards):**
+* *0 to 18–24 months:* Zero digital screens (excluding live video calls with distant family).
+* *Ages 2 to 5:* Maximum 1 hour daily of high-quality programming viewed alongside an active parent.
+* *The 5 Cs Framework:* Evaluating media via *Content, Context, Connection, Child, and Communication*.
+
+##### **4. Gender Similarities Hypothesis (Hyde, 2005):**
+* A meta-synthesis of psychological studies proved that males and females are cognitively identical across **78–99%** of measured domains. Actual gender disparities in mathematics, spatial reasoning, and verbal skills are negligible ($d \le 0.2$), driven almost entirely by educational tracking and social expectations.
+
+---
+
 #### **11.4.1. The institutional risks of family relocation: school contracts, the 1980 Hague Convention, and the EES biometric gate (L4)**
 
 In the sovereign operator's architecture, family status and the presence of minor children form a critical Single Point of Failure (SPOF) capable of instantly blocking geographic maneuverability:
@@ -9230,6 +9286,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 3.3 — Sovereign Parenting & Developmental Neurobiology: Postpartum Sleep, Nanny Protocols & Evidence-Based Pedagogy (Checked: 2026-10-15; Base EN 3.2):**
+  1. *L1/L2 Sovereign Childhood Engineering (§11.4.0.1–§11.4.0.3):* Injected valves [P0-133] (managing postpartum burnout and parental sleep deprivation via Richter 2019, Twenge 2003 marital satisfaction metrics, Paulson 2010 paternal depression, SBS prevention), [P0-134] (paternal neurobiological plasticity via Abraham PNAS 2014, daycare vs nanny cortisol analysis via Vermeer 2006, Zero-Trust Nanny Protocol) and [P0-135] (PFC myelination timelines up to age 25, refutation of corporal punishment via Gershoff 2016 meta-analysis, authoritative parenting via Pinquart, AAP/WHO screen time standards, Hyde 2005 gender similarities hypothesis).
+
 
 * **Revision EN 3.2 — Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits & 15-Jurisdiction Master Matrix (Checked: 2026-10-15; Base EN 3.1):**
   1. *L1/L4 Sovereign Birth Engineering (§11.4.0):* Injected master valve [P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE]: forensic deconstruction of the birth tourism industry; structural decoupling of infant Jus Soli and parental immigration status; 4 hydraulic circuits of international citizenship law; 15-Jurisdiction Comparative Master Forensic Matrix (Brazil CF/88 art. 12 and 1-year parental naturalization under Lei 13.445; Mexico CPEUM art. 30 same-day permanent residency and 2-year citizenship; Argentina DNU 366/2025 court backlog and Ezeiza airport profiling; Chile Circular 014 transeúnte restrictions; US 21-year sponsorship horizon under Form I-130 + lifetime CBT tax trap IRS 1040/FBAR/PFIC; Canadian 18-year PGP lottery and LICO + 30% thresholds; Spanish Simple Presunción under art. 17.1(c) CC + RD 1155/2024 parental permit and 1-year infant naturalization under art. 22.2(b); Portuguese 5-year PR threshold under Law 1/2026; UAE 120-day AED 50/day overstay countdown and Bali 60-day IDR 1M/day fines).

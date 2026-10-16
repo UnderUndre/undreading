@@ -705,6 +705,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+* **Revision EN 3.3 — Sovereign Parenting & Developmental Neurobiology: Postpartum Sleep, Nanny Protocols & Evidence-Based Pedagogy (Checked: 2026-10-15; Base EN 3.2):**
+  1. *L1/L2 Sovereign Childhood Engineering (§11.4.0.1–§11.4.0.3):* Injected valves [P0-133] (managing postpartum burnout and parental sleep deprivation via Richter 2019, Twenge 2003 marital satisfaction metrics, Paulson 2010 paternal depression, SBS prevention), [P0-134] (paternal neurobiological plasticity via Abraham PNAS 2014, daycare vs nanny cortisol analysis via Vermeer 2006, Zero-Trust Nanny Protocol) and [P0-135] (PFC myelination timelines up to age 25, refutation of corporal punishment via Gershoff 2016 meta-analysis, authoritative parenting via Pinquart, AAP/WHO screen time standards, Hyde 2005 gender similarities hypothesis).
+
+
 * **Revision EN 3.2 — Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits & 15-Jurisdiction Master Matrix (Checked: 2026-10-15; Base EN 3.1):**
   1. *L1/L4 Sovereign Birth Engineering (§11.4.0):* Injected master valve [P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE]: forensic deconstruction of the birth tourism industry; structural decoupling of infant Jus Soli and parental immigration status; 4 hydraulic circuits of international citizenship law; 15-Jurisdiction Comparative Master Forensic Matrix (Brazil CF/88 art. 12 and 1-year parental naturalization under Lei 13.445; Mexico CPEUM art. 30 same-day permanent residency and 2-year citizenship; Argentina DNU 366/2025 court backlog and Ezeiza airport profiling; Chile Circular 014 transeúnte restrictions; US 21-year sponsorship horizon under Form I-130 + lifetime CBT tax trap IRS 1040/FBAR/PFIC; Canadian 18-year PGP lottery and LICO + 30% thresholds; Spanish Simple Presunción under art. 17.1(c) CC + RD 1155/2024 parental permit and 1-year infant naturalization under art. 22.2(b); Portuguese 5-year PR threshold under Law 1/2026; UAE 120-day AED 50/day overstay countdown and Bali 60-day IDR 1M/day fines).
 
