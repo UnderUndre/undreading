@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 24.1 → EN 3.1 (The 131-Valve Forensic Blueprint [P0-01]–[P0-131], Corporate Business Succession [P0-131], 16-Jurisdiction Post-Mortem Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis PE [P0-127], Telegram tdata [P0-128], AML SoF vs SoW [P0-129], Botulism Thermolysis [P0-130])
+**Revision:** 24.2 → EN 3.2 (The 132-Valve Forensic Blueprint [P0-01]–[P0-132], Sovereign Birth Engineering & 15-Jurisdiction Jus Soli Matrix [P0-132], Corporate Business Succession [P0-131], 16-Jurisdiction Post-Mortem Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis PE [P0-127], Telegram tdata [P0-128], AML SoF vs SoW [P0-129], Botulism Thermolysis [P0-130])
 
 ---
 
