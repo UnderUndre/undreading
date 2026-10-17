@@ -707,6 +707,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+* **Revision EN 3.4 — Preconception Hardware & Gestational Physiology: Gametogenesis Cycles, Paternal SNV Rates & Pregnancy Pathologies (Checked: 2026-10-17; Base EN 3.3):**
+  1. *L1/L4 Sovereign Birth Engineering (§11.4.0.0):* Injected valves [P0-136] (preconception gamete audit, 20–25% per-cycle fecundability via Gnoth 2003, 72–74 day spermatogenesis and 85–120 day folliculogenesis cycles, paternal age mutation rate of +2 de novo SNVs/year via Kong Nature 2012, oocyte cohesin degradation) and [P0-137] (gestational physiology, +40–50% plasma volume overdrive, 15–20% miscarriage baseline via Quenby Lancet 2021, GDM 14.0%, preeclampsia 3–8%, GDF15-mediated hyperemesis via Fejzo Nature 2024).
+
+
 * **Revision EN 3.3 — Sovereign Parenting & Developmental Neurobiology: Postpartum Sleep, Nanny Protocols & Evidence-Based Pedagogy (Checked: 2026-10-15; Base EN 3.2):**
   1. *L1/L2 Sovereign Childhood Engineering (§11.4.0.1–§11.4.0.3):* Injected valves [P0-133] (managing postpartum burnout and parental sleep deprivation via Richter 2019, Twenge 2003 marital satisfaction metrics, Paulson 2010 paternal depression, SBS prevention), [P0-134] (paternal neurobiological plasticity via Abraham PNAS 2014, daycare vs nanny cortisol analysis via Vermeer 2006, Zero-Trust Nanny Protocol) and [P0-135] (PFC myelination timelines up to age 25, refutation of corporal punishment via Gershoff 2016 meta-analysis, authoritative parenting via Pinquart, AAP/WHO screen time standards, Hyde 2005 gender similarities hypothesis).
 

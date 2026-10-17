@@ -1978,6 +1978,28 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 
 ---
 
+#### **11.4.0.0. Preconception & Gestational Hardware: Gametogenesis, Paternal Age SNV Rates & Gestational Hemodynamics ([P0-136: PRECONCEPTION-HARDWARE-CLOCK-GATE] & [P0-137: GESTATIONAL-PHYSIOLOGY-PATHOLOGY-GATE])**
+
+> 🧬 **POINT MINUS THREE MONTHS: HARDWARE GAMETE AUDIT:**  
+> Treating conception as a spontaneous event is a severe engineering error. Offspring quality is 50% dictated by the condition of gametes (sperm and oocytes) forged months prior to fusion. Preconception preparation is a strict hardware audit and calibration of parental biological substrates.
+
+##### **1. Gametogenesis Cycles & Natural Fecundability ([P0-136]):**
+* **Natural Fecundability:** The probability of pregnancy per menstrual cycle in healthy fertile couples is **$20\text{--}25\%$** (Gnoth et al., 2003); cumulative pregnancy rates reach **$85\%$ at 12 months, $90\text{--}93\%$ at 24 months**.
+* **Spermatogenesis Timing:** Complete sperm maturation in the testes requires **$\sim 72\text{--}74$ days**, plus 10–14 days of epididymal transit. Alcohol, toxins, hyperthermia (saunas, tight thermal underwear), and systemic infections sustained 3 months prior directly degrade sperm genetic stability.
+* **Folliculogenesis Timing:** Oocyte recruitment and maturation from primordial follicles spans **$85\text{--}120$ days** (>3 months).
+* **Paternal Age Mutation Factor (*Kong et al., Nature 2012*):** Unlike females born with a fixed oocyte pool, male spermatogonial stem cells divide continuously. For every paternal year of age, an average of **$+2$ new *de novo* single nucleotide variants (SNVs)** are transmitted to the offspring, exponentially increasing relative risks of autism, Apert syndrome, schizophrenia, and monogenic disorders. Paternal factor accounts for **$40\text{--}50\%$** of infertile couples.
+* **Maternal Age & Cohesins:** Age-related degradation of cohesin protein rings leads to meiotic chromosomal non-disjunction. Trisomy 21 (Down syndrome) risk scales from **1 in 1480 at age 20** to **1 in 353 at age 35**, **1 in 85 at age 40**, and **1 in 35 at age 45** (ACOG).
+
+##### **2. Gestational Physiology & Pathology ([P0-137]):**
+* **Miscarriage Baseline Statistics:** For clinically recognized pregnancies, spontaneous abortion occurs in **$15\text{--}20\%$** of cases (Quenby et al., The Lancet 2021). By age cohort: 20–30 = $9\text{--}15\%$; age 35 = $\approx 20\%$; age 40 = $\approx 40\%$; age 45 = $\ge 80\%$. Pre-implantation biochemical losses reach **$50\text{--}70\%$** (Wilcox et al., NEJM 1988) due to embryonic genetic errors.
+* **Gestational Hemodynamic Overdrive:** Maternal circulating plasma volume expands by **$+40\text{--}50\%$**, and cardiac output increases by **$+30\text{--}50\%$**. The cardiovascular system operates under a 40-week sub-maximal stress test.
+* **Gestational Pathologies:**
+  * *Gestational Diabetes Mellitus (GDM):* Standardized global pooled prevalence sits at exactly **$14.0\%$** (IDF Diabetes Atlas 2022).
+  * *Preeclampsia:* Severe endothelial vascular damage develops in **$3\text{--}8\%$** of pregnancies (WHO/ACOG), accounting for 16% of global maternal mortality.
+* **Biological Asymmetry:** Hyperemesis Gravidarum is driven by maternal brainstem receptor hypersensitivity (GFRAL) to the embryonic peptide GDF15 (*Fejzo et al., Nature 2024*); obstetric perineal trauma (grades I–IV) occurs in **$50\text{--}85\%$** of nulliparous vaginal deliveries; *Motherhood Penalty* (Kleven et al.) enforces a lifelong 20–30% earnings drop for mothers.
+
+---
+
 #### **11.4.0. Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits, Parental Fast-Tracks & Consular Overstay Defense ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE])**
 
 > 👶 **POINT ZERO: THE LEGAL INITIALIZATION OF A NEW OPERATOR:**  

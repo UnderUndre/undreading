@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun)*
 
 **Authors:** Undre (concept, N=1 survival experience, architecture) & AI in the persona of **Bob the Infrastructure Plumber** (compilation of L1–L5 standards, formulas, forensics)
-**Revision:** 24.3 → EN 3.3 (The 135-Valve Forensic Blueprint [P0-01]–[P0-135], Evidence-Based Parenting [P0-133]–[P0-135], Sovereign Birth Engineering [P0-132], Corporate Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis PE [P0-127], Telegram tdata [P0-128], AML SoF vs SoW [P0-129], Botulism Thermolysis [P0-130])
+**Revision:** 24.4 → EN 3.4 (The 137-Valve Forensic Blueprint [P0-01]–[P0-137], Preconception Hardware [P0-136], Gestational Physiology [P0-137], Evidence-Based Parenting [P0-133]–[P0-135], Sovereign Birth Engineering [P0-132], Corporate Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis PE [P0-127], Telegram tdata [P0-128], AML SoF vs SoW [P0-129], Botulism Thermolysis [P0-130])
 
 ---
 
@@ -8081,6 +8081,28 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 
 ---
 
+#### **11.4.0.0. Preconception & Gestational Hardware: Gametogenesis, Paternal Age SNV Rates & Gestational Hemodynamics ([P0-136: PRECONCEPTION-HARDWARE-CLOCK-GATE] & [P0-137: GESTATIONAL-PHYSIOLOGY-PATHOLOGY-GATE])**
+
+> 🧬 **POINT MINUS THREE MONTHS: HARDWARE GAMETE AUDIT:**  
+> Treating conception as a spontaneous event is a severe engineering error. Offspring quality is 50% dictated by the condition of gametes (sperm and oocytes) forged months prior to fusion. Preconception preparation is a strict hardware audit and calibration of parental biological substrates.
+
+##### **1. Gametogenesis Cycles & Natural Fecundability ([P0-136]):**
+* **Natural Fecundability:** The probability of pregnancy per menstrual cycle in healthy fertile couples is **$20\text{--}25\%$** (Gnoth et al., 2003); cumulative pregnancy rates reach **$85\%$ at 12 months, $90\text{--}93\%$ at 24 months**.
+* **Spermatogenesis Timing:** Complete sperm maturation in the testes requires **$\sim 72\text{--}74$ days**, plus 10–14 days of epididymal transit. Alcohol, toxins, hyperthermia (saunas, tight thermal underwear), and systemic infections sustained 3 months prior directly degrade sperm genetic stability.
+* **Folliculogenesis Timing:** Oocyte recruitment and maturation from primordial follicles spans **$85\text{--}120$ days** (>3 months).
+* **Paternal Age Mutation Factor (*Kong et al., Nature 2012*):** Unlike females born with a fixed oocyte pool, male spermatogonial stem cells divide continuously. For every paternal year of age, an average of **$+2$ new *de novo* single nucleotide variants (SNVs)** are transmitted to the offspring, exponentially increasing relative risks of autism, Apert syndrome, schizophrenia, and monogenic disorders. Paternal factor accounts for **$40\text{--}50\%$** of infertile couples.
+* **Maternal Age & Cohesins:** Age-related degradation of cohesin protein rings leads to meiotic chromosomal non-disjunction. Trisomy 21 (Down syndrome) risk scales from **1 in 1480 at age 20** to **1 in 353 at age 35**, **1 in 85 at age 40**, and **1 in 35 at age 45** (ACOG).
+
+##### **2. Gestational Physiology & Pathology ([P0-137]):**
+* **Miscarriage Baseline Statistics:** For clinically recognized pregnancies, spontaneous abortion occurs in **$15\text{--}20\%$** of cases (Quenby et al., The Lancet 2021). By age cohort: 20–30 = $9\text{--}15\%$; age 35 = $\approx 20\%$; age 40 = $\approx 40\%$; age 45 = $\ge 80\%$. Pre-implantation biochemical losses reach **$50\text{--}70\%$** (Wilcox et al., NEJM 1988) due to embryonic genetic errors.
+* **Gestational Hemodynamic Overdrive:** Maternal circulating plasma volume expands by **$+40\text{--}50\%$**, and cardiac output increases by **$+30\text{--}50\%$**. The cardiovascular system operates under a 40-week sub-maximal stress test.
+* **Gestational Pathologies:**
+  * *Gestational Diabetes Mellitus (GDM):* Standardized global pooled prevalence sits at exactly **$14.0\%$** (IDF Diabetes Atlas 2022).
+  * *Preeclampsia:* Severe endothelial vascular damage develops in **$3\text{--}8\%$** of pregnancies (WHO/ACOG), accounting for 16% of global maternal mortality.
+* **Biological Asymmetry:** Hyperemesis Gravidarum is driven by maternal brainstem receptor hypersensitivity (GFRAL) to the embryonic peptide GDF15 (*Fejzo et al., Nature 2024*); obstetric perineal trauma (grades I–IV) occurs in **$50\text{--}85\%$** of nulliparous vaginal deliveries; *Motherhood Penalty* (Kleven et al.) enforces a lifelong 20–30% earnings drop for mothers.
+
+---
+
 #### **11.4.0. Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits, Parental Fast-Tracks & Consular Overstay Defense ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE])**
 
 > 👶 **POINT ZERO: THE LEGAL INITIALIZATION OF A NEW OPERATOR:**  
@@ -9219,6 +9241,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 3.4 — Preconception Hardware & Gestational Physiology: Gametogenesis Cycles, Paternal SNV Rates & Pregnancy Pathologies (Checked: 2026-10-17; Base EN 3.3):**
+  1. *L1/L4 Sovereign Birth Engineering (§11.4.0.0):* Injected valves [P0-136] (preconception gamete audit, 20–25% per-cycle fecundability via Gnoth 2003, 72–74 day spermatogenesis and 85–120 day folliculogenesis cycles, paternal age mutation rate of +2 de novo SNVs/year via Kong Nature 2012, oocyte cohesin degradation) and [P0-137] (gestational physiology, +40–50% plasma volume overdrive, 15–20% miscarriage baseline via Quenby Lancet 2021, GDM 14.0%, preeclampsia 3–8%, GDF15-mediated hyperemesis via Fejzo Nature 2024).
+
 
 * **Revision EN 3.3 — Sovereign Parenting & Developmental Neurobiology: Postpartum Sleep, Nanny Protocols & Evidence-Based Pedagogy (Checked: 2026-10-15; Base EN 3.2):**
   1. *L1/L2 Sovereign Childhood Engineering (§11.4.0.1–§11.4.0.3):* Injected valves [P0-133] (managing postpartum burnout and parental sleep deprivation via Richter 2019, Twenge 2003 marital satisfaction metrics, Paulson 2010 paternal depression, SBS prevention), [P0-134] (paternal neurobiological plasticity via Abraham PNAS 2014, daycare vs nanny cortisol analysis via Vermeer 2006, Zero-Trust Nanny Protocol) and [P0-135] (PFC myelination timelines up to age 25, refutation of corporal punishment via Gershoff 2016 meta-analysis, authoritative parenting via Pinquart, AAP/WHO screen time standards, Hyde 2005 gender similarities hypothesis).

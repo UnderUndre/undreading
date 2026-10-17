@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Ukrainian Edition (Uncle Tolya) Translated to English*
 
 **Author:** Undre & Uncle Tolya (Master Vasyl, Field Plumbing Engineer)  
-**Revision:** 24.3 (ua-en-v1.9-release) (135-Valve Forensic Blueprint [P0-01]–[P0-135], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis [P0-127], Telegram tdata [P0-128], AML SoF/SoW [P0-129], Botulism [P0-130])  
+**Revision:** 24.4 (ua-en-v1.9-release) (137-Valve Forensic Blueprint [P0-01]–[P0-137], Preconception Hardware [P0-136], Gestational Physiology [P0-137], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis [P0-127], Telegram tdata [P0-128], AML SoF/SoW [P0-129], Botulism [P0-130])  
 **Format:** Monograph / Operational Runbook / Ukrainian Legal, Military & Digital Forensics  
 **Status:** Canonical Ukrainian Monograph in Full English Translation  
 
