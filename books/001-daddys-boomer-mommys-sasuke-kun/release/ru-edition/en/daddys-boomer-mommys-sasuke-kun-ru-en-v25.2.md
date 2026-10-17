@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Russian Monograph Translated to English*
 
 **Author:** Undre & Valera (Digital Plumber)  
-**Revision:** 26.4 (ru-en-v25.2-release) (137-Valve Forensic Blueprint [P0-01]–[P0-137], Preconception Hardware [P0-136], Gestational Physiology [P0-137], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126], Subtractive Pragmatism [P0-125], e-Thrombosis [P0-127], Telegram tdata [P0-128], AML SoF/SoW [P0-129], Botulism [P0-130])  
+**Revision:** 26.5 (ru-en-v25.2-release) (141-Valve Forensic Blueprint [P0-01]–[P0-141], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126])  
 **Format:** Monograph / Operational Runbook / Systemic Forensic Blueprint  
 **Status:** Canonical Russian Monograph in Full English Translation  
 
@@ -8012,6 +8012,54 @@ Monitor the pressure gauges, keep your pipelines dry, and never enter a pressuri
 
 
 
+#### **10.19. Global Border Forensics, Asylum, Consular Traps & The Zero-Balance Emergency Gateway ([P0-138: BORDER-SEARCH-SCRUB-GATE], [P0-139: DUBLIN-EURODAC-RECAST-GATE], [P0-140: GURDWARA-LANGAR-DEFAULT-GATE], [P0-141: CONSULAR-REPATRIATION-TRAP-GATE])**
+
+> 🚨 **PERIMETER CROSSING WITHOUT MARGIN FOR ERROR:**  
+> Crossing a sovereign state border is the sovereign operator's moment of maximum vulnerability. In border zones, constitutional guarantees of privacy compress into a pipe. Errors during inspections by the FSB, KGB, US CBP, or EU border guards lead to immediate visa revocations, hardware confiscations, and forced repatriation.
+
+---
+
+##### **1. Echelon L2/L5: Gadget Protection & Border Scanning ([P0-138])**
+* **The Border Search Exception (US):** Within the 100-mile federal border zone, US Customs and Border Protection (CBP) officers possess statutory authority to search and forensic-dump laptops and smartphones **without a warrant and without individualized suspicion (suspicionless search)**.
+* **The Travel Burner Phone Hard-Stop:** 
+  1. *The Clean Iron Rule:* When crossing toxic perimeters, primary workstations and personal daily-driver smartphones stay behind. A cheap, wiped "clean" device devoid of personal accounts, message archives, and metadata is used instead.
+  2. *The BFU State (Before First Unlock):* Prior to inspection, the device is subjected to a hard power down. In the BFU state, decryption keys are purged from RAM, the Secure Enclave is locked, and biometrics (TouchID/FaceID) are disabled—requiring a strong alphanumeric master passphrase. This renders forensic extraction tools like Cellebrite UFED and GrayKey wholly ineffective.
+  3. *Full-Disk Encryption:* All work laptops run VeraCrypt or LUKS encryption keyed with an Argon2id passphrase. Compelled passphrase surrender in foreign jurisdictions (or under Chinese MGB Orders No. 3/4) triggers entry denial, but protects master vaults from bulk exfiltration.
+
+---
+
+##### **2. Echelon L4: The European Migration Circuit & The AMMR / Eurodac Regulations ([P0-139])**
+* **The 1951 Geneva Convention:** Asylum protections apply strictly to individuals fleeing persecution based on five enumerated grounds (race, religion, nationality, political opinion, or membership in a particular social group). Economic insolvency, generalized civil war, and draft evasion **do not qualify** for refugee status.
+* **The New EU Pact on Migration and Asylum (2024–2026):**
+  1. *AMMR (Asylum and Migration Management Regulation 2024/1351):* Replaces the legacy Dublin III Regulation. The first EU entry member state bears sole responsibility for processing the asylum claim. "Asylum shopping" (entering via Spain or Poland and filing in wealthy Germany) is outlawed; asylum seekers are forcibly returned to the port-of-entry nation.
+  2. *Eurodac Recast (2024/1358):* A unified biometric database capturing facial images and fingerprints of all irregular migrants and asylum seekers **starting at age 6**, retained for **10 years**, and fully interoperable with SIS II, VIS, and EES.
+  3. *Safe Third Country Doctrine:* Automatic inadmissibility rejections if applicants transited through a designated safe third country (Turkey, Serbia, Georgia).
+
+---
+
+##### **3. Echelon L1/L5: Zero-Balance Nutritional Survival via the Gurdwara Langar Network ([P0-140])**
+* **Gurdwara Langar Network:** If an operator is stranded abroad with zero fiat currency, shelter, or documents (robbed, accounts frozen), the global network of Sikh temples (**Gurdwara**) provides absolute financial-caloric safety via the institutional kitchen known as **Langar**.
+* **Unconditional Mandate:** Inside any Sikh temple worldwide, any human being regardless of religion, nationality, or legal status holds the absolute lawful right to receive **free, fresh, hot vegetarian meals (dal, roti, rice)** 24 hours a day, 365 days a year. No money, papers, or religious creeds are ever requested.
+* **Etiquette Protocol (OpSec for the Destitute):**
+  1. Remove footwear before entering the prayer hall;
+  2. Cover the head with a scarf or cloth (mandatory for all genders);
+  3. Zero alcohol, tobacco, intoxicants, or meat allowed on temple grounds;
+  4. Sit in floor rows (*Pangat*) representing absolute egalitarian equality before the divine;
+  5. Contribute voluntary labor (*Seva*) in the kitchen or dishwashing hall if physically able.
+
+---
+
+##### **4. Echelon L4/L5: Consular Repatriation Traps & The Non-Citizen Legal Atlas ([P0-141])**
+* **The 1963 Vienna Convention on Consular Relations:** Foreign consulates are neither statutorily mandated nor budgeted to subsidize stranded nationals abroad. Consuls do not issue unrecoverable cash grants, pay hotel bills, or solve undocumented overstay issues.
+* **The Emergency Travel Document (ETV/СНВ) Trap:** Consular emergency travel documents issued for departure are **one-way tickets to forced repatriation/deportation**. Under US 22 U.S.C. § 2671, repatriation loans trigger immediate passport revocation until the debt is fully settled with the Treasury.
+* **Global Non-Citizen Legal Atlas (Status vs Risk):**
+  * *Tourist / Visa-Free:* Zero employment rights, strict 90/180 rolling day caps, deportation risk upon laptop forensic audits.
+  * *Digital Nomad (DNV / TRP):* Tethered to foreign income validation; visa revocation upon client contract termination.
+  * *Permanent Resident (PR / Green Card / ILR):* Revocation risk upon prolonged absence (US: >183/365 days without Re-entry Permit; Canada: <730 days in 5 years).
+  * *Property Ownership Bans:* Foreign real estate bans (e.g. Kazakhstan Land Code art. 9; Canadian Foreign Buyer Ban; Singapore ABSD 60% foreign stamp duty; UK Non-Recourse to Public Funds rules).
+
+---
+
 ### **Chapter 11. The 8-Flag Matrix of Flag Theory 2.0+, Chokepoints & the Special Chapter "Wait, You Could Do That?!"**
 
 #### **11.1. Kelly Johnson's 14 Rules (Skunk Works) for defense against corporate sludge**
@@ -9611,6 +9659,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 3.5 — Global Border Forensics, EU Migration Pact, Langar & Consular Repatriation Traps (Checked: 2026-10-15; Base EN 3.4):**
+  1. *L2/L4/L5 Border & Migration Circuit (§10.19):* Injected master valve [P0-138: BORDER-SEARCH-SCRUB-GATE] (gadget border defense, US Border Search Exception, Travel Burner Phone, BFU biometrics lockdown, VeraCrypt/LUKS disk encryption); injected [P0-139: DUBLIN-EURODAC-RECAST-GATE] (1951 Geneva Convention, New EU Migration Pact 2024–2026, AMMR 2024/1351, Eurodac Recast 2024/1358 with age-6 biometrics and 10-year retention); injected [P0-140: GURDWARA-LANGAR-DEFAULT-GATE] (Sikh Langar network for zero-balance nutritional survival, Pangat and Seva etiquette); injected [P0-141: CONSULAR-REPATRIATION-TRAP-GATE] (Vienna Convention 1963, ETV repatriation traps and 22 U.S.C. § 2671 debt hooks, comparative non-citizen legal atlas).
+
 
 * **Revision EN 3.4 — Preconception Hardware & Gestational Physiology: Gametogenesis Cycles, Paternal SNV Rates & Pregnancy Pathologies (Checked: 2026-10-17; Base EN 3.3):**
   1. *L1/L4 Sovereign Birth Engineering (§11.4.0.0):* Injected valves [P0-136] (preconception gamete audit, 20–25% per-cycle fecundability via Gnoth 2003, 72–74 day spermatogenesis and 85–120 day folliculogenesis cycles, paternal age mutation rate of +2 de novo SNVs/year via Kong Nature 2012, oocyte cohesin degradation) and [P0-137] (gestational physiology, +40–50% plasma volume overdrive, 15–20% miscarriage baseline via Quenby Lancet 2021, GDM 14.0%, preeclampsia 3–8%, GDF15-mediated hyperemesis via Fejzo Nature 2024).

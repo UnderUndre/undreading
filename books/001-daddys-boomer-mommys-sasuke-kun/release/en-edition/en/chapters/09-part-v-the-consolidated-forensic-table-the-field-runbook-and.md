@@ -705,6 +705,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+* **Revision EN 3.5 — Global Border Forensics, EU Migration Pact, Langar & Consular Repatriation Traps (Checked: 2026-10-15; Base EN 3.4):**
+  1. *L2/L4/L5 Border & Migration Circuit (§10.19):* Injected master valve [P0-138: BORDER-SEARCH-SCRUB-GATE] (gadget border defense, US Border Search Exception, Travel Burner Phone, BFU biometrics lockdown, VeraCrypt/LUKS disk encryption); injected [P0-139: DUBLIN-EURODAC-RECAST-GATE] (1951 Geneva Convention, New EU Migration Pact 2024–2026, AMMR 2024/1351, Eurodac Recast 2024/1358 with age-6 biometrics and 10-year retention); injected [P0-140: GURDWARA-LANGAR-DEFAULT-GATE] (Sikh Langar network for zero-balance nutritional survival, Pangat and Seva etiquette); injected [P0-141: CONSULAR-REPATRIATION-TRAP-GATE] (Vienna Convention 1963, ETV repatriation traps and 22 U.S.C. § 2671 debt hooks, comparative non-citizen legal atlas).
+
+
 * **Revision EN 3.4 — Preconception Hardware & Gestational Physiology: Gametogenesis Cycles, Paternal SNV Rates & Pregnancy Pathologies (Checked: 2026-10-17; Base EN 3.3):**
   1. *L1/L4 Sovereign Birth Engineering (§11.4.0.0):* Injected valves [P0-136] (preconception gamete audit, 20–25% per-cycle fecundability via Gnoth 2003, 72–74 day spermatogenesis and 85–120 day folliculogenesis cycles, paternal age mutation rate of +2 de novo SNVs/year via Kong Nature 2012, oocyte cohesin degradation) and [P0-137] (gestational physiology, +40–50% plasma volume overdrive, 15–20% miscarriage baseline via Quenby Lancet 2021, GDM 14.0%, preeclampsia 3–8%, GDF15-mediated hyperemesis via Fejzo Nature 2024).
 
