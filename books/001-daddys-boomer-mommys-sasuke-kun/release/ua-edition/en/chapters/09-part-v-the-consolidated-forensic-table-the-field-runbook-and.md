@@ -705,6 +705,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+* **Revision EN 3.6 — UGC Platform Neofeudalism: Roblox Forensics & DevEx Tax Traps (Checked: 2026-10-15; Base EN 3.5):**
+  1. *L3 Financial Circuit (§7.5.13):* Injected valve [P0-142: ROBLOX-DEVEX-PLATFORM-RENT-GATE] (UGC platform economics, SecretVerse Studio / Roblox forensics, debunking gross GMV vs 25–29% net DevEx payout, 30% app store tolls and discounted Robux conversion, TikTok Live streaming viral hydraulics, and platform tenant SPOF risks).
+
+
 * **Revision EN 3.5 — Global Border Forensics, EU Migration Pact, Langar & Consular Repatriation Traps (Checked: 2026-10-15; Base EN 3.4):**
   1. *L2/L4/L5 Border & Migration Circuit (§10.19):* Injected master valve [P0-138: BORDER-SEARCH-SCRUB-GATE] (gadget border defense, US Border Search Exception, Travel Burner Phone, BFU biometrics lockdown, VeraCrypt/LUKS disk encryption); injected [P0-139: DUBLIN-EURODAC-RECAST-GATE] (1951 Geneva Convention, New EU Migration Pact 2024–2026, AMMR 2024/1351, Eurodac Recast 2024/1358 with age-6 biometrics and 10-year retention); injected [P0-140: GURDWARA-LANGAR-DEFAULT-GATE] (Sikh Langar network for zero-balance nutritional survival, Pangat and Seva etiquette); injected [P0-141: CONSULAR-REPATRIATION-TRAP-GATE] (Vienna Convention 1963, ETV repatriation traps and 22 U.S.C. § 2671 debt hooks, comparative non-citizen legal atlas).
 

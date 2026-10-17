@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Russian Monograph Translated to English*
 
 **Author:** Undre & Valera (Digital Plumber)  
-**Revision:** 26.5 (ru-en-v25.2-release) (141-Valve Forensic Blueprint [P0-01]–[P0-141], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126])  
+**Revision:** 26.6 (ru-en-v25.2-release) (142-Valve Forensic Blueprint [P0-01]–[P0-142], Roblox Platform Neofeudalism [P0-142], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], 16-Jurisdiction Atlas [P0-126])  
 **Format:** Monograph / Operational Runbook / Systemic Forensic Blueprint  
 **Status:** Canonical Russian Monograph in Full English Translation  
 
@@ -5786,6 +5786,31 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 *The packing protocol:* Mylar bags (PET/ALU/PE 7 mil) are heat-sealed with active-iron oxygen absorbers (300–500 cc). Zero $O_2$ and water-vapor diffusion blocks lipid oxidation and pest breeding.
 
 ---
+#### **7.5.13. UGC Platform Neofeudalism: Roblox Forensics, DevEx Tax Traps & TikTok Live Viral Hydraulics ([P0-142: ROBLOX-DEVEX-PLATFORM-RENT-GATE])**
+
+> 🏰 **PLATFORM NEOFEUDALISM & THE "CHATGPT BILLIONAIRE" MYTH:**  
+> Viral social media narratives claiming that *"an amateur built a game solo with ChatGPT and made $25M in six months"* represent a dangerous facade. A forensic audit of indie development economics within the Roblox ecosystem (*SecretVerse Studio*, game `+1 Speed Keyboard Escape`) reveals an unyielding truth: tenants renting space in another lord's castle always pay crushing platform rent.
+
+##### **1. Deconstructing the Distortion: Gross GMV vs Net Developer Payout**
+* **The $25M Revenue Myth:** Reddit aggregators and tech blogs took gross user spending (Gross Merchandise Value / GMV) and mischaracterized it as net profit pocketed by a solo creator.
+* **The DevEx & Commission Math (Level 1):**  
+  1. *Robux Acquisition:* Players purchase platform currency at approx. $\$0.0125$ per Robux;  
+  2. *App Store Tolls:* Apple App Store and Google Play Store deduct **30%** at the gateway;  
+  3. *Roblox Platform Rent:* The platform retains the lion's share of UGC marketplace transactions;  
+  4. *DevEx Cash-Out:* Developers convert earned Robux back to fiat via the Developer Exchange program at a severely discounted rate of **$\approx \$0.0038$ per Robux**.  
+  *The Outcome:* Actual studio take-home via DevEx is **merely 25–29% of gross GMV** ($6–$8M max from a $25–$30M GMV footprint), out of which team salaries, server upkeep, and corporate taxes must be paid.
+
+##### **2. AI-Code Facade vs Heavy Production Reality:**
+* The romanticized notion of a lone teen coding a billion-visit game in two days via ChatGPT collapses against SecretVerse Studio's operational reality: billions of visits ($6.45\text{B}+$ plays), professional ASMR mechanical keyboard sound design, continuous server scaling, and weekly content drops require full-scale studio production.
+
+##### **3. Viral Hydraulics & Streamer Acquisition (Admin Abuse & TikTok Live):**
+* Unlike traditional paid User Acquisition (UA), elite UGC titles leverage real-time streaming integration on TikTok Live and Twitch. The *Admin Abuse* mechanic allows viewers to trigger in-game chaos (boss fights, gravity flips, speed boosts) via paid tips and gifts, creating an organic viral loop with zero ad spend.
+
+##### **4. Platform Tenancy Risk (Single Point of Failure):**
+* The entire business model operates inside a rented feudal fortress. A single moderation policy change, an altered DevEx payout formula, or an arbitrary group ban instantly obliterates 100% of business equity in a single click.
+
+---
+
 ### **Chapter 8. The Engineering Mathematics of Profit, Bubbles & the Laws of Money**
 
 #### **8.1. Systemic cons, build-shop hacks & atomic strikes**
@@ -9659,6 +9684,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 3.6 — UGC Platform Neofeudalism: Roblox Forensics & DevEx Tax Traps (Checked: 2026-10-15; Base EN 3.5):**
+  1. *L3 Financial Circuit (§7.5.13):* Injected valve [P0-142: ROBLOX-DEVEX-PLATFORM-RENT-GATE] (UGC platform economics, SecretVerse Studio / Roblox forensics, debunking gross GMV vs 25–29% net DevEx payout, 30% app store tolls and discounted Robux conversion, TikTok Live streaming viral hydraulics, and platform tenant SPOF risks).
+
 
 * **Revision EN 3.5 — Global Border Forensics, EU Migration Pact, Langar & Consular Repatriation Traps (Checked: 2026-10-15; Base EN 3.4):**
   1. *L2/L4/L5 Border & Migration Circuit (§10.19):* Injected master valve [P0-138: BORDER-SEARCH-SCRUB-GATE] (gadget border defense, US Border Search Exception, Travel Burner Phone, BFU biometrics lockdown, VeraCrypt/LUKS disk encryption); injected [P0-139: DUBLIN-EURODAC-RECAST-GATE] (1951 Geneva Convention, New EU Migration Pact 2024–2026, AMMR 2024/1351, Eurodac Recast 2024/1358 with age-6 biometrics and 10-year retention); injected [P0-140: GURDWARA-LANGAR-DEFAULT-GATE] (Sikh Langar network for zero-balance nutritional survival, Pangat and Seva etiquette); injected [P0-141: CONSULAR-REPATRIATION-TRAP-GATE] (Vienna Convention 1963, ETV repatriation traps and 22 U.S.C. § 2671 debt hooks, comparative non-citizen legal atlas).
