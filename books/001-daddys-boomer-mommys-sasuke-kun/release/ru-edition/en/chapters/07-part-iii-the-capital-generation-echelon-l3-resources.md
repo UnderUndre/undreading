@@ -873,7 +873,7 @@ The sovereign technology ecosystem **Undrlla** is engineered as a self-balancing
 2. **The investment model and utility returns (Runway First):**
    * *Covering the founder's base life support (L1 Runway):* The investment ask is calculated strictly including the founder's \$1,500–\$2,500/mo living check in the relocation hub (housing + food + taxes) and a \$30\%$ safety cushion for force majeure.
    * *Three investment tranches:*
-     - **Tranche 1 (\$10,000 Seed Bootstrap):** Covering 6 months of founder life, server payments, and packaging the `undreseller` B2B conveyor;
+     - **Tranche 1 (\$10,000 Seed Bootstrap):** Securing a 6-month founder runway, server payments, and packaging the `undreseller` B2B conveyor;
      - **Tranche 2 (\$50,000 Acceleration):** Entity registration (Armenia 1% / US LLC), the first procurement batch of vetted equipment for the marketplace, hiring a local inspection master;
      - **Tranche 3 (\$150,000 Scale):** Deploying the physical Hacker House and scaling the platform.
    * *Utility return and revenue share for investors:* Investors get lifetime free access to all paid products of the ecosystem at the nominal value of invested capital + a **10–15% pool of net company profit (Revenue Share Pool)** until a 2× return on investment is reached.
@@ -881,8 +881,8 @@ The sovereign technology ecosystem **Undrlla** is engineered as a self-balancing
 * **The liquidity-control cascade & the Undrlla ecosystem capital roadmap (\$10k / \$100k / \$1M):**
   * **The \$10k tier (Phase 0–1: Low-Burn Bootstrap & the Armenian LLC seal):**
     * *Earning liquidity:* Collecting the first \$2.5k–\$10k through custom B2B product sprints and Upwork Direct Contracts (0% commission) with Payoneer ACH withdrawal.
-    * *Cutting housing opex (\$0–\$225/mo):* Web-dev tech-barter (10–15 h/week of code for Yerevan art residencies in exchange for free housing) or splitting a 2-room apartment (\$175–\$225/mo).
-    * *The legal seal:* Registering an LLC in Yerevan at a 1% turnover tax under Armenian law HO-498-N (a limit up to 115M AMD, ~\$290k/year). Employing the founder as general director starts the mandatory 365-day tenure required for skilled-worker visas to Canada (ICT C61) and the US (L-1A / EB-1C).
+    * *Cutting housing opex at bootstrap:* Tech-barter (code and infrastructure support for art residencies/colivings in exchange for housing) or apartment sharing with trusted engineers.
+    * *The legal seal:* Registering an entity under a preferential turnover tax regime (e.g., an Armenian LLC at 1% under law HO-498-N, up to 115M AMD ~\$290k/year). Employing the founder as general director starts the mandatory continuous tenure (from 365 days) required for corporate transfer routes (Intra-Company Transferee: Canada ICT C61, US L-1A / EB-1C).
     * *The payment tee:* Fiat acquiring through a Merchant of Record (Paddle) under NACE 62.01 (`undreading.com` + the ZTA Kit) + Telegram `@CryptoBot` (USDT/TON) for recurring `undrlla.citizen` subscriptions (\$19/mo).
   * **The \$100k tier (Phase 2: industrial deploy & Hacker Houses):**
     * *Infrastructure:* Deploying our own non-custodial processor `SHKeeper` on a k3s cluster to escape third-party custodians.
