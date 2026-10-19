@@ -1030,6 +1030,30 @@ Splitting equity 50/50 between two co-founders without formal deadlock dispute m
 >
 >    Sunk Cost is exactly "living wiser": holding a dead circuit because it's a shame to let go. In the end you'll hate yourself not for stopping — but for not pressing.
 
+#### **9.0.1. Jiraiya’s Runbook & The Fukasaku Cipher: Isolating the True System Controller ([P0-144: JIRAIYA-CIPHER-CONTROLLER-GATE])**
+
+> 🐸 **THE FUKASAKU BACK-CIPHER (“THE REAL ONE’S NOT AMONG THEM”):**  
+> In root-cause analysis and incident triage, the rookie's fatal failure mode is waging continuous warfare against visible frontend symptoms while the real controller orchestrating the collapse idles untouched backstage. Jiraiya is the ultimate operational archetype of *Skin in the Game*: he stood beneath a rupturing sewage main to capture raw telemetry on a lethal adversary, sacrificing his biological host to deliver a decisive runbook to his successor.
+
+##### **1. Mentor Architecture & Handoff Protocols Under Terminal Failure:**
+* **The Toll of Prophecy:** Jiraiya mentored both Nagato (who curdled into the victim-villain Pain) and Naruto. Engaging the Six Paths of Pain, he recognizes the battle is locally unwinnable: crushed trachea, depleted chakra, biological host entering terminal failure.
+* **The 9, 31, 8 / 106, 7 / 207, 15 Cipher:** With his vocal cords severed, Jiraiya burns a coded message onto the back of the toad sage Fukasaku with raw chakra. The initial numeral "9" is not an integer—it is the katakana glyph **タ** (*“ta”*), an idiosyncratic flaw in his personal handwriting that points uniquely to his manuscript *Icha Icha Tactics*. Konoha's cryptanalysis unit (Shikamaru, Kakashi) decrypts the first words of the indexed pages:  
+  **“The real one’s not among them” (本物はいない)**.
+
+##### **2. Systemic Axiom [P0-144]: Never Attack the Puppets!**
+* **Proxies vs True Controllers:** All six bodies of Pain are dead physical shells, remotely piloted by Nagato via RF black receiver rods. Battling visible proxies drains 100% of the system's operational capital. Complete victory is achieved ONLY when Naruto tracks down the physical operator (Nagato concealed within the paper tree) and interfaces directly with the signal source.
+* **Enterprise & Production Incident Mapping:**  
+  1. *Production Outages:* Stop slapping monkey-patches on cascading microservice failures—trace the root-cause clog in database deadlocks or kernel race conditions;  
+  2. *Hostile Litigation:* Do not waste legal burn on nominal shell entities or strawmen—unmask the beneficial owner and ultimate decision-maker;  
+  3. *Domestic Friction:* Screaming matches over unwashed dishes are Pain's puppets. The true controller is unmanaged domestic OPEX, chronic sleep deprivation, and prefrontal exhaustion.
+
+> 🔧 **Translation from Bureaucratic to English (Bob's Field Decoder):**  
+> **Plain English:** Before drowning in the sea, Jiraiya cut straight to the core of systems engineering: *“A shinobi's true worth is determined not by how he lives, but by how he dies.”* When boiling water is flooding your server room from an overhead riser, only a fool runs around with a mop on the fourth floor. The real controller is in the basement beside the main shutoff valve.  
+> **The Catch:** People spend decades burning wealth and health fighting puppets: migrating cloud providers when their codebase is fundamentally broken, screaming at low-level clerks instead of auditing contracts, popping blood pressure pills while running on 4 hours of sleep and cold pizza.  
+> **Your Action Item Right Now ([P0-144: JIRAIYA-CIPHER-CONTROLLER-GATE]):** In any major incident, ask yourself: *“Is this the true controller or am I staring at one of Pain’s puppets?”* Always locate the black transmitter rods, trace the signal back to the root node, and shut down the transmitter at the source.
+
+---
+
 #### **9.1. The fractal model of the meta-circuit (cinema & the transmuted anchor)**
 
 * **"Schism" (Tool):**

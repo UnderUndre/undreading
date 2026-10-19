@@ -11,6 +11,12 @@
 >
 > Punch a hole in any one riser and the pretty facade gets flushed into the sewer in seconds. This book is not a collection of abstract philosophy. It is a **size-32 cast-iron pipe wrench** and a safety manual, written in the blood of people who already took the water hammer.
 
+> 🎧 **OFFICIAL MONOGRAPH OPENING:**  
+> **Track:** FLOW — “Sign” (Naruto Shippuden OP6, Listen: 00:00–01:30)  
+> **Bob’s Intake Gate Interpretation:**  
+> *“That pain has protected you / That pain is still protecting you... I’ve come to tell you, by tracing the scars… before you get crushed by the weight of the world.”*  
+> The agony of a blown pipe, an audited corporate tax return, a blown knee, a broken partnership, or an unappealable bank account freeze is not fuel for self-pity or endless therapy sessions. It is the **primary defensive perimeter and raw construction material** from which an engineer forges antifragility. Your scar is a calibrated notch on the riser proving where the steel has already survived water hammer. This manual doesn’t promise that “everything will be fine.” It hands you a cast-iron 32mm pipe wrench and teaches you how to run on instruments before the weight of the world crushes your system. Let's turn the valves.
+
 ---
 
 > ⚖️ **INSTITUTIONAL DISCLAIMER (SAFE HARBOR):**
