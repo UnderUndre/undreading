@@ -705,6 +705,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+* **Revision EN 3.7 — Forensics of the Tragic Double-Agent: Itachi Uchiha, Severus Snape, Pain & Bertrand Russell's Dictum (Checked: 2026-10-19; Base EN 3.6):**
+  1. *L0/L2 Cognitive Foundation (§4.0.1):* Injected master valve [P0-143: TRAGIC-DOUBLE-AGENT-VICTIM-GATE]: deconstruction of the secret protector archetype (Itachi Uchiha, clan sacrifice for peace, forehead poke and the lethal cost of secrecy before Sasuke; Severus Snape, deep-cover double agent for Lily, Dumbledore's euthanasia and the 'Always' oath); victim-villain syndrome (Nagato/Pain, accurate critique of imperial hypocrisy vs flawed solution of peace via nuclear trauma; Magneto; Killmonger); Bertrand Russell's dictum on the oppressed becoming the oppressor; 4-archetype comparative forensic matrix.
+
+
 * **Revision EN 3.6 — UGC Platform Neofeudalism: Roblox Forensics & DevEx Tax Traps (Checked: 2026-10-15; Base EN 3.5):**
   1. *L3 Financial Circuit (§7.5.13):* Injected valve [P0-142: ROBLOX-DEVEX-PLATFORM-RENT-GATE] (UGC platform economics, SecretVerse Studio / Roblox forensics, debunking gross GMV vs 25–29% net DevEx payout, 30% app store tolls and discounted Robux conversion, TikTok Live streaming viral hydraulics, and platform tenant SPOF risks).
 

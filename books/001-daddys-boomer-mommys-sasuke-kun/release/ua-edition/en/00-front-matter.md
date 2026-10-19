@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Ukrainian Edition (Uncle Tolya) Translated to English*
 
 **Author:** Undre & Uncle Tolya (Master Vasyl, Field Plumbing Engineer)  
-**Revision:** 24.6 (ua-en-v1.9-release) (142-Valve Forensic Blueprint [P0-01]–[P0-142], Roblox DevEx [P0-142], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], Post-Mortem Atlas [P0-126])  
+**Revision:** 24.7 (ua-en-v1.9-release) (143-Valve Forensic Blueprint [P0-01]–[P0-143], Itachi & Snape Tragic Protectors [P0-143], Roblox DevEx [P0-142], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], Post-Mortem Atlas [P0-126])  
 **Format:** Monograph / Operational Runbook / Ukrainian Legal, Military & Digital Forensics  
 **Status:** Canonical Ukrainian Monograph in Full English Translation  
 

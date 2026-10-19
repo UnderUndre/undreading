@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Ukrainian Edition (Uncle Tolya) Translated to English*
 
 **Author:** Undre & Uncle Tolya (Master Vasyl, Field Plumbing Engineer)  
-**Revision:** 24.6 (ua-en-v1.9-release) (142-Valve Forensic Blueprint [P0-01]–[P0-142], Roblox DevEx [P0-142], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], Post-Mortem Atlas [P0-126])  
+**Revision:** 24.7 (ua-en-v1.9-release) (143-Valve Forensic Blueprint [P0-01]–[P0-143], Itachi & Snape Tragic Protectors [P0-143], Roblox DevEx [P0-142], Border Forensics [P0-138], EU Migration Pact [P0-139], Langar [P0-140], Consular Traps [P0-141], Sovereign Parenting [P0-133]–[P0-135], Sovereign Birth [P0-132], Business Succession [P0-131], Post-Mortem Atlas [P0-126])  
 **Format:** Monograph / Operational Runbook / Ukrainian Legal, Military & Digital Forensics  
 **Status:** Canonical Ukrainian Monograph in Full English Translation  
 
@@ -2503,6 +2503,81 @@ The instant an operator tries to twist their stress-relief valve into a second r
      * **Jason Statham:** A pure post-ironic Runet meme of 2014+ VK publics (*"Work isn't a wolf. Only the wolf is a wolf"*).
      * **Joseph Stalin:** *"No man — no problem"* was never spoken by him in speeches; it was invented by the writer Anatoly Rybakov in the novel *Children of the Arbat* (1987).
    * **The Quote Investigator standard (Garson O'Toole):** The presumption of falsification. *Until a quote is verified against an archival primary source [L1 Fact] / [L2 Spec] — it doesn't fucking matter what the Telegram channels reposted.*
+
+---
+
+#### **4.0.1. Forensics of the Tragic Double-Agent & The Victim-Villain Trap: Itachi Uchiha, Severus Snape, Pain & Bertrand Russell's Dictum ([P0-143: TRAGIC-DOUBLE-AGENT-VICTIM-GATE])**
+
+> 🌑 **THE ARCHETYPE OF THE LOAD-BEARING BEAM IN THE DARK:**  
+> Within the monograph's foundational mythos *(“Daddy’s Boomer, Mommy’s Sasuke-kun”)*, figures like Itachi Uchiha and Severus Snape are not decorative anime tropes. They represent the absolute theoretical frontier of **Type 1 irreversible decision architecture**: voluntarily accepting total persona annihilation and public monsterhood to keep the system's structural frame from collapsing into civil ruin.
+
+##### **1. Anatomy of the Tragic Double-Agent (Itachi and Snape):**
+* **Itachi Uchiha (*Naruto*):** A clan prodigy made ANBU captain at 13. Witnessing the butchery of the Third Shinobi World War as a toddler cemented an immutable core constraint: system peace at any cost.
+  * *The Irreversible Valve:* Caught between a Danzo ultimatum and an imminent clan coup, Itachi executes the darkest operational mandate in Konoha's history: the unilateral liquidation of his own clan and parents, conditioned on sparing his younger brother Sasuke.
+  * *The Gaslighting Defect:* Itachi deliberately wears the mantle of a sadistic madman, locking 7-year-old Sasuke inside Tsukuyomi to witness parental executions on a loop, drilling the lie: *“I never loved you; you are weak; live in hatred.”* His twin objectives were self-annihilation at Sasuke's hands (penance) while forcing Sasuke to awaken the Mangekyo Sharingan.
+  * *The Brutal Cost of Non-Communication:* Prior to falling in battle against his brother, he delivers the canonical forehead poke: *“Forgive me, Sasuke… this is the end” (許せサスケ……これで最後だ)*. Only upon returning via Edo Tensei does he admit the catastrophic system bug: *“If I had been open with you from the start… looked you in the eyes and told you the truth… You don’t ever have to forgive me. But know this: I will love you always.”*
+* **Severus Snape (*Harry Potter*):** A traumatized half-blood from Spinner’s End, bullied by the Marauders, whose youth shattered when he relayed Trelawney's partial prophecy to Voldemort.
+  * *The Absolute Lock:* Realizing Lily Evans was marked for slaughter, he begs Dumbledore: *“Hide them all… her… please.”* Following her death, he enters permanent, deep-cover double agency. He shields Harry Potter not out of affection, but because Harry carries Lily's surviving blood, silently enduring the boy's hatred and universal contempt.
+  * *The Euthanasia Mandate:* Under Dumbledore's direct operational order, Snape executes his mentor to save Draco Malfoy's soul and cement Voldemort's absolute trust. Dying from Nagini's venom, his final command is: *“Look… at… me…”* (to see Lily's green eyes one last time). To Dumbledore's query, *“After all this time?”*, he answers with the immortal single word: *“Always.”*
+
+##### **2. Deconstructing the "Victim-Villain" Syndrome (Nagato / Pain, Magneto, Killmonger):**
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ THE VICTIM-VILLAIN SYNDROME: ACCURATE DIAGNOSIS VS CATASTROPHIC SOLUTION               │
+├─────────────────┬──────────────────────────────────────┬───────────────────────────────┤
+│ CHARACTER       │ VERIFIED SYSTEMIC DIAGNOSIS          │ FATAL OPERATIONAL DEFECT      │
+├─────────────────┼──────────────────────────────────────┼───────────────────────────────┤
+│ 1. **Nagato     │ Hypocrisy of imperial powers: great  │ Manufacturing a super-weapon  │
+│    (Pain)**     │ nation violence is hailed as order;  │ of mass destruction to inflict│
+│                 │ small nation response is labeled     │ universal trauma only expands │
+│                 │ terror. "Pain dictates thought."     │ the catastrophic revenge loop.│
+├─────────────────┼──────────────────────────────────────┼───────────────────────────────┤
+│ 2. **Magneto    │ Human history repeatedly executes    │ Inverting into mutant supre-  │
+│    (X-Men)**    │ genocidal purges against the 'other';│ macy; adopting identical fas- │
+│                 │ mutants are marked for extinction.   │ cistic eradication mechanics. │
+├─────────────────┼──────────────────────────────────────┼───────────────────────────────┤
+│ 3. **Erik       │ Wakanda hoards vibranium wealth      │ Arming marginalized factions  │
+│    Killmonger** │ while ignoring centuries of systemic │ with super-weapons to enact   │
+│                 │ racial enslavement and extraction.   │ mirror imperialist genocide.  │
+└─────────────────┴──────────────────────────────────────┴───────────────────────────────┘
+```
+
+##### **3. Bertrand Russell's Dictum & The Historic Oppressor Cycle:**
+Bertrand Russell laid bare the dark psychology of victimization:  
+*“People seem good while they are oppressed, but they only want to become the oppressors in their turn: life is a competition who will be the criminal rather than the victim.”*
+* **Historical Cascades:** The French Revolution against feudal tyranny decayed into Robespierre’s Jacobin Terror; African anti-colonial movements curdled into Mugabe's brutal authoritarian kleptocracies; Belgian racial stratification in Rwanda directly primed the 1994 genocide.
+* **The Engineering Takeaway:** Trauma and systemic abuse yield razor-sharp diagnoses of broken pipes, but **they never grant a license to smash adjacent risers**. Rationalizing personal cruelty through past suffering simply accelerates acoustic cavitation in the system.
+
+##### **4. Comparative Forensic Matrix of the 4 Archetypes:**
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ COMPARATIVE FORENSICS: SECRET PROTECTORS VS RETALIATORY VICTIM-EXECUTIONERS            │
+├──────────────┬────────────────────────┬─────────────────────┬──────────────────────────┤
+│ ARCHETYPE    │ SCALE OF SACRIFICE     │ CORE MOTIVATION     │ LESSON FOR ARCHITECTS    │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ **Itachi**   │ Slaughtered clan; bore │ Village survival &  │ Noble lies destroy trust.│
+│              │ traitor branding       │ Sasuke's life       │ Communicate directly.    │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ **Snape**    │ Endured lifetime revil-│ Atonement & unyield-│ Unforgiven, yet unyield- │
+│              │ ing from both factions │ ing love for Lily   │ ing sovereign riser.     │
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ **Pain**     │ Loss of kin and state; │ Peace via mutual    │ Retaliation masquerades  │
+│              │ Six Paths creation     │ nuclear terror      │ as justice. Hit the stop.│
+├──────────────┼────────────────────────┼─────────────────────┼──────────────────────────┤
+│ **Magneto**  │ Holocaust survivor;    │ Preservation of     │ Trauma does not grant a  │
+│              │ loss of family         │ mutant species      │ license for mirror purge.│
+└──────────────┴────────────────────────┴─────────────────────┴──────────────────────────┘
+```
+
+> 🔧 **Translation from Bureaucratic to English (Bob's Field Decoder):**  
+> **Plain English:** The adolescent "Mommy’s Sasuke-kun" complex is classic wounded entitlement: *“Nobody understands my pain, the system is rigged, so I'm putting on a dark coat and burning the neighborhood down.”* Adults look at Itachi and Snape: real systemic responsibility is shouldered in total silence without Twitter rants or expecting medals from the crowd. They stood under sewage mains they didn't break and held the hydraulic pressure with their bare backs.  
+> **The Catch:**  
+> 1. The Itachi Trap: believing you are smarter than everyone and lying to those you protect "for their own good." Keep your partner or kid in the dark, and they'll grow into a paranoid, vengeance-blinded sociopath like Sasuke.  
+> 2. The Pain Trap: believing your abusive childhood or bad luck gives you moral clearance to break other people's pipes. Getting hit with a belt as a kid doesn't give you the right to hit your kids—that doesn't make you a warrior, it makes you a transmission belt for systemic shit.  
+> **Your Action Item Right Now ([P0-143: TRAGIC-DOUBLE-AGENT-VICTIM-GATE]):**  
+> 1. When forced into a brutal Type 1 choice to protect your family, take the blow without demanding public applause (*Skin in the Game*);  
+> 2. Never play "Itachi" with your kids or partner: tell the unvarnished truth directly and stop manufacturing artificial trauma;  
+> 3. If you catch yourself retaliating against the world for old scars, hit the emergency shutoff. Cut the cycle of vengeance right at your own elbow joint.
 
 ---
 
@@ -9381,6 +9456,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 │                  [TRANSLATION] — The adaptive decoder: "Engineer-to-human".      │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+* **Revision EN 3.7 — Forensics of the Tragic Double-Agent: Itachi Uchiha, Severus Snape, Pain & Bertrand Russell's Dictum (Checked: 2026-10-19; Base EN 3.6):**
+  1. *L0/L2 Cognitive Foundation (§4.0.1):* Injected master valve [P0-143: TRAGIC-DOUBLE-AGENT-VICTIM-GATE]: deconstruction of the secret protector archetype (Itachi Uchiha, clan sacrifice for peace, forehead poke and the lethal cost of secrecy before Sasuke; Severus Snape, deep-cover double agent for Lily, Dumbledore's euthanasia and the 'Always' oath); victim-villain syndrome (Nagato/Pain, accurate critique of imperial hypocrisy vs flawed solution of peace via nuclear trauma; Magneto; Killmonger); Bertrand Russell's dictum on the oppressed becoming the oppressor; 4-archetype comparative forensic matrix.
+
 
 * **Revision EN 3.6 — UGC Platform Neofeudalism: Roblox Forensics & DevEx Tax Traps (Checked: 2026-10-15; Base EN 3.5):**
   1. *L3 Financial Circuit (§7.5.13):* Injected valve [P0-142: ROBLOX-DEVEX-PLATFORM-RENT-GATE] (UGC platform economics, SecretVerse Studio / Roblox forensics, debunking gross GMV vs 25–29% net DevEx payout, 30% app store tolls and discounted Robux conversion, TikTok Live streaming viral hydraulics, and platform tenant SPOF risks).
