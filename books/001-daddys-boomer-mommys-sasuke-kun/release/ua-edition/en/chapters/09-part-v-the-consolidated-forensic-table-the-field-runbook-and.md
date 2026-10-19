@@ -705,6 +705,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+* **Revision EN 3.9 — Naruto vs Sasuke: Two Systemic Reactions & Breaking the Cavitation Loop (Checked: 2026-10-19; Base EN 3.8):**
+  1. *L0/L2 Cognitive Foundation (§4.0.1 Item 5):* Injected contrastive analysis of Naruto and Sasuke as dual divergent responses to systemic trauma; deconstructed Sasuke's 'Shadow Hokage' martyr trap; detailed Naruto's refusal to transmit retaliatory violence during the Pain confrontation; deployed 4-way response matrix (Nagato vs Sasuke vs Naruto vs Itachi) and established the operational distinction between 'absorbing hatred' versus 'refusing transmission'.
+
+
 * **Revision EN 3.8 — Monograph Opening FLOW Sign, Ending Akeboshi Wind & Jiraiya’s Runbook (Checked: 2026-10-19; Base EN 3.7):**
   1. *L0/L2/L3 Dramatic Framework & Operational Mentorship:* Embedded official monograph Opening (FLOW — Sign: trauma as the structural alloy of antifragility) in Chapter 1 intake group; embedded official monograph Ending (Akeboshi — Wind: rejecting false wisdom and seizing the straight path) at the conclusion of Appendix I; injected valve [P0-144: JIRAIYA-CIPHER-CONTROLLER-GATE] (§9.0.1: Fukasaku cipher decryption “The real one’s not among them” from Icha Icha Tactics, isolating true root-cause controllers over symptom proxies, emergency handoff protocols under host termination).
 
