@@ -218,7 +218,7 @@
 
     <!-- Subtitle Epigraph / Witcher Motto -->
     <text x="800" y="425" font-family="'Georgia', serif" font-size="17" font-style="italic" fill="#FDA085" letter-spacing="2">«Сталь на 32 — для чугуна. Серебро на 42 — для системы.»</text>
-    <text x="800" y="455" font-family="'PT Sans', sans-serif" font-size="14" font-weight="600" fill="#4A5568" letter-spacing="2">(Папин бумер, мамин Саске-кун)</text>
+    <text x="800" y="455" font-family="'PT Sans', sans-serif" font-size="14" font-weight="600" fill="#4A5568" letter-spacing="2">(Папин скуф, мамин Саске-кун)</text>
   </g>
 
   <!-- Bottom Brand Block -->
