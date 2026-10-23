@@ -28,6 +28,8 @@
 ### ❓ ENTRANCE FORENSICS, MANIFEST, AND FUSE
 - [The Entrance Fuse: "Sell Me This Pipe Wrench"](chapters/02-entrance-forensics-manifest-and-fuse.md#the-entrance-fuse-sell-me-this-pipe-wrench)
 - [Key Gate Questions (Short Audit):](chapters/02-entrance-forensics-manifest-and-fuse.md#key-gate-questions-short-audit)
+- [⚖️ AUTHOR-READER COVENANT (REVERSE SKIN IN THE GAME)](chapters/02-entrance-forensics-manifest-and-fuse.md#author-reader-covenant-reverse-skin-in-the-game)
+- [📄 OPEN SOURCE, DUAL LICENSING & AMAZON KDP ALGORITHMIC LOCKS](chapters/02-entrance-forensics-manifest-and-fuse.md#open-source-dual-licensing--amazon-kdp-algorithmic-locks)
 
 ### PROLOGUE AND DIAGNOSIS
 - [Prologue. Confession of a Digital Plumber (Origin Story)](chapters/03-prologue-and-diagnosis.md#prologue-confession-of-a-digital-plumber-origin-story)

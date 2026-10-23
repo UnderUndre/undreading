@@ -298,6 +298,15 @@ In 2024–2026, the software industry was swept by the **Vibe Coding** phenomeno
 
 ---
 
+##### **Admiral Hyman G. Rickover: The "Belly Button Principle" and Zero-Defect Nuclear Navy Culture ([P0-33: SKIN-IN-THE-GAME])**
+* **Primary Artifact [Level 1]:** US Department of Energy Report: *Duncan, "Rickover and the Nuclear Navy: The Discipline of Technology"* (DOE/NE-0045); Congressional Hearings on Nuclear Safety (1982); Columbia University Address (1982).
+* **The Systemic Clog:** Military and corporate bureaucracy continuously diffuses responsibility through collegiate committees, consensus-seeking, and blame-shifting ("the vendor failed / standard procedure was followed"). In naval nuclear propulsion, a single failure equals a continental catastrophe.
+* **Rickover's Engineering Monolith:** Under Admiral Rickover, the US Navy built a massive nuclear submarine and carrier fleet (hundreds of reactors at sea). **The program's lifetime operational safety record: ZERO reactor meltdowns and zero radiological releases.**
+  1. *The Indivisibility of Responsibility (The Belly Button Principle):*  
+     > *"Responsibility is a unique concept. It can only reside and inhere in a single individual. You may share it with others, but your share is not diminished. You may delegate it, but it is still yours... If you cannot point your finger at the man who is responsible when something goes wrong, then you have never had anyone really responsible."*
+  2. *Stress Interviews to Weed Out Sycophants:* Rickover personally interviewed every officer candidate for naval reactors. He sawed off the front legs of the candidate's chair (making them slide forward), seated them facing blinding sunlight, and provoked them with rage. The goal: purge yes-men. An officer afraid to challenge an admiral in an office would hesitate to scram a malfunctioning reactor against a captain's order at sea;
+  3. *First-Person Audit:* Rickover personally attended sea trials for every newly built nuclear submarine, standing in the most dangerous reactor compartment during initial deep-dive tests.
+
 #### **1.1. The Main Manifold: Zero Trust Principles and the Value Hierarchy**
 
 Any engineering system must obey the hard Value Hierarchy: **L1 (physical survival and health) > L2 (freedom and time) > L3 (resources and capital) > L4 (rules, regulations, and TOS)**. When a person places abstract rules above the base physiological riser, the system inevitably gets completely fucked.
@@ -422,6 +431,15 @@ Knowledge grows **strictly by cutting away the false**. Wealth or triumph cannot
 | **J.K. Rowling & Pottermore** | **L3** | The direct-to-consumer Pottermore gateway of 2011; IP rights held in an SPV | Refusal to hand digital rights to Amazon/Bloomsbury; a sovereign monetization gateway on the Lucas model. | **[P0-11: ZERO-TRUST-CUSTDEV] (Founder IP SPV) & §7.5.8 (The crafts atlas)** |
 
 ---
+
+##### **Richard P. Feynman: Cargo Cult Reliability & Appendix F of the Rogers Commission Report**
+* **Primary Artifact [Level 1]:** *Report of the Presidential Commission on the Space Shuttle Challenger Accident*, Volume 2, **Appendix F: "Personal Observations on the Reliability of the Shuttle" by R. P. Feynman**; Caltech Address (1974) *"Cargo Cult Science"*.
+* **The Physics of the Failure:** On January 28, 1986, Space Shuttle Challenger disintegrated 73 seconds into flight due to O-ring resiliency loss in the solid rocket booster at near-freezing launch temperatures.
+* **Feynman's Forensic Deconstruction:**
+  1. *The $2 Live Experiment:* Feynman clamped a sample of O-ring rubber in a C-clamp, dropped it into a glass of ice water, and demonstrated on live television: the rubber loses all elasticity at 32°F (0°C) and fails to rebound in the critical milliseconds required to seal the joint;
+  2. *The Safety Factor Fallacy:* O-rings were designed never to erode. When prior flights showed erosion across a third of the ring thickness, NASA management argued: "Look, it eroded only one-third and held, therefore we have a safety factor of 3!". Feynman countered: this is Russian roulette. If you pull the trigger and the gun clicks on an empty chamber, that is not a 'safety factor' — it is a warning that you are about to die on the next pull;
+  3. *The Ring 0 vs PR Disconnect (1:100 vs 1:100,000):* Working engineers on the launch pad estimated the catastrophe risk at **1 in 100**, while NASA executive PR claimed **1 in 100,000** (equivalent to flying a shuttle every day for 300 years with one failure).
+  > *"For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."* — Richard P. Feynman
 
 #### **1.2. Hardware Catastrophes, Fuse Failures, and Abstraction Degradation**
 

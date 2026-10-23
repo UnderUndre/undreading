@@ -467,6 +467,47 @@ Domestic water heaters (80–200 L) operate under 4–6 bar main supply pressure
 
 ---
 
+#### **E.20. Tactical Medicine Specifications (TCCC) & Drone RF Detectors: Frontline Life Preservation**
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             VERIFIED PRICING MATRIX: COMBAT TACTICAL MEDICINE HARDWARE                 │
+├─────────────────────────┬──────────────────────────┬───────────────────────────────────┤
+│ ITEM                    │ SPECIFICATION            │ CONTRACT / RETAIL UNIT COST       │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 1. SICH Tourniquet      │ Ukrainian Combat Certified│ 790 ₴ (~$19 USD) retail /          │
+│    (Metal Windlass)     │ MoD Approved Standard    │ ~€15 (~$16 USD) bulk batch        │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 2. C-A-T Gen 7          │ North American Rescue    │ $25 – $35 USD                     │
+│    (Gold Standard)      │ CoTCCC Approved          │ via official distributors         │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 3. Hemostatic Gauze     │ QuikClot Combat Gauze /  │ $35 – $48 USD                     │
+│    (Z-fold, Kaolin)     │ Celox Rapid (Chitosan)   │ junctional wound packing          │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 4. Vented Chest Seal    │ HyFin Vent Twin Pack /   │ $16 – $22 USD per pair            │
+│    (Tension Pneumothorax│ Beacon Chest Seal        │ 3-channel pressure relief valve   │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 5. Junctional Tourniquet│ SAM Junctional (SJT)     │ $250 – $300 USD                   │
+│    (Arterial Occlusion) │ Inguinal / Axillary zone │ stops groin/armpit bleeds         │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 6. Pocket Drone Detector│ "Tsukorok" / "Vanilla"   │ 2,400 ₴ – 3,000 ₴ (~$58–$72 USD)  │
+│    (Passive RF Scanner) │ SkyOwl / Magura          │ 30–60s warning against FPV drones │
+├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
+│ 7. Portable Blood Warmer│ QinFlow Warrior System   │ $3,500 – $4,500 / kit             │
+│    (In-Field Transfusion│ Shock trauma / Medevac   │ prevents lethal hypothermia       │
+└─────────────────────────┴──────────────────────────┴───────────────────────────────────┘
+```
+
+> ⚠️ **Critical Tactical Medicine Warning (Via Negativa):**  
+> **Absolute ban on counterfeit $6–$8 tourniquets from AliExpress/Amazon!**  
+> Knockoffs suffer windlass breakage and seam shearing at arterial occlusion pressures (250–300 mmHg). Saving $15 kills the casualty. Verified procurement: *Leleka Foundation*, *Hospitallers*, *Pirogov First Volunteer Mobile Hospital*.
+
+#### **E.21. Book Royalty Donation Protocol (Scale Mismatch Error)**
+Allocating $1,000–$10,000 into general budget funds dissolves into banking friction. Capital must route where **Cost per Life Saved is minimized** and delivery distance is minimal:
+1. **Under $1,500:** Strictly consumables (40–70 certified SICH/CAT tourniquets via verified foundations);
+2. **$1,500 to $7,000:** Tactical early warning — batch of 20–50 "Tsukorok" passive drone detectors direct to frontline platoons;
+3. **Above $7,000:** Casevac 4x4 pickup with dome EW or a QinFlow Warrior portable blood warmer for a forward stabilization point.
+
 ### **Appendix F: "The Reference of Cognitive Fuses & the 03:00 Night Runbook"**
 
 > 💡 **STEP 0: WHAT TO DO IF DISASTER STRUCK RIGHT NOW**
@@ -694,6 +735,18 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 > **Your action right now:** Hold personal autonomy: a 90-day freeze-dried reserve at home, physical cash in a secure place, independent offline backups on M-DISC media — and a profession that gets paid live money on the world market.
 
 ---
+#### **6. The Ecosystem Bridge: How This Monograph & Applied Templates Fix Macro-Failures (undreading, undreseller)**
+
+We do not play politician or draft UN resolutions. Centralized bureaucratic institutions are structurally incapable of eradicating monopolies or censorship because their funding thrives on eternal management of the problem. Our engineering method is **grassroots household micro-sovereignty and disintermediation**:
+
+1. **Breaking Information Monopolies (`undreading` + The Monograph):**  
+   Protocols for stopping arterial bleeds with a C-A-T tourniquet in 15 seconds [P0-01], vacating default orders, purifying water [P0-59], and securing digital perimeters [P0-04] must be open to every human for free. Open-sourcing life's engineering blueprint eliminates leverage: a sovereign individual cannot be cornered;
+2. **Striking Platform Neofeudalism (`undreseller`):**  
+   Small businesses are choked by digital monopolies: food apps and booking platforms extract 15–35% margins while locking customer data. The `undreseller` template provides **technological autarky**: modular commerce, WhatsApp/Telegram booking bots, running on a $5/mo VPS with 0% platform rent. Restoring capital and client relationships to those who work with their hands;
+3. **Subtractive Execution (Via Negativa):** Freezing 80% of phantom projects to focus exclusively on **Two Live Pipes**: The Pipe of Meaning (`undreading` + The Monograph) and The Pipe of Cashflow (`undreseller` 002 Service Cart).
+
+---
+
 ### **Appendix I: "The Revision History and the Pressure-Test Register (Changelog v18.0–EN 2.7)"**
 
 ```

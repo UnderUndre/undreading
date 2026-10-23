@@ -174,3 +174,51 @@ If you are ready to:
 
 ---
 
+### **⚖️ AUTHOR-READER COVENANT (REVERSE SKIN IN THE GAME)**
+
+> 💡 **STAGE 0: PRACTICAL GROUNDING**  
+> In the standard self-help industry, the guru pretends to be a messiah, demanding you pay for every call and worship empty webinars. We invert this pyramid: **you owe the author nothing, but if you supported the book with cash — the author holds a strict engineering debt to you with skin in the game**.
+
+"Let's get this straight from the jump.
+
+**You owe me nothing.**  
+This entire book — its text, formulas, legal statutes, tactical medicine dosages, and runbooks — is completely open-source under a CC BY-NC-ND 4.0 license. You have the full legal right to read it for free, clone the repository, save it to disk, print it for personal use, and deploy these protocols to safeguard your life, family, and capital. I demand zero dollars from you, and I sell no 'secret knowledge behind closed doors.'
+
+**But if you decided to purchase this book — the roles reverse.**  
+In that exact second, you don't become my debtor; **I become indebted to you**. You voted for this engineering work with your own skin and hard-earned cash.
+
+I won't promise empty hour-long chats 'about life' — we both value Kingman's formula and working memory capacity too much to burn hours on small talk and blow up waiting queues.
+
+**Instead, I guarantee you two concrete engineering commitments:**
+1. **One strict asynchronous audit of your system bottleneck:** If a pipe blew out in your personal system (tangled relocation taxes, stalled software architecture, career burnout) — you get the right to **one detailed asynchronous breakdown**. You fill out a concise ticket following the book's protocol (Situation $\to$ Where the leak is $\to$ What the clog is), and I personally dissect your failure via text or a 3–5 minute Loom screencast without fluff;
+2. **100% production credit:** Every single dollar paid for this book is fully credited as a deposit/discount if you or your company ever come to me for an architectural audit or autonomous commercial software deployment.
+
+You hold the tool. I cover your rear. Let's get to work."
+
+---
+
+### **📄 OPEN SOURCE, DUAL LICENSING & AMAZON KDP ALGORITHMIC LOCKS**
+
+> 💡 **STAGE 0: PRACTICAL GROUNDING**  
+> The classic engineer's dilemma: *"If I publish the markdown source code of the book openly on GitHub, why would anyone buy the PDF or print version?"*.  
+> Level 1 publishing data proves the exact opposite: open source does not kill sales; it functions as the highest-converting trust filter when licensing and algorithmic locks are properly configured.
+
+#### 1. Split / Dual Licensing in a Single Repository
+Never spawn separate repositories for book content and build scripts. The industry standard uses clean dual licensing (identical to Linux kernel and Rust documentation):
+* **Monograph and Books (`books/`, `docs/`):** Strictly licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. Free non-commercial reading, downloading, and sharing with attribution; commercial exploitation and derivative publishing by third parties are strictly prohibited. Exclusive commercial rights for PDF, EPUB, and print remain 100% with the author;
+* **Build Scripts, Tools, and IaC (`scripts/`):** Licensed under the **MIT License** (free usage of automation code in any project);
+* **SPDX Compliance:** A root `LICENSE.md` orchestrates the split, with `SPDX-License-Identifier` headers in respective source files.
+
+#### 2. Why Technical Readers Buy PDF and Print When Markdown Is Free
+1. **Typography and layout vs raw markdown:** Reading hundreds of pages in raw text editor is exhausting for the visual cortex. A compiled PDF is purchased for its crafted typographical grid, clickable navigation, formulas, and optimization for tablet/e-ink screens (iPad, reMarkable, Kindle);
+2. **Bundle Value:** The paid package bundles laminated printable cheat sheets (03:00 Night Runbook, Telemetry Dashboards) and pre-indexed vaults;
+3. **Patronage & Skin in the Game:** Engineers gladly pay for robust tools as a mark of respect (*Pay What You Want / Patronage*), especially when the manual saved them thousands in taxes or medical bills.
+
+#### 3. Amazon KDP Algorithmic Traps
+* **Strict Ban on KDP Select (Kindle Unlimited):** KDP Select mandates **absolute digital exclusivity**. If Amazon's crawler finds open text on GitHub, the account is terminated instantly with royalties forfeited. Publish e-books **strictly WITHOUT KDP Select**;
+* **Paperback Print-on-Demand (PoD):** Exclusivity restrictions **do not apply to paperback editions**. Amazon expends physical paper and ink ($7 print cost), so paperbacks sell at your fixed price ($24.99) regardless of GitHub;
+* **The "Content Freely Available on the Web" Robot Notice:** Bypassed within 5 business days using standard copyright verification stating sole authorship, open-source draft hosting under CC BY-NC-ND, and exclusive commercial publishing rights retention;
+* **Price-Matching Defense:** Amazon reserves the right to force an e-book price to $0.00 if listed free on competing retail platforms. Host open markdown exclusively on personal/GitHub domains, never on commercial e-book storefronts.
+
+---
+
