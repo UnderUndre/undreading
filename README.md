@@ -1,3 +1,5 @@
+[English](README.md) | [Русская версия](README.ru.md)
+
 # foliate-js
 
 Library for rendering e-books in the browser.
@@ -366,10 +368,9 @@ Although it's mainly indeded for rendering e-books in the browser, some features
 
 ## ⚖️ Licensing
 
-This project uses a dual/split licensing model:
-
-* **Book text, monograph, and documentation (`books/`, `docs/`):** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) — free non-commercial reading, downloading, and distribution with attribution; commercial use and distribution of derivative works are strictly prohibited. Exclusive commercial publishing and distribution rights (PDF/EPUB/Amazon KDP Paperback) remain with the author.
-* **Executable source code, web reader, and build scripts (`scripts/`, codebase):** [MIT License](LICENSE.md) — free use, modification, and integration of the code.
-* **Vendored libraries:** [zip.js](https://github.com/gildas-lormeau/zip.js) (BSD-3-Clause), [fflate](https://github.com/101arrowz/fflate) (MIT), [PDF.js](https://mozilla.github.io/pdf.js/) (Apache-2.0).
+This project uses dual/split licensing:
+- **Book Text, Monograph, and Documentation (`books/`, `docs/`):** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) — free non-commercial reading, downloading, and sharing with attribution; commercial use and distribution of derivative works are strictly prohibited. Exclusive commercial distribution rights (PDF/EPUB/Paperback on Amazon KDP and other platforms) are reserved by the author.
+- **Executable Source Code, Web Reader, and Build Scripts (`scripts/`, codebase):** [MIT License](LICENSE.md) — free use, modification, and integration of code.
+- **Vendored Third-Party Libraries:** [zip.js](https://github.com/gildas-lormeau/zip.js) (BSD-3-Clause), [fflate](https://github.com/101arrowz/fflate) (MIT), [PDF.js](https://mozilla.github.io/pdf.js/) (Apache-2.0).
 
 For detailed legal terms, see [LICENSE.md](LICENSE.md).

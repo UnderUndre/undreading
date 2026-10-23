@@ -159,7 +159,7 @@ If you are ready to:
 * **Who should NOT read this book?** Seekers of magic pills, easy money, ready-made tax schemes to copy-paste, and business coaching. If you expect the AI or the author to solve your problems without your own work — close the book.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Nine Inch Nails — "Somewhat Damaged" (Listen: 00:30–01:10)
+> **Track:** Nine Inch Nails — "Somewhat Damaged"
 > **Node engineering analysis (from Bob):** Living in a hostile environment is not a philosophical debate — it's walking a minefield. This book doesn't preach morality or teach spirituality. It hands you the map of tripwires and teaches you to hold the pipe wrench correctly.
 
 * **What in this book is PERMANENT, and what expires by 2027?**

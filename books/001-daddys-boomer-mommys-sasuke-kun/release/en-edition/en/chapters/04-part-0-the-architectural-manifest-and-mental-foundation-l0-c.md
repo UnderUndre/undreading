@@ -91,7 +91,7 @@ In 2002, Joel Spolsky formulated the fundamental law of IT hydraulics: **any non
        * $L$ — pipe length (meters).
        * $D$ — internal pipe diameter (meters). The thinner the pipe ($D$), the greater the losses!
        * $v$ — mean flow velocity (m/s).
-       * $g$ — gravitational acceleration (\$9.81\text{ m/s}^2$).
+       * $g$ — gravitational acceleration ($9.81\text{ m/s}^2$).
    * **Cavitation margin (NPSH — Net Positive Suction Head) & $P < P_{vap}$:** If local pressure ($P$) falls below the vapor saturation pressure ($P_{vap}$), the resulting micro-bubbles implode and rip chunks of metal out of the pump impeller. In business, operating without a liquidity margin destroys the infrastructure long before formal bankruptcy.
    * **Water hammer (Nikolai Zhukovsky's formula):**
      $$\Delta P = \rho \cdot c \cdot \Delta v$$
@@ -109,7 +109,7 @@ In 2002, Joel Spolsky formulated the fundamental law of IT hydraulics: **any non
     * **DON'T PANIC:** The cognitive pressure-relief valve. During an incident, the catecholamine surge overloads the cortex; the anti-panic algorithm switches consciousness into Triage protocol (NIST SP 800-61 / Forensic IR — dump volatile RAM before reboot).
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Johnny Cash — "God's Gonna Cut You Down" (Listen: 01:15–01:45)
+> **Track:** Johnny Cash — "God's Gonna Cut You Down"
 > **Node engineering analysis (from Bob):** Panic and give-no-fuckism are two opposing water hammers. Panic burns out the cortex with catecholamines; clinical apathy mutes telemetry to zero until the system defaults. The DON'T PANIC protocol is not "I don't give a shit" — it's the cold switch into the Triage algorithm.
 
 Panic and give-no-fuckism are two ways to lose the same circuit. The first mutes the cortex with catecholamines; the second mutes it with boredom, down to zero. DON'T PANIC is not "I don't give a shit."
@@ -137,7 +137,7 @@ Before any irreversible bet (capital, body, legal status), run the decision thro
 1. **Door Test (reversibility).** If rollback < 4 weeks and burns an insignificant share of liquidity — reclassify as Type 2 and throw a Safe-to-Fail Probe. Otherwise, full Type 1.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Ikimonogakari — "Blue Bird" (Naruto Shippuden OP3, Listen: 00:00–00:35)
+> **Track:** Ikimonogakari — "Blue Bird" (Naruto Shippuden OP3)
 > **Node engineering analysis (from Bob):** A Type 1 decision is a one-way membrane. You said "taking off and not coming back" — close the door behind you and stop burning precious attention pressure on looking back.
 
 > 🎧 **Operator's soundtrack epigraph:**
@@ -147,7 +147,7 @@ Before any irreversible bet (capital, body, legal status), run the decision thro
 *Blue Bird* already calls *Silhouette* as boarding. *Silhouette* in this book is 160 BPM. Both tracks here are about one thing: the one-way door. Once you've taken off / crossed over — the cage doesn't come back. Type 2 doesn't sound like this.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Akeboshi — "Wind" (Naruto ED1, Listen: 00:40–01:20)
+> **Track:** Akeboshi — "Wind" (Naruto ED1)
 > **Node engineering analysis (from Bob):** The sunk-cost fallacy disguises itself as folk "wisdom": keep pouring resources into a dead riser out of sentimentality. In the end, the operator regrets not pressing the stop button — he regrets the lost years of life.
 
 The Door Test is a straight road to the point, not a scenic serpentine of "let me think some more." Fear paints shadows out of nothing; fake wisdom and fake courage after 23:00 end in self-hatred. The blood must be slowed — that is the 12–24 h quarantine, not "one more committee." Before every irreversible step, run Dwight Schrute's filter: *«Whenever I'm about to do something, I think, "Would an idiot do that?" And if they would, I do not do that thing»*.
@@ -218,7 +218,7 @@ The Door Test is a straight road to the point, not a scenic serpentine of "let m
 
 8. NUMERIC 🔴 KILL CRITERIA (STOP CONDITIONS):
    - Forced liquidation date: [ Exact date ]
-   - Burned-cash threshold: [ $___ ]
+   - Burned-cash threshold: [ \$___ ]
    - Demand-metric threshold: [ If paying clients < ___ ]
 ```
 
@@ -229,7 +229,7 @@ The Door Test is a straight road to the point, not a scenic serpentine of "let m
 * **The instrumental status of ritual (an L2 buffer):** Religious practices in The Plumbing of Being are treated not as world-physics but as a social and psychological hydraulic seal (echelon L2). The Sabbath and mandated days of rest work as a hardware *Single-WIP Limit* and *enforced Slack Time*, protecting the cortex from cortisol burnout, while communal structures provide horizontal insurance unattainable in an atomized society.
 * **The absolute seal:** **Prayer is categorically barred from controlling the physical L1 and digital L5 circuits.** Prayer does not replace the C-A-T tourniquet in MARCH PAWS, epinephrine in anaphylaxis, or FIDO2 hardware tokens. Faith is respected as a sovereign choice exactly as long as it doesn't sabotage evidence-based medicine.
 
-##### **1.0.2. The Vibe Coding Trap: The \$10\times$ Speed Illusion, the Extinction of Juniors, and the Reproduction Crisis of Engineering Competence**
+##### **1.0.2. The Vibe Coding Trap: The $10\times$ Speed Illusion, the Extinction of Juniors, and the Reproduction Crisis of Engineering Competence**
 
 In 2024–2026, the software industry was swept by the **Vibe Coding** phenomenon — blind generation of entire applications via LLM prompts (Cursor, Claude Code, Copilot) without line-by-line reading, memory profiling, or deep understanding of the underlying computational hydraulics.
 
@@ -347,12 +347,12 @@ A Single Point of Failure is a clog or a thin spot whose rupture instantly drags
      * $d_{\text{eff}}$ — the effective (angle-adjusted) armor thickness.
      * $d_{\text{nominal}}$ — the nominal (spec-sheet) plate thickness.
      * $\alpha$ (alpha) — the plate's angle to the shell's trajectory.
-     * \$5^\circ$ — AP-shell normalization (the angle the shell turns on impact).
+     * $5^\circ$ — AP-shell normalization (the angle the shell turns on impact).
    * The initiative window: $\Delta T = T_{\text{reload}}(\text{Enemy}) - T_{\text{aim}}(\text{You}) - T_{\text{retreat}}$. Where $T_{\text{reload}}$ — enemy reload time, $T_{\text{aim}}$ — your aim time, $T_{\text{retreat}}$ — time to cover. When the opponent fires and misses and rolls into cooldown, use the window for the counter-shot.
 3. **Filtering the "baddies" (Solo Carry) & `/disable_chat`:** In a system with 15 random players you don't control the 14 dilettantes. Run the mental `/disable_chat` in meetings, focus on your personal contribution (WN8/DPM), and carry the position solo.
 4. **The 15-meter rule and double bushes (OpSec):** Firing drops the concealment of any bush within a 15 m radius to 0%. Falling back 15 m behind a solid bush hides you from detection (*Sixth Sense*). Execute financial and legal operations from behind the double bush (separate jurisdictions).
 5. **Gold vs AP economy:** Standard AP (1x) vs APCR/HEAT (4–5x). The cheapskate's trap (saving 4,000 credits costs you the tank and a 25k repair). Load gold for 100% penetration of critical chokepoints (enterprise API, an elite auditor at \$1000/hour).
-6. **Sidescraping and the rhombus ($>70^\circ$ auto-ricochet):** Hull angling above \$70^\circ$ yields a guaranteed ricochet. Legal sidescraping in contracts (Cap of Liability, arbitration clauses, severing consequential damages).
+6. **Sidescraping and the rhombus ($>70^\circ$ auto-ricochet):** Hull angling above $70^\circ$ yields a guaranteed ricochet. Legal sidescraping in contracts (Cap of Liability, arbitration clauses, severing consequential damages).
 
 ###### **The 5 Manifestos of WoT Engineering Pragmatism:**
 
@@ -449,7 +449,7 @@ Knowledge grows **strictly by cutting away the false**. Wealth or triumph cannot
 
 ##### **1.2.1. HMS Thetis (1939): A 0.05 mm Enamel Layer and the Thetis Clip**
 
-During trials of the brand-new submarine HMS Thetis, the \$3.5\text{ mm}$ test cock of torpedo tube No. 5 was painted over with *Bitumastic Enamel* \$0.05\text{ mm}$ thick. The officer opened the cock — no water came. He concluded the tube was dry and the bow cap closed. In reality, the bow cap was wide open to the sea. Upon opening the \$533\text{ mm}$ breech, water at \$2.5\text{ atm}$ poured in at 2 tons/second, flooding the forward compartments. 99 of 103 aboard died. **The lesson:** Zero Trust toward passive indicators! The world's navies adopted the powered *Thetis Clip* — a mechanical interlock physically blocking hatch opening beyond 5 mm unless the retaining clip is removed.
+During trials of the brand-new submarine HMS Thetis, the $3.5\text{ mm}$ test cock of torpedo tube No. 5 was painted over with *Bitumastic Enamel* $0.05\text{ mm}$ thick. The officer opened the cock — no water came. He concluded the tube was dry and the bow cap closed. In reality, the bow cap was wide open to the sea. Upon opening the $533\text{ mm}$ breech, water at $2.5\text{ atm}$ poured in at 2 tons/second, flooding the forward compartments. 99 of 103 aboard died. **The lesson:** Zero Trust toward passive indicators! The world's navies adopted the powered *Thetis Clip* — a mechanical interlock physically blocking hatch opening beyond 5 mm unless the retaining clip is removed.
 
 ##### **1.2.1.1. Boeing 737 MAX / MCAS (2018–2019): Single Point of Failure and the Death of 346 People**
 
@@ -465,11 +465,11 @@ During trials of the brand-new submarine HMS Thetis, the \$3.5\text{ mm}$ test c
 
 ##### **1.2.2. Schiaparelli EDM (2016): Gyroscope Saturation on Mars**
 
-During parachute deployment of the 2016 ExoMars lander — a €230M mission — the gyroscope saturated ($>187.5^\circ/\text{s}$) for 1.05 seconds. The Kalman filter produced a negative altitude ($-2\text{ meters}$ underground). The onboard computer concluded landing was complete: it jettisoned the parachute at \$3.7\text{ km}$ altitude and fired the braking thrusters for 3 seconds instead of 30. The module entered free fall and hit the Meridiani Planum at \$540\text{ km/h}$. **The lesson:** A finite-state machine (FSM) has no right to transition into the "on ground" phase based on a single integrator's data!
+During parachute deployment of the 2016 ExoMars lander — a €230M mission — the gyroscope saturated ($>187.5^\circ/\text{s}$) for 1.05 seconds. The Kalman filter produced a negative altitude ($-2\text{ meters}$ underground). The onboard computer concluded landing was complete: it jettisoned the parachute at $3.7\text{ km}$ altitude and fired the braking thrusters for 3 seconds instead of 30. The module entered free fall and hit the Meridiani Planum at $540\text{ km/h}$. **The lesson:** A finite-state machine (FSM) has no right to transition into the "on ground" phase based on a single integrator's data!
 
 ##### **1.2.3. Hyatt Regency (1981), Therac-25 (1985), Sleipner A (1991) & the Citicorp Center (1978)**
 
-* **Hyatt Regency:** A doubled load (\$2P$) on a 4th-floor beam connection because the tie-rod change was approved by fax without recalculation $\rightarrow$ sheared metal, 114 dead.
+* **Hyatt Regency:** A doubled load ($2P$) on a 4th-floor beam connection because the tie-rod change was approved by fax without recalculation $\rightarrow$ sheared metal, 114 dead.
 * **Therac-25:** Physical relays thrown out, plus two independent software bugs (per Prof. Nancy Leveson's report): a race condition on rapid operator input editing in $<8$ s (Tyler, 1986) and a 1-byte `Class3` counter wrap from 256 to zero (Yakima, 1987) $\rightarrow$ radiation burns and lethal overdoses from an unshielded 25 MeV beam. There is no sequence of actions a user could not perform by accident.
 * **Sleipner A (1991):** A 47% shear-stress calculation error in FEA software (NASTRAN) due to a too-coarse mesh $\rightarrow$ a crack in a 1.5 m concrete wall at 65 m depth, flooding of the platform (\$700M loss).
 * **Citicorp Center (1978):** Quartering wind at 45° raised the wind load on the chevron braces by 40%, which in the bolted node connections — via a leverage effect — spiked tensile stress up to **+160%** (2.6×) versus the perpendicular-wind design case. Replacing the design's welded joints with weaker bolted ones, combined with the underrated safety factor for the braced frame (1:1 instead of the column's 1:2), dropped the skyscraper's calculated failure threshold to a 70 mph storm (a 16-year return cycle). A secret overnight welding repair with two-inch steel plates saved the building.
@@ -513,7 +513,7 @@ ENVIRONMENTAL INPUT (Toxins / Chronic stress / Photons / Load)
   RNA transcription: Gene expression ON or BLOCKED
 ```
 
-* **The *NR3C1* receptor fistula:** Chronic sleep debt and hypercortisolemia induce DNMT1 $\rightarrow$ hypermethylation of exon \$1_7$ of the glucocorticoid receptor gene *NR3C1* promoter in the hippocampus $\rightarrow$ falling receptor density $\rightarrow$ the hippocampus loses its negative feedback $\rightarrow$ the HPA axis continuously floods the vessels with cortisol, driving hypertension and neuroinflammation.
+* **The *NR3C1* receptor fistula:** Chronic sleep debt and hypercortisolemia induce DNMT1 $\rightarrow$ hypermethylation of exon $1_7$ of the glucocorticoid receptor gene *NR3C1* promoter in the hippocampus $\rightarrow$ falling receptor density $\rightarrow$ the hippocampus loses its negative feedback $\rightarrow$ the HPA axis continuously floods the vessels with cortisol, driving hypertension and neuroinflammation.
 
 > 🔧 **Engineering takeaway:**
 > You cannot change your processor's stock ROM, but you hold 100% control over the environmental compiler: toxin filtering, circadian light, Single-WIP, and muscular load determine which lines of code execute right now. Law 1.0.20 (*"Environment > Willpower"*) is burned into the cell's biochemistry itself.

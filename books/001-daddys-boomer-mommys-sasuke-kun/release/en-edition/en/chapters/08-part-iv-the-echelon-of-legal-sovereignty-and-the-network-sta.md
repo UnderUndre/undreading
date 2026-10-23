@@ -174,7 +174,7 @@ Attempting to move accumulated capital to a low-tax jurisdiction is blocked by d
   * **Self-Employment Tax (15.3%):** FEIE removes income tax but NOT the 15.3% SE Tax (Schedule SE) for sole proprietors/freelancers. The bypass: providing services through a foreign corporation (UAE FZCO / Cyprus LTD) as an employee.
   * **CFC / GILTI (IRC §951A / NCTI regime):** Owning $>50\%$ of a foreign company is taxed at the individual level at up to 37% (Form 5471). The bypass: a **Section 962 Election** (electing to be taxed as a corporation). *Note (OBBBA calibration):* previously the rate was ~10.5% due to a 50% Section 250 deduction. Following tax reform, the deduction was cut to 40%, raising the corporate base to 12.6%, and factoring in the Section 960 Foreign Tax Credit (FTC) haircut, the actual effective rate is **13.125%–14%** (not 10.5%).
 * **Germany (§ 6 AStG / the ATADUmsG law):**
-  Individuals holding company stakes of \$1\%$ or more, who were German tax residents for at least 7 of the preceding 12 years, are on departure taxed on unrealized capital gains as if on a fictitious sale (*Teileinkünfteverfahren*, tax on 60% of the hidden appreciation). From January 1, 2022, the indefinite deferral for moves within the EU/EEA is fully annulled: the tax is paid either immediately or in a 7-year installment plan, strictly against a bank guarantee or asset collateral.
+  Individuals holding company stakes of $1\%$ or more, who were German tax residents for at least 7 of the preceding 12 years, are on departure taxed on unrealized capital gains as if on a fictitious sale (*Teileinkünfteverfahren*, tax on 60% of the hidden appreciation). From January 1, 2022, the indefinite deferral for moves within the EU/EEA is fully annulled: the tax is paid either immediately or in a 7-year installment plan, strictly against a bank guarantee or asset collateral.
 * **Norway (the Tax Act § 10-70):**
   Unrealized share appreciation is taxed at an effective rate of **37.84%**. The rule expiring tax claims after 5 years is fully liquidated: the tax must be paid unconditionally within 12 years of departure. An expatriate's death no longer cancels the debt: the fiscal obligation passes in full to heirs abroad.
 * **Canada (Income Tax Act, Section 128.1):**
@@ -198,7 +198,7 @@ Attempting to move accumulated capital to a low-tax jurisdiction is blocked by d
 US Presidential **Executive Order 14114** entrenched the global expansion of OFAC's powers to impose **secondary sanctions on any Foreign Financial Institutions (FFI)**:
 * **The mechanism of financial extortion:** OFAC is empowered to unilaterally close or severely restrict **correspondent accounts and payable-through accounts (CAPTA)** at US banks for any foreign bank facilitating settlements in the interests of Russia's defense industry or blocked persons.
 * **The institutional paralysis of clearing:** For any international bank, losing dollar correspondent accounts means automatic disconnection from the **Fedwire and CHIPS** interbank clearing systems, putting the financial organization at risk of license revocation.
-* **The over-compliance effect:** Banks of Turkey, the UAE, China, Kazakhstan, and Armenia have hardened checks of all inbound and outbound cross-border payments (holding transactions for \$30\text{–}60\text{ days}$, demands for *End-User Certificates* for HS commodity codes 84, 85, 90).
+* **The over-compliance effect:** Banks of Turkey, the UAE, China, Kazakhstan, and Armenia have hardened checks of all inbound and outbound cross-border payments (holding transactions for $30\text{–}60\text{ days}$, demands for *End-User Certificates* for HS commodity codes 84, 85, 90).
 * **The engineering seal of sovereign treasury:** Fully withdrawing transit payment flows from the jurisdiction of US dollar clearing and moving to direct correspondent pairs in neutral national currencies (**AED, CNH, KZT**) without the participation of G7 processing hubs.
 
 ##### **10.5.2. Border Passport Audit: Machine-Readable Zone (MRZ) & Document Invalidation [P0-86]**
@@ -325,7 +325,7 @@ This is a dangerous delusion capable of account freezes and million-dollar claim
 
 1. **The separation of Federal Income Tax vs State Sales Tax:**
    * **IRC § 864(b) (Non-ETBUS)** exempts the non-resident **EXCLUSIVELY from federal corporate income tax (Federal Income Tax)**.
-   * **State Sales Tax (an indirect state sales tax):** The US has no national VAT. Instead, each of the 50 states (and over 12,000 local tax jurisdictions) independently sets a sales tax (from \$0\%$ to \$10.5\%$).
+   * **State Sales Tax (an indirect state sales tax):** The US has no national VAT. Instead, each of the 50 states (and over 12,000 local tax jurisdictions) independently sets a sales tax (from $0\%$ to $10.5\%$).
 2. **The US Supreme Court precedent *South Dakota v. Wayfair, Inc.* (2018):**
    * Before 2018, the obligation to collect a state's tax required physical presence (*Physical Nexus*: an office, warehouse, employees).
    * The SCOTUS ruling in *Wayfair* legalized the **Economic Nexus**: if an online business sells digital goods, software, SaaS subscriptions, or e-books to residents of a specific state and exceeds the set thresholds (in most states — **\$100,000 in revenue or 200 separate transactions a year**), the company acquires an unconditional obligation to register with that state's Department of Revenue, calculate and collect the local Sales Tax from buyers, and remit it quarterly.
@@ -354,7 +354,7 @@ While §10.6.4 explores economic nexus thresholds following *South Dakota v. Way
 3. **Engineering Mitigation Protocol ([P0-97]):**
    * Activate **Inventory Placement Services** within merchant dashboards to lock stock storage strictly into pre-approved, contractually designated warehouses.
    * Conduct quarterly forensic reconciliations of storage locations using *Inventory Event Detail* reports.
-   * On discovering uncoordinated inventory dispersion, immediately execute **Voluntary Disclosure Agreements (VDA)** with state revenue departments before audit notifications are issued, securing \$100\%$ abatement of failure-to-file penalties.
+   * On discovering uncoordinated inventory dispersion, immediately execute **Voluntary Disclosure Agreements (VDA)** with state revenue departments before audit notifications are issued, securing $100\%$ abatement of failure-to-file penalties.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -471,7 +471,7 @@ The apartment enters the insolvency estate ──► The buyer queues 3rd (chanc
 ```
 
 1. **Inadequate consideration (art. 61.2(1), the RU case):**
-   Any transaction within **1 year** before the bankruptcy petition at a price below \$70\text{–}80\%$ of market/cadastral value (including the popular "understate the deed price to dodge taxes" scheme) is voided automatically — **without needing to prove the buyer's bad faith**.
+   Any transaction within **1 year** before the bankruptcy petition at a price below $70\text{–}80\%$ of market/cadastral value (including the popular "understate the deed price to dodge taxes" scheme) is voided automatically — **without needing to prove the buyer's bad faith**.
 2. **Harm to creditors and the presumption of awareness (art. 61.2(2)):**
    Transactions within **1 to 3 years** before bankruptcy are voided if, at the deal moment, the seller showed insolvency signs (loan arrears, enforcement debts, lawsuits) and the buyer is deemed to have "failed due diligence."
 3. **The legal collapse and the differentiation of protection (the sole-home protection of Law 372-FZ and the 2023–2026 reform):**
@@ -540,7 +540,7 @@ The layman's fantasy breaks against the physiological timer:
 * After skeletonization, the bones join the permanent *William M. Bass Donated Skeletal Collection*. Pre-registration via the Body Donation Form is mandatory; death outside Tennessee means **the estate or next of kin pays transport**, and HIV/hepatitis/prion conditions disqualify.
 
 ##### **5. Eco-destruction: alkaline hydrolysis (aquamation) vs terramation:**
-* **Aquamation (alkaline hydrolysis):** the 21st-century baseline. 5% KOH solution, \$150\text{--}160^\circ\text{C}$ under pressure: in 3–4 hours soft tissue (proteins, lipids, DNA, even prions) hydrolyzes into a sterile peptide broth drained to municipal treatment, and the bone mineral is dried and ground into clean white powder for the urn. 90% less energy than flame cremation, zero mercury/CO2 emissions. Legalized in 28+ US states, Canada, Scotland (2026), the Netherlands.
+* **Aquamation (alkaline hydrolysis):** the 21st-century baseline. 5% KOH solution, $150\text{--}160^\circ\text{C}$ under pressure: in 3–4 hours soft tissue (proteins, lipids, DNA, even prions) hydrolyzes into a sterile peptide broth drained to municipal treatment, and the bone mineral is dried and ground into clean white powder for the urn. 90% less energy than flame cremation, zero mercury/CO2 emissions. Legalized in 28+ US states, Canada, Scotland (2026), the Netherlands.
 * **Terramation (Natural Organic Reduction):** 30–45 days of aerobic thermophilic composting in wood chips converts the body into ~1 cubic meter of fertile soil. Legal in Washington, Colorado, Oregon, California, New York and several other US states.
 * **Promession — a monument to pseudoscience:** Swedish biologist Susanne Wiigh-Mäsak raised investment for 15 years on liquid-nitrogen freeze + ultrasonic shattering; her company Promessa Organic AB was liquidated in 2015 without processing a single body.
 
@@ -758,13 +758,13 @@ Where:
 * $\tau$ — the mean processing time of one request.
 
 **The engineering conclusion:**
-When officials try to "optimize the budget" and cut staff to the point where every inspector runs at \$95\text{–}98\%$ load ($\rho \to 1.0$), the denominator $(1 - \rho) \to 0$, and queue wait time $W_q$ **goes to infinity exponentially**. Any unforeseen external surge (a pandemic, sanctions, a new filing form) produces total thrombosis and a system-wide water hammer.
+When officials try to "optimize the budget" and cut staff to the point where every inspector runs at $95\text{–}98\%$ load ($\rho \to 1.0$), the denominator $(1 - \rho) \to 0$, and queue wait time $W_q$ **goes to infinity exponentially**. Any unforeseen external surge (a pandemic, sanctions, a new filing form) produces total thrombosis and a system-wide water hammer.
 
 By **Little's law** ($L = \lambda W$), the number of unfinished cases ($L$, work-in-progress) explodes like an avalanche. As a result, up to **75% of civil servants' working time** goes purely to parasitic cognitive overhead: shuffling overdue folders, answering delay complaints, and hunting lost documents (*Weinberg switching loss*).
 
 ###### **1.2. Regulatory sludge (Sludge / the time tax): a tax on human time**
 Cass Sunstein's economic analysis (*Sludge*, 2021) and the White House OMB reports on implementing the *Paperwork Reduction Act* expose the scale of institutional friction:
-* Annual citizen and business labor spent filling mandatory federal forms in the US amounts to **10.0–12.2 billion person-hours** (about two-thirds — **\$60\text{–}70\%$** — falls on the fiscal procedures of the IRS and Treasury);
+* Annual citizen and business labor spent filling mandatory federal forms in the US amounts to **10.0–12.2 billion person-hours** (about two-thirds — **$60\text{–}70\%$** — falls on the fiscal procedures of the IRS and Treasury);
 * **The TCO-shifting mechanism:** For a state agency, introducing a new regulatory form costs **zero** (an official just signs an order). But the total cost of ownership of that norm (**TCO**) is shifted onto millions of entrepreneurs, burning hundreds of hours of life on lawyers, notaries, and accountants.
 
 ###### **1.3. Type 1 fuses: Sunset Clauses and the Vacatio Legis gates**
@@ -818,11 +818,11 @@ The secondary-liability suit: the burden of proving good faith
 ###### **The 4 seals of working in a collegial body with signature rights:**
 
 1. **Seal 1: The annual pre-mortem of the cash gap (a 12-month horizon):**
-   Before signing the budget or the repair estimate, run the calculation: "What happens if \$20\%$ of residents/clients stop paying and utility tariffs rise by \$15\%$?" The estimate must carry a protective hydraulic damper (a reserve fund in a separate special account of at least **15–20%** of annual opex).
+   Before signing the budget or the repair estimate, run the calculation: "What happens if $20\%$ of residents/clients stop paying and utility tariffs rise by $15\%$?" The estimate must carry a protective hydraulic damper (a reserve fund in a separate special account of at least **15–20%** of annual opex).
 2. **Seal 2: The categorical ban on approvals in messengers (Paper & WORM Only):**
    Any agreements in WhatsApp, Telegram, or the chairperson's verbal assurances are legally void in arbitration court. All contractor offers (a minimum of 3 independent commercial proposals), defect lists, and estimates must reach board members in writing no later than **5 business days** before the meeting.
 3. **Seal 3: Unconditional recusal on conflict of interest:**
-   If a contractor is a relative, acquaintance, or affiliate of any board member — the board member must file a written recusal and abstain from voting. Hiding affiliation is a \$100\%$ guarantee of having one's actions ruled bad faith.
+   If a contractor is a relative, acquaintance, or affiliate of any board member — the board member must file a written recusal and abstain from voting. Hiding affiliation is a $100\%$ guarantee of having one's actions ruled bad faith.
 4. **Seal 4: The protocolized reasoned "Dissenting Opinion":**
    If the board is ramming through an unverified estimate, inflated rates, or a dubious contractor — a simple "against" vote is not enough! You are obliged to demand entering into the official meeting minutes a detailed **"Dissenting Opinion of a Board Member"** with attached calculations of alternative offers. *In arbitration court, a reasoned dissent doesn't automatically dismiss the suit — but it is the key evidence of good faith and reasonableness that destroys the controlling-person guilt presumption.*
 
@@ -1168,11 +1168,11 @@ If the founder personally writes the code, designs the architecture, or conducts
 | Jurisdiction | Marginal extraction rate | The key re-qualification trap | The critical trigger threshold | The preventive defense circuit |
 | :---- | :---- | :---- | :---- | :---- |
 | **Australia (ATO)** | **47%** (PIT + Medicare) | **PSI Rules** (Part 2-42) & **Bywater CMAC** | Personal skills $> 50\%$ of revenue; managing a foreign LLC from AU | Passing the *Results Test*; delegating management to an independent offshore board. |
-| **Canada (CRA)** | **53.53%** (Ontario) + 25% penalty | **TOSI** (s 120.4) & **GAAR 2024** (s 245(4.1)) | Passive dividends to family; CCPC passive income $> \$50\text{k}$ | Proving $\ge 20$ h/week of real family-member work; voluntary disclosure per s 237.3. |
+| **Canada (CRA)** | **53.53%** (Ontario) + 25% penalty | **TOSI** (s 120.4) & **GAAR 2024** (s 245(4.1)) | Passive dividends to family; CCPC passive income $> $50\text{k}$ | Proving $\ge 20$ h/week of real family-member work; voluntary disclosure per s 237.3. |
 | **Singapore (IRAS)** | **24%** (PIT) / **17%** (FSIE) | **Section 10L** & **Badges of Trade** | Repatriating gains without an office; frequent crypto trades | Segregating the long-term portfolio; securing real substance. |
 | **Ireland (Revenue)** | **52%** (PIT) / **41%** (ETF) | **Deemed Disposal** & **Service Surcharge** | 8 years of holding a UCITS ETF; retaining service profit in a close company | Direct stock investment instead of ETFs; converting the business to software IP licensing. |
 | **Netherlands (Belastingdienst)** | **49.5%** (Box 1) / **31%** (Box 2) | **Wet excessief lenen** & **Gebruikelijk loon** | Loans from the company $> €500\text{k}$; refusing the normative salary (€56k+) | Filing for a reduced-normative-salary ruling; filing the *Opgaaf werkelijk rendement*. |
-| **New Zealand (IRD)** | **39%** (PIT) / **1.95%** (portfolio) | **FIF FDR (5%)** & **Crypto section CB 4** | Foreign stocks $> \$50\text{k}$ NZD; selling cryptocurrency | Using the 4-year *Transitional Resident* window; investing via PIE funds. |
+| **New Zealand (IRD)** | **39%** (PIT) / **1.95%** (portfolio) | **FIF FDR (5%)** & **Crypto section CB 4** | Foreign stocks $> $50\text{k}$ NZD; selling cryptocurrency | Using the 4-year *Transitional Resident* window; investing via PIE funds. |
 | **UK (HMRC post-2025)** | **45%** (PIT) / **40%** (IHT) | **4-Year FIG Expiration** & **10/20 IHT Rule** | Residing 5+ years (worldwide tax); residing 10 of 20 years (the death tax) | Using the transit-hub status strictly for up to 4 years, with mandatory residency change after. |
 
 ##### **7. The Bayesian Risk Calibration**
@@ -1192,11 +1192,11 @@ $$P(\text{Blowout} \mid \text{Assumptions}) = \frac{P(\text{Assumptions} \mid \t
 | **Australia** | **PSI Rules** (Part 2-42 ITAA 1997) | $>50\%$ of income from personal labor $\to$ PIT 47% | **VERIFIED** | **Level 1** (ITAA 1997, TR 2003/10) | Contracts strictly under the *Results Test*; client diversification $<80\%$. |
 | **Australia** | **Division 7A** (ITAA 1936) | Loans from your own Pty Ltd $\to$ 8.37–8.77% | **VERIFIED** | **Level 1** (ATO benchmarks 2024–2027) | A written 7-year loan agreement; annual principal and interest payments. |
 | **Canada** | **TOSI** (section 120.4 ITA) | Income splitting to family $\to$ 53.53% tax | **VERIFIED** | **Level 1** (ITA s. 120.4) | Proof of $\ge 20\text{ h/wk}$ of the relative's real work. |
-| **Canada** | **SBD Grind** (section 125(5.1) ITA) | Passive income $> \$50\text{k} \to$ loss of the ~12% benefit | **VERIFIED** | **Level 1** (ITA s. 125(5.1)) | Moving passive investments out of the active CCPC into the personal circuit / a Holdco. |
+| **Canada** | **SBD Grind** (section 125(5.1) ITA) | Passive income $> $50\text{k} \to$ loss of the ~12% benefit | **VERIFIED** | **Level 1** (ITA s. 125(5.1)) | Moving passive investments out of the active CCPC into the personal circuit / a Holdco. |
 | **Singapore** | **Section 10L** (ITA 1947) | Disposal of foreign assets $\to$ 17% without substance | **VERIFIED** | **Level 1** (IRAS guide 2024–2025) | Building real Substance (office, payroll) or non-repatriation. |
 | **Ireland** | **Deemed Disposal** (s. 730D/E TCA) | A fictitious ETF disposal every 8 years $\to$ 41% | **VERIFIED** | **Level 1** (TCA 1997 Part 26) | Rejecting UCITS/ETFs for direct stocks (CGT 33%) or pension vehicles. |
 | **Netherlands** | **Box 3 reform** (Hoge Raad 2024) | Tax on the unrealized gains of stocks/crypto | **VERIFIED** | **Level 1** (ECLI:NL:HR:2024:704) | Filing the *Opgaaf werkelijk rendement* on portfolio drawdowns. |
-| **New Zealand** | **FIF FDR method** (s. EX 52 ITA) | Attributed 5% income on a foreign portfolio $> \$50\text{k}$ | **VERIFIED** | **Level 1** (ITA 2007, IR461) | Using the 4-year *Transitional Resident* window; moving into PIE funds. |
+| **New Zealand** | **FIF FDR method** (s. EX 52 ITA) | Attributed 5% income on a foreign portfolio $> $50\text{k}$ | **VERIFIED** | **Level 1** (ITA 2007, IR461) | Using the 4-year *Transitional Resident* window; moving into PIE funds. |
 
 > 🔧 **Engineer-to-human translation (Bob's Rule: the physics of the pipe and the blue duct tape):**
 > **1. The essence of the con:**
@@ -1234,10 +1234,10 @@ $$\text{TCO}_{\text{month}} = \text{Burn}_{\text{base}} + \text{Amort}_{\text{le
    * *PFIC Penalties (IRC § 1291):* Non-US mutual funds and European UCITS ETFs are taxed at the highest ordinary income rate (up to 37%) plus daily compounding interest penalties.
 2. 🇲🇽 **Mexico (Financial Solvency & SAT Integration):**
    * *Status:* Solvency requirements are benchmarked against the UMA (Unidad de Medida y Actualización, 117.31 MXN).
-   * *Thresholds:* Monthly income of \$680 \times \text{UMA} \approx \$4,400\text{--}\$4,630\text{ USD/mo}$ or bank statements showing \$11,460 \times \text{UMA} \approx \$74,500\text{--}\$78,000\text{ USD}$. Strict requirement to obtain local SAT tax identification (RFC) to maintain active domestic bank accounts.
+   * *Thresholds:* Monthly income of $680 \times \text{UMA} \approx \$4,400\text{--}\$4,630\text{ USD/mo}$ or bank statements showing \$11,460 \times \text{UMA} \approx \$74,500\text{--}\$78,000\text{ USD}$. Strict requirement to obtain local SAT tax identification (RFC) to maintain active domestic bank accounts.
 3. 🇵🇹 **Portugal (Post-NHR Landscape & AIMA Backlogs):**
     * *Status:* The classic NHR (10% / 20% flat tax) is abolished; replaced by IFICI (Art. 58-A EBF) strictly restricted to certified academic researchers and high-tech startup founders. General PIT reaches up to **48% (+5% solidarity surcharge)**.
-    * *Chokepoint:* D8 Digital Nomad Visa threshold is raised to \$4\times$ national minimum wage = **€3,680/mo (\$4,050 USD)**. Migration agency AIMA faces backlogs exceeding 400,000 pending files with 12–18 month procedural delays.
+    * *Chokepoint:* D8 Digital Nomad Visa threshold is raised to $4\times$ national minimum wage = **€3,680/mo (\$4,050 USD)**. Migration agency AIMA faces backlogs exceeding 400,000 pending files with 12–18 month procedural delays.
 4. 🇪🇸 **Spain (Digital Nomad Visa & Ley Beckham):**
     * *Status:* DNV requires income $\ge 200\%$ SMI (~€2,700/mo). The Beckham Law (*Art. 93 LIRPF*) provides a 24% flat tax up to €600,000/yr for 6 years with foreign asset exemptions.
     * *Risks:* Growing anti-tourism gentrification protests, local emergency rental caps, and mandatory *cuota de autónomos* (€230–€540/mo) upon transitioning out of Beckham status.
@@ -1535,7 +1535,7 @@ In matters of biological shell disposal, Scotland has made a radical break from 
 
 2. **Effective Date:** **March 2, 2026**. Scotland became the first jurisdiction of the United Kingdom to officially legalize alkaline hydrolysis (*Alkaline Hydrolysis / Resomation / Water Cremation*). In England, Wales, and Northern Ireland, this process remains outside the direct regulatory field.
 
-3. **Engineering Mechanism of Hydrolysis:** The body is placed in a sealed stainless steel chamber under pressure. A solution of 95% water and 5% potassium hydroxide ($\text{KOH}$) is heated to **\$150^\circ\text{C}$**. Over 3–4 hours, soft tissues are fully hydrolyzed into basic amino acids, peptides, and water; bone remains are ground into sterile white powder and returned to relatives. Energy consumption and carbon footprint are **90% lower than classical flame cremation**.
+3. **Engineering Mechanism of Hydrolysis:** The body is placed in a sealed stainless steel chamber under pressure. A solution of 95% water and 5% potassium hydroxide ($\text{KOH}$) is heated to **$150^\circ\text{C}$**. Over 3–4 hours, soft tissues are fully hydrolyzed into basic amino acids, peptides, and water; bone remains are ground into sterile white powder and returned to relatives. Energy consumption and carbon footprint are **90% lower than classical flame cremation**.
 
 ---
 
@@ -1892,11 +1892,11 @@ Explaining the war and territorial concessions to an international corporate, le
 
 ##### 3. Resource Audit for System Survival (4 Echelons of Maintenance):
 High-intensity attrition warfare is an equation of physical resources:
-1. **Kinetic & Air Defense Shield:** Officially requested operational requirement: **200,000–250,000 155mm shells/month** (Reznikov 2023, Umerov 2024, Estonia MoD report). At current Rheinmetall contract prices (€3,500–€4,500/shell), this demands $7.5–$10B/year. A Patriot battery costs $1.09–$1.1B, with PAC-3 MSE interceptors running $4.1–$4.2M each on US Army contracts ($6–$7M FMS). Total military aid run-rate: **~$35–$40B/year**;
-2. **Macroeconomic & Budget Liquidity:** Annual fiscal deficit runs $38–$43B (100% of domestic taxes fund the armed forces). External financing gap exceeds $140B over 4 years under IMF EFF (covered via EU Ukraine Facility €50B and G7 ERA loans of $50B backed by profits from frozen Russian central bank assets);
-3. **Energy Shield:** Over 9 GW of generation lost per IEA data (available capacity down to ~12 GW vs 38 GW pre-war), with peak winter deficits of 3–6 GW. High-voltage 750/330 kV autotransformers cost $3.5–$4.5M with a 9–14 month production lead time. Winterization program requirements: **~$3–$5B/year**;
-4. **Humanitarian & Reconstruction:** UN OCHA HNRP requires $2.31B (10.8M people in need). Demining 139–156k sq km requires $34.6–$37B per World Bank RDNA ($1–$1.5B/yr). The joint RDNA5 audit (Feb 2026): direct damage $195.1B, economic losses $666.7B, 10-year recovery needs **$587.7B**;
-* **Synthetic Model Run-Rate:** The total annual resource flow required to keep the system viable under fire is **~$75–$90 billion annually**, which constitutes less than **0.16% of the combined GDP of NATO and G7 nations** (~$50 trillion).
+1. **Kinetic & Air Defense Shield:** Officially requested operational requirement: **200,000–250,000 155mm shells/month** (Reznikov 2023, Umerov 2024, Estonia MoD report). At current Rheinmetall contract prices (€3,500–€4,500/shell), this demands \$7.5–\$10B/year. A Patriot battery costs \$1.09–\$1.1B, with PAC-3 MSE interceptors running \$4.1–\$4.2M each on US Army contracts (\$6–\$7M FMS). Total military aid run-rate: **~\$35–\$40B/year**;
+2. **Macroeconomic & Budget Liquidity:** Annual fiscal deficit runs \$38–\$43B (100% of domestic taxes fund the armed forces). External financing gap exceeds \$140B over 4 years under IMF EFF (covered via EU Ukraine Facility €50B and G7 ERA loans of \$50B backed by profits from frozen Russian central bank assets);
+3. **Energy Shield:** Over 9 GW of generation lost per IEA data (available capacity down to ~12 GW vs 38 GW pre-war), with peak winter deficits of 3–6 GW. High-voltage 750/330 kV autotransformers cost \$3.5–\$4.5M with a 9–14 month production lead time. Winterization program requirements: **~\$3–\$5B/year**;
+4. **Humanitarian & Reconstruction:** UN OCHA HNRP requires \$2.31B (10.8M people in need). Demining 139–156k sq km requires \$34.6–\$37B per World Bank RDNA (\$1–\$1.5B/yr). The joint RDNA5 audit (Feb 2026): direct damage \$195.1B, economic losses \$666.7B, 10-year recovery needs **\$587.7B**;
+* **Synthetic Model Run-Rate:** The total annual resource flow required to keep the system viable under fire is **~\$75–\$90 billion annually**, which constitutes less than **0.16% of the combined GDP of NATO and G7 nations** (~$50 trillion).
 
 ---
 
@@ -1973,7 +1973,7 @@ Interaction with state systems is built without direct frontal collision, throug
 >   > 1. Forget buying "disposable passports" with your last savings.
 >   > 2. Focus on **real residence permits through genuine economic substance**: talent visas (O-1A / EB-2 NIW in the US, Global Talent in the UK, EU startup visas), verified digital-nomad income (the DNV in Spain/Portugal), or targeted purchase of institutionally protected concrete (Cyprus Cat 6.2, Panama QIV).
 
-2. **Flag 2 (tax residency):** A jurisdiction with the territorial principle (\$0\%$ on foreign income).
+2. **Flag 2 (tax residency):** A jurisdiction with the territorial principle ($0\%$ on foreign income).
 3. **Flag 3 (business basing / OpCo):** An operating company in a white jurisdiction with a corporate account.
 4. **Flag 4 (asset protection / IP SPV):** A neutral holding for patents and intellectual rights.
 5. **Flag 5 (the physical base):** Renting or owning a safe location with no tax-representation tether.
@@ -1989,7 +1989,7 @@ Interaction with state systems is built without direct frontal collision, throug
   * **The anchor: Oxxxymiron (the Gorgorod cycle, Booking Machine & the RAW Tour) & RATM (*Killing in the Name*):** Hunting jurisdictions without the pressure of toxic state mainlines, and rebellion against leviathans under a threat to life. The precedent of the Russian dissident rapper Oxxxymiron: building the sovereign booking agency *Booking Machine*, losing the entire domestic market overnight on state blacklisting, and instantly re-routing the tour mainline (the *Russians Against War* / RAW benefit tour) through Istanbul, London, Berlin, and New York within 48 hours. Portable capital of meaning lets you re-assemble Flag 3 (Business) in 48 hours anywhere on the planet.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Oxxxymiron — "Poligon" (Listen: 00:20–00:50)
+> **Track:** Oxxxymiron — "Poligon"
 > **Node engineering analysis (from Bob):** The institutional trap of the mono-state.
 
 > 🎧 **Operator's soundtrack epigraph:**
@@ -2009,7 +2009,7 @@ Interaction with state systems is built without direct frontal collision, throug
 > **Node engineering analysis (from Bob):** A musical anchor for the operator's emotional calibration. In the commercial edition and the open repository, full verse lyrics are removed per copyright law (17 U.S.C. § 107). Listening to the original track on a streaming service is recommended for deep rhythm calibration.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Oxxxymiron — "Gorod pod Podoshvoy (The City under the Sole)" (Listen: 00:30–01:00)
+> **Track:** Oxxxymiron — "Gorod pod Podoshvoy (The City under the Sole)"
 > **Node engineering analysis (from Bob):** Continuous movement and location change as defense against institutional enserfment.
 
 The comfortable facade (the resort, the food court, "people don't want reforms") is not a refuge. A home without a second flag is a trap. The tour re-route already demonstrated the bypass; these lines record *why* it's needed. The mayor at the console being indifferent to the townsfolk is no reason to hand them your circuit. Wandering without silence — Dual-State: the artifact lives when the operator no longer sits on one couch.
@@ -2044,13 +2044,13 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 ##### **1. Somatic & Cognitive Foundations of the Operator (L1–L3)**
 
 1. **The Photon-Dopamine Scleral Lock ($>10,000\text{ lux}$ for 2 hours daily):**  
-   Indoor ambient light averages \$300\text{--}500\text{ lux}$, whereas outdoor daylight delivers \$10,000\text{ to } 100,000\text{ lux}$. Retinal photoreceptors and amacrine cells require outdoor lux levels to synthesize **dopamine**, which chemically halts axial scleral elongation (myopia). Landmark cohort studies (*Rose et al., Ophthalmology 2008*, $n=4,111$; *Morgan et al., Lancet 2012*) proved that indoor sports provide zero protection — **lux intensity is the sole protective driver**. Target: **minimum 120 minutes outdoors daily**.
+   Indoor ambient light averages $300\text{--}500\text{ lux}$, whereas outdoor daylight delivers \$10,000\text{ to } 100,000\text{ lux}$. Retinal photoreceptors and amacrine cells require outdoor lux levels to synthesize **dopamine**, which chemically halts axial scleral elongation (myopia). Landmark cohort studies (*Rose et al., Ophthalmology 2008*, $n=4,111$; *Morgan et al., Lancet 2012*) proved that indoor sports provide zero protection — **lux intensity is the sole protective driver**. Target: **minimum 120 minutes outdoors daily**.
 2. **Craniofacial Biomechanics & Wolff's Law of Bone Remodeling:**  
    Pureed processed diets strip the jaws of masticatory strain (*m. masseter*), arresting transverse dental arch development and creating crowded dentition, narrow airways, and pediatric UARS/OSAS (*Lieberman et al., Harvard 2004; Kahn & Ehrlich, Stanford University*). From the first primary teeth: raw carrots, apples, bone-in meats, whole-grain crusts; lips sealed, tongue resting on palate, strictly nasal breathing.
 3. **Fall Kinematics (The Ukemi Reflex):**  
-   Civilian instinct is to break a fall with an outstretched locked arm (FOOSH $\to$ Colles wrist fracture) or snap the head backward (occipital impact $\to$ subdural hematoma). Judo/Sambo *Ukemi* breakfalls (*Koshida et al., 2014, 2017*) dissipate force vectors ($F = \Delta p / \Delta t$) along a curved thoracic spine with an anticipatory forearm slap at \$30\text{--}45^\circ$, damping skull acceleration by **\$50\text{--}70\%$**. Two years of martial arts at ages 5–8 locks this reflex into muscle memory for life.
+   Civilian instinct is to break a fall with an outstretched locked arm (FOOSH $\to$ Colles wrist fracture) or snap the head backward (occipital impact $\to$ subdural hematoma). Judo/Sambo *Ukemi* breakfalls (*Koshida et al., 2014, 2017*) dissipate force vectors ($F = \Delta p / \Delta t$) along a curved thoracic spine with an anticipatory forearm slap at $30\text{--}45^\circ$, damping skull acceleration by **$50\text{--}70\%$**. Two years of martial arts at ages 5–8 locks this reflex into muscle memory for life.
 4. **Peak Bone Mass Accumulation:**  
-   Up to \$90\%$ of lifetime bone mineral density (BMD) is banked before age 16–18 via high-impact, multi-directional loading (jumping, sprinting, gymnastics, plyometrics; *Weaver et al., 2016*). Without adolescent impact loading, adult osteoporosis is guaranteed.
+   Up to $90\%$ of lifetime bone mineral density (BMD) is banked before age 16–18 via high-impact, multi-directional loading (jumping, sprinting, gymnastics, plyometrics; *Weaver et al., 2016*). Without adolescent impact loading, adult osteoporosis is guaranteed.
 5. **Touch Typing (80+ WPM) & Lateral Reading (SHEG):**  
    At ages 9–11: mechanical keyboard training (Keybr) to 80+ WPM without looking at keys, freeing working memory (Fitts's Law / Cognitive Load Theory). Fact-checking training via the Stanford History Education Group protocol (*Wineburg & McGrew 2019*): teaching teenagers to read *laterally* across browser tabs to verify entity registries and ownership rather than scrolling *vertically* through polished website facades.
 6. **The Handyman & Electrical Base:**  
@@ -2142,7 +2142,7 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 > The architecture of family sovereignty begins neither in primary school nor at puberty; it initializes at **Point Zero** in the delivery ward. The geographical coordinates of birth either permanently graft a geopolitical multi-tool onto your lineage (an unconditional tier-1 passport for the infant, permanent residency for the parents, and naturalization in 365 days) or snap a lifetime fiscal collar around your newborn's neck while stranding the parents in an immigration dead end.
 
 ##### **1. Deconstructing the Birth Tourism Racket: Marketing Fiction vs Statutory Reality**
-The "birth tourism" industry is an extortion racket run by offshore fixers charging expectant parents $10,000 to $30,000 for glossy brochures promising "instant family passports in Canada or Argentina." Absent Level-1 statutory logs, these promises are pure marketing fiction:
+The "birth tourism" industry is an extortion racket run by offshore fixers charging expectant parents \$10,000 to \$30,000 for glossy brochures promising "instant family passports in Canada or Argentina." Absent Level-1 statutory logs, these promises are pure marketing fiction:
 * **The Structural Decoupling (Infant $\neq$ Parents):** Most Western Hemisphere nations award unconditional citizenship by soil (*Jus Soli*) to the *newborn*, but grant **zero immediate immigration rights to the parents**. Delivering in Miami or Vancouver leaves the parents as disposable tourists on ticking B2/TRV visas.
 * **The Lifetime Fiscal Collar (CBT):** A US passport permanently subjects the infant to Citizenship-Based Taxation: mandatory annual IRS Form 1040 filings, FBAR (FinCEN 114) foreign account tracking, and punitive PFIC taxes on foreign mutual funds for the rest of their natural life, even if they left the country at two weeks old.
 
@@ -2211,10 +2211,10 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 * **Brazil [Global Gold Standard]:** Unconditional *brasileiro nato* citizenship for the newborn (CF/88 art. 12). Parents obtain immediate permanent residency via SisMigra (*Lei 13.445/2017* art. 30). After exactly **365 days of continuous physical residence**, parents qualify to apply for naturalization under art. 66. *Failure modes:* Language proficiency mandate (*Celpe-Bras* B1); out-of-country travel strictly capped at 90 days annually (the 91st day resets the clock); constitutional protection from extradition for naturalized citizens.
 * **Mexico [Permanent Residency Day-One]:** Newborn is Mexican by birth (CPEUM art. 30). The SRE issues passports on the day of filing within 2–4 hours. Parents obtain *Residencia Permanente* immediately without navigating the 4-year temporary residency ladder. Parental naturalization unlocks at **2 years of legal residency** (Ley de Nacionalidad art. 20).
 * **The Spanish Backdoor (Simple Presunción):** Under Código Civil art. 17.1(c), infants born to nationals of 12 LATAM countries (Brazil, Argentina, Colombia, Peru, etc.) whose domestic laws do not transmit citizenship automatically abroad are recognized as Spanish citizens at birth to prevent statelessness. Parents secure 5-year residency under Royal Decree **RD 1155/2024**. For other nationalities: the infant naturalizes as a Spanish citizen after exactly **1 year of legal residency** (art. 22.2(b)).
-* **Jus Sanguinis Trap Timers (UAE / Bali):** In Dubai, the clock runs out at **120 days**: subsequent overstay incurs **AED 50/day** fines, and immigration refuses departure without a settled *Out-Pass*. In Bali, overstay fines escalate to **IDR 1,000,000 (~$65 USD/day)** beyond day 60. Consular birth registration appointments must be reserved months in advance!
+* **Jus Sanguinis Trap Timers (UAE / Bali):** In Dubai, the clock runs out at **120 days**: subsequent overstay incurs **AED 50/day** fines, and immigration refuses departure without a settled *Out-Pass*. In Bali, overstay fines escalate to **IDR 1,000,000 (~\$65 USD/day)** beyond day 60. Consular birth registration appointments must be reserved months in advance!
 
 > 🔧 **Translation from Bureaucratic to English (Bob's Field Decoder):**  
-> **Plain English:** Having a baby abroad to secure passports for the whole family is a valid architectural move, provided you don't listen to Instagram grifters. Agencies take $25k to fly families to Florida or Montreal, leaving the newborn with a passport, the parents with zero immigration rights, and the IRS knocking at the door with lifetime worldwide tax forms.  
+> **Plain English:** Having a baby abroad to secure passports for the whole family is a valid architectural move, provided you don't listen to Instagram grifters. Agencies take \$25k to fly families to Florida or Montreal, leaving the newborn with a passport, the parents with zero immigration rights, and the IRS knocking at the door with lifetime worldwide tax forms.  
 > **The Catch:** In the US, your child cannot sponsor you until they turn **21 years old**, and Canada locks you into a blind lottery at 18. In Argentina, executive decrees (DNU 366/2025) have clogged the federal courts with 2-year backlogs. In Dubai or Bali, you get zero citizenship, and missing your home consulate's passport queue leaves your newborn stranded with thousands in airport exit fines.  
 > **Your Action Item Right Now ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE]):**  
 > 1. If you want guaranteed, rapid family naturalization, target **Brazil** (permanent residency day-1, parental passports in 12 months) or **Mexico** (permanent residency day-1, passports in 2 years);  
@@ -2416,12 +2416,12 @@ Buying concrete for citizenship (CBI \$400k) in Turkey carries hidden engineerin
 
 ##### **11.7.1. Water safety: the PFAS chemical siphon, microplastic, and blood donation ([P0-55: ACTIVE-PFAS-CLEARANCE])**
 
-The tap-water network and plastic packaging are saturated with nanoplastic and per- and polyfluoroalkyl substances (**PFAS** — PFOS, PFOA, GenX). The carbon-fluorine bond (\$485\text{ kJ/mol}$) is the strongest in organic chemistry: the compounds don't degrade ("forever chemicals").
+The tap-water network and plastic packaging are saturated with nanoplastic and per- and polyfluoroalkyl substances (**PFAS** — PFOS, PFOA, GenX). The carbon-fluorine bond ($485\text{ kJ/mol}$) is the strongest in organic chemistry: the compounds don't degrade ("forever chemicals").
 * **Pathogenesis:** PFAS accumulate in the liver and kidneys (a half-life of **3–8 years**), activate $\text{PPAR}_\alpha$ receptors, provoke MASH steatosis, thyroid failure, and kidney cancer. Microplastic penetrates the blood-brain barrier and synergizes with ApoB to accelerate atherogenesis.
 * **The hydrodynamic seal of reverse osmosis (RO):** Ordinary pitchers quickly dump the accumulated poison back into the water. Protection — multi-stage reverse osmosis:
   1. *Prefilters (5 µm + granular carbon + a pressed carbon block)* $\to$
-  2. *A polyamide composite membrane (\$0.0001\text{ µm}$ at 3–6 atm):* cuts off **99.5%** of heavy metals, microplastic, and PFAS $\to$
-  3. *A post-mineralization block:* saturating the purified distillate with $\text{Mg}^{2+}$ and $\text{Ca}^{2+}$ ions to a physiological **TDS of \$50\text{–}150\text{ ppm}$** (protection against electrolyte leaching in the GI tract).
+  2. *A polyamide composite membrane ($0.0001\text{ µm}$ at 3–6 atm):* cuts off **99.5%** of heavy metals, microplastic, and PFAS $\to$
+  3. *A post-mineralization block:* saturating the purified distillate with $\text{Mg}^{2+}$ and $\text{Ca}^{2+}$ ions to a physiological **TDS of $50\text{–}150\text{ ppm}$** (protection against electrolyte leaching in the GI tract).
 * **The kinetics of active PFAS clearance via plasma and blood donation ([P0-55: ACTIVE-PFAS-CLEARANCE]):**
   Reverse osmosis blocks the inbound xenobiotic flow but doesn't remove fluoroalkyls already circulating in blood ($t_{1/2} = 3\text{–}8\text{ years}$ due to the strong albumin bond and OAT4/URAT1 tubular reabsorption). The randomized clinical trial (*Gasiorowski et al., JAMA Netw Open. 2022;5(4):e226257, PMID: 35394514, n=285 Australian firefighters with baseline PFOS ≥ 5 ng/mL*) proved that regular **unpaid plasma donation (every 6 weeks) lowers mean serum PFOS by −2.9 ng/mL**, and regular whole-blood donation (every 12 weeks) — by **−1.1 ng/mL** versus the control group. This is the active-clearance protocol at blood banks for persons with confirmed occupational or household exposure; it does not replace stationary therapeutic plasma exchange (TPE) in acute toxic crises.
 
@@ -2443,7 +2443,7 @@ The GPS/GLONASS satellite navigation signal has ultra-low power at the surface (
 In modern gray zones and conflicts, the key kinetic threat is the FPV kamikaze with a shaped charge.
 * **Radio physics and the reaction lag:** A diving drone's speed is **120–150 km/h (33–42 m/s)**. The buzz becomes acoustically audible **1.5–3 seconds** before detonation — the human reaction doesn't make it.
 * **The engineering protection circuit:**
-  1. *An RF spectral detector (canary alert):* Portable analyzers ("Bulat," "Amulet," HackRF/TinySA) tuned to scan the video-control channels (\$868\text{–}915\text{ MHz}$, \$1.2\text{–}1.4\text{ GHz}$, \$2.4\text{–}5.8\text{ GHz}$). The buzzer fires at 500–1000 meters, giving **15–30 seconds** of head start to get under a concrete slab.
+  1. *An RF spectral detector (canary alert):* Portable analyzers ("Bulat," "Amulet," HackRF/TinySA) tuned to scan the video-control channels ($868\text{–}915\text{ MHz}$, $1.2\text{–}1.4\text{ GHz}$, $2.4\text{–}5.8\text{ GHz}$). The buzzer fires at 500–1000 meters, giving **15–30 seconds** of head start to get under a concrete slab.
   2. **A spaced chain-link net:** Stretching metal mesh 1.5–2 meters from the perimeter/vehicle. The net mechanically fouls the props or triggers premature detonation of the shaped jet at a safe distance.
   3. **The tactical rule:** Never run across open ground — immediately drop behind a monolithic foundation or into a deep ditch.
 
@@ -2468,7 +2468,7 @@ In prepper communities, marketers have spent years selling "\$400 EMP boxes" and
   2. *A spare backup router / modem;*
   3. *Hardware crypto keys (YubiKeys), encrypted external SSD drives with database backups and document scans.*
 * **The gold standard of operator survival in a blackout:**
-  * **A weekly reserve of drinking water** (\$3\text{ L/person/day}$ $\to$ \$21\text{ L}$ per person) + the hydraulic seal in the water heater;
+  * **A weekly reserve of drinking water** ($3\text{ L/person/day}$ $\to$ $21\text{ L}$ per person) + the hydraulic seal in the water heater;
   * **A LiFePO4 energy buffer of 1.5–2.0 kWh** (powering the heating pump, router, and comms for 24–36 hours);
   * A 90-day caloric reserve of freeze-dried food in Mylar bags (7 mil).
   *This triad covers **99.9% of real man-made and weather disasters**, while the owners of "EMP bunkers" without water and sewage suffocate in their own septic tank by day three.*
@@ -2478,7 +2478,7 @@ In prepper communities, marketers have spent years selling "\$400 EMP boxes" and
 
 ##### **11.7.5. The physical limit of infrared masking (FLIR vs Fourier's law / [P0-60: ANTI-FLIR-THERMAL-GAP])**
 
-In combat zones and gray zones, the critical nighttime detection threat from UAVs is long-wave infrared thermal cameras (**LWIR FLIR**, \$8\text{–}14\text{ µm}$ wavelength). The marketing of "anti-thermal ponchos for \$60" creates a lethally dangerous illusion of invisibility:
+In combat zones and gray zones, the critical nighttime detection threat from UAVs is long-wave infrared thermal cameras (**LWIR FLIR**, $8\text{–}14\text{ µm}$ wavelength). The marketing of "anti-thermal ponchos for \$60" creates a lethally dangerous illusion of invisibility:
 * **The Stefan-Boltzmann law and Fourier's law of heat conduction:**
   $$j^* = \varepsilon \sigma T^4, \quad q = -k \nabla T$$
   A metalized mylar poncho has an ultra-low emissivity ($\varepsilon \approx 0.05$), effectively reflecting radiated heat. But the human organism in motion generates **100–150 W of continuous thermal power**.
@@ -2486,7 +2486,7 @@ In combat zones and gray zones, the critical nighttime detection threat from UAV
 * **The Anti-FLIR engineering seal ([P0-60: ANTI-FLIR-THERMAL-GAP]):**
   1. **A mandatory air damper $\ge 10\text{ cm}$:** The screen must not touch the body. Tension on a rigid frame, umbrella spacers, or a tactical tent over the shelter with an air gap of $\ge 10\text{–}15\text{ cm}$;
   2. **Directed convective shedding:** Side and rear vents for bleeding warm air toward tree crowns or into the ground — not upward into the drone's optical axis;
-  3. **An internal heat-absorbing mat:** An underlayer of closed-cell polyethylene foam (\$10\text{ mm}$) to slow conductive heat transfer;
+  3. **An internal heat-absorbing mat:** An underlayer of closed-cell polyethylene foam ($10\text{ mm}$) to slow conductive heat transfer;
   4. **The "motionlessness on a cold background" tactic:** Any active movement instantly ramps muscle heat output and breaks the masking.
 
 ##### **11.7.6. Seismic kinetics: the "Drop, Cover, Hold On" protocol vs the Copp myth ([P0-68: DROP-COVER-HOLD-ON])**

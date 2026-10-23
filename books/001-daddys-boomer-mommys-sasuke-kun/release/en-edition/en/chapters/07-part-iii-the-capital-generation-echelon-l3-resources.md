@@ -203,7 +203,7 @@ Let's clear away the coaches' advertising bullshit and look at the cold telemetr
 3. **Bayesian calibration of the base rate (Bayesian Base Rate):**
    $$P(\text{Success}|\text{Skills}) = \frac{P(\text{Skills}|\text{Success}) \cdot P(\text{Base Rate})}{P(\text{Skills})}$$
    * The prior base rate of tech-microbusiness success over a 3-year horizon: $P(A) \le 0.10\text{–}0.15$.
-   * The correlation between pure engineering skill ("I write god-tier code / machine perfect parts") and business survival sits below \$0.20$. Businesses die from absent sales and cash gaps, not from code defects.
+   * The correlation between pure engineering skill ("I write god-tier code / machine perfect parts") and business survival sits below $0.20$. Businesses die from absent sales and cash gaps, not from code defects.
    * **Conclusion:** If an engineer enters a solo business with only technical skill, no built distribution, and no 18–24-month cushion — the computed default probability $P(\text{Default}) \to \mathbf{85\text{–}90\%}$.
 4. **Via Negativa (debunking the infobusiness scam):**
    The infobusiness model rests on 4 toxic markers:
@@ -266,7 +266,7 @@ In v16.0 we introduce **[MOD-TAIL-INSURANCE]**: insurance is treated not as an "
 ```
 
 ##### **1. The self-insurance principle: liquidating parasitic policies**
-Buying an extended warranty on an iron, insurance on a smartphone screen, or a 2-hour flight-delay policy — a tax on mathematical illiteracy. Insurance companies embed margins of up to \$70\text{–}80\%$ in household policies.
+Buying an extended warranty on an iron, insurance on a smartphone screen, or a 2-hour flight-delay policy — a tax on mathematical illiteracy. Insurance companies embed margins of up to $70\text{–}80\%$ in household policies.
 * **The rule:** All bounded-loss risks (a minor fender-bender, a laptop replacement, a plumbing clog, a routine doctor visit) are covered **exclusively from your own reserve liquidity fund (Cash Buffer)**. Spending premium on these small things is forbidden.
 
 ##### **2. Institutional insurance: transferring exclusively the "heavy tails"**
@@ -358,11 +358,11 @@ $$\text{LTV}_{\text{series}} = \text{Royalty}_1 + \sum_{i=2}^{N} (\text{Royalty}
 Switch off the sweet talk of infobusiness courses and pull up the raw research logs:
 * **Median income (Authors Guild Survey, $n = 5699$):** The median book income of all authors is just **\$2,000 a year**. For authors working exclusively full-time in self-publishing with 5+ years of tenure, the median rises to **\$12,800–\$24,000 a year**.
 * **The income distribution (Written Word Media Survey 2025, $n = 1346$ commercial indie authors):**
-  * **44%** earn from books **$\le \$100$ a month**;
+  * **44%** earn from books **$\le $100$ a month**;
   * Only **8%** cross the **$> \$10,000$ a month** bar;
   * Among authors with a catalog of 1–3 books, about **80%** sit below \$100/mo;
   * In the cohort of authors with a backlog of **25+ books in series**, the median is **~\$3,000 a month**, and 40%+ of them earn above \$5,000/mo.
-* **The own retention circuit (Direct Retention):** The median income of authors with their own mailing list/subscriber base is **~\$300/mo versus ~\$15/mo** for authors with no contact base (a 20× gap!). In the $> \$10\text{k/mo}$ cohort, the average subscriber base reaches 18,300 addresses.
+* **The own retention circuit (Direct Retention):** The median income of authors with their own mailing list/subscriber base is **~\$300/mo versus ~\$15/mo** for authors with no contact base (a 20× gap!). In the $> $10\text{k/mo}$ cohort, the average subscriber base reaches 18,300 addresses.
 
 ##### **3. Platform gatekeeping and upload rules (the 2026 cut)**
 
@@ -390,7 +390,7 @@ In 2026, Binance founder Changpeng Zhao (CZ), having served his 4-month sentence
 Stripping out generic self-help filler ("think positive", "be fair"), what remains is a **battle-hardened asynchronous coordination protocol** that scaled an 8,000-person remote organization without physical offices:
 
 ##### 1. Attention Hygiene (Single-Message Datagrams):
-* **Single-Message Payload (Principle #47):** Banish fragmented thoughts. A message is sent as an atomic datagram: context, core issue, quantified damage ($Impact), and precise call to action with a deadline. Dribbling multiple 'hello' messages is classified as malicious DDoS flooding of human RAM;
+* **Single-Message Payload (Principle #47):** Banish fragmented thoughts. A message is sent as an atomic datagram: context, core issue, quantified damage (\$Impact), and precise call to action with a deadline. Dribbling multiple 'hello' messages is classified as malicious DDoS flooding of human RAM;
 * **Kill Communication Chains (Principle #46):** Direct routing to the data owner. Elimination of intermediary managers who degrade signal-to-noise ratio per Shannon's theorem;
 * **Three-Reply Chat Rule (Principle #48):** If an argument in text exceeds 3 exchanges, the chat is muted immediately, triggering a 5-minute synchronous voice socket to reach a decision;
 * **Evict Passive Observers (Principle #56):** Strict quorum (<10 people). Anyone who fails to actively contribute and silently warms a chair is removed to reduce bus congestion;
@@ -406,7 +406,7 @@ Stripping out generic self-help filler ("think positive", "be fair"), what remai
 * **Don't Chase Fancy Offices (Principle #71):** Zero capex on status symbols. Capital is deployed into server fault tolerance, low socket latency, and liquid reserves.
 
 > 🛑 **Hero Fuzzing Reality Check:**  
-> We adopt CZ's protocols for asynchronous coordination and contract defense, but discard blind reverence: Principle #4 (*"Never cross ethical boundaries"*) did not prevent Zhao from a federal prison sentence and a $4.3B corporate penalty when the exchange willfully bypassed Bank Secrecy Act and OFAC sanctions in pursuit of trading volume. Protocols function when anchored to physical reality and law, not executive hubris.
+> We adopt CZ's protocols for asynchronous coordination and contract defense, but discard blind reverence: Principle #4 (*"Never cross ethical boundaries"*) did not prevent Zhao from a federal prison sentence and a \$4.3B corporate penalty when the exchange willfully bypassed Bank Secrecy Act and OFAC sanctions in pursuit of trading volume. Protocols function when anchored to physical reality and law, not executive hubris.
 
 ---
 
@@ -415,16 +415,16 @@ Stripping out generic self-help filler ("think positive", "be fair"), what remai
 Banish the fairytale of *"buy a blue checkmark, post 5 threads a day, and collect thousands from Elon Musk"*. Level 1 platform metrics tell a very different story:
 
 ##### 1. Platform Revenue Payouts (Original Content Rewards, Fall 2026):
-* **Eligibility Gates:** Active X Premium/Premium+ subscription ($8–$16/mo); 500+ verified followers; **500,000 verified impressions of original author content over the past 90 days** (strict anti-plagiarism filters; copied memes are demonetized); connected Stripe account;
-* **The Cold Math:** The platform pays **$8–$12 per 1 million impressions strictly from X Premium subscribers**. Free user impressions pay exactly $0. An average technical creator with 1–2M monthly impressions nets only **$15–$30/month** — barely reimbursing the Premium subscription.
+* **Eligibility Gates:** Active X Premium/Premium+ subscription (\$8–\$16/mo); 500+ verified followers; **500,000 verified impressions of original author content over the past 90 days** (strict anti-plagiarism filters; copied memes are demonetized); connected Stripe account;
+* **The Cold Math:** The platform pays **\$8–\$12 per 1 million impressions strictly from X Premium subscribers**. Free user impressions pay exactly $0. An average technical creator with 1–2M monthly impressions nets only **\$15–\$30/month** — barely reimbursing the Premium subscription.
 
 ##### 2. Creator Subscriptions:
-* Dedicated readers paying $2.99–$9.99/mo for gated architectural tear-downs and private access. X passes up to 97% of net revenue to the creator (up to $50,000 cumulative). 100 dedicated subscribers at $4.99/mo yield ~$450 net monthly cashflow.
+* Dedicated readers paying \$2.99–\$9.99/mo for gated architectural tear-downs and private access. X passes up to 97% of net revenue to the creator (up to \$50,000 cumulative). 100 dedicated subscribers at $4.99/mo yield ~\$450 net monthly cashflow.
 
 ##### 3. The Real Engineering Pump: X as Top-of-Funnel:
 90% of real capital on X is generated **not through platform ads, but by routing targeted attention into your own products and B2B sprints**:
 * **Book & Reader Sales (`undreading`):** A forensic teardown of an engineering failure routes technical buyers into the free reader and paid PDF/paperback editions;
-* **B2B Sprint Inbound (`undreseller` / `underundre`):** A 60-second *Build in Public* video showing an autonomous booking bot or modular commerce template generates high-intent leads. **A single closed client nets $1,500–$3,500**. Earning that through X ad-revenue sharing would require over 300 million impressions!
+* **B2B Sprint Inbound (`undreseller` / `underundre`):** A 60-second *Build in Public* video showing an autonomous booking bot or modular commerce template generates high-intent leads. **A single closed client nets \$1,500–\$3,500**. Earning that through X ad-revenue sharing would require over 300 million impressions!
 
 ---
 
@@ -436,7 +436,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 * **Steam economics:** The Valve platform keeps a **30% monopoly rent** (the fee drops to 25% after \$10M and 20% after \$50M).
 * **The algorithmic visibility barrier:** For a game to receive organic traffic from Steam's algorithms on release day (*"Popular New Releases"*), the project must gather at least **7,000–10,000 wishlists** before sales start. Under 5k wishlists guarantees the algorithmic doldrums ($< \$1,000$ revenue for the year).
 * **Engine choice:**
-  * *Godot (MIT License):* \$0\%$ royalties forever; ideal for 2D/indie 3D;
+  * *Godot (MIT License):* $0\%$ royalties forever; ideal for 2D/indie 3D;
   * *Unreal Engine:* 5% royalty after the first \$1,000,000 of gross revenue;
   * *Unity:* The risk of unpredictable pricing-policy changes (the Runtime Fee scandal).
 * **The publisher-contract trap (100% Recoupment):** Publishers take 100% of the game's incoming revenue until marketing costs are fully recouped (*Recoupment*), leaving the developer without money in the first critical months after release.
@@ -456,7 +456,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 
 ##### **5. Contract OEM electronics and open hardware:**
 * Rapid PCB prototyping and assembly services (**JLCPCB, PCBWay**) have dropped the threshold for building your own physical devices to a few hundred dollars.
-* Selling niche hardware modules (dev boards, ESP32/RP2040 smart-home controllers, programmers) through specialized marketplaces (**Tindie, Lectronz**) at \$40\text{–}60\%$ margins.
+* Selling niche hardware modules (dev boards, ESP32/RP2040 smart-home controllers, programmers) through specialized marketplaces (**Tindie, Lectronz**) at $40\text{–}60\%$ margins.
 
 ---
 
@@ -464,7 +464,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 
 > 💡 **STAGE 0: HOUSEHOLD GROUNDING (WHAT THIS MEANS IN PLAIN ENGLISH)**  
 > The textbook indie-startup failure: an idea, a business plan drawn up in Excel, a few billion projected — and off to hire juniors to write the code. In 95% of cases, a business plan written before the first live user and the first compiler error is exhaust-fan fan fiction.  
-> The engineering reality: software is built off life-cycle standards (ISO/IEC/IEEE 12207) and falsifiable hypotheses, not off a financial forecast. Each development stage is a separate pipe run with its own test pressure: skip a section, and the water hammer arrives in production — where the same defect costs \$1000\times$ more than it did on paper.
+> The engineering reality: software is built off life-cycle standards (ISO/IEC/IEEE 12207) and falsifiable hypotheses, not off a financial forecast. Each development stage is a separate pipe run with its own test pressure: skip a section, and the water hammer arrives in production — where the same defect costs $1000\times$ more than it did on paper.
 
 ```
 [Idea + Business hypothesis]
@@ -492,7 +492,7 @@ For engineers, developers, and technical specialists there exist narrow market n
 ```
 
 ##### **1. Boehm's cost-of-change curve — and where it's bent:**
-* The classic (Boehm, 1981): a defect caught at specification costs \$1$; at architecture \$10\text{--}15$; at integration \$100$; in production \$1000\text{--}10000$ — up to bankruptcy.
+* The classic (Boehm, 1981): a defect caught at specification costs $1$; at architecture $10\text{--}15$; at integration $100$; in production $1000\text{--}10000$ — up to bankruptcy.
 * *DORA-era correction:* for application-level defects, CI/CD with canary releases and feature flags compresses the production fix cost down to near test-stage levels. **The exponent survives for structural defects**: database schema, authentication protocols, access-control models. Rewriting a relational schema after terabytes of production data means multi-phase dual-write migrations and integrity risk.
 
 ##### **2. Failure base rates and an honest CHAOS Report autopsy:**
@@ -540,7 +540,7 @@ The digital tech community is infected with the infobusiness myth of \"passive i
    * **Interactive Wasm/CLI Simulator:** Client-side WebAssembly simulators running on Cloudflare Pages with zero backend servers and offline Ed25519 cryptographic license verification deliver textbook margin efficiency (\$49 B2C / \$499 B2B, passive score \$8.5/10$).
 
 2. **5 New Autonomous Zero-Support Assets:**
-   1. **3D CAD Hardening Kit (STL/STEP/OpenSCAD):** 12 parametric 3D print models (wall mounts for C-A-T Gen 7 tourniquets, mechanical ball-valve locks, DIN-rail breaker brackets, GPON DC-DC holders). Sold on Cults3D/MakerWorld (\$14.90, marginal cost \$0, margin \$90\text{--}95\%$, Lindy Effect \$30+$ years).
+   1. **3D CAD Hardening Kit (STL/STEP/OpenSCAD):** 12 parametric 3D print models (wall mounts for C-A-T Gen 7 tourniquets, mechanical ball-valve locks, DIN-rail breaker brackets, GPON DC-DC holders). Sold on Cults3D/MakerWorld (\$14.90, marginal cost \$0, margin $90\text{--}95\%$, Lindy Effect \$30+$ years).
    2. **Obsidian Sovereign SCADA Vault:** An out-of-the-box offline workspace with an interactive Canvas graph of all 110 P0 valves, DataviewJS biometric calculators (ApoB, CAC, HOMA-IR), 40/40/20 contract templates, and emergency runbooks (\$29 personal / \$89 team, 0 server maintenance).
    3. **SecOps & Hardening Rule Sets:** Curated YARA signatures, Semgrep rules for MCP agent tool poisoning (CVE-2025-49596), Suricata rules, and DNS telemetry blocklists for AdGuard/Pi-hole (\$39 one-time / \$9/mo via GitHub Sponsors).
    4. **`zta-check` CLI Pro (`zta-suite` Repository):** Standalone static Rust binary for host security audits, 2G cellular downgrade detection (`[P0-82]`), WebRTC leak checks, and non-root Android ADB debloating (\$19 lifetime key signed with Ed25519).
@@ -681,9 +681,9 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 | Food circuit | Processing & packing | Packaging type | Shelf life | Role in the architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **The carbohydrate core** (white rice, buckwheat, oats) | Dried to $<10\%$ moisture | **7-mil Mylar bags (178 µm)** + $O_2$ absorbers ($<0.01\%$) | **10–25 years** | Base glycogen, the caloric foundation |
-| **Animal protein** (canned beef, turkey, tuna) | Autoclaving (\$121^\circ\text{C}$, 2 atm) | Lacquered tinplate cans | **3–5 years** | The amino-acid pool, sodium, iron |
+| **Animal protein** (canned beef, turkey, tuna) | Autoclaving ($121^\circ\text{C}$, 2 atm) | Lacquered tinplate cans | **3–5 years** | The amino-acid pool, sodium, iron |
 | **Freeze-dried complexes** (vegetables, soups) | Lyophilization (freeze-drying at $-40^\circ\text{C}$) | #10 cans with nitrogen flush | **up to 25 years** | Preserving enzymes and vitamins at minimal weight |
-| **The lipid buffer** (ghee, coconut oil) | Dehydration, casein removal | Glass with screw lids, in the dark | **2–3 years** | \$900\text{ kcal}/100\text{g}$ density, steroid synthesis |
+| **The lipid buffer** (ghee, coconut oil) | Dehydration, casein removal | Glass with screw lids, in the dark | **2–3 years** | $900\text{ kcal}/100\text{g}$ density, steroid synthesis |
 
 *The packing protocol:* Mylar bags (PET/ALU/PE 7 mil) are heat-sealed with active-iron oxygen absorbers (300–500 cc). Zero $O_2$ and water-vapor diffusion blocks lipid oxidation and pest breeding.
 
@@ -691,16 +691,16 @@ Calculated for an adult operator: **2000–2200 kcal/day**, protein 1.2–1.6 g/
 #### **7.5.13. UGC Platform Neofeudalism: Roblox Forensics, DevEx Tax Traps & TikTok Live Viral Hydraulics ([P0-142: ROBLOX-DEVEX-PLATFORM-RENT-GATE])**
 
 > 🏰 **PLATFORM NEOFEUDALISM & THE "CHATGPT BILLIONAIRE" MYTH:**  
-> Viral social media narratives claiming that *"an amateur built a game solo with ChatGPT and made $25M in six months"* represent a dangerous facade. A forensic audit of indie development economics within the Roblox ecosystem (*SecretVerse Studio*, game `+1 Speed Keyboard Escape`) reveals an unyielding truth: tenants renting space in another lord's castle always pay crushing platform rent.
+> Viral social media narratives claiming that *"an amateur built a game solo with ChatGPT and made \$25M in six months"* represent a dangerous facade. A forensic audit of indie development economics within the Roblox ecosystem (*SecretVerse Studio*, game `+1 Speed Keyboard Escape`) reveals an unyielding truth: tenants renting space in another lord's castle always pay crushing platform rent.
 
 ##### **1. Deconstructing the Distortion: Gross GMV vs Net Developer Payout**
-* **The $25M Revenue Myth:** Reddit aggregators and tech blogs took gross user spending (Gross Merchandise Value / GMV) and mischaracterized it as net profit pocketed by a solo creator.
+* **The \$25M Revenue Myth:** Reddit aggregators and tech blogs took gross user spending (Gross Merchandise Value / GMV) and mischaracterized it as net profit pocketed by a solo creator.
 * **The DevEx & Commission Math (Level 1):**  
-  1. *Robux Acquisition:* Players purchase platform currency at approx. $\$0.0125$ per Robux;  
+  1. *Robux Acquisition:* Players purchase platform currency at approx. $$0.0125$ per Robux;  
   2. *App Store Tolls:* Apple App Store and Google Play Store deduct **30%** at the gateway;  
   3. *Roblox Platform Rent:* The platform retains the lion's share of UGC marketplace transactions;  
-  4. *DevEx Cash-Out:* Developers convert earned Robux back to fiat via the Developer Exchange program at a severely discounted rate of **$\approx \$0.0038$ per Robux**.  
-  *The Outcome:* Actual studio take-home via DevEx is **merely 25–29% of gross GMV** ($6–$8M max from a $25–$30M GMV footprint), out of which team salaries, server upkeep, and corporate taxes must be paid.
+  4. *DevEx Cash-Out:* Developers convert earned Robux back to fiat via the Developer Exchange program at a severely discounted rate of **$\approx $0.0038$ per Robux**.  
+  *The Outcome:* Actual studio take-home via DevEx is **merely 25–29% of gross GMV** (\$6–\$8M max from a \$25–\$30M GMV footprint), out of which team salaries, server upkeep, and corporate taxes must be paid.
 
 ##### **2. AI-Code Facade vs Heavy Production Reality:**
 * The romanticized notion of a lone teen coding a billion-visit game in two days via ChatGPT collapses against SecretVerse Studio's operational reality: billions of visits ($6.45\text{B}+$ plays), professional ASMR mechanical keyboard sound design, continuous server scaling, and weekly content drops require full-scale studio production.
@@ -746,7 +746,7 @@ $$\text{P}(\text{Offer}) = \text{P}(\text{Parse}) \times \text{P}(\text{Screen} 
 
 ##### 4. Gate 4: Referral Channels and Salary Negotiation:
 * **Academic Evidence on Referrals (Burks et al. 2015 QJE/NBER; Fernandez et al. 2000):** Referrals provide **social collateral**. Referral candidates represent ~6–7% of the applicant pool but account for **~40–45% of total tech hires** (an 8–12x yield multiplier over cold portal applications);
-* **Offer Negotiation (Marks & Harold 2011):** Competitive negotiation backed by a BATNA (alternative pipeline offers) adds **$1,000–$7,000+** to starting base compensation;
+* **Offer Negotiation (Marks & Harold 2011):** Competitive negotiation backed by a BATNA (alternative pipeline offers) adds **\$1,000–\$7,000+** to starting base compensation;
 * **The Counter-Offer Trap:** Up to **50% of employees who accept a counter-offer from their current employer leave within 12 months, and up to 80% within 18 months**. Compensation cannot repair an architectural mismatch, while the 'disloyal employee' tag remains permanent.
 
 ---
@@ -755,7 +755,7 @@ $$\text{P}(\text{Offer}) = \text{P}(\text{Parse}) \times \text{P}(\text{Screen} 
 
 ##### **Harry Markopolos: Mathematical Derivatives Forensic vs Bernie Madoff's Ponzi Scheme**
 * **Primary Artifact [Level 1]:** Official SEC Memorandum (11/07/2005): *"The World's Largest Hedge Fund is a Fraud"* (29 pages of mathematical proof); Markopolos's Book *"No One Would Listen"* (Wiley, 2010, ISBN 978-0470553732).
-* **The Systemic Clog:** Bernie Madoff managed a $65B fund posting an impossible 45-degree linear return curve without a single drawdown (1–2% every month). Wall Street banks and Big Four auditors queued up, trusting his purported *Split-Strike Conversion* strategy.
+* **The Systemic Clog:** Bernie Madoff managed a \$65B fund posting an impossible 45-degree linear return curve without a single drawdown (1–2% every month). Wall Street banks and Big Four auditors queued up, trusting his purported *Split-Strike Conversion* strategy.
 * **The Engineering Breakthrough:** In 1999, quant analyst Harry Markopolos modeled the strategy via Black-Scholes and proved within **4 hours** that Madoff's fund violated the laws of physical market capacity:
   1. *Exceeding CBOE Market Volume:* To hedge his purported billions via S&P 100 (OEX) index put options, Madoff would have had to purchase **more put options than existed in total open interest on the Chicago Board Options Exchange (CBOE)**! The volume simply did not exist;
   2. *Anomalous Sharpe Ratio ($>2.5\text{--}3.0$):* During months when the S&P 500 crashed 20%, Madoff printed positive returns;
@@ -963,7 +963,7 @@ The sovereign technology ecosystem **Undrlla** is engineered as a self-balancing
    * **`unet`:** A secured zero-trust overlay P2P mesh based on WireGuard and gVisor netstack protocols, tying sovereign devices together without external VPN providers.
 
 2. **The investment model and utility returns (Runway First):**
-   * *Covering the founder's base life support (L1 Runway):* The investment ask is calculated strictly including the founder's \$1,500–\$2,500/mo living check in the relocation hub (housing + food + taxes) and a \$30\%$ safety cushion for force majeure.
+   * *Covering the founder's base life support (L1 Runway):* The investment ask is calculated strictly including the founder's \$1,500–\$2,500/mo living check in the relocation hub (housing + food + taxes) and a $30\%$ safety cushion for force majeure.
    * *Three investment tranches:*
      - **Tranche 1 (\$10,000 Seed Bootstrap):** Covering 6 months of founder life, server payments, and packaging the `undreseller` B2B conveyor;
      - **Tranche 2 (\$50,000 Acceleration):** Entity registration (Armenia 1% / US LLC), the first procurement batch of vetted equipment for the marketplace, hiring a local inspection master;
@@ -1050,7 +1050,7 @@ For an online enterprise, losing card processing is immediate death. When an acq
 2. **Engineering Defense Protocols ([P0-104]):**
    * Multi-acquirer routing architecture: never concentrate 100% of volume on a single Stripe account;
    * Deploy pre-dispute networks (**Verifi RDR** for Visa and **Ethoca Consumer Clarity** for Mastercard);
-   * **Dispute Rate Containment:** Under the *Mastercard Scam Merchant Monitoring Program (SMMP 2026)*, combined chargeback and refund volumes must remain **strictly below \$5\%$ of processing**, otherwise automated RDR refunds trigger fraud compliance reviews.
+   * **Dispute Rate Containment:** Under the *Mastercard Scam Merchant Monitoring Program (SMMP 2026)*, combined chargeback and refund volumes must remain **strictly below $5\%$ of processing**, otherwise automated RDR refunds trigger fraud compliance reviews.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -1160,7 +1160,7 @@ Splitting equity 50/50 between two co-founders without formal deadlock dispute m
 * **"Schism" (Tool):**
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Tool — "Schism" (Listen: 00:15–00:45)
+> **Track:** Tool — "Schism"
 > **Node engineering analysis (from Bob):** The fractal hydrodynamics of the five echelons of sovereignty (L1–L5): a breach in biology wrecks the cognitive firewall, a cognitive failure leads to a financial clog, and the loss of capital zeroes the legal defense. Everything is interwoven — but not predestined: the Kill Criteria valve is always in the operator's hands.
 
 The fundamental concept of the fractal interconnection of 5 safety circuits (the Personal, Cognitive, Financial, State, and Meta-circuits). A biochemistry failure takes out the cognitive firewall; a cognitive-firewall breach leads to a financial jam; an account ban destroys the physical riser. Interwoven — yes. Predestined — no: Kill Criteria are still in your hand.
@@ -1202,7 +1202,7 @@ If after 90 days and 300+ pitches you have $< 2$ paying clients or the ceiling o
 > **Your action right now:** Write your Kill Criteria on paper in advance: a 90-day deadline, a \$1,500 burned-money limit, a minimum of 2 paying clients. Deadline hits, no clients — demolish the repository, bank the experience, and move to the next idea without tears.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Nine Inch Nails — "The Hand That Feeds" (Listen: 01:10–01:40)
+> **Track:** Nine Inch Nails — "The Hand That Feeds"
 > **Node engineering analysis (from Bob):** Someone else's default and dubious Telegram schemes are not calibration. Hold the stability of your own circuit and don't copy someone else's institutional collapse.
 
 Someone else's default, someone else's "but I live the same way," and someone else's tax schemes from Telegram — not calibration. Burn in your own circuit; don't copy someone else's collapse.

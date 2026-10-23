@@ -159,7 +159,7 @@ If you are ready to:
 * **Who should NOT read this book?** Seekers of magic pills, easy money, ready-made tax schemes to copy-paste, and business coaching. If you expect the AI or the author to solve your problems without your own work — close the book.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Nine Inch Nails — "Somewhat Damaged" (Listen: 00:30–01:10)
+> **Track:** Nine Inch Nails — "Somewhat Damaged"
 > **Node engineering analysis (from Bob):** Living in a hostile environment is not a philosophical debate — it's walking a minefield. This book doesn't preach morality or teach spirituality. It hands you the map of tripwires and teaches you to hold the pipe wrench correctly.
 
 * **What in this book is PERMANENT, and what expires by 2027?**
@@ -216,9 +216,9 @@ Never spawn separate repositories for book content and build scripts. The indust
 
 #### 3. Amazon KDP Algorithmic Traps
 * **Strict Ban on KDP Select (Kindle Unlimited):** KDP Select mandates **absolute digital exclusivity**. If Amazon's crawler finds open text on GitHub, the account is terminated instantly with royalties forfeited. Publish e-books **strictly WITHOUT KDP Select**;
-* **Paperback Print-on-Demand (PoD):** Exclusivity restrictions **do not apply to paperback editions**. Amazon expends physical paper and ink ($7 print cost), so paperbacks sell at your fixed price ($24.99) regardless of GitHub;
+* **Paperback Print-on-Demand (PoD):** Exclusivity restrictions **do not apply to paperback editions**. Amazon expends physical paper and ink ($7 print cost), so paperbacks sell at your fixed price (\$24.99) regardless of GitHub;
 * **The "Content Freely Available on the Web" Robot Notice:** Bypassed within 5 business days using standard copyright verification stating sole authorship, open-source draft hosting under CC BY-NC-ND, and exclusive commercial publishing rights retention;
-* **Price-Matching Defense:** Amazon reserves the right to force an e-book price to $0.00 if listed free on competing retail platforms. Host open markdown exclusively on personal/GitHub domains, never on commercial e-book storefronts.
+* **Price-Matching Defense:** Amazon reserves the right to force an e-book price to \$0.00 if listed free on competing retail platforms. Host open markdown exclusively on personal/GitHub domains, never on commercial e-book storefronts.
 
 ---
 

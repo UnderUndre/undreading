@@ -92,8 +92,8 @@ Before diving into the tables, let's normalize all the technical codes of the ap
 | # | Artifact / Precedent | Echelon | Primary parameter / standard [L1/L2] | Failure mechanics / law of nature | Actionable Directive (Bob's Rule) |
 | :---: | :--- | :---: | :--- | :--- | :--- |
 | **1** | **Therac-25 (1985)** | **L5** | PDP-11 race condition (<8 s) / 1-byte counter overflow | Removal of safety hardware interlocks | Never hand a critical safety circuit to software. Install a physical break relay. |
-| **2** | **Hyatt Regency (1981)** | **L5** | Unauthorized replacement of hanger rods / doubled load \$2P$ | Unsanctioned node refactoring | Simplifying beam assembly without recomputing force vectors shears the metal under load. 114 dead. |
-| **3** | **Challenger (1986)** | **L5** | O-rings / Feynman's live ice-water demo (\$0^\circ\text{C}$) | Normalization of deviance | Never accept an anomaly as the norm. At freezing, rubber hardens. Physics doesn't read reports. |
+| **2** | **Hyatt Regency (1981)** | **L5** | Unauthorized replacement of hanger rods / doubled load $2P$ | Unsanctioned node refactoring | Simplifying beam assembly without recomputing force vectors shears the metal under load. 114 dead. |
+| **3** | **Challenger (1986)** | **L5** | O-rings / Feynman's live ice-water demo ($0^\circ\text{C}$) | Normalization of deviance | Never accept an anomaly as the norm. At freezing, rubber hardens. Physics doesn't read reports. |
 | **4** | **Ginger Jake (1930)** | **L1/L5** | The neurotoxic plasticizer TOCP / NTE esterase inhibition | Wallerian degeneration of the sciatic nerves (OPIDN) | Test the biological essence of the substrate, not the certificate checkbox. Blind dosing gives leg paralysis. |
 | **5** | **The husky liver (1913)** | **L1** | Hypervitaminosis A (retinol $>1.5\text{M IU}$) + rabbit starvation | Acute toxic lysis of the epidermis and acidosis | Protein without a fat buffer and excess fat-soluble vitamins wreck the liver faster than starvation. |
 | **6** | **Operation ENGULF (1956)** | **L2** | Acoustic interception of Hagelin C-38 cipher clicks | Side-channel physical leakage | The physical chassis leaks data before the software cipher even spins up. |
@@ -121,7 +121,7 @@ Before diving into the tables, let's normalize all the technical codes of the ap
 | **28** | **DeepSeek V3/R1** | **L3/L5** | Training for \$6M / KV-cache compression via the MLA architecture | Optimizing the bottlenecks of compute hydraulics | Engineering thought beats burning billions of dollars on bloated clusters. |
 | **29** | **Sleipner A (1991)** | **L5** | An FEA error in NASTRAN (shear understated by 47%) | A too-coarse computation mesh tore the concrete | Check the density of the stress mesh. The flooding of an offshore platform: \$700M. |
 | **30** | **HMS Thetis (1939)** | **L1/L5** | A 3.5 mm cock orifice painted over with 0.05 mm of enamel | The false "dry" reading admitted the sea | Trust no passive indicators. The world's navies adopted the powered *Thetis Clip* mechanical seal. |
-| **31** | **The Cliff Young shuffle** | **L1** | Eliminating the free-flight phase / the farmer's shuffling gait | Removing the \$2.5P$ impact load from the joints | Cliff's shuffle, feet never leaving the ground, let a 61-year-old run 875 km in 5 days without sleep. |
+| **31** | **The Cliff Young shuffle** | **L1** | Eliminating the free-flight phase / the farmer's shuffling gait | Removing the $2.5P$ impact load from the joints | Cliff's shuffle, feet never leaving the ground, let a 61-year-old run 875 km in 5 days without sleep. |
 | **32** | **Nixtamalization** | **L1/L5** | Boiling corn in alkaline water with ash ($\text{Ca(OH)}_2$) | Releasing bound niacin (vitamin $B_3$) | Chesterton's Fence: the Europeans' rejection of the "barbaric" alkaline boil caused 200 years of pellagra. |
 | **33** | **The Cus D'Amato codes** | **L1/L2** | Digitizing Tyson's punches into hard opcodes (1–8) | Cutting brain reaction latency to $<100\text{ ms}$ | Translate complex emergency actions into spinal reflex commands without long deliberation. |
 | **34** | **The 75-cent error** | **L2/L5** | Stoll unwound a micro-play in LBNL billing of \$0.75 | Investigating anomalies through thin traces | Unwind any penny-scale discrepancy in the logs to the bottom. That's how Stoll caught the KGB hacker Hess. |
@@ -186,18 +186,18 @@ Before diving into the tables, let's normalize all the technical codes of the ap
   2) Close the apartment's cold-water intake valve;
   3) Open the hot-water tap (this releases the vacuum lock);
   4) Place a bucket under the heater's relief valve and lift its flag — water will flow in a clean stream.
-* **Thermal storage protocol against Legionella [P0-81: LEGIONELLA-THERMAL-FLOOR]:** Water from that same heater can kill you if you try to "save on your electricity bill" by setting the thermostat to \$40\text{--}45^\circ\text{C}$ (\$104\text{--}113^\circ\text{F}$). *Legionella pneumophila* is a thermotolerant waterborne pathogen that replicates aggressively inside storage tanks and biofilm at $T \in [20^\circ\text{C}; 45^\circ\text{C}]$ (\$68\text{--}113^\circ\text{F}$): taking a hot shower aerosolizes the bacteria directly into pulmonary alveoli $\to$ Legionnaires' disease (severe necrotizing pneumonia with a 15–20% mortality rate). **Standard [Level 1 Fact] (CDC Toolkit Controlling Legionella / ASHRAE Guideline 12-2023 / Standard 188-2021):** storage temperature must remain **strictly $\ge 60^\circ\text{C}$** (\$140^\circ\text{F}$ — bacteria dies in 2 minutes), distribution loop $\ge 50^\circ\text{C}$, with a weekly \$70^\circ\text{C}$ (\$158^\circ\text{F}$) thermal shock purge. To prevent scalding at the tap (\$60^\circ\text{C}$ causes third-degree burns in adults within 3 seconds, in children instantaneously), install a **Thermostatic Mixing Valve (TMV)** at the heater outlet, blending cold water down to a safe \$45\text{--}48^\circ\text{C}$ (\$113\text{--}118^\circ\text{F}$) for household fixtures. The myth that "45°C is enough and saves money" is biological sabotage.
+* **Thermal storage protocol against Legionella [P0-81: LEGIONELLA-THERMAL-FLOOR]:** Water from that same heater can kill you if you try to "save on your electricity bill" by setting the thermostat to $40\text{--}45^\circ\text{C}$ ($104\text{--}113^\circ\text{F}$). *Legionella pneumophila* is a thermotolerant waterborne pathogen that replicates aggressively inside storage tanks and biofilm at $T \in [20^\circ\text{C}; 45^\circ\text{C}]$ ($68\text{--}113^\circ\text{F}$): taking a hot shower aerosolizes the bacteria directly into pulmonary alveoli $\to$ Legionnaires' disease (severe necrotizing pneumonia with a 15–20% mortality rate). **Standard [Level 1 Fact] (CDC Toolkit Controlling Legionella / ASHRAE Guideline 12-2023 / Standard 188-2021):** storage temperature must remain **strictly $\ge 60^\circ\text{C}$** ($140^\circ\text{F}$ — bacteria dies in 2 minutes), distribution loop $\ge 50^\circ\text{C}$, with a weekly $70^\circ\text{C}$ ($158^\circ\text{F}$) thermal shock purge. To prevent scalding at the tap ($60^\circ\text{C}$ causes third-degree burns in adults within 3 seconds, in children instantaneously), install a **Thermostatic Mixing Valve (TMV)** at the heater outlet, blending cold water down to a safe $45\text{--}48^\circ\text{C}$ ($113\text{--}118^\circ\text{F}$) for household fixtures. The myth that "45°C is enough and saves money" is biological sabotage.
 * **The strict protocol for disinfecting suspect water:**
   1. *Coarse filtration:* Settling out sand and silt through cloth;
   2. **A mechanical barrier $\le 1\ \mu\text{m}$:** Pumping through a portable membrane filter (Sawyer, LifeStraw) — **the only reliable barrier that stops the eggs of the parasites *Cryptosporidium* and *Giardia***!
-  3. **Final disinfection:** A rolling boil (\$100^\circ\text{C}$) for 1 minute (above \$2000\text{ m}$ altitude — at least 3 minutes), **OR** sodium dichloroisocyanurate tablets (NaDCC / Aquatabs) strictly per instructions.
+  3. **Final disinfection:** A rolling boil ($100^\circ\text{C}$) for 1 minute (above $2000\text{ m}$ altitude — at least 3 minutes), **OR** sodium dichloroisocyanurate tablets (NaDCC / Aquatabs) strictly per instructions.
      > ⚠️ **THE FUSE [P0-59]:** NaDCC tablets kill bacteria (cholera, typhoid) and viruses, but are **USELESS against Cryptosporidium oocysts**! If you have no $\le 1\ \mu\text{m}$ filter — **BOIL ONLY**!
 
 #### **3. The pharmacokinetic compatibility protocol (pills you must not mix):**
 * **Aspirin vs ibuprofen (the heart-attack paradox):** If you take ibuprofen or ketorolac for chest pain, the ibuprofen molecule occupies the `Arg120` binding site on the platelet enzyme and physically keeps the life-saving aspirin out. The heart stays unprotected. On suspected infarction — **ONLY plain aspirin (162–325 mg; US standard 325 mg, UK 300 mg dispersible)**.
 * **Iron ($\text{Fe}$) vs Zinc ($\text{Zn}$) vs Copper ($\text{Cu}$):**
   * *The DMT1 fistula:* Iron and zinc ions are absorbed through the same intestinal transporter, **DMT1**. Taken together in high doses, they block each other's absorption. Separate their doses by at least 3–4 hours!
-  * *The copper trap:* Excess zinc ($>40\text{–}50\text{ mg/day}$) makes the gut produce metallothionein, which binds copper hard and excretes it in stool, causing severe anemia and leg numbness. On a zinc course — always add \$1\text{–}2\text{ mg}$ of copper!
+  * *The copper trap:* Excess zinc ($>40\text{–}50\text{ mg/day}$) makes the gut produce metallothionein, which binds copper hard and excretes it in stool, causing severe anemia and leg numbness. On a zinc course — always add $1\text{–}2\text{ mg}$ of copper!
   * **Magnesium ($\text{Mg}$):** Absorbs independently through the specific **TRPM6/TRPM7** channels. But mega-doses of magnesium in the same handful as zinc can cut zinc absorption through osmotic competition. Optimum: zinc in the morning, magnesium in the evening.
 * **Cholesterol statins vs grapefruit juice:** Substances in grapefruit (furanocoumarins) hard-disable the intestinal enzyme CYP3A4, which breaks down statins (atorvastatin, simvastatin). The drug's blood concentration jumps 5–10×, causing muscle-fiber breakdown (rhabdomyolysis) and kidney failure.
 
@@ -223,7 +223,7 @@ If a service provider or store blew the deadlines or stiffed you — don't write
 #### **7. Backup home power: LiFePO4 against fire:**
 * **The categorical prohibition on lithium-ion NMC batteries:** Stations on NMC cells (from e-scooters), on overheating past 150°C, release their own oxygen and burn as a torch at 1000°C with the poisonous gas hydrogen fluoride ($HF$). Putting them out with water in an apartment is impossible.
 * **The standard — LiFePO4 (lithium iron phosphate) only:** Withstands heat to 270°C, survives 3,000–6,000 cycles (10 years), and **physically releases no oxygen**. On a cell short, it just vents vapor without fire.
-* **The winter seal:** It is forbidden to charge LiFePO4 below \$0^\circ\text{C}$! Metallic lithium deposits on the anode (*lithium plating*), piercing the separator and causing an internal explosion on warming. Charge only in warmth ($>+5^\circ\text{C}$).
+* **The winter seal:** It is forbidden to charge LiFePO4 below $0^\circ\text{C}$! Metallic lithium deposits on the anode (*lithium plating*), piercing the separator and causing an internal explosion on warming. Charge only in warmth ($>+5^\circ\text{C}$).
 
 #### **8. The dental field triage (the tooth valve):**
 * **The hole from a lost filling:** Take a toothpick, clean the cavity of food debris, rinse with 0.05% aqueous chlorhexidine, squeeze out a portion of **DenTek Temparin Max (US) / Cavit or Coltosol (UK)** and press it in with a finger. The paste cures on saliva within 2 hours. It protects the exposed nerve for 1–2 weeks until the dentist's chair.
@@ -252,9 +252,9 @@ If a service provider or store blew the deadlines or stiffed you — don't write
 
 #### **11. Water Heater Legionella Defense & Thermal Floor ([P0-81: LEGIONELLA-THERMAL-FLOOR])**
 
-* **Pathogen Dynamics:** Storing domestic hot water at \$40\dots45^\circ\text{C}$ turns water heaters into incubation chambers for *Legionella pneumophila* (mortality rate of Legionnaires' disease: 15–20%). Infection spreads via aerosol inhalation in showers.
-* **Safety Benchmark (CDC / ASHRAE Guideline 12-2023):** Storage temperature in the tank must be maintained **strictly $\ge 60^\circ\text{C}$** (bacteria die within 2 minutes); weekly thermal shock at \$70^\circ\text{C}$ is mandatory.
-* **Anti-Scald Guard (TMV):** To prevent severe burns, a **Thermostatic Mixing Valve (TMV)** must be installed at the boiler outlet, mixing cold water down to a safe \$45\dots48^\circ\text{C}$ for household taps.
+* **Pathogen Dynamics:** Storing domestic hot water at $40\dots45^\circ\text{C}$ turns water heaters into incubation chambers for *Legionella pneumophila* (mortality rate of Legionnaires' disease: 15–20%). Infection spreads via aerosol inhalation in showers.
+* **Safety Benchmark (CDC / ASHRAE Guideline 12-2023):** Storage temperature in the tank must be maintained **strictly $\ge 60^\circ\text{C}$** (bacteria die within 2 minutes); weekly thermal shock at $70^\circ\text{C}$ is mandatory.
+* **Anti-Scald Guard (TMV):** To prevent severe burns, a **Thermostatic Mixing Valve (TMV)** must be installed at the boiler outlet, mixing cold water down to a safe $45\dots48^\circ\text{C}$ for household taps.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -317,8 +317,8 @@ While apartment riser neutral breaks are addressed in [P0-85], standalone homes,
 2. **Engineering Defensive Monolith ([P0-99]):**
    * **TT Grounding System Conversion:** For any structure fed by overhead lines, enforce a complete galvanic decoupling between the incoming utility PEN/N conductor and the local building PE bus. The private ground rod connects solely to the building's PE bus, fully isolated from the grid neutral.
    * **Two-Stage Selective RCD (GFCI) Cascade:**
-     1. *Service Entrance:* Main time-delayed selective RCD (**\$100\dots 300\text{ mA}$ Type S, Class A or F**).
-     2. *Branch Circuits:* Instantaneous high-sensitivity RCDs (**\$10\dots 30\text{ mA}$, Class A**) across all socket, lighting, and wet-area circuits.
+     1. *Service Entrance:* Main time-delayed selective RCD (**$100\dots 300\text{ mA}$ Type S, Class A or F**).
+     2. *Branch Circuits:* Instantaneous high-sensitivity RCDs (**$10\dots 30\text{ mA}$, Class A**) across all socket, lighting, and wet-area circuits.
    * **Voltage Monitoring Relays:** Install a 3-phase over/under voltage monitoring relay controlling an industrial shunt-trip contactor to isolate all 3 phases and neutral within $<20\text{ ms}$ upon phase asymmetry.
 
 ```
@@ -334,7 +334,7 @@ While apartment riser neutral breaks are addressed in [P0-85], standalone homes,
 
 ###### **15. Electrical Fire Safety: Series Arc Faults & AFCI / AFDD Breakers ([P0-107: ARC-FAULT-CIRCUIT-INTERRUPTER])**
 
-Over \$50\%$ of residential electrical fires stem from **Series Arc Faults (micro-arcing)** inside wall outlets, loose terminals, or pinched cords.
+Over $50\%$ of residential electrical fires stem from **Series Arc Faults (micro-arcing)** inside wall outlets, loose terminals, or pinched cords.
 
 1. **The Blindspot of Standard MCBs and RCDs:**
    * Circuit breakers (MCB) trip only on overcurrents (>16A or short circuits);
@@ -360,7 +360,7 @@ Over \$50\%$ of residential electrical fires stem from **Series Arc Faults (micr
 A lethal trap in residences equipped with open-flue atmospheric gas water heaters.
 
 1. **Physics of Flue Reversal:**
-   * Sealed double-glazed windows combined with powerful kitchen range hoods (\$600\text{--}1000\text{ m}^3/\text{h}$) pull home air pressure negative ($\Delta P < -5\text{ to } -10\text{ Pa}$).
+   * Sealed double-glazed windows combined with powerful kitchen range hoods ($600\text{--}1000\text{ m}^3/\text{h}$) pull home air pressure negative ($\Delta P < -5\text{ to } -10\text{ Pa}$).
    * Atmospheric equilibrium forces replacement air down the only open chimney: **the gas water heater flue**. Toxic combustion gases and odorless carbon monoxide ($CO$) spill into living areas, inducing fatal hypoxia.
 
 2. **Engineering Hardening ([P0-108]):**
@@ -383,14 +383,14 @@ A lethal trap in residences equipped with open-flue atmospheric gas water heater
 Domestic water heaters (80–200 L) operate under 4–6 bar main supply pressure.
 
 1. **Physics of the BLEVE Collapse:**
-   * Welded thermostat contacts cause continuous runaway heating. Under 6 bar pressure, water superheats to **\$150^\circ\text{C}$** without boiling.
+   * Welded thermostat contacts cause continuous runaway heating. Under 6 bar pressure, water superheats to **$150^\circ\text{C}$** without boiling.
    * If the Temperature & Pressure (T&P) relief valve is calcified, seized, or capped with a brass plug, tank seam integrity fails.
    * Instantaneous depressurization to 1 atm triggers explosive volume flash-boiling (1,600x expansion). The explosive energy equals **1.0–1.5 kg of TNT**, blowing floors and load-bearing walls apart.
 
 2. **Protective Engineering Protocol ([P0-110]):**
    * Absolute ban on capping or plugging T&P relief lines;
    * Mandatory quarterly manual test lever flush to purge mineral deposits;
-   * Independent hardwired electro-mechanical Emergency Cut-Off (ECO, \$93^\circ\text{C}$);
+   * Independent hardwired electro-mechanical Emergency Cut-Off (ECO, $93^\circ\text{C}$);
    * Install an expansion tank sized to $\ge 10\%$ of boiler volume on the cold inlet.
 
 ```
@@ -475,38 +475,38 @@ Domestic water heaters (80–200 L) operate under 4–6 bar main supply pressure
 ├─────────────────────────┬──────────────────────────┬───────────────────────────────────┤
 │ ITEM                    │ SPECIFICATION            │ CONTRACT / RETAIL UNIT COST       │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 1. SICH Tourniquet      │ Ukrainian Combat Certified│ 790 ₴ (~$19 USD) retail /          │
-│    (Metal Windlass)     │ MoD Approved Standard    │ ~€15 (~$16 USD) bulk batch        │
+│ 1. SICH Tourniquet      │ Ukrainian Combat Certified│ 790 ₴ (~\$19 USD) retail /          │
+│    (Metal Windlass)     │ MoD Approved Standard    │ ~€15 (~\$16 USD) bulk batch        │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 2. C-A-T Gen 7          │ North American Rescue    │ $25 – $35 USD                     │
+│ 2. C-A-T Gen 7          │ North American Rescue    │ \$25 – \$35 USD                     │
 │    (Gold Standard)      │ CoTCCC Approved          │ via official distributors         │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 3. Hemostatic Gauze     │ QuikClot Combat Gauze /  │ $35 – $48 USD                     │
+│ 3. Hemostatic Gauze     │ QuikClot Combat Gauze /  │ \$35 – \$48 USD                     │
 │    (Z-fold, Kaolin)     │ Celox Rapid (Chitosan)   │ junctional wound packing          │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 4. Vented Chest Seal    │ HyFin Vent Twin Pack /   │ $16 – $22 USD per pair            │
+│ 4. Vented Chest Seal    │ HyFin Vent Twin Pack /   │ \$16 – \$22 USD per pair            │
 │    (Tension Pneumothorax│ Beacon Chest Seal        │ 3-channel pressure relief valve   │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 5. Junctional Tourniquet│ SAM Junctional (SJT)     │ $250 – $300 USD                   │
+│ 5. Junctional Tourniquet│ SAM Junctional (SJT)     │ \$250 – \$300 USD                   │
 │    (Arterial Occlusion) │ Inguinal / Axillary zone │ stops groin/armpit bleeds         │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 6. Pocket Drone Detector│ "Tsukorok" / "Vanilla"   │ 2,400 ₴ – 3,000 ₴ (~$58–$72 USD)  │
+│ 6. Pocket Drone Detector│ "Tsukorok" / "Vanilla"   │ 2,400 ₴ – 3,000 ₴ (~\$58–\$72 USD)  │
 │    (Passive RF Scanner) │ SkyOwl / Magura          │ 30–60s warning against FPV drones │
 ├─────────────────────────┼──────────────────────────┼───────────────────────────────────┤
-│ 7. Portable Blood Warmer│ QinFlow Warrior System   │ $3,500 – $4,500 / kit             │
+│ 7. Portable Blood Warmer│ QinFlow Warrior System   │ \$3,500 – \$4,500 / kit             │
 │    (In-Field Transfusion│ Shock trauma / Medevac   │ prevents lethal hypothermia       │
 └─────────────────────────┴──────────────────────────┴───────────────────────────────────┘
 ```
 
 > ⚠️ **Critical Tactical Medicine Warning (Via Negativa):**  
-> **Absolute ban on counterfeit $6–$8 tourniquets from AliExpress/Amazon!**  
+> **Absolute ban on counterfeit \$6–\$8 tourniquets from AliExpress/Amazon!**  
 > Knockoffs suffer windlass breakage and seam shearing at arterial occlusion pressures (250–300 mmHg). Saving $15 kills the casualty. Verified procurement: *Leleka Foundation*, *Hospitallers*, *Pirogov First Volunteer Mobile Hospital*.
 
 #### **E.21. Book Royalty Donation Protocol (Scale Mismatch Error)**
-Allocating $1,000–$10,000 into general budget funds dissolves into banking friction. Capital must route where **Cost per Life Saved is minimized** and delivery distance is minimal:
-1. **Under $1,500:** Strictly consumables (40–70 certified SICH/CAT tourniquets via verified foundations);
-2. **$1,500 to $7,000:** Tactical early warning — batch of 20–50 "Tsukorok" passive drone detectors direct to frontline platoons;
-3. **Above $7,000:** Casevac 4x4 pickup with dome EW or a QinFlow Warrior portable blood warmer for a forward stabilization point.
+Allocating \$1,000–\$10,000 into general budget funds dissolves into banking friction. Capital must route where **Cost per Life Saved is minimized** and delivery distance is minimal:
+1. **Under \$1,500:** Strictly consumables (40–70 certified SICH/CAT tourniquets via verified foundations);
+2. **\$1,500 to \$7,000:** Tactical early warning — batch of 20–50 "Tsukorok" passive drone detectors direct to frontline platoons;
+3. **Above \$7,000:** Casevac 4x4 pickup with dome EW or a QinFlow Warrior portable blood warmer for a forward stabilization point.
 
 ### **Appendix F: "The Reference of Cognitive Fuses & the 03:00 Night Runbook"**
 
@@ -701,8 +701,8 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 #### **1. Civilization's energy dead end: base power versus the "green" noise**
 * **The macro-problem:** Training giant AI models and running servers demand hundreds of gigawatts of clean energy. Green energy (wind turbines and solar panels) gives failures: when the wind dies and the sky clouds over (*Dunkelflaute*), the power system seizes solid. Building a classic large nuclear plant is 10–15 years of approvals and billions of dollars.
 * **The technological breakthrough:**
-  1. *SMRs (Small Modular Reactors):* Transportable factory-built reactors delivered by truck (e.g., the **Westinghouse eVinci at \$5\text{ MW(e)}$ electric and \$15\text{ MW(t)}$ thermal**). Installed right at the data center and running 8 years on one fuel load without servicing;
-  2. **Deep geothermal energy (Quaise Energy):** Using powerful microwave cannons (gyrotrons) to vaporize basalt rock and drill 10–20 km down to the heat of the earth's interior (\$500^\circ\text{C}$);
+  1. *SMRs (Small Modular Reactors):* Transportable factory-built reactors delivered by truck (e.g., the **Westinghouse eVinci at $5\text{ MW(e)}$ electric and $15\text{ MW(t)}$ thermal**). Installed right at the data center and running 8 years on one fuel load without servicing;
+  2. **Deep geothermal energy (Quaise Energy):** Using powerful microwave cannons (gyrotrons) to vaporize basalt rock and drill 10–20 km down to the heat of the earth's interior ($500^\circ\text{C}$);
   3. **Compact fusion:** Tokamaks on high-temperature REBCO superconductors (the SPARC project).
 * **The bridge to your house:** You can't buy a nuclear reactor for your balcony. Your personal line — the **2 kWh home LiFePO4 station** and a direct GPON internet line powered from a 12V power bank.
 
@@ -799,12 +799,12 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
   1. *L0 Cognitive Foundation (§1.0.3):* Injected deconstruction of omnipotence [P0-125] (Wolpert & Macready No-Free-Lunch Theorem, dlPFC thermodynamic constraints, Plomin 2010 $g$-factor heritability ceilings, zero-sum positional games) and Bob's Subtractive Protocol (Gollwitzer implementation intentions $d=0.65$, 90-day 🔴 Kill Criteria, Weinberg Single-WIP limit = 1).
   2. *L1 Biological Safety (§2.7, Appendix E Item 20):* Injected [P0-127] e-Thrombosis & Pulmonary Embolism countermeasures (Beasley 2003, WHO WRIGHT 2007, Virchow's triad during 10–14h sedentary desk sessions, Class 1 compression stockings, 90-minute break cadence, D-Dimer triage, strict calf massage prohibition); injected [P0-130] foodborne botulism thermolysis standards (vacuum packaging risks, C. botulinum BoNT $LD_{50} \sim 1\text{ ng/kg}$, spore autoclave requirements at 121°C vs toxin heat denaturation at 100°C for 10 min / 85°C for 15 min).
   3. *L2 Digital Perimeter (§6.2):* Injected [P0-128] Telegram Desktop info-stealer defense (tdata session exfiltration, cloud 2FA bypass via AuthKey cloning, MITRE T1539/T1552.001, PBKDF2/AES-IGE local passcode encryption, 1–5 min auto-lock, Saved Messages credential ban).
-  4. *L3 Financial Resilience (§7.5.12.2):* Injected [P0-129] banking AML paralysis mitigation (FATF R.10 / 6AMLD / Wolfsberg Group 2020 standards, Source of Funds vs Source of Wealth demarcation, mandatory 7-year WORM audit trail of certified returns and accounts, pre-clearance protocols for tranches >$20,000).
+  4. *L3 Financial Resilience (§7.5.12.2):* Injected [P0-129] banking AML paralysis mitigation (FATF R.10 / 6AMLD / Wolfsberg Group 2020 standards, Source of Funds vs Source of Wealth demarcation, mandatory 7-year WORM audit trail of certified returns and accounts, pre-clearance protocols for tranches >\$20,000).
   5. *L1/L2/L4/L5 Comprehensive Post-Mortem Architecture (§5.5.2.1):* Injected master valve [P0-126] Post-Mortem System-Halt & Fiduciary Handshake: biological death as SIGKILL -9 host shutdown and immediate power of attorney termination (UPOAA § 110 / English Powers of Attorney Act 1971); statutory felony traps of unauthorized ATM debit card withdrawals (18 U.S.C. § 1029/1030 / UK Theft Act 1968 s. 1 / civil law statutes); POD/TOD non-probate bypass; RUFADAA 2015 statutory precedence (Apple Legacy / Google Inactive > Will); cryptocurrency inheritance via Miniscript Decaying Multisig in Liana Wallet (1-year OP_CSV timelock); Australian BDBN superannuation requirements (Hill v Zuda [2022]); Singapore CPF nomination rules (s. 25 CPF Act); European Brussels IV Professio Juris clause (Art. 22); fireproof "Red Envelope" safe specifications and 16-Jurisdiction Forensic Atlas.
 
 
 * **Revision EN 2.8 — UHNW Matchmaking Forensics & Marital Consumer Law (Checked: 2026-10-13; Base EN 2.7):**
-  1. *L2/L4 Cognitive & Legal Circuit (§6.7.1):* Injected forensic audit of UHNW executive matchmaking ($100k–$250k retainers, Business Insider / Sameera Sullivan / Lasting Connections LLC case); deconstructed media distortions (gross contract fee vs founder net take-home, 22k unvetted applicant funnel vs verified clients, throughput bottleneck of 8–10 clients/year); statutory circumvention atlas (NY GBL § 394-c $1,000 dating fee cap bypassed via coaching/consulting classification, Cal. Civ. Code § 1694 3-day cooling-off); mandatory JAMS/AAA arbitration under NDA and docket forensics (*Duffens v. Valenti*, *Davis v. Valenti*, *Greenfield v. Selective Search*); attribution correction on Washington DFI Case No. S-20-3041-21-CO01 (Consent Order on unregistered securities vs client service litigation); Bayesian base rates ($P(S)=0.20-0.35$ vs self-reported 70–85% success metrics); demarcation between outright fraud and luxury concierge search.
+  1. *L2/L4 Cognitive & Legal Circuit (§6.7.1):* Injected forensic audit of UHNW executive matchmaking (\$100k–\$250k retainers, Business Insider / Sameera Sullivan / Lasting Connections LLC case); deconstructed media distortions (gross contract fee vs founder net take-home, 22k unvetted applicant funnel vs verified clients, throughput bottleneck of 8–10 clients/year); statutory circumvention atlas (NY GBL § 394-c \$1,000 dating fee cap bypassed via coaching/consulting classification, Cal. Civ. Code § 1694 3-day cooling-off); mandatory JAMS/AAA arbitration under NDA and docket forensics (*Duffens v. Valenti*, *Davis v. Valenti*, *Greenfield v. Selective Search*); attribution correction on Washington DFI Case No. S-20-3041-21-CO01 (Consent Order on unregistered securities vs client service litigation); Bayesian base rates ($P(S)=0.20-0.35$ vs self-reported 70–85% success metrics); demarcation between outright fraud and luxury concierge search.
   2. *P0 Matrix:* Injected valve **[P0-124: UHNW-MATCHMAKING-FORENSIC-GATE]** (L2/L4: Protection against predatory concierge contracts, NY GBL § 394-c circumvention, JAMS/AAA arbitration audit).
 
 
@@ -841,7 +841,7 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
   1. *L4 New section 10.12 "The Anglo-Saxon Water Hammer":* A full forensic audit of 6 English-speaking jurisdictions — Australia (PSI Part 2-42, Division 7A at 8.37–8.77%, CGT Event I1, section 99B), Canada (TOSI s. 120.4, the SBD grind s. 125(5.1), Form T1135, the Departure Tax), Singapore (Section 10L FSIE, ABSD 60%, the Badges of Trade), Ireland (the 8-year Deemed Disposal at 41%, the Close Company surcharges s. 440/441, Mixed Funds), the Netherlands (Box 3 per the Hoge Raad, the dismantled 30% ruling, Wet excessief lenen), and New Zealand (FIF FDR 5%, the 4-year Transitional Resident window, crypto section CB 4) — each with an engineer-to-human translation block.
   2. *L4 The gap analysis:* 6 P0/P1 blind zones added — the CMAC forced residency per *Bywater* (AU), the GAAR modernization per Bill C-59 with the s. 245(4.1) substance presumption and the 25% penalty (CA), crypto trading re-qualification (SG), the Section 441 service surcharge with PAYE re-qualification (IE), the Gebruikelijk loon minimum (€56k) with the *conserverende aanslag* (NL), and the crypto disposal purpose test (NZ).
   3. *L4 The expansion block:* the UK post-2025 FIG regime with the 10/20 IHT tail, Hong Kong's FSIE for MNE entities (16.5% without substance), and Malta's remittance basis with the €5,000 minimum tax.
-  4. *The mathematical model:* The Total Fiscal Drag formula ($T_{	ext{drag}} = T_{	ext{WHT}} + 	au_{	ext{res}} + \Psi + \Theta \cdot G$) with the re-qualification penalty function and the deemed-disposition term, plus the 7-jurisdiction comparative matrix of marginal extraction rates.
+  4. *The mathematical model:* The Total Fiscal Drag formula ($T_{\text{drag}} = T_{\text{WHT}} + 	au_{\text{res}} + \Psi + \Theta \cdot G$) with the re-qualification penalty function and the deemed-disposition term, plus the 7-jurisdiction comparative matrix of marginal extraction rates.
   5. *Level 1 corrections integrated (per the verification ledger):* the Canadian 2/3 capital-gains inclusion rate marked as **formally cancelled (21.03.2025)** — 50% retained across 2024–2026; the Irish surcharge split into s. 440 (investment income) vs **s. 441 (20% on 50% of undistributed professional-services income)**; the Dutch Box 2 top rate corrected to **31%** per the Belastingplan 2025 (24.5% up to €67,804).
   6. *Navigation:* The Express Navigator Vector 4 extended with the §10.12 pointer; header revision canonicalized to `23.3 → EN 2.0`.
 
@@ -862,8 +862,8 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
 
 * **Revision v23.3 — Finalization and the full didactic pressure-test of Part V (Checked: 2026-10-03):**
   1. *L1 Biochemistry (Appendix E):* A gross mineral-transport error eliminated — magnesium removed from under DMT1, its native TRPM6/TRPM7 channels fixed; the $\text{Fe}/\text{Zn}$ pair anchored to DMT1 competition, the $\text{Zn}/\text{Cu}$ pair to intestinal metallothionein induction.
-  2. *L1/L5 Water parasitology (Appendix E):* The conflict with [P0-59] eliminated — NaDCC tablets marked as useless against *Cryptosporidium*; the priority of mechanical membrane filtration $\le 1\ \mu\text{m}$ and thermal boiling at \$100^\circ\text{C}$ fixed.
-  3. *L5 Generation physics (Appendix H):* The Westinghouse eVinci micro-reactor's power brought to the strict nameplate spec: **\$5\text{ MW(e)}$ electric / \$15\text{ MW(t)}$ thermal**.
+  2. *L1/L5 Water parasitology (Appendix E):* The conflict with [P0-59] eliminated — NaDCC tablets marked as useless against *Cryptosporidium*; the priority of mechanical membrane filtration $\le 1\ \mu\text{m}$ and thermal boiling at $100^\circ\text{C}$ fixed.
+  3. *L5 Generation physics (Appendix H):* The Westinghouse eVinci micro-reactor's power brought to the strict nameplate spec: **$5\text{ MW(e)}$ electric / $15\text{ MW(t)}$ thermal**.
   4. **The deduplication of the 220+ Matrix:** A total defect inspection of the table: parasitic repeats removed (CrowdStrike, Raptor Lake, Starliner, Concord, DeepSeek, Vasa, Ariane 5), CPA placeholder stubs purged, the structure reorganized strictly by the 5 echelons (L1–L5).
   5. **The didactic gradient:** At the head of Part V, a **special Rosetta Stone (the terms decoder)** was mounted, and every appendix (E, F, G, H) was supplied with a Step 0 intake gate and a "engineer-to-human translation from Bob" insert.
 
@@ -895,7 +895,7 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
      * **Vector 8 (the Schengen EES biometric gate):** *Regulation (EU) 2017/2226*, eu-LISA (deployment to 10.04.2026) — ink stamps abolished, face and 4-finger hashing, automatic 90/180 counter; overstay is logged mathematically by EES; fines (€500–€3,000) apply, while an SIS II entry ban (1–5 years) requires an individualized administrative return decision with proportionality review (Directive 2008/115/EC art. 11; CJEU C-546/16 *Monté*).
      * **Vector 9 (the Caribbean CBI cartel and the Vanuatu revocation):** *Caribbean MoA 2024* (\$200k+ floor) and *Council Decision (EU) 2024/2119* — doubled thresholds, unified compliance, Vanuatu's loss of EU/UK visa-free access; reorientation toward substantive residencies (O-1A, NIW, Global Talent, Cyprus 6.2).
   5. *L5 Hardware and environment (§5.0, [P0-20]):*
-     * **Vector 10 (the fire hazard of NMC EVs in underground parking):** The Incheon catastrophe (01.08.2024, a Mercedes EQE / Farasis NMC) — 8h20m of firefighting, self-release of $O_2$ on cathode decomposition (\$1000\text{–}1200^\circ\text{C}$), toxic $HF$, 140 cars destroyed and the risers of 480 apartments cut for 14 days; Seoul's bans on entering with charge $>90\%$; the LiFePO4 and open-lot standard.
+     * **Vector 10 (the fire hazard of NMC EVs in underground parking):** The Incheon catastrophe (01.08.2024, a Mercedes EQE / Farasis NMC) — 8h20m of firefighting, self-release of $O_2$ on cathode decomposition ($1000\text{–}1200^\circ\text{C}$), toxic $HF$, 140 cars destroyed and the risers of 480 apartments cut for 14 days; Seoul's bans on entering with charge $>90\%$; the LiFePO4 and open-lot standard.
   6. **Matrix synchronization:**
      * The valve **[P0-71: PEPTIDE-CHAIN-OF-CUSTODY]** added (Section 1, the Operational Decoder of 71 valves);
      * The consolidated forensic matrix of 220+ concepts (Part V) extended with rows 221–230;
@@ -962,13 +962,13 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
   3. **Release status:** **GOLDEN MASTER v22.2** — 100% ready for PDF/EPUB compilation, the Amazon KDP upload, and production rollout.
 
 * **Revision v22.1 — Digital self-publishing LaTeX sanitization & triage navigation update (review v22.0 remediation):**
-  1. *Layout & LaTeX:* Total sanitization of the formulas in §7.5.8.1 from hidden tab characters (`\text{CAC}`, `\text{LTV}`, `\times`, `\$10\text{k/mo}$`); the spectral-reflection-temperature formula of the paper fixed in the physical-edition spec ($\approx 2700\text{–}3000\text{ K}$).
+  1. *Layout & LaTeX:* Total sanitization of the formulas in §7.5.8.1 from hidden tab characters (`\text{CAC}`, `\text{LTV}`, `\times`, `$10\text{k/mo}$`); the spectral-reflection-temperature formula of the paper fixed in the physical-edition spec ($\approx 2700\text{–}3000\text{ K}$).
   2. *TOC navigation:* The craft heading in the express navigator updated: `[The Atlas of Crafts & Self-Publishing] — Text, series self-publishing (§7.5.8.1), music, 3D, tutoring, B2B`.
   3. **Release status:** Full compliance with the Pandoc, MathJax, KaTeX, and Amazon KDP converter compilation standards.
 
 * **Revision v22.0 — Digital self-publishing unit economics & the platform-gatekeeping audit (Checked: 2026-10-01; base v21.5):**
   1. *L3 Crafts & monetization (§7.5.8.1):* A total decomposition of commercial self-publishing. The mathematical inequality of standalone default formulated ($CAC \gg LTV_{single}$) against the series funnel ($LTV_{series} = \text{Royalty}_1 + \sum \text{Royalty}_i \cdot \prod R_k$).
-  2. **L3 Empirical market base rates:** Raw research data integrated: Authors Guild ($n=5699$, the full-time median \$12.8k/yr) and Written Word Media 2025 ($n=1346$, 44% of authors $\le \$100$/mo, the 25+ book catalog effect, the 20× income gap with an own subscriber base).
+  2. **L3 Empirical market base rates:** Raw research data integrated: Authors Guild ($n=5699$, the full-time median \$12.8k/yr) and Written Word Media 2025 ($n=1346$, 44% of authors $\le $100$/mo, the 25+ book catalog effect, the 20× income gap with an own subscriber base).
   3. **L4 Platform compliance 2026:** The Author.Today commercial-status reform of 16.09.2026 fixed (the threshold cut to 200k characters, 1 week holding 30 reading-hours, 0 subscribers, **the hardware ban on AI text**); Amazon KDP parameters updated (the 70% corridor \$2.99–\$12.99, the KENP rate ~\$0.0042/page) and the Litres royalty formula cleaned of VAT and 3.5% acquiring.
   4. **L3/L4 Via Negativa:** The fraud mechanics of the *Ghost Category Hack* exposed (faking the Amazon bestseller badge via 3–5 purchases in a dead niche) and the negative ROI of aggregators' "promotion packages" proven.
   5. **The architecture self-audit:** The monograph's positioning demarcation added to the Prologue: a sovereign B2B infrastructure gateway on the Lucas/Rowling model vs conveyor pulp fiction.
@@ -1049,7 +1049,7 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
   1. **L1 Pharmacotherapy (the ADA/AHA dental bridge):** Prescription antibiotic dosages fully removed; the demarcation of physician control and the impermissibility of self-treatment entrenched (§2.1 / [P0-16]).
   2. **L1 Radiology (WB-MRI):** The unreliable figure of "95% incidentalomas" removed; the current ACR/JAMA recommendations on screening asymptomatic patients integrated (§3.6).
   3. **L1 Tactical medicine (the Tier-0 CAT):** The C-A-T tourniquet application wording corrected — focus on stopping arterial fountaining given a stable motor skill.
-  4. *Layout:* The LaTeX failure `\$3\text{–}8\text{ years}$` in the [P0-55] directive fixed.
+  4. *Layout:* The LaTeX failure `$3\text{–}8\text{ years}$` in the [P0-55] directive fixed.
 
 * **Revision v20.7 — Zero-Trust coherence & the Tier-0 sanitization:**
   1. **Closing the [P0-55] split-brain:** Stationary TPE for healthy people eliminated; the scientifically proven protocol of unpaid plasma (q6w) and blood (q12w) donation per JAMA 2022 embedded.
@@ -1188,12 +1188,12 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
   9. **L1 Emergency care (the demarcation of the emergency-call rule vs technological isolation):** In the city — the absolute priority of calling 911/103/999 with doors unlocked; field invasive interventions — strictly for blackout and isolation conditions (§2.1 / the telemetry panel).
   10. **L1 Emergency care (the Cochrane acute abdomen & the ACS steric blockade):** The systematic review Cochrane CD005660 on in-hospital analgesia vs the categorical ban on home analgesics/NSAIDs; the steric blockade of aspirin's COX-1 Ser529 by ibuprofen molecules (Arg120) (§2.1 / [P0-02: ACS-ASPIRIN]).
   11. **L1 Emergency care (airway de-obstruction — [P0-64: CHOKING-HEIMLICH]):** 5 back blows $\to$ 5 abdominal thrusts under the diaphragm (Heimlich) / chest compressions for the pregnant and obese (§2.1/2.4).
-  12. **L1 Emergency care (Sepsis-3 and the first-hour protocol — [P0-66: SEPSIS-3-HOUR1]):** NEWS2 $\ge 5$ screening (or SIRS + suspected infection), lactate $>2.0\text{ mmol/L}$, blood cultures BEFORE antibiotics $\to$ beta-lactams in the first 60 minutes $\to$ a crystalloid infusion of \$30\text{ mL/kg}$ (§2.1/2.4).
-  13. **L1/L5 Toxicology (the spectral blindness of pulse oximetry under CO/HCN — [P0-67: CYANIDE-CO-OXIMETRY]):** Co-oximetry, 100% $O_2$ via a non-rebreather mask, the cyanide antidote hydroxocobalamin (\$5\text{ g}$ IV, Cyanokit) (§5.0/7.2).
+  12. **L1 Emergency care (Sepsis-3 and the first-hour protocol — [P0-66: SEPSIS-3-HOUR1]):** NEWS2 $\ge 5$ screening (or SIRS + suspected infection), lactate $>2.0\text{ mmol/L}$, blood cultures BEFORE antibiotics $\to$ beta-lactams in the first 60 minutes $\to$ a crystalloid infusion of $30\text{ mL/kg}$ (§2.1/2.4).
+  13. **L1/L5 Toxicology (the spectral blindness of pulse oximetry under CO/HCN — [P0-67: CYANIDE-CO-OXIMETRY]):** Co-oximetry, 100% $O_2$ via a non-rebreather mask, the cyanide antidote hydroxocobalamin ($5\text{ g}$ IV, Cyanokit) (§5.0/7.2).
   14. **L1/L5 Disasters (seismic Drop-Cover-Hold On — [P0-68: DROP-COVER-HOLD-ON]):** The FEMA/USGS standard against the Copp "triangle of life" myth (§11.17).
   15. **L1/L5 Safety (active shooter Run-Hide-Fight — [P0-69: ACTIVE-SHOOTER-PROTOCOL]):** The FBI/DHS doctrine: evacuation $\to$ barricading $\to$ group neutralization of the threat (§11.18).
   16. **L4 Property forensics (the bankruptcy clawback of real-estate deals — [P0-70: PROPERTY-BANKRUPTCY-AUDIT]):** The look-back window (art. 61.2 and 61.6-1 of 127-FZ, sole-home protection per Constitutional Court Ruling No. 5-P), escrow accounts (§10.4).
-  17. **L4 Environmental forensics (radon-222 radiometric control):** The EPA threshold of \$148\text{ Bq/m}^3$, Airthings detectors, sub-slab depressurization SSD (§11.11).
+  17. **L4 Environmental forensics (radon-222 radiometric control):** The EPA threshold of $148\text{ Bq/m}^3$, Airthings detectors, sub-slab depressurization SSD (§11.11).
   18. **L3/L4 Corporate law (Founder Double-Trigger vesting & resolving 50/50 deadlocks):** 4 years of vesting with a 1-year cliff, Double-Trigger at M&A, Russian roulette and the Texas shoot-out (§8.2.2).
   19. **L3 Finance (TCO lifecycle & the sludge buffer — [P0-61: TCO-LIFECYCLE-SLUDGE]):** Pricing material assets per Gartner's 1987 TCO model; a 48-hour hydraulic seal on purchases $>100\$$; unlinking cards from autofill (§8.2.1).
 
@@ -1211,7 +1211,7 @@ We do not play politician or draft UN resolutions. Centralized bureaucratic inst
 ---
 
 > 🎧 **OFFICIAL MONOGRAPH ENDING:**  
-> **Track:** Akeboshi — “Wind” (Naruto ED1, Listen: 00:00–01:30)  
+> **Track:** Akeboshi — “Wind” (Naruto ED1)  
 > **Bob’s Exit Valve Interpretation:**  
 > *“Cultivate your hunger before you idealize / Motivate your anger to make them all realize... Don’t try to live so wise / Don’t cry ’cause you’re so right / Don’t dry with fakes or fears / ’Cause you will hate yourself in the end. You still are blind if you see a winding road / ’Cause there’s always a straight way to the point you see.”*  
 > The system's final exhaust valve. After absorbing 1,000+ pages of lipidology telemetry, FIDO2 WebAuthn keys, US LLC tax mechanics, Miniscript inheritance, and criminal statutory traps, never degenerate into a dilettante playing the "enlightened sage." Do not pretend you have mastered the cosmos, and do not sanitize raw existential fear behind high-minded quotes—or in the end, you will despise yourself. A straight path to the point always exists: it consists of refusing to overcomplicate your infrastructure into analysis paralysis. The wrench is in your hands. Kill the lights, seat the valve, and execute.

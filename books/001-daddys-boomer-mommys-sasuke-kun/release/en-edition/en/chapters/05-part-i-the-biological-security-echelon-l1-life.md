@@ -26,7 +26,7 @@ A local fitting (eyes, stomach, joint) is justified **only** when the integral s
 | **Load-bearing (MSK)** | Grip dynamometry, gait symmetry, ROM, spinal erectors | Bilateral leg radiation, saddle anesthesia, acute urinary retention/incontinence, foot paresis | Emergency lumbosacral MRI; cauda equina decompression within **24–48 h** | Chiropractic manipulation, hot baths, warming creams, axial loads |
 | **Intake (maxillofacial)** | 3D CBCT **on clinical change**, restorations, occlusion, TMJ | Growing floor-of-mouth/neck edema, trismus, fever, dysphagia | Emergency drainage (Ludwig's angina / mediastinitis). §3.4 | Heating the cheek; compresses; muting pain without antibiotic |
 | **Brain soft (cognitive)** | Sleep duration, HRV, working memory | **[CONTESTABLE]** sleep below personal baseline by 60–90 min × 14 consecutive days; apathy; tunnel thinking | Moratorium on Type 1 (gate 1.0.1); sleep window as WIP limit. [MOD-SLEEP-TOC] | Stimulants/energy drinks; forcing through with night hours |
-| **Hearing (stereocilia)** | NIOSH dose \$85\text{ dBA}/8\text{ h}$; 3 dB exchange | Arm's-length test: shouting at 1 m; tinnitus; "I hear but can't parse speech in noise" | Linear-filter earplugs; halve exposure per $+3\text{ dB}$ | "It'll pass later"; AirPods without a limiter at a concert. Hair cells **do not divide**. |
+| **Hearing (stereocilia)** | NIOSH dose $85\text{ dBA}/8\text{ h}$; 3 dB exchange | Arm's-length test: shouting at 1 m; tinnitus; "I hear but can't parse speech in noise" | Linear-filter earplugs; halve exposure per $+3\text{ dB}$ | "It'll pass later"; AirPods without a limiter at a concert. Hair cells **do not divide**. |
 | **Brain (stroke)** | BE FAST + LKW time | Crooked smile, dropping arm, "mashed-potato speech," sudden double vision/blindness, ataxia | 911/999, stroke center, head $+15\text{–}30^\circ$, **NPO**. Aspirin **forbidden** before CT | Giving aspirin "like for a heart attack"; giving fluids; self-lowering BP |
 
 **Grip dynamometry as the riser manometer (PURE, Lancet 2015).** Grip is the analog sensor of biological age and sarcopenia; it falls **before** the clinical picture of systemic failure. The Leong et al. cohort: $n = 139\,691$, age 35–70, 17 countries, median 4.0 years. Per $-5$ kg of grip: $+16\%$ all-cause mortality, $+17\%$ CV mortality, $+17\%$ non-CV mortality, $+7\%$ infarction, $+9\%$ stroke. Grip outperformed systolic BP as an independent predictor. Field corridor $\ge 50\text{–}55$ kg — below in ch. 2; this is not a separate "ministry of muscles."
@@ -68,12 +68,12 @@ In emergency prehospital care protocols, the base safety watershed is **the pres
    * **The prohibition of prehospital BP reduction:** compensatory hypertension feeds the ischemic penumbra — home sublingual captopril/moxonidine/nifedipine enlarges the necrosis zone (AHA/ASA 2019; ESO 2021; INTERACT-4, NEJM 2024: +30% severe outcomes in ischemia). The no-intervention threshold at home: up to 220/120 mmHg.
 4. **Sepsis and septic shock (the Sepsis-3 Consensus / SSC 2021):**
    * Rapid screening via NEWS2 $\ge 5$ (or SIRS: $T > 38^\circ\text{C}/<36^\circ\text{C}$, HR $>90$, RR $>20$ + suspected infectious focus; qSOFA $\ge 2$ retained only as an outcome predictor) + lactate $>2.0\text{ mmol/L}$ and procalcitonin.
-   * The hour-1 protocol: blood cultures BEFORE the antibiotic $\to$ IV broad-spectrum antibiotics within 60 minutes $\to$ crystalloid infusion \$30\text{ mL/kg}$ on hypotension $\to$ norepinephrine for MAP $\ge 65\text{ mmHg}$.
+   * The hour-1 protocol: blood cultures BEFORE the antibiotic $\to$ IV broad-spectrum antibiotics within 60 minutes $\to$ crystalloid infusion $30\text{ mL/kg}$ on hypotension $\to$ norepinephrine for MAP $\ge 65\text{ mmHg}$.
 
 #### **2.1.1. Asymmetric Biomechanics and the Kinematics of Body Survival**
 
 1. **Cliff Young (1983) & the Erling Haaland protocol:**
-   * **The Cliff Shuffle:** A 61-year-old farmer ran 875 km in 5 days 15 hours without sleep, in work overalls and galoshes. The secret: elimination of the free-flight phase. Feet never left the ground — 100% of energy went into the translational vector, removing the \$2.5P$ heel-strike impact load. Quietly. Slowly. Without fuss — and 875 kilometers.
+   * **The Cliff Shuffle:** A 61-year-old farmer ran 875 km in 5 days 15 hours without sleep, in work overalls and galoshes. The secret: elimination of the free-flight phase. Feet never left the ground — 100% of energy went into the translational vector, removing the $2.5P$ heel-strike impact load. Quietly. Slowly. Without fuss — and 875 kilometers.
    * **The experimental bioreactor (in the Erling Haaland style):** Trials of nasal breathing (overnight mouth taping as a personal athletic ritual for gas-exchange control), blue-spectrum light filtering 90 minutes before sleep, and circadian tracking.
 2. **Kinematic impact damping and Tactical L1-Survival (Stallone, Jackie Chan, Cast Away, Die Hard):**
    * **The fall kinematics of Jackie Chan and Stallone:** Impulse-dispersion protocols ($F = \frac{\Delta p}{\Delta t}$). Damping the impact across the full body area with a diagonal roll (increasing $\Delta t$), which saves the spine and joints from a hydraulic shear.
@@ -81,7 +81,7 @@ In emergency prehospital care protocols, the base safety watershed is **the pres
    * **John McClane's breached perimeter (*Die Hard*):** Executing the L1 task barefoot over broken glass with shredded soles and the canonical *„Yippee-ki-yay, motherfucker“*. When the main circuit is breached and the reviewer elevator is already on your floor, you don't stall — you hotfix under live fire with temporary shutdown of pain receptors until the breach is sealed.
 3. **The chemical burn in *Fight Club* — the hard-grounding protocol:**
    Neutralization of an alkali burn (sodium hydroxide $\text{NaOH}$) with weak acetic acid ($\text{CH}_3\text{COOH}$). When the mental system flies off into a dopamine hallucination or panic affect — a biochemical irritant instantly bleeds off pressure in the cerebral cortex, returning consciousness to the base physical basement ($L1$).
-   **A household thermal burn (boiling water, oil, contact):** fat, sour cream, alcohol, and ice are forbidden. They hold heat in the dermis and convert a 2nd-degree burn into a 3rd. The ANZBA / BBA / ABA protocol: **running water \$8\text{–}25^\circ\text{C}$ (optimum \$15^\circ\text{C}$) for strictly 20 minutes**; effectiveness holds if started within the first 3 hours. Ice and ice water — secondary cryonecrosis + hypothermia. Area: the palm with fingers closed $= 1\%$ TBSA; in adults — the Wallace rule of nines. To a burn center: $>10\%$ TBSA partial-thickness in adults ($>5\%$ children/elderly), circumcular burns, face/hands/feet/genitals/joints, inhalation injury. After cooling — a dry non-adhesive dressing or food wrap without tension; do not burst blisters.
+   **A household thermal burn (boiling water, oil, contact):** fat, sour cream, alcohol, and ice are forbidden. They hold heat in the dermis and convert a 2nd-degree burn into a 3rd. The ANZBA / BBA / ABA protocol: **running water $8\text{–}25^\circ\text{C}$ (optimum $15^\circ\text{C}$) for strictly 20 minutes**; effectiveness holds if started within the first 3 hours. Ice and ice water — secondary cryonecrosis + hypothermia. Area: the palm with fingers closed $= 1\%$ TBSA; in adults — the Wallace rule of nines. To a burn center: $>10\%$ TBSA partial-thickness in adults ($>5\%$ children/elderly), circumcular burns, face/hands/feet/genitals/joints, inhalation injury. After cooling — a dry non-adhesive dressing or food wrap without tension; do not burst blisters.
 4. **The digitization of Cus D'Amato's kinematics (Peek-a-boo):** Mike Tyson's punches were digitized into an opcode system (1–8). The `7-2-1` command executed at the spinal-cord level at $<100\text{ ms}$, bypassing the cortex.
 5. **The Ginger Jake paralysis (1930):** A neurotoxic plasticizer (TOCP) added to ginger extract to pass a USDA density test inhibited NTE esterase $\rightarrow$ Wallerian degeneration of the sciatic nerve, 50,000 disabled (*Jake Leg*).
 6. **The toxic lysis of Xavier Mertz (1913):** Eating husky liver in Antarctica produced hypervitaminosis A (retinol $>1.5\text{M IU}$) + protein poisoning (Rabbit Starvation) $\rightarrow$ lysosomal lysis of the epidermis and death from acidosis.
@@ -104,7 +104,7 @@ In emergency prehospital care protocols, the base safety watershed is **the pres
      Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection.
      * *Clinical screening (SSC 2021 / NEWS2):* 1) NEWS2 $\ge 5$ (or SIRS: $T > 38^\circ\text{C} / < 36^\circ\text{C}$, HR $>90$, RR $>20$ + suspected infectious focus); 2) qSOFA is excluded from first-line early screening by the strong recommendation of SSC 2021 (Seymour et al., JAMA 2016 demonstrated low ~24% sensitivity outside the ICU) and retained only as a prognostic severity marker in intensive care.
      * *Two-circuit telemetry:* plasma lactate $>2.0\text{ mmol/L}$ (tissue hypoperfusion) + procalcitonin (PCT $>0.5\text{–}2.0\text{ ng/mL}$).
-     * *The hour-1 protocol (Surviving Sepsis Campaign):* 1) blood cultures for sterility BEFORE antibiotics; 2) IV bactericidal broad-spectrum antibiotics within the first **60 minutes**; 3) crystalloid infusion (Plasma-Lyte, Ringer's) at **\$30\text{ mL/kg}$** on hypotension (SBP $<90$ or lactate $\ge 4.0\text{ mmol/L}$); 4) early norepinephrine to hold MAP $\ge 65\text{ mmHg}$.
+     * *The hour-1 protocol (Surviving Sepsis Campaign):* 1) blood cultures for sterility BEFORE antibiotics; 2) IV bactericidal broad-spectrum antibiotics within the first **60 minutes**; 3) crystalloid infusion (Plasma-Lyte, Ringer's) at **$30\text{ mL/kg}$** on hypotension (SBP $<90$ or lactate $\ge 4.0\text{ mmol/L}$); 4) early norepinephrine to hold MAP $\ge 65\text{ mmHg}$.
    * **The prohibition of improvised tourniquets and the conversion rules:**
 8. *Improvised tourniquets (belts, wire):* Categorically forbidden. They don't compress the artery, they create a venous clog, and they accelerate blood loss. Use only a proven tourniquet (C-A-T Gen 7, SOFTT-W).
 9. *Tourniquet conversion (transfer to a pressure bandage):* In the field, without specialized medical education, self-removal/conversion of the tourniquet is forbidden due to the risk of recurrent arterial bleeding and reperfusion syndrome. Conversion is performed by qualified medical personnel (or per the TCCC protocol within the first 2 hours under direct control).
@@ -121,11 +121,11 @@ In emergency prehospital care protocols, the base safety watershed is **the pres
 > **Node engineering analysis (from Bob):** A musical anchor for the operator's emotional calibration. In the commercial edition and the open repository, full verse lyrics are removed per copyright law (17 U.S.C. § 107). Listening to the original track on a streaming service is recommended for deep rhythm calibration.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** nobodyknows+ — "Hero's Come Back!!" (Naruto Shippuden OP1, Listen: 00:20–00:50)
+> **Track:** nobodyknows+ — "Hero's Come Back!!" (Naruto Shippuden OP1)
 > **Node engineering meaning (from Bob):** Resilience and antifragility: the ability to restore working pressure after any water hammer.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** FLOW — "GO!!!" (Naruto OP4, Listen: 00:30–01:00)
+> **Track:** FLOW — "GO!!!" (Naruto OP4)
 > **Node engineering meaning (from Bob):** Moving along someone else's unverified map leads to dead ends. Build your own sovereign route from first principles.
 
 GOT'S's aorta is not a "clean system after repairs." It's a scar as a fuse: one node drops, the second picks up the frequency, the operator moves on with damage. *Sign* — the scar. Don't hang *Closer* here: sensor proximity lives in directive [P0-17: FAMILY-OUTOFBAND].
@@ -163,7 +163,7 @@ When adaptation capacity is exceeded or sleep is short, micro-cracks accumulate 
 | **Creatine kinase (CK)** | $<200\text{ U/L}$ | **$>1000\text{ U/L}$** ($>5\times$ normal) | **$>5000\text{ U/L}$** — exponential AKI risk |
 | **Serum myoglobin** | $<70\text{ µg/L}$ | **$>1000\text{ µg/L}$** (early peak 12 h) | Nephrotoxicity once clearance is exceeded |
 | **Myoglobin / CK** | $<0.1$ | **$>0.4$** early | 89% AKI prediction sensitivity |
-| **Serum potassium ($K^+$)** | \$3.5\text{–}5.0\text{ mmol/L}$ | **$>5.5\text{ mmol/L}$** (hyperkalemia) | **Ventricular fibrillation and cardiac arrest threat** |
+| **Serum potassium ($K^+$)** | $3.5\text{–}5.0\text{ mmol/L}$ | **$>5.5\text{ mmol/L}$** (hyperkalemia) | **Ventricular fibrillation and cardiac arrest threat** |
 
 * **The nephrotoxic clog:** Myoglobin in acidic urine ($\text{pH} < 5.6$) co-precipitates with Tamm-Horsfall protein, forming mechanical plugs in the renal tubules. Iron ions $\text{Fe}^{2+}$ in the Fenton reaction generate free radicals that destroy renal epithelium, and nitric oxide (NO) binding causes ischemic spasm of the renal arteries.
 
@@ -173,12 +173,12 @@ When adaptation capacity is exceeded or sleep is short, micro-cracks accumulate 
 > **Your action right now:** After wildly unaccustomed loads, immediately start drowning yourself in liters of clean water (flush the system). If the urine darkens to cola color and your whole body aches — sprint to a lab for a **CK (creatine kinase)** blood test and sprint to a hospital for an IV saline drip.
 
 #### **3. The ice-bath paradox (Cold Plunge vs Hypertrophy):**
-Immersion in ice water (\$4\text{–}10^\circ\text{C}$) right after strength training is a popular biohacker self-deception. Strength loading initiates a controlled inflammation that activates the **mTORC1** complex, ribosomal biogenesis, and the `p70S6K` cascade for protein synthesis (MPS).
+Immersion in ice water ($4\text{–}10^\circ\text{C}$) right after strength training is a popular biohacker self-deception. Strength loading initiates a controlled inflammation that activates the **mTORC1** complex, ribosomal biogenesis, and the `p70S6K` cascade for protein synthesis (MPS).
 * **Raw clinical data (Malta 2023, Piñero 2024):** A cold bath in the **0–4 hour window after training cuts muscle hypertrophy by 30–40%** due to sharp vasospasm and suppression of anabolic signaling.
 * **The protocol:** Separate ice baths and strength work by a minimum of **6–8 hours**, and ideally move thermal contrast strictly to rest days.
 
 #### **4. Spinal Biomechanics and L1 Lumbar-Riser Decompression: Spondylosis, L4–L5 Annular Tears, and IT Ergonomics (McGill Big 3):**
-The intervertebral disc is the largest avascular hydrodynamic structure in the body. The cells of the *nucleus pulposus* live in hypoxia and feed **exclusively by passive diffusion** through the cartilaginous endplates (less than \$1\text{ mm}$ thick).
+The intervertebral disc is the largest avascular hydrodynamic structure in the body. The cells of the *nucleus pulposus* live in hypoxia and feed **exclusively by passive diffusion** through the cartilaginous endplates (less than $1\text{ mm}$ thick).
 
 ```
 [ THE L4-L5 HYDRAULIC BLOWOUT MECHANICS ]
@@ -195,11 +195,11 @@ Annular tear ──► 3 mm protrusion into the foraminal zone ──► Radicul
   * Lying supine: intradiscal pressure $\approx 0.1\text{ MPa}$.
   * Standing straight: $\approx 0.5\text{ MPa}$.
   * Sitting unsupported with a slouched lower back: $\approx 0.83\text{–}1.1\text{ MPa}$.
-  * Lifting a 20 kg load with a rounded back: **\$2.3\text{ MPa}$**.
+  * Lifting a 20 kg load with a rounded back: **$2.3\text{ MPa}$**.
   * **Flexion with simultaneous loaded spinal rotation:** a pressure spike to **400%** of baseline. The annulus fibers are oriented at $\approx 30^\circ$ in alternating layers; rotation tensions only half the fibers, causing instant delamination and an annular tear.
 * **The Kirkaldy-Willis cascade (how spondylosis is born):**
   1. *Phase 1 (Diffusion failure):* Micro-trauma of the endplates from shear loads $\to$ pore sclerosis $\to$ dehydration of the nucleus (the "black disc" on MRI).
-  2. *Phase 2 (Loss of hydraulics):* The dehydrated nucleus stops holding hydrostatic pressure per Pascal; the load falls on the annulus $\rightarrow$ tears, protrusions (\$3\text{ mm}$), foraminal stenosis, and radiculopathy.
+  2. *Phase 2 (Loss of hydraulics):* The dehydrated nucleus stops holding hydrostatic pressure per Pascal; the load falls on the annulus $\rightarrow$ tears, protrusions ($3\text{ mm}$), foraminal stenosis, and radiculopathy.
   3. *Phase 3 (Spondylosis as an emergency crutch):* The body tries to stabilize the loose segment with bone overgrowth — **osteophytes (spondylosis)**.
 * **Categorical anti-patterns (retire immediately):**
   * *In the gym:* Ab crunches (sit-ups generate compression $>3300\text{–}3400\text{ N}$, the NIOSH damage threshold), weighted trunk rotations ("wood chop," Russian twists), squats and deadlifts with pelvic tuck (*butt-wink*), the 45° leg press (vertebral shear when the pelvis lifts off).
@@ -216,24 +216,24 @@ Annular tear ──► 3 mm protrusion into the foraminal zone ──► Radicul
 > **Where the trap is:** Gym instructors advise "build the abs with crunches" and "stretch the bad lower back with bends." That's how the annulus finally ruptures, a hernia pops out, pinches the nerve root — and hello, numb leg and a limp.
 > **Your action right now:** Forget trunk twists and arched-back hyperextensions forever. Hold the lower back motionless and train the corset with the static McGill Big 3 (shoulder lift with a hand under the lower back, side plank, quadruped bird-dog). Hold the isometric for 7–8 seconds with no jerks.
   2. **Movement strictly through the Hip Hinge (pelvis-dominant bend):** Flexion only at the hip joints; the lower back locked motionless.
-  3. **The "morning hydraulic lock" rule (the first 60 minutes):** Overnight the discs imbibe water and swell (intradiscal pressure rises to \$0.24\text{ MPa}$ lying down). In the first 60 minutes after getting up, bends, tying shoelaces in a twisted crouch, and strength loads are categorically forbidden.
+  3. **The "morning hydraulic lock" rule (the first 60 minutes):** Overnight the discs imbibe water and swell (intradiscal pressure rises to $0.24\text{ MPa}$ lying down). In the first 60 minutes after getting up, bends, tying shoelaces in a twisted crouch, and strength loads are categorically forbidden.
   4. **Brisk walking:** 3 times a day for 15–20 minutes. It creates a soft hydrodynamic pump, stimulating diffusion and nutrition of the L4–L5 discs without destructive shear.
   5. **Smoking — vasospasm of the capillaries:** Nicotine causes spasm of the vertebral microcirculation, accelerating disc dehydration by 10–15 years (Battié et al., *The Twin Spine Study*).
   6. **The biomechanics of the *m. iliopsoas* and reciprocal glute inhibition:** Chronic sitting shortens the *m. iliopsoas* (anchored to Th12–L5 and the femur) $\to$ anterior pelvic tilt $\rightarrow$ reciprocal deactivation of the *m. gluteus maximus*. Vertical stabilization is delegated to the lower back, raising shear compression vectors on L4–L5 by 2.5–3×. Desk ergonomics: a hip-to-torso opening angle $>105\text{–}110^\circ$ and a static-dynamic correction protocol.
 
 #### **5. Exertional Heat Stroke (EHS) and the CWI Immersion Protocol:**
-Exertional heat stroke is a critical thermoregulation disorder arising during heavy physical work, when endogenous heat production exceeds \$1000\text{–}1200\text{ W}$.
+Exertional heat stroke is a critical thermoregulation disorder arising during heavy physical work, when endogenous heat production exceeds $1000\text{–}1200\text{ W}$.
 * **The EHS diagnostic criterion:** Core body temperature $T_{core} > 40.5^\circ\text{C}$ combined with acute CNS dysfunction (delirium, ataxia, seizures, coma).
 * **The pathogenetic cascade:** Blood-flow redistribution to the skin $\to$ splanchnic GI ischemia $\to$ breakdown of enterocyte tight junctions $\to$ breakthrough of bacterial endotoxin (LPS) into portal circulation $\rightarrow$ systemic DIC, rhabdomyolysis, and multi-organ failure (MODS).
 * **The categorical prohibition of antipyretics (paracetamol, aspirin, NSAIDs):** In EHS the hypothalamic setpoint is NOT shifted (the body is physically overheated). Paracetamol under hepatic ischemia collapses into the CYP2E1 cytochrome pathway producing `NAPQI` and delivers fatal centrilobular necrosis. Aspirin and NSAIDs provoke massive GI bleeding and acute kidney injury.
-* **The "Cool First, Transport Second" imperative (NATA & CHAMP guidance):** Cooling delayed beyond 30 minutes raises mortality from \$0\%$ to \$80\%$.
+* **The "Cool First, Transport Second" imperative (NATA & CHAMP guidance):** Cooling delayed beyond 30 minutes raises mortality from $0\%$ to $80\%$.
 * **The gold standard of emergency care — Cold Water Immersion (CWI):**
 
 > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
 > **In plain language:** Heat stroke during training or a heatwave is the coolant boiling in your car's radiator. Brain temperature shoots past 40.5°C, the gut barrier fails from the overheating, and toxins pour into the blood.
 > **Where the trap is:** People shove a paracetamol or aspirin tablet at the victim. That's a death sentence: antipyretics don't work on physical overheating, and in an overheated body paracetamol instantly burns out the liver while aspirin opens internal bleeding.
 > **Your action right now:** Forget the pills. Drag the person into an ice bath or a cold shower immediately and pack ice into the armpits, groin, and neck (*Cool First, Transport Second*). Call emergency services in parallel.
-  1. Immediate immersion of the body in a bath of cold/ice water (\$1.5\text{–}15^\circ\text{C}$) with continuous stirring (heat-removal rate \$0.15\text{–}0.20^\circ\text{C}/\text{min}$);
+  1. Immediate immersion of the body in a bath of cold/ice water ($1.5\text{–}15^\circ\text{C}$) with continuous stirring (heat-removal rate $0.15\text{–}0.20^\circ\text{C}/\text{min}$);
   2. *The field TACO protocol (Tarp-Assisted Cooling Oscillation):* Wrap the victim in a tarp/tent, pour in 20 L of cold water with 15–20 kg of ice, and rock the tarp continuously;
   3. Temperature control via rectal probe (skin sensors lie due to vasoconstriction);
   4. Stop cooling strictly at $T_{core} = 38.6\text{–}39.0^\circ\text{C}$ to prevent an overshoot into hypothermia.
@@ -271,7 +271,7 @@ In law, childbirth activates an unconditional court order garnishing 25–50% of
   3. A control semen analysis at 12 weeks (and $\ge 20$ ejaculations) until **complete azoospermia** is confirmed twice.
 
 #### **4. The Gray Peptide Market, Counterfeit GLP-1 (Ozempic) vs Ginger Jake 1930 ([P0-71: PEPTIDE-CHAIN-OF-CUSTODY]):**
-On the wave of GLP-1 receptor agonist triumph (semaglutide, tirzepatide), a lethally dangerous gray market of counterfeits and uncertified peptides has formed (\$1–3\text{ billion}$ of powder imports labeled "research chemical / not for human consumption"):
+On the wave of GLP-1 receptor agonist triumph (semaglutide, tirzepatide), a lethally dangerous gray market of counterfeits and uncertified peptides has formed ($1–3\text{ billion}$ of powder imports labeled "research chemical / not for human consumption"):
 
 > 🛑 **Post-Mortem [L1 Fact / Bedrock] (Lethal GLP-1 counterfeits and endotoxin sepsis):**
 > * **Step 0 (What happened, in plain terms):** The shortage of genuine Ozempic birthed a wave of counterfeits. Scammers collected empty injector pens and filled them with cheap high-concentration insulin (U-100), selling them online and in spas. People without diabetes injected "Ozempic for weight loss" and 20 minutes later were in a coma from zeroed blood sugar, or died of brain edema. Those buying gray peptide powders from China got bacterial blood poisoning and septic shock from non-sterile packaging.
@@ -323,7 +323,7 @@ On the wave of GLP-1 receptor agonist triumph (semaglutide, tirzepatide), a leth
 The pollution of the internal environment with xenobiotics has grown into a factor of direct tissue degradation of the human reproductive system:
 
 * **Instrumental fixation in tissues (Zhao 2023 & Yu/Campen 2024):**
-  Via Raman microspectroscopy (RMS) and pyrolysis GC-MS, polymer particles from \$0.5$ to \$50\text{ µm}$ were instrumentally detected in male reproductive tissues in *Zhao et al. (Science of The Total Environment, 2023, DOI: 10.1016/j.scitotenv.2023.162713)* on a sample of $n=6$ testes and $n=30$ ejaculates, and *Yu et al. / Campen (Toxicological Sciences, 2024, DOI: 10.1093/toxsci/kfae060)* on a sample of $n=23$ cadaveric human testes and $n=47$ canine testes.
+  Via Raman microspectroscopy (RMS) and pyrolysis GC-MS, polymer particles from $0.5$ to $50\text{ µm}$ were instrumentally detected in male reproductive tissues in *Zhao et al. (Science of The Total Environment, 2023, DOI: 10.1016/j.scitotenv.2023.162713)* on a sample of $n=6$ testes and $n=30$ ejaculates, and *Yu et al. / Campen (Toxicological Sciences, 2024, DOI: 10.1093/toxsci/kfae060)* on a sample of $n=23$ cadaveric human testes and $n=47$ canine testes.
   * *Predominant polymers:* Polyethylene (PE), polyvinyl chloride (PVC), polystyrene (PS), and polytetrafluoroethylene (PTFE).
   * *Causality status [CONTESTABLE]:* The presence of polymer particles in small samples is instrumentally confirmed, however **a direct clinical causal link with male infertility in humans remains a scientific hypothesis** and the subject of active research. Presence of particles $\neq$ proven sterility. Meanwhile eccrine sweat gland physiology proves unambiguously: saunas and detox supplements do not remove polymers.
 
@@ -341,9 +341,9 @@ The pollution of the internal environment with xenobiotics has grown into a fact
   5. *No hot drinks in "paper" cups:* The inner layer of disposable cups is laminated with low-density polyethylene (LDPE) film that degrades on contact with boiling water ($>90^\circ\text{C}$), releasing trillions of nanoparticles into your coffee. Alternative: a glass or steel thermos.
 
 #### **6. Post-Finasteride Syndrome (PFS): CNS Neurosteroid Deprivation vs Hair Follicles ([P0-54: POST-FINASTERIDE]):**
-Trying to stop androgenetic alopecia with systemic \$5\alpha$-reductase type 2 inhibitors (**Finasteride**, **Dutasteride**) is the textbook example of a destructive trade: a secondary external facade swapped for the fundamental stability of the biological core:
-* **The pharmacodynamic blowout:** The \$5\alpha$-reductase enzyme converts not only testosterone into dihydrotestosterone (DHT) in the hair follicles, but also progesterone and deoxycorticosterone into the key protective neurosteroids of the central nervous system — **allopregnanolone** and **tetrahydrodeoxycorticosterone (THDOC)**.
-* **Collapse of the brain's GABA-A circuit:** Allopregnanolone is the most potent endogenous positive allosteric modulator of $\text{GABA}_A$ receptors. Under \$5\alpha$-reductase blockade its cerebrospinal fluid concentration collapses by **70–85%**. Stripping the brain of its natural inhibitory damper launches excitotoxicity, panic attacks, destruction of slow-wave sleep (NREM), and apoptosis of hippocampal neurons.
+Trying to stop androgenetic alopecia with systemic $5\alpha$-reductase type 2 inhibitors (**Finasteride**, **Dutasteride**) is the textbook example of a destructive trade: a secondary external facade swapped for the fundamental stability of the biological core:
+* **The pharmacodynamic blowout:** The $5\alpha$-reductase enzyme converts not only testosterone into dihydrotestosterone (DHT) in the hair follicles, but also progesterone and deoxycorticosterone into the key protective neurosteroids of the central nervous system — **allopregnanolone** and **tetrahydrodeoxycorticosterone (THDOC)**.
+* **Collapse of the brain's GABA-A circuit:** Allopregnanolone is the most potent endogenous positive allosteric modulator of $\text{GABA}_A$ receptors. Under $5\alpha$-reductase blockade its cerebrospinal fluid concentration collapses by **70–85%**. Stripping the brain of its natural inhibitory damper launches excitotoxicity, panic attacks, destruction of slow-wave sleep (NREM), and apoptosis of hippocampal neurons.
 * **The post-finasteride syndrome (PFS) phenomenon:** In genetically predisposed men, persistent epigenetic methylation of androgen-receptor promoters in the CNS develops. The clinical triad — **total anhedonia (the inability to feel joy), severe treatment-resistant depression, and erectile dysfunction with genital numbness (PSSD)** — persists for years and decades **AFTER complete discontinuation of the drug**.
 * **Bob's Rule ([P0-54: POST-FINASTERIDE]):** *Trading the neurochemical stability of the cerebral cortex and protection against suicidal affect (echelon L1) for the cosmetic preservation of hair follicles is the worst engineering deal in biology.* Systemic finasteride without conscious acceptance of the risk of irreversible neuro-deprivation is forbidden.
 
@@ -483,7 +483,7 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 │    Sensorineural│ $\ge 30\text{ dB}$ over 3 contiguous fre-│ 1. Bedside Weber / Rauch  │
 │    Hearing Loss)│ quencies within $<72$ hours. Routinely   │    Hum test (forehead).   │
 │    [P0-89]      │ dismissed as "cerumen impaction/wax."    │ 2. Oral Prednisolone      │
-│                 │ Untreated = irreversible hair cell loss. │    \$1\text{ mg/kg/day}$   │
+│                 │ Untreated = irreversible hair cell loss. │    $1\text{ mg/kg/day}$   │
 │                 │                                          │    (max 60 mg) for 7–14d  │
 │                 │                                          │    + OBLIGATORY 7–10 DAY  │
 │                 │                                          │    TAPER (10 mg / 1–2 d)  │
@@ -528,9 +528,9 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 
 ### **Chapter 3. Preventive Lipidology and the Psychosocial Circuit**
 
-> 🚨 **Anti-Case No. 2 (Ozempic sarcopenia):** The risk of Ozempic sarcopenia: GLP-1 (Ozempic) use at a calorie deficit WITHOUT strength training and adequate protein (\$1.6\text{–}2.2\text{ g/kg}$) threatens the loss of up to **40% of skeletal muscle out of the total weight lost**.
+> 🚨 **Anti-Case No. 2 (Ozempic sarcopenia):** The risk of Ozempic sarcopenia: GLP-1 (Ozempic) use at a calorie deficit WITHOUT strength training and adequate protein ($1.6\text{–}2.2\text{ g/kg}$) threatens the loss of up to **40% of skeletal muscle out of the total weight lost**.
 
-* **Zone 2 & HIIT 4x4:** Lactate \$1.5\text{–}2.0\text{ mmol/L}$, pulse \$60\text{–}70\%$ of $HR_{max}$.
+* **Zone 2 & HIIT 4x4:** Lactate $1.5\text{–}2.0\text{ mmol/L}$, pulse $60\text{–}70\%$ of $HR_{max}$.
 * **The collapse of Bryan Johnson's "Vampirism" (Project Blueprint):** 6 months of plasma infusions from his 17-year-old son showed *"No benefits detected."* Raw unfiltered plasma transfusion — cargo cult. Experimental TPE (therapeutic plasma exchange with 5% albumin within clinical longevity trials; for practical PFAS clearance in the general population, the protocol of regular plasma/blood donation is proven per JAMA Network Open 2022). The daily handful of 100+ pills provoked toxic gastritis.
 * **The practical case of Eminem (bioreactor reboot via Zone 2):** A methadone overdose in 2007 (echelon L1: terminal state) $\to$ running 17 miles a day in Zone 2 $\to$ physiological reset of dopamine receptors and the album *Recovery*.
 * **The industrial discipline of Skillet:** 200+ stadium shows a year for 25 straight years without a single canceled tour, zero alcohol/drug leaks. Bioreactor endurance is the foundation of business survival.
@@ -542,7 +542,7 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 * **Psychosocial co-regulation and the Harvard study (87 years):** The quality of close bonds is the #1 longevity factor. Loneliness produces a cortisol overload comparable to smoking 15 cigarettes a day. Autonomic co-regulation with trusted agents gives the sympathetic overdrive its stand-down order and lowers hypothalamic-pituitary-adrenal axis activity.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** LONG SHOT PARTY — "Distance" (Naruto Shippuden OP2, Listen: 00:25–00:55)
+> **Track:** LONG SHOT PARTY — "Distance" (Naruto Shippuden OP2)
 > **Node engineering meaning (from Bob):** A long-term goal demands holding constant pressure across marathon distance without phase slips.
 
 #### **3.1. Systemic Anti-Pathologies of the Biological and Social Circuit**
@@ -554,7 +554,7 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 3. **The Ikimono-gakari "Houboku" protocol (放牧 — Enforced Slack Time):** In 2017, the mega-successful pop-rock band Ikimono-gakari (*Blue Bird*, *Hotaru no Hikari*), after 10 years of continuous stadium racing, declared **Houboku (放牧 — a forced period of open grazing)**. The team froze all activity for 2 years, bled off the accumulated cortisol, caught their breath, and founded their own MOAI Inc. to buy back their master rights. **The lesson:** Running a system at 99% utilization over a horizon $>5$ years inevitably drags the core into an infarction. Sew a mandatory planned downtime into the architecture (Slack Time / Houboku).
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Ikimonogakari — "Hotaru no Hikari" (Naruto Shippuden OP5, Listen: 00:30–01:00)
+> **Track:** Ikimonogakari — "Hotaru no Hikari" (Naruto Shippuden OP5)
 > **Node engineering meaning (from Bob):** Defending base biological homeostasis (L1) under external environmental pressure.
 
 #### **3.2. The Exact Atherogenic, Microplastic, and Osmotic Profile (the Biochemical Metric)**
@@ -569,7 +569,7 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 > * **Step 0 (What happened, in plain terms):** A person can hold a perfect ApoB < 65 mg/dL, run every morning, and eat clean — and still catch a fatal heart attack or stroke. It turns out micro- and nanoplastic from plastic bottles, disposable cups, and containers penetrates the gut barrier straight into the vessel wall, accumulates in atherosclerotic plaques, and detonates them from the inside.
 > * **Step 1 (Primary artifacts [L1 Fact / Bedrock]):** The prospective cohort study *Marfella et al., New England Journal of Medicine (NEJM)*, March 7, 2024, DOI: `10.1056/NEJMoa2309822` (*Microplastics and Nanoplastics in Atheromas and Cardiovascular Events*, sample $n=257$ post-carotid-endarterectomy patients, 34-month follow-up).
 > * **Step 2 (The physico-chemical mechanism of cap rupture):**
->   1. On analysis of removed plaques by pyrolysis gas chromatography–mass spectrometry (Py-GC-MS) and transmission electron microscopy (TEM), **58.4%** of patients had polyethylene ($\text{PE}$, mean \$21.7\text{ µg/mg}$ of tissue) and **12.1%** had polyvinyl chloride ($\text{PVC}$, \$5.2\text{ µg/mg}$). TEM recorded jagged foreign particles with irregular edges inside plaque macrophages.
+>   1. On analysis of removed plaques by pyrolysis gas chromatography–mass spectrometry (Py-GC-MS) and transmission electron microscopy (TEM), **58.4%** of patients had polyethylene ($\text{PE}$, mean $21.7\text{ µg/mg}$ of tissue) and **12.1%** had polyvinyl chloride ($\text{PVC}$, $5.2\text{ µg/mg}$). TEM recorded jagged foreign particles with irregular edges inside plaque macrophages.
 >   2. **NLRP3 inflammasome activation:** Macrophages phagocytose the non-biodegradable polymer nanoparticles, causing lysosomal lysis and a massive release of pro-inflammatory interleukins ($\text{IL-1}\beta$, $\text{IL-18}$, $\text{IL-6}$, $\text{TNF}-\alpha$).
 >   3. **Induction of matrix metalloproteinases (MMP-2, MMP-9):** Chronic inflammation stimulates enzymes that dissolve the fibrous collagen scaffold of the plaque's cap. The plaque becomes an unstable thin-walled focus prone to sudden rupture and massive thrombosis of the carotid or coronary artery.
 >   4. **Risk telemetry:** The adjusted **Hazard Ratio (HR = 4.53**; 95% CI: 2.00–10.27; $P < 0.001$) for the composite endpoint (non-fatal infarction, stroke, or death from all causes) in patients with microplastic in their plaques versus the plastic-free group.
@@ -607,15 +607,15 @@ The rabies virus (*Rabies lyssavirus*) is characterized by **100% lethality** af
 * **The Smithline-Gardner plasma osmolality formula:**
 $$\text{Serum Osmolality} = 2 \cdot [\text{Na}^+] + \frac{[\text{Glucose}]}{18} + \frac{[\text{BUN}]}{2.8}$$
   * *Every symbol disassembled down to the screws:*
-    * $\text{Serum Osmolality}$ — blood serum osmolality (normal \$275\text{–}295\text{ mOsm/kg}$), which determines cellular hydration.
+    * $\text{Serum Osmolality}$ — blood serum osmolality (normal $275\text{–}295\text{ mOsm/kg}$), which determines cellular hydration.
     * $[\text{Na}^+]$ — plasma sodium ion concentration (mmol/L). Multiplied by 2 because sodium in plasma is balanced by anions (chlorides $\text{Cl}^-$ and bicarbonates $\text{HCO}_3^-$).
     * $[\text{Glucose}]$ — blood glucose (sugar) level (mg/dL). Divided by 18 to convert mg/dL into milliosmoles per liter (mOsm/L).
     * $[\text{BUN}]$ — blood urea nitrogen (mg/dL). Divided by 2.8 to convert mg/dL into mOsm/L.
 
 * **Renal telemetry: creatinine interference and Cystatin C as the GFR gold standard ([P0-56: CYSTATIN-C]):**
   The renal filter processes $\approx 180\text{ liters}$ of primary plasma per day. Classic estimation of glomerular filtration rate ($eGFR_{creat}$) from serum creatinine produces a **gross systemic error** in athletes and physically active people:
-  * *Creatinine noise:* Developed muscle mass, regular strength training, high meat-protein intake, and creatine monohydrate supplementation drive serum creatinine to \$115\text{–}140\text{ µmol/L}$. The lab issues a false alarm "Chronic kidney disease stage II–III ($eGFR < 60\text{ mL/min}$)". Conversely, in people with sarcopenia or underweight, creatinine masks the real collapse of the renal glomeruli.
-  * *Cystatin C:* A low-molecular-weight protein (\$13\text{ kDa}$) synthesized by all nucleated cells at a constant rate. Its production **is independent of muscle mass, diet, inflammation, and creatine intake**. Cystatin C is freely filtered by the glomeruli and fully catabolized in the proximal tubules.
+  * *Creatinine noise:* Developed muscle mass, regular strength training, high meat-protein intake, and creatine monohydrate supplementation drive serum creatinine to $115\text{–}140\text{ µmol/L}$. The lab issues a false alarm "Chronic kidney disease stage II–III ($eGFR < 60\text{ mL/min}$)". Conversely, in people with sarcopenia or underweight, creatinine masks the real collapse of the renal glomeruli.
+  * *Cystatin C:* A low-molecular-weight protein ($13\text{ kDa}$) synthesized by all nucleated cells at a constant rate. Its production **is independent of muscle mass, diet, inflammation, and creatine intake**. Cystatin C is freely filtered by the glomeruli and fully catabolized in the proximal tubules.
   * *The CKD-EPI 2021 formula (Cystatin C):* The true manometer of the renal filter. If the computed $eGFR_{cys}$ holds $>90\text{ mL/min/1.73 m}^2$, the creatinine spikes are recognized as muscle-mass artifacts. If Cystatin C is elevated ($>1.0\text{ mg/L}$) — the renal riser has a real clog, requiring an immediate review of nephrotoxic xenobiotics and blood-pressure control.
 
 > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
@@ -626,7 +626,7 @@ $$\text{Serum Osmolality} = 2 \cdot [\text{Na}^+] + \frac{[\text{Glucose}]}{18} 
 > 🔧 **[MOD-APOB-TDS]: The ApoB trend analysis & household water TDS-metry**
 >
 > 1. **The dynamic kinetic trend:** Never read a one-off lab reference. If your ApoB rose from 60 to 90 mg/dL over 12 months, the atherogenesis process accelerated 1.5× — even if the lab sheet says "normal up to 100." Treat the trend, not the printout!
-> 2. **Tap-water TDS-metry (TDS — Total Dissolved Solids):** Measure your drinking water's mineralization with a TDS meter. If the reading exceeds \$200\text{ ppm}$ (mg/L) — the coolant carries an excess of hardness salts. Without a reverse-osmosis system with a semi-permeable membrane, your renal filter takes the entire calcium precipitation load onto itself, forming oxalate clogs.
+> 2. **Tap-water TDS-metry (TDS — Total Dissolved Solids):** Measure your drinking water's mineralization with a TDS meter. If the reading exceeds $200\text{ ppm}$ (mg/L) — the coolant carries an excess of hardness salts. Without a reverse-osmosis system with a semi-permeable membrane, your renal filter takes the entire calcium precipitation load onto itself, forming oxalate clogs.
 
 > 🔧 **[MOD-10-10-10]: The dichotomy of control & the 10/10/10 time filter**
 > On the onset of a systemic crisis or emotional overdrive, engage two metacognitive valves:
@@ -641,7 +641,7 @@ $$\text{Serum Osmolality} = 2 \cdot [\text{Na}^+] + \frac{[\text{Glucose}]}{18} 
 
 #### **3.3. The Communication Mechanics Module: the Axelrod-Levinson Protocol and TCP Handshake ([P0-62: AXELROD-LEVINSON])**
 
-Conventional politeness rules prescribing "toxic positivity" and unconditional accommodation per Dale Carnegie create a critical perimeter vulnerability for the operator. In a population with a base share of psychopathic and Machiavellian personalities (\$1\text{–}3\%$ on Robert Hare's PCL-R scale, up to 12% in corporate structures), an open display of compliance is read by the environment as a marker of absent immune defense, provoking predatory resource expropriation. Meanwhile, direct unregulated aggression generates counter-resistance and overloads the interaction channels.
+Conventional politeness rules prescribing "toxic positivity" and unconditional accommodation per Dale Carnegie create a critical perimeter vulnerability for the operator. In a population with a base share of psychopathic and Machiavellian personalities ($1\text{–}3\%$ on Robert Hare's PCL-R scale, up to 12% in corporate structures), an open display of compliance is read by the environment as a marker of absent immune defense, provoking predatory resource expropriation. Meanwhile, direct unregulated aggression generates counter-resistance and overloads the interaction channels.
 
 ```
                   [ THE NETWORK INTERACTION CHANNEL (RFC 9293) ]
@@ -707,7 +707,7 @@ In the architecture of biological life support, the maxillofacial region is a cr
 
 2. **The instrumental diagnostic standard (3D CBCT vs 2D OPG & Chesterton's Fence):**
    * **The diagnostic blindness of the orthopantomogram (OPG):** The standard flat panoramic image hides up to **30–40%** of periapical bone destruction and hidden canals due to overlapping anatomical shadows.
-   * **The safety standard and Chesterton's Fence:** The Chesterton's Fence principle is observed in full: the danger of odontogenic sepsis, Ludwig's angina (phlegmon of the floor of the mouth), and the diagnostic blindness of 2D panoramas (OPG) remain fundamental arguments of the monograph. What changes is not the ban on diagnostics but the valve's operating rule: high-resolution cone-beam computed tomography (CBCT) with a voxel size of \$75\text{–}125\text{ µm}$ is performed **strictly on change in clinical picture, onset of symptoms, or targeted dental indications** — not on an automatic 18–24 month calendar timer. The calendar timer is removed to avoid parasitic radiation load and overdiagnosis, but the CBCT seal itself stays cocked.
+   * **The safety standard and Chesterton's Fence:** The Chesterton's Fence principle is observed in full: the danger of odontogenic sepsis, Ludwig's angina (phlegmon of the floor of the mouth), and the diagnostic blindness of 2D panoramas (OPG) remain fundamental arguments of the monograph. What changes is not the ban on diagnostics but the valve's operating rule: high-resolution cone-beam computed tomography (CBCT) with a voxel size of $75\text{–}125\text{ µm}$ is performed **strictly on change in clinical picture, onset of symptoms, or targeted dental indications** — not on an automatic 18–24 month calendar timer. The calendar timer is removed to avoid parasitic radiation load and overdiagnosis, but the CBCT seal itself stays cocked.
 
 3. **The autonomous emergency-intervention protocol (the field EDC):**
    * **Lost filling / fracture:** Mechanical cleaning of debris $\to$ antiseptic treatment with 0.05–0.2% aqueous chlorhexidine $\to$ sealing with a hydrophilic self-curing zinc-oxide/calcium-sulfate material (**DenTek Temparin Max (US) / Cavit / Coltosol (UK)**). The material polymerizes on contact with saliva, blocking microbiota invasion into the dentinal tubules.
@@ -732,12 +732,12 @@ Unlike glucose — whose breakdown is gated by phosphofructokinase (throttled wh
 * Accumulation of diacylglycerols (DAG) activates protein kinase $\text{PKC}_\epsilon$, which phosphorylates IRS-1 on threonine $\rightarrow$ **the receptor loses insulin sensitivity**. The liver stops throttling gluconeogenesis, the pancreas compensatorily dumps insulin, and hyperinsulinemia via SREBP-1c revs DNL again. The loop is closed.
 
 #### **3. Instrumental telemetry: HOMA-IR and the 14-day CGM protocol:**
-A one-off fasting glucose masks the problem for 10–15 years: high basal insulin (\$15\text{–}25\text{ µIU/mL}$) holds sugar in the normal range until beta-cell exhaustion.
+A one-off fasting glucose masks the problem for 10–15 years: high basal insulin ($15\text{–}25\text{ µIU/mL}$) holds sugar in the normal range until beta-cell exhaustion.
 
 * **The HOMA-IR mathematical manometer:**
 $$\text{HOMA-IR} = \frac{\text{Fasting Glucose (mg/dL)} \times \text{Basal Insulin (µIU/mL)}}{405}$$
   * $\text{HOMA-IR} < 1.4$ — healthy sensitivity;
-  * \$1.4\text{–}2.5$ — latent subclinical steatosis;
+  * $1.4\text{–}2.5$ — latent subclinical steatosis;
   * $>2.5$ — manifest pathological resistance and liver inflammation.
 
 * **The 14-day CGM protocol (Freestyle Libre / Dexcom):** An interstitial sensor records hidden postprandial spikes ($>7.8\text{ mmol/L}$) on "healthy" refined carbs (oat milk with syrup, white rice), nocturnal dips, and glycemic swings. Eliminating the peaks cuts endothelial load and restores hepatocyte sensitivity.
@@ -763,7 +763,7 @@ Toxic indirect bilirubin ──► UDP-glucuronosyltransferase (-70% capacity) �
 
 * **The biochemical bottleneck:** The transcription rate of the *uridine diphosphate glucuronosyltransferase 1A1* enzyme is reduced by $\approx 70\%$ (running at 30% of base capacity). Meanwhile liver enzymes (ALT, AST, GGT, ALP) and liver histology remain **intact (absolutely normal)**.
 * **Categorical anti-patterns (emergency conjugation failures):**
-  1. *Prolonged fasting and keto-fasting ($>14\text{–}16\text{ h}$):* Free fatty acid (FFA) release knocks bilirubin off albumin binding, and the UDP-glucuronate deficit instantly spikes indirect bilirubin above \$50\text{–}80\text{ µmol/L}$ with yellowed sclera and nausea.
+  1. *Prolonged fasting and keto-fasting ($>14\text{–}16\text{ h}$):* Free fatty acid (FFA) release knocks bilirubin off albumin binding, and the UDP-glucuronate deficit instantly spikes indirect bilirubin above $50\text{–}80\text{ µmol/L}$ with yellowed sclera and nausea.
   2. *A fat-free diet (the classic no-fat "liver diet"):* The absence of cholecystokinin (CCK) stimulation leads to bile stasis. Unconjugated bilirubin binds calcium, forming insoluble **calcium bilirubinate (black pigment stones)**.
   3. *Pharmacogenetic toxicity:*
      * **Irinotecan:** the active metabolite *SN-38* is not cleared $\rightarrow$ lethal toxicosis (dose reduction per CPIC protocols required).
@@ -798,19 +798,19 @@ Night-time wakings with a pounding heart and difficulty falling asleep are a fre
 ```
 
 1. **Decomposition of the two failure phases:**
-   * **Phase 1: Difficulty falling asleep + somatosensory cardioception ($t = 0$):** Transitioning supine increases venous return to the heart (the Frank-Starling law). In the **left lateral position** the heart's apex lies anatomically flush against the ribs, multiplying the tactile feedback of each beat even at a normal pulse (\$65\text{–}75\text{ bpm}$). Attempts to check the pulse accelerate anxiety and dump adrenaline.
-   * **Phase 2: Waking 2–4 hours into sleep (WASO):** The \$120\text{–}240\text{ min}$ window matches the completion of the first deep slow-wave sleep cycles (NREM N3) and the transition to REM or light sleep (N2):
-     * *Obstructive sleep apnea/hypopnea syndrome (OSA / UARS):* Pharyngeal muscle relaxation $\to$ micro-collapse of the airway $\rightarrow$ falling saturation ($SpO_2 \downarrow$) and hypercapnia ($PaCO_2 \uparrow$). Chemoreceptors dump a massive catecholamine dose to save the brain from suffocation $\rightarrow$ the person wakes in sweat with HR \$110\text{–}140\text{ bpm}$.
-     * *The alcohol ricochet:* Ethanol metabolization (\$7\text{–}10\text{ g of alcohol/hour}$) replaces the evening GABA effect after 3–4 hours with an acute inhibition deficit and a noradrenaline storm.
-     * *Reactive hypoglycemia:* A carb-heavy dinner triggers an insulin peak with a nocturnal glucose dip below \$3.5\text{ mmol/L} \to$ a counter-insular adrenaline dump from the adrenal glands.
+   * **Phase 1: Difficulty falling asleep + somatosensory cardioception ($t = 0$):** Transitioning supine increases venous return to the heart (the Frank-Starling law). In the **left lateral position** the heart's apex lies anatomically flush against the ribs, multiplying the tactile feedback of each beat even at a normal pulse ($65\text{–}75\text{ bpm}$). Attempts to check the pulse accelerate anxiety and dump adrenaline.
+   * **Phase 2: Waking 2–4 hours into sleep (WASO):** The $120\text{–}240\text{ min}$ window matches the completion of the first deep slow-wave sleep cycles (NREM N3) and the transition to REM or light sleep (N2):
+     * *Obstructive sleep apnea/hypopnea syndrome (OSA / UARS):* Pharyngeal muscle relaxation $\to$ micro-collapse of the airway $\rightarrow$ falling saturation ($SpO_2 \downarrow$) and hypercapnia ($PaCO_2 \uparrow$). Chemoreceptors dump a massive catecholamine dose to save the brain from suffocation $\rightarrow$ the person wakes in sweat with HR $110\text{–}140\text{ bpm}$.
+     * *The alcohol ricochet:* Ethanol metabolization ($7\text{–}10\text{ g of alcohol/hour}$) replaces the evening GABA effect after 3–4 hours with an acute inhibition deficit and a noradrenaline storm.
+     * *Reactive hypoglycemia:* A carb-heavy dinner triggers an insulin peak with a nocturnal glucose dip below $3.5\text{ mmol/L} \to$ a counter-insular adrenaline dump from the adrenal glands.
      * *Roemheld's gastrocardial syndrome:* An overfull stomach or GERD irritates the vagus nerve in the supine position, causing reflex tachycardia and extrasystoles.
 
 2. **Bayesian calibration and red flags:**
-   * **Base probabilities (Weber & Kapoor, Am J Med, $n=190$):** Cardiac arrhythmias (\$40\%$), psychosomatic disorders (\$31\%$), metabolic/toxic triggers (\$10\%$), idiopathic cardioception (\$16\%$). In the absence of syncope and structural defects, the probability of the triad **"OSA + psychosomatic spasm + metabolic ricochet" exceeds 75%**.
+   * **Base probabilities (Weber & Kapoor, Am J Med, $n=190$):** Cardiac arrhythmias ($40\%$), psychosomatic disorders ($31\%$), metabolic/toxic triggers ($10\%$), idiopathic cardioception ($16\%$). In the absence of syncope and structural defects, the probability of the triad **"OSA + psychosomatic spasm + metabolic ricochet" exceeds 75%**.
    * 🔴 **Red flags (emergency services 911/999):** Syncope (fainting), crushing retrosternal pain with radiation into the left arm/jaw, dyspnea $>2\text{ min}$ after waking, chaotic irregular pulse $>150\text{ bpm}$.
 
 3. **The Zero-Trust instrumental protocol (the diagnostic standard):**
-   * **24–48-hour Holter ECG strictly with a symptom diary:** If at the diary moment "03:20 woke up, heart pounding like hell" the tape records a clean sinus rhythm at \$72\text{ bpm}$ — cardiac arrhythmia is **100% refuted** (diagnosis: somatosensory amplification / anxiety). If an SVT/AF run is found — routing to an arrhythmologist.
+   * **24–48-hour Holter ECG strictly with a symptom diary:** If at the diary moment "03:20 woke up, heart pounding like hell" the tape records a clean sinus rhythm at $72\text{ bpm}$ — cardiac arrhythmia is **100% refuted** (diagnosis: somatosensory amplification / anxiety). If an SVT/AF run is found — routing to an arrhythmologist.
    * **Echocardiography (cardiac ultrasound)** — ejection fraction, valves, and chamber geometry.
    * **Computer pulse oximetry / respiratory monitoring:** Excluding an apnea index (AHI $\ge 5$ events/hour).
    * **Laboratory blood screening:** TSH and free T4 (ruling out thyrotoxicosis), serum electrolytes ($K^+, Mg^{2+}, Ca^{2+}, Na^+$), CBC and ferritin (latent anemia), fasting glucose and HbA1c.
@@ -842,7 +842,7 @@ Nocturnal catecholamine surges and vascular endothelial degradation represent a 
    * **Diagnostic Telemetry:** On habitual snoring, morning hypertension, daytime hypersomnolence, or 03:00 tachycardia — schedule home sleep apnea testing (HSAT) or Level 1 polysomnography (PSG).
    * **Threshold Metric:** Apnea-Hypopnea Index $\text{AHI} \ge 15$ or Respiratory Disturbance Index $\text{RDI} \ge 15\text{ events/hour}$.
    * **Therapeutic Monolith:** Total ban on sedatives, hypnotics, and alcohol before bed (they paralyze pharyngeal tone, converting mild hypopnea into lethal prolonged apnea). Immediate titration of an **Auto-CPAP / BiPAP** system with a tailored, airtight nasal or full-face mask.
-   * **Physics of Positive Airway Splinting:** The CPAP blower delivers continuous positive pressure (\$4\text{--}16\text{ cm } H_2O$), functioning as a **pneumatic splint** that mechanically prevents lateral airway collapse. Hypoxia and nocturnal adrenaline spikes cease on Night One.
+   * **Physics of Positive Airway Splinting:** The CPAP blower delivers continuous positive pressure ($4\text{--}16\text{ cm } H_2O$), functioning as a **pneumatic splint** that mechanically prevents lateral airway collapse. Hypoxia and nocturnal adrenaline spikes cease on Night One.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -856,13 +856,13 @@ Nocturnal catecholamine surges and vascular endothelial degradation represent a 
 
 #### **3.7. Ocular Hydraulics & Sensory Defense: Meibomian Gland Dysfunction (MGD), Evaporative Dry Eye, BAK Toxicity & Screen Flicker / FRC Suppression ([P0-93: OCULAR-MGD-FRC-FILTER])**
 
-Vision is the primary sensory bus of the digital worker. Reducing ophthalmology to acute retinal detachment is a fatal blindspot: \$95\%$ of software engineers bleed cognitive capacity through the progressive destruction of their tear film and sub-sensory monitor backlighting flicker.
+Vision is the primary sensory bus of the digital worker. Reducing ophthalmology to acute retinal detachment is a fatal blindspot: $95\%$ of software engineers bleed cognitive capacity through the progressive destruction of their tear film and sub-sensory monitor backlighting flicker.
 
 1. **Biochemistry and Mechanics of Meibomian Gland Dysfunction (MGD):**
-   * Normal human blinking averages 15–20 complete cycles per minute. Staring at dense terminal windows or 4K IDEs suppresses blink frequency to **4–6 blinks per minute**, with up to \$60\%$ of blinks being incomplete (partial eyelid closures).
+   * Normal human blinking averages 15–20 complete cycles per minute. Staring at dense terminal windows or 4K IDEs suppresses blink frequency to **4–6 blinks per minute**, with up to $60\%$ of blinks being incomplete (partial eyelid closures).
    * **Tear Film Architecture:** The pre-corneal tear film consists of a mucin base, an aqueous middle layer, and a critical **100 nm superficial lipid layer**. Lipids (meibum) are synthesized by meibomian glands along the eyelid margins and secreted exclusively via mechanical eyelid compression during full blinks.
    * **Pathological Cascade:** Blink suppression $\to$ zero lipid secretion $\to$ aqueous tear evaporation in **2–3 seconds** instead of normal $\ge 10\text{ s}$ (Tear Break-Up Time $TBUT < 5\text{ s}$).
-   * Focal tear hyperosmolarity ($>308\dots 316\text{ mOsm/L}$) stimulates MAPK (p38/JNK) kinase pathways and $NF\text{-}\kappa B$, triggering IL-\$1\beta$, TNF-$\alpha$, and matrix metalloproteinase-9 ($MMP\text{-}9$) expression. Corneal microvilli lyse, exposing nociceptors. Stagnant meibum oxidizes into tooth-paste consistency, plugging orifices and causing **permanent, irreversible gland dropout on infrared meibography within 24–36 months**.
+   * Focal tear hyperosmolarity ($>308\dots 316\text{ mOsm/L}$) stimulates MAPK (p38/JNK) kinase pathways and $NF\text{-}\kappa B$, triggering IL-$1\beta$, TNF-$\alpha$, and matrix metalloproteinase-9 ($MMP\text{-}9$) expression. Corneal microvilli lyse, exposing nociceptors. Stagnant meibum oxidizes into tooth-paste consistency, plugging orifices and causing **permanent, irreversible gland dropout on infrared meibography within 24–36 months**.
    * **The Preservative BAK Chemical Trap:** Commercial artificial tears containing **benzalkonium chloride (BAK)** represent iatrogenic self-harm. BAK is a cationic quaternary ammonium detergent: it dissolves remaining lipid molecules, lyses corneal epithelial tight junctions, and destroys acinar gland cells.
 
 2. **Optical Physics: PWM LED Flicker (IEEE 1789-2015) and Spatial-Temporal Dithering (FRC):**
@@ -871,7 +871,7 @@ Vision is the primary sensory bus of the digital worker. Reducing ophthalmology 
 
 3. **Engineering Defense Protocols ([P0-93]):**
    * **Display Selection:** Mandate native 8-bit or true 10-bit IPS/OLED displays with zero FRC temporal dithering and confirmed DC-Dimming across the entire luminance curve (IEEE 1789 compliance).
-   * **Gland Maintenance:** Daily \$40^\circ\text{C}$ eyelid thermal compresses for 10 minutes to liquefy hyperkeratinized meibum, followed by gentle vertical expression.
+   * **Gland Maintenance:** Daily $40^\circ\text{C}$ eyelid thermal compresses for 10 minutes to liquefy hyperkeratinized meibum, followed by gentle vertical expression.
    * **Unpreserved Ocular Lubrication:** Utilize strictly preservative-free (single-dose unpreserved unit doses) cationic lipid nanoemulsions and high-molecular-weight hyaluronic acid. Zero BAK, zero vasoconstrictor "redness-relief" drops.
 
 ```
@@ -891,9 +891,9 @@ Compressor dehumidifiers are mentioned in housing sections. But without rigorous
 1. **Condensation Thermodynamics & The Magnus-Tetens Formula:**
    Dew point temperature ($T_{dp}$) determines when atmospheric water vapor transitions into liquid water:
    $$T_{dp} = \frac{c \cdot \gamma(T, RH)}{b - \gamma(T, RH)}, \quad \text{where } \gamma(T, RH) = \frac{b \cdot T}{c + T} + \ln\left(\frac{RH}{100}\right)$$
-   *(for \$0\dots 60^\circ\text{C}$: $b = 17.27$, $c = 237.7^\circ\text{C}$, $RH$ in %)*.
-   * **Coastal Winter Scenario:** Room at $+22^\circ\text{C}$ and \$70\%$ RH yields a dew point of **$+16.3^\circ\text{C}$**. An uninsulated concrete perimeter wall chills to $+12\dots+14^\circ\text{C}$. Liquid water **continuously precipitates onto the cold wall surface**.
-   * **The Fatal Interior Drywall/Foam Trap:** When landlords "renovate" by gluing drywall or EPS foam insulation to the interior face, the \$0^\circ\text{C}$ isotherm moves deeper into the wall, and the maximum condensation plane is trapped **directly between the interior insulation and the cold masonry**. Under non-stationary moisture transport physics (EN 15026), capillary condensation occurs at $RH > 80\%$. This builds a dark, hermetic, permanently damp anaerobic incubator.
+   *(for $0\dots 60^\circ\text{C}$: $b = 17.27$, $c = 237.7^\circ\text{C}$, $RH$ in %)*.
+   * **Coastal Winter Scenario:** Room at $+22^\circ\text{C}$ and $70\%$ RH yields a dew point of **$+16.3^\circ\text{C}$**. An uninsulated concrete perimeter wall chills to $+12\dots+14^\circ\text{C}$. Liquid water **continuously precipitates onto the cold wall surface**.
+   * **The Fatal Interior Drywall/Foam Trap:** When landlords "renovate" by gluing drywall or EPS foam insulation to the interior face, the $0^\circ\text{C}$ isotherm moves deeper into the wall, and the maximum condensation plane is trapped **directly between the interior insulation and the cold masonry**. Under non-stationary moisture transport physics (EN 15026), capillary condensation occurs at $RH > 80\%$. This builds a dark, hermetic, permanently damp anaerobic incubator.
 
 2. **Molecular Toxicology: *Stachybotrys chartarum* & Macrocyclic Trichothecenes:**
    * Black mold does not merely shed allergenic spores; it secretes **macrocyclic trichothecene mycotoxins (satratoxins G and H)**.
@@ -905,7 +905,7 @@ Compressor dehumidifiers are mentioned in housing sections. But without rigorous
    * **Diagnostic Standard [Level 1]:**
      1. *Environment:* Dust genomic qPCR analysis via the **ERMI** (Environmental Relative Moldiness Index) or **HERTSMI-2** panel (DNA detection of 5 primary toxigenic species).
      2. *Human Body:* Direct quantitative detection of free mycotoxins in urine using **liquid chromatography-tandem mass spectrometry (LC-MS/MS)** with enzymatic glucuronide hydrolysis.
-   * **Engineering Remediation:** Enforce indoor $\text{RH} \le 50\%$ via commercial compressor dehumidifiers (\$20\text{--}30\text{ L/day}$). Audit corners via thermal imaging cameras ($T_{wall} > T_{dp}$). Total prohibition on interior wall insulation without WUFI hygrothermal modeling. If hidden mold is confirmed behind drywall — evacuate: painting over mold without structural gutting and biocidal remediation is toxic suicide.
+   * **Engineering Remediation:** Enforce indoor $\text{RH} \le 50\%$ via commercial compressor dehumidifiers ($20\text{--}30\text{ L/day}$). Audit corners via thermal imaging cameras ($T_{wall} > T_{dp}$). Total prohibition on interior wall insulation without WUFI hygrothermal modeling. If hidden mold is confirmed behind drywall — evacuate: painting over mold without structural gutting and biocidal remediation is toxic suicide.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -924,12 +924,12 @@ Pediatric or pet ingestion of disc/button batteries (CR2016, CR2032) is an immed
 1. **Electrochemical Mechanism of Tissue Dissolution:**
    * The battery lodges at narrow esophageal constrictions.
    * The 3V potential closes a circuit across moist mucosal tissue. The negative pole acts as the **cathode** of an electrolytic cell:
-     $\$2\text{H}_2\text{O} + 2e^- \to \text{H}_2\uparrow + 2\text{OH}^-$$
+     $$2\text{H}_2\text{O} + 2e^- \to \text{H}_2\uparrow + 2\text{OH}^-$$
    * Concentrated **sodium hydroxide ($\text{NaOH}$, caustic soda)** generates rapidly at the negative terminal.
    * Liquefactive alkaline necrosis dissolves mucosal proteins and saponifies fats within **15–60 minutes**. By **120 minutes**, the caustic burn perforates the esophageal wall and erodes the adjacent aortic arch (aortoesophageal fistula). When the aorta blows out, exsanguinating hemorrhage causes cardiac arrest within 60 seconds. Catastrophic rupture can also occur delayed — up to 14 days post-removal as the necrotic eschar sloughs.
 
 2. **Pre-Hospital Mitigation Protocol (Laryngoscope 2019 / ESPGHAN):**
-   * **Children over 1 year old:** Immediately administer **10 mL (2 teaspoons) of pure commercial honey every 10 minutes (up to 6 doses total)** en route to the pediatric emergency endoscopy suite. Honey acts as a viscous weak acid buffer, neutralizing $\text{NaOH}$ and cutting burn depth by \$50\%$.
+   * **Children over 1 year old:** Immediately administer **10 mL (2 teaspoons) of pure commercial honey every 10 minutes (up to 6 doses total)** en route to the pediatric emergency endoscopy suite. Honey acts as a viscous weak acid buffer, neutralizing $\text{NaOH}$ and cutting burn depth by $50\%$.
    * **Infants under 1 year old:** Honey is **strictly contraindicated** due to infant botulism risks (*Clostridium botulinum* spores). The frontline buffer under 12 months is **sucralfate suspension (*Carafate*, 1 g/10 mL)** at 5 mL every 15 minutes.
    * **Red Flags (Ban Oral Liquids):** If esophageal perforation is suspected (hematemesis, chest pain, fever, neck subcutaneous emphysema, stridor) or battery exposure exceeds 12 hours, withhold all oral liquids to prevent mediastinitis ($>60\%$ mortality).
    * **Endoscopy Window:** Surgical endoscopic extraction must occur within **$\le 2$ hours**.
@@ -946,16 +946,16 @@ Pediatric or pet ingestion of disc/button batteries (CR2016, CR2032) is an immed
 
 #### **3.10. Paracetamol Hepatotoxicity: NAPQI Poisoning, the Rumack-Matthew Nomogram & the NAC Antidote Window ([P0-102: PARACETAMOL-HEPATOTOXICITY-NAC])**
 
-Paracetamol (acetaminophen) is the leading cause of drug-induced acute liver failure worldwide. In \$50\%$ of cases, it stems from accidental over-the-counter stacking (cold sachets, headache tablets, and sleep aids combined).
+Paracetamol (acetaminophen) is the leading cause of drug-induced acute liver failure worldwide. In $50\%$ of cases, it stems from accidental over-the-counter stacking (cold sachets, headache tablets, and sleep aids combined).
 
 1. **Biochemical Mechanism of Centrilobular Necrosis:**
    * At doses $>7.5\text{--}10\text{ g/day}$ (or $>4\text{ g}$ in Gilbert's syndrome UGT1A1 or alongside ethanol), glucuronidation pathways saturate.
    * Excess drug shunts through cytochrome P450 CYP2E1 into the electrophilic toxic metabolite **N-acetyl-p-benzoquinone imine (NAPQI)**.
-   * NAPQI exhausts hepatic glutathione reserves. Once glutathione drops below \$30\%$, NAPQI binds covalently to hepatocyte mitochondrial proteins, triggering catastrophic centrilobular necrosis. Patients remain asymptomatic for 24 hours while liver tissue silently liquefies.
+   * NAPQI exhausts hepatic glutathione reserves. Once glutathione drops below $30\%$, NAPQI binds covalently to hepatocyte mitochondrial proteins, triggering catastrophic centrilobular necrosis. Patients remain asymptomatic for 24 hours while liver tissue silently liquefies.
 
 2. **Antidote Protocol (N-Acetylcysteine / NAC):**
    * **Rumack-Matthew Nomogram:** Serum paracetamol assays are reliable strictly between **4 and 24 hours** post-ingestion (absorption is incomplete before 4 hrs).
-   * **Optimal Antidote Window:** Administering **N-acetylcysteine (NAC)** within the first **8 hours** yields nearly \$100\%$ hepatocyte survival by restoring glutathione.
+   * **Optimal Antidote Window:** Administering **N-acetylcysteine (NAC)** within the first **8 hours** yields nearly $100\%$ hepatocyte survival by restoring glutathione.
    * **Late Treatment:** Presentation after 8 hours is never a reason to withhold NAC! The Prescott protocol proves NAC remains life-saving up to 72 hours and in established fulminant hepatic failure by optimizing cerebral microcirculation and oxygen extraction.
    * **Anaphylactoid Reactions:** Non-IgE histamine release (skin flushing, bronchospasm) requires briefly pausing the infusion, administering antihistamines, and restarting NAC at a reduced rate — never aborting the antidote.
 
@@ -975,7 +975,7 @@ A full-body fall-arrest harness saves your life on a roof or tower fall, but sta
 
 1. **Pathophysiology of Orthostatic Shock:**
    * Motionless vertical hang disables the calf muscle-venous pump. Thigh straps act as venous tourniquets.
-   * **\$1.5\text{ to } 2.0\text{ liters}$ of venous blood** pools in the lower extremities.
+   * **$1.5\text{ to } 2.0\text{ liters}$ of venous blood** pools in the lower extremities.
    * Cardiac venous return collapses: presyncope hits in **5 minutes**, loss of consciousness in **10 minutes**, and fatal ischemic asystole in **15–30 minutes**.
 
 2. **Field Safety Protocols ([P1-01]):**
@@ -1038,7 +1038,7 @@ Crack open the toxicology registries, orthopedic imaging reports, and federal tr
 1. **Thermodynamics & Reward Neurochemistry ($D_2$ Receptors):**  
    Dopamine spikes not on the reward itself, but on the Reward Prediction Error (Schultz 1997). Systems running variable-ratio reinforcement schedules (gacha pulls, loot boxes, PvP rank grinds, algorithmic infinite feeds) cause aggressive downregulation of striatal $D_2$ receptors, inducing chronic anhedonia toward real-world work and relationships.
 2. **Structural Biomechanics (Hooke's Law & Class-3 Levers):**  
-   An adult human head weighs $\approx 5\text{ kg}$ (\$11\text{ lbs}$) in neutral alignment. Tilting the skull forward extends the gravitational lever arm: compression across the cervical spine (C1–C7) surges to **27 kg (60 lbs) at a \$60^\circ$ tilt** (Hansraj, *Surg Technol Int 2014*, PMID: 25393825).
+   An adult human head weighs $\approx 5\text{ kg}$ ($11\text{ lbs}$) in neutral alignment. Tilting the skull forward extends the gravitational lever arm: compression across the cervical spine (C1–C7) surges to **27 kg (60 lbs) at a $60^\circ$ tilt** (Hansraj, *Surg Technol Int 2014*, PMID: 25393825).
 3. **The Neuroplastic Paradox (Hebb's Rule & Focal Dystonia):**  
    "Neurons that fire together, wire together." High-frequency, repetitive fine-motor loading (classical instruments, competitive gaming) causes separate receptive finger fields in primary somatosensory cortex $S1$ to **dedifferentiate and fuse together**, causing involuntary, career-ending muscle curling — musician's focal dystonia (Elbert et al. 1998, Altenmüller & Jabusch 2010).
 4. **Self-Determination Theory & The Overjustification Effect:**  
@@ -1046,7 +1046,7 @@ Crack open the toxicology registries, orthopedic imaging reports, and federal tr
 5. **The Brain-Training Scam (Lumosity Fraud, FTC Docket C-4565):**  
    The myth that brain-training mini-games protect against Alzheimer's or elevate general intelligence ($g$-factor) was shattered when the US Federal Trade Commission slapped Lumosity with a **\$50 million fine** (reduced to \$2M on insolvency). Independent RCTs prove Far Transfer to broad cognition is **statistically indistinguishable from zero**; you simply get better at playing that specific mini-game.
 6. **Bayesian Survival Calibration:**  
-   Without strict WIP limits, PPE, and biomechanical boundaries, unmetered hobby risks negate health dividends in \$70\text{--}80\%$ of uncalibrated cases ($P(\text{Benefit}) \approx 0.20$). When insomnia, tendonitis, or escapism manifest, posterior probability $P(A|B)$ plunges to **\$0.03$ (3%)**.
+   Without strict WIP limits, PPE, and biomechanical boundaries, unmetered hobby risks negate health dividends in $70\text{--}80\%$ of uncalibrated cases ($P(\text{Benefit}) \approx 0.20$). When insomnia, tendonitis, or escapism manifest, posterior probability $P(A|B)$ plunges to **$0.03$ (3%)**.
 
 ---
 
@@ -1054,17 +1054,17 @@ Crack open the toxicology registries, orthopedic imaging reports, and federal tr
 
 ###### **A. Video Games (Action Titles vs Free-to-Play Gacha)**
 * **Solid Evidence [Fact L1]:** Meta-analyses by Bediou and Bavelier (*Bediou et al., Psychol Bull 2018*, 89 studies) and Basak (*Smith & Basak, PLoS ONE 2023*) confirm moderate, durable skill transfer from action video games to visual-spatial attention ($g = 0.34\text{ to } 0.55$). Laparoscopic surgeons logging $>3\text{ hrs/wk}$ on action titles committed **37% fewer operative errors** and performed manipulations **27% faster** than non-gaming colleagues (Rosser et al., *Arch Surg 2007*).
-* **Catastrophic Failure Modes:** Loot box mechanics deploy variable-ratio schedules identical to electronic slot machines, directly correlating with clinical gambling pathology (Zendle & Cairns, *PLoS ONE 2018*). Screen blue-light emission (\$460\text{--}480\text{ nm}$) past 21:00 suppresses melatonin synthesis by **\$50\text{--}85\%$**, obliterating deep NREM stage-3 sleep and glymphatic beta-amyloid clearance. Chronic progression culminates in ICD-11 Gaming Disorder (6C51).
+* **Catastrophic Failure Modes:** Loot box mechanics deploy variable-ratio schedules identical to electronic slot machines, directly correlating with clinical gambling pathology (Zendle & Cairns, *PLoS ONE 2018*). Screen blue-light emission ($460\text{--}480\text{ nm}$) past 21:00 suppresses melatonin synthesis by **$50\text{--}85\%$**, obliterating deep NREM stage-3 sleep and glymphatic beta-amyloid clearance. Chronic progression culminates in ICD-11 Gaming Disorder (6C51).
 * **Engineering Directive:** Cap gaming at $\le 60\text{--}90\text{ min/day}$. Run paid native titles strictly; ban free-to-play microtransaction sinks entirely.
 
 ###### **B. Musical Instruments (Corpus Callosum vs $S1$ Dystonia)**
 * **Solid Evidence [Fact L1]:** High-dexterity acoustic training (piano, strings) drives verified thickening of the anterior and mid-body *Corpus Callosum*, drastically accelerating interhemispheric processing speed (Schlaug et al. 1995; Steele et al., *J Neurosci 2013*). Multimodal sensory-motor feedback delays dementia symptom manifestation by 4–5 years.
-* **Catastrophic Failure Modes:** Musician's Focal Dystonia (MFD) strikes **$\approx 1\%$ of professional instrumentalists** (Altenmüller 2010). Repetitive cortical firing degrades somatotopic boundaries in $S1$, causing the ring and middle fingers to curl uncontrollably in simultaneous spasm. Acoustic exposure from unattenuated drumming, brass, or headphone monitors generates **\$95\text{--}110\text{ dBA}$**. Under NIOSH standards, safe permissible exposure at \$100\text{ dBA}$ is exactly **15 minutes daily** (3 dB exchange rule); unmitigated exposure permanently shears cochlear hair cells, causing irreversible high-frequency sensorineural deafness and tinnitus.
+* **Catastrophic Failure Modes:** Musician's Focal Dystonia (MFD) strikes **$\approx 1\%$ of professional instrumentalists** (Altenmüller 2010). Repetitive cortical firing degrades somatotopic boundaries in $S1$, causing the ring and middle fingers to curl uncontrollably in simultaneous spasm. Acoustic exposure from unattenuated drumming, brass, or headphone monitors generates **$95\text{--}110\text{ dBA}$**. Under NIOSH standards, safe permissible exposure at $100\text{ dBA}$ is exactly **15 minutes daily** (3 dB exchange rule); unmitigated exposure permanently shears cochlear hair cells, causing irreversible high-frequency sensorineural deafness and tinnitus.
 * **Engineering Directive:** Meter instrument practice into 45-minute blocks buffered by hand decompression. Monitor acoustic volumes strictly via linear-attenuation filtered musician earplugs (NIOSH 85 dBA REL).
 
 ###### **C. Reading (Theory of Mind vs Text Neck)**
 * **Solid Evidence [Fact L1]:** Dodell-Feder & Tamir (*J Exp Psychol Gen 2024*, 70 RCTs) established that deep literary fiction significantly upgrades Theory of Mind (ToM, $g = 0.14$), simulating complex social topologies via Default Mode Network (DMN) activation.
-* **Catastrophic Failure Modes:** Reading tablets or paperbacks bent forward at \$60^\circ$ exerts **27 kg of vertical axial load across C5–C6** (Hansraj 2014), causing cervical lordosis flattening, disc herniation, and occipital neuralgia. Unapplied non-fiction consumption ("Tsundoku" / illusion of competence) exploits passive dopamine hits: Ebbinghaus retention curves purge up to 80% of uncompiled ideas within 48 hours without structured WORM archival (Obsidian).
+* **Catastrophic Failure Modes:** Reading tablets or paperbacks bent forward at $60^\circ$ exerts **27 kg of vertical axial load across C5–C6** (Hansraj 2014), causing cervical lordosis flattening, disc herniation, and occipital neuralgia. Unapplied non-fiction consumption ("Tsundoku" / illusion of competence) exploits passive dopamine hits: Ebbinghaus retention curves purge up to 80% of uncompiled ideas within 48 hours without structured WORM archival (Obsidian).
 * **Engineering Directive:** Position reading surfaces strictly at eye level (podium, music stand, or ergonomic book holder). Ban reading flat on your stomach. Capture actionable models immediately into a local personal wiki.
 
 ###### **D. Physical Crafts & Gardening (Soil Microbiome vs IARC Group 1)**
@@ -1119,9 +1119,9 @@ Crack open the toxicology registries, orthopedic imaging reports, and federal tr
 ###### **6. Technical Craft: Marksmanship, 3D Printing & Soldering**
 * **Solid Evidence [Fact L1]:** Proprioceptive stilling and breath coordination. Soldering and 3D fabrication provide true hardware autarky ($L5$) — the ability to replace broken equipment or restore an encrypted radio transceiver during logistics collapse.
 * **Catastrophic Failure Modes:**
-  * *Aerosol Lead Poisoning in Indoor Firing Ranges:* Detonation of primers containing **lead styphnate** and friction of lead projectiles against rifling vaporize metallic lead dust directly into the shooter's breathing zone. In a meta-analysis of 36 studies, **86% of indoor range shooters had blood lead levels exceeding \$5\ \mu\text{g/dL}$**, with half spiking past **\$20\text{--}40\ \mu\text{g/dL}$** (Laidlaw et al., *Environ Health 2017*, PMID: 28376827). Lead induces irreversible neurotoxicity, cognitive drop, tremor, tubulointerstitial nephritis, and hypertension. Unmuffled gunfire (\$140\text{--}165\text{ dB peak}$) instantly shears auditory stereocilia.
+  * *Aerosol Lead Poisoning in Indoor Firing Ranges:* Detonation of primers containing **lead styphnate** and friction of lead projectiles against rifling vaporize metallic lead dust directly into the shooter's breathing zone. In a meta-analysis of 36 studies, **86% of indoor range shooters had blood lead levels exceeding $5\ \mu\text{g/dL}$**, with half spiking past **$20\text{--}40\ \mu\text{g/dL}$** (Laidlaw et al., *Environ Health 2017*, PMID: 28376827). Lead induces irreversible neurotoxicity, cognitive drop, tremor, tubulointerstitial nephritis, and hypertension. Unmuffled gunfire ($140\text{--}165\text{ dB peak}$) instantly shears auditory stereocilia.
   * *3D Printing Cytotoxicity:* SLA photopolymer resins contain reactive methacrylate monomers that penetrate latex gloves, causing severe contact dermatitis (GHS H317) and mutagenesis. FDM extrusion of ABS/ASA/Nylon releases carcinogenic **styrene** and billions of ultrafine nanoparticles (**UFP $<100\text{ nm}$ per minute**, Azimi et al., *Environ Sci Technol 2016*), which bypass bronchial cilia and migrate along olfactory pathways directly into the frontal lobes.
-  * *Rosin Asthma & Solder Contamination:* Pyrolysis of rosin flux (\$300\text{--}360^\circ\text{C}$) releases abietic acid, precipitating irreversible **occupational bronchial asthma** (HSE UK Report RR900). Hand-soldering with lead alloys (60/40) leaves residues that transfer to food if eaten with unwashed hands.
+  * *Rosin Asthma & Solder Contamination:* Pyrolysis of rosin flux ($300\text{--}360^\circ\text{C}$) releases abietic acid, precipitating irreversible **occupational bronchial asthma** (HSE UK Report RR900). Hand-soldering with lead alloys (60/40) leaves residues that transfer to food if eaten with unwashed hands.
 * **Engineering Directive:** Shoot **strictly at outdoor ranges** or facilities with certified laminar exhaust ventilation; wash hands with specialized heavy-metal soap (D-Lead); wear dual hearing protection (earplugs + electronic muffs). 3D printers belong **inside sealed enclosures with external ducted exhaust**; handle liquid resin with heavy nitrile gloves only. Soldering stations demand desktop activated-carbon/HEPA fume extractors and an absolute ban on food at the workbench.
 
 ---
@@ -1135,7 +1135,7 @@ Crack open the toxicology registries, orthopedic imaging reports, and federal tr
 | **Musical Instruments** | Corpus Callosum thickening, neuroplastic reserve | **VERIFIED** *(paced blocks)* | **Level 1** | Steele 2013; Schlaug 1995; Altenmüller 2010 | 45-min blocks. Paced finger recovery. Stop instantly on spasms. |
 | **Acoustics & Audio** | Auditory therapy vs stereocilia death ($>100\text{ dBA}$) | **VERIFIED** *(Critical Risk)* | **Level 1** | NIOSH REL 85 dBA; ISO 1999:2013 | Filtered attenuation earplugs. Strict NIOSH dosage caps. |
 | **Literary Fiction** | Theory of Mind expansion, DMN connectivity | **VERIFIED** *(Moderate Effect)* | **Level 1** | Dodell-Feder & Tamir 2024 | Read complex literature. Log structural takeaways in local wiki. |
-| **Slouched Reading (Text Neck)** | 27 kg load on C1–C7 at \$60^\circ$ neck flexion | **VERIFIED** *(Somatic Collapse)* | **Level 2** | Hansraj 2014 (PMID: 25393825) | Text strictly at eye level via book stand. Ban reading flat in bed. |
+| **Slouched Reading (Text Neck)** | 27 kg load on C1–C7 at $60^\circ$ neck flexion | **VERIFIED** *(Somatic Collapse)* | **Level 2** | Hansraj 2014 (PMID: 25393825) | Text strictly at eye level via book stand. Ban reading flat in bed. |
 | **Woodworking** | Parasympathetic reset vs nasal cancer from oak dust | **VERIFIED** *(Hazardous Factor)* | **Level 1** | IARC Monographs Vol. 100C; Luce 2002 | Sand and route hardwood strictly in **FFP3/N95** with dust extraction. |
 | **Gardening** | Cortisol lowering, *M. vaccae* vs tetanus & sporotrichosis | **VERIFIED** *(Hazardous Factor)* | **Level 1** | Lowry 2007; CDC Sporotrichosis | Work soil and roses in puncture-proof gloves. Tdap every 10 yrs. |
 | **Ultra-Marathon / Ironman** | Aerobic base vs myocardial fibrosis, AFib $\times 5$ | **VERIFIED** *(Cardiac Fibrosis)* | **Level 1** | Armstrong 2018; Benito 2011; La Gerche 2012 | Cap mileage $\le 40\text{--}50\text{ km/wk}$ in Zone 2. Drink to thirst (block EAH). |

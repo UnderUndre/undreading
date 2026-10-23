@@ -111,7 +111,7 @@ You cannot Talk-no-Jutsu the laws of physics, biochemistry, or fiscal enforcemen
 You can keep sitting in a burning room with a mug of coffee, repeating the internet meme *"This is Fine"* 🔥. Or hope for a fatalistic *"Welp"*, wearing the relaxed-dog face of the *"Chill Guy"* meme while your body burns through the last of its nervous system. Or you can finally grasp the harsh reality: **in this creation, you are your own chief engineer and the only plumber on the payroll.**
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** A Perfect Circle — "Judith" (Listen: 00:20–00:50)
+> **Track:** A Perfect Circle — "Judith"
 > **Node engineering meaning (from Uncle Tolya):** Writing off system failures to "karma," the evil eye, or fate is a coward's refusal to do Root Cause Analysis. Behind every blowout in your life stands a specific burst pipe, a rotted gasket, or a clogged filter that you've been cavalierly ignoring for years.
 
 ---
@@ -140,7 +140,7 @@ Spolsky proved the key corollary: **abstractions save time on everyday work, but
 | Technical layer (Spolsky's Law) | Mechanics of the technical abstraction's failure | Systemic analogue in The Plumbing of Being | Cascading life outcome of the blowout |
 | :--- | :--- | :--- | :--- |
 | **TCP over IP** | TCP creates the illusion of reliable byte delivery over unreliable IP. But if a backhoe physically cuts the cable, TCP stalls in timeouts and throughput drops to zero. | **The single income source (salaried job)** | The employee believes "income is guaranteed," but it's provided by one client (the boss). On a layoff, the cash flow zeroes out in 1 second. |
-| **Object-relational mappers (ORM)** | The ORM hides the complex SQL database language from the programmer. But under load it generates monstrous $N+1$ queries, hanging the entire database. | **Losing weight on Ozempic injections (GLP-1) without strength training** | The person sees the illusion of easy scale-weight loss, but the drug without resistance training burns up to \$40\%$ of skeletal muscle (sarcopenia), breaking the metabolic motor. |
+| **Object-relational mappers (ORM)** | The ORM hides the complex SQL database language from the programmer. But under load it generates monstrous $N+1$ queries, hanging the entire database. | **Losing weight on Ozempic injections (GLP-1) without strength training** | The person sees the illusion of easy scale-weight loss, but the drug without resistance training burns up to $40\%$ of skeletal muscle (sarcopenia), breaking the metabolic motor. |
 | **Network drives (NFS / SMB)** | The remote network drive pretends to be local. At the slightest Wi-Fi or router hiccup, programs freeze solid waiting on I/O. | **Two-factor authentication via SMS** | Banks insist SMS is security. In reality SMS is intercepted through cell-tower holes (SS7) or a SIM swap at a retail shop in 15 minutes. |
 | **Serverless functions (AWS Lambda)** | The illusion of "no servers needed, it all scales itself." But in production the system catches cold starts (5-second delays) and hands you a bill for thousands of dollars. | **Absolute faith in a single state circuit** | The citizen is sure "the state will protect me." But at the slightest system fault, an AML account freeze (US: Bank Secrecy Act | UK: POCA) or a passport annulled within 24 hours renders a person legally dead. |
 | **Virtual memory and page faults** | The programmer thinks memory is an infinite tape. But if you traverse a number array across instead of along, the CPU hammers memory interrupts continuously, slowing work by orders of magnitude. | **Running the organism on energy drinks without sleep** | The person thinks they'll "sleep it off in retirement." But the brain burns out the prefrontal cortex, adenosine clogs the receptors, and the system catches acute psychosis or a hypertensive crisis. |
@@ -167,7 +167,7 @@ Internet meme folklore is society's emotional hydraulic seal. Memes respond inst
    * **The "Willy Wonka Experience" show in Glasgow (February 2024):** an absolute monument to the triumph of facade scam over reality. The hustlers of *House of Illuminati* generated fairy-tale AI images of a chocolate paradise, sold tickets to parents at £35, and in fact herded crying children into a filthy cold hangar with a half-inflated bouncy castle and a box of cheap candy. The police were called within 2 hours. This is the perfect metaphor of the modern startup market: a neural net paints a palace, and inside is a cold empty warehouse.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Propagandhi — "Adventures in Zoochosis" (Listen: 00:40–01:10)
+> **Track:** Propagandhi — "Adventures in Zoochosis"
 > **Node engineering meaning (from Uncle Tolya):** Information content generates parasitic pressure in the brain's pipe. Without hard attention hygiene, the operator drowns in other people's hysterias, trends, and infonoise. Filter the inbound stream shut.
 
 3. **The illusion of control and facade failures:**

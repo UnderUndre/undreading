@@ -196,7 +196,7 @@ Naruto and Sasuke are not merely "hero and rival" from shonen manga; they embody
    * **C-A-T Gen 7 tourniquet (15 seconds):** The eight-step drill: assessment $\to$ *High & Tight* placement $\to$ strap tension $\to$ windlass to pulse cessation $\to$ C-clip lock $\to$ time T recorded.
    * **Celox packing:** Manual compression of junctional wound channels for a minimum of 3 minutes.
    * **Primary wound care (the "golden 6-hour window" rule):** In the first 6–8 hours the wound debris microbiota hasn't formed mature biofilms. Irrigate strictly with sterile saline or 0.05% aqueous chlorhexidine under moderate pressure. **The categorical prohibition of 3% hydrogen peroxide and concentrated alcohol** (they cause chemical coagulation necrosis of granulation tissue and vascular stasis).
-   * **Closed head injury: the "lucid interval" phenomenon and the Canadian CT Head Rule:** A blow to the temporal region (the pterion zone) causes a linear fracture of the thin bone with rupture of the middle meningeal artery (*a. meningea media*). After a brief blackout the victim wakes clear (GCS = 15) and for 30 minutes – 3 hours shows false well-being (*Lucid Interval*) — until the arterial hemorrhage (\$50\text{–}100\text{ mL}$) causes midline shift, uncal herniation of the temporal lobe, and lethal coma.
+   * **Closed head injury: the "lucid interval" phenomenon and the Canadian CT Head Rule:** A blow to the temporal region (the pterion zone) causes a linear fracture of the thin bone with rupture of the middle meningeal artery (*a. meningea media*). After a brief blackout the victim wakes clear (GCS = 15) and for 30 minutes – 3 hours shows false well-being (*Lucid Interval*) — until the arterial hemorrhage ($50\text{–}100\text{ mL}$) causes midline shift, uncal herniation of the temporal lobe, and lethal coma.
      *Triggers for an emergency non-contrast head CT:* 1) GCS $<15$ two hours post-injury; 2) suspected open/depressed skull fracture; 3) periorbital hematomas ("raccoon eyes"), Battle's sign (mastoid hematoma), or CSF leaking from ears/nose; 4) $\ge 2$ vomiting episodes; 5) retrograde amnesia $>30\text{ min}$; 6) age $\ge 65$.
 7. **Media artifacts and music:**
    * **The "Welp" meme:** The fatalistic admission of a cascading failure of the external mains.
@@ -214,12 +214,12 @@ Naruto and Sasuke are not merely "hero and rival" from shonen manga; they embody
    * **Rage Against The Machine ("Killing in the Name", "Know Your Enemy") & Folk Cynicism:** *„And now you do what they told ya“* — deconstructing blind compliance theatre where code review degenerates into rubber-stamping checkmarks without reading the underlying contract. The stoic filter against institutional propaganda, corporate sophists, and parasitic noise. The rule of radical self-accountability: *"If everyone around you is an idiot — the chief idiot is staring back at you in the mirror."*
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Rage Against The Machine — "Know Your Enemy" (Listen: 00:20–00:50)
+> **Track:** Rage Against The Machine — "Know Your Enemy"
 > **Node engineering meaning (from Bob):** A change of the dominant technological or regulatory protocol sweeps away old gray schemes within days.
    * **Orwell vs Huxley, per Neil Postman (*Amusing Ourselves to Death*):** Orwell feared that information would be banned and clamped by a censorship valve (*1984*). Huxley feared that correct information would be drowned in a meaningless ocean of entertainment (*Brave New World*). Postman proved it: the modern controller destroys subjectivity not with a baton but with the continuous noise of Reels and infinite scroll. The cognitive firewall must filter not only threats but the endless "dopamine garbage."
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Rage Against The Machine — "Take the Power Back" (Listen: 00:15–00:45)
+> **Track:** Rage Against The Machine — "Take the Power Back"
 > **Node engineering meaning (from Bob):** Paranoia and fake insider tips overload the cognitive buffer. Rely on objective instrumental telemetry.
    * **The SEP field ("Somebody Else's Problem Field," Douglas Adams):** Normalization of deviance. Ignoring a micro-leak (Log4Shell CVE-2021-44228 or ApoB > 100 mg/dL) because of the blindness of "that's the building superintendent's problem" ends in a fatal water hammer.
 8. **The team and solo circuit (operational task routine: solo vs team):**
@@ -243,7 +243,7 @@ Naruto and Sasuke are not merely "hero and rival" from shonen manga; they embody
     * **The mini-specification of family survival (4 mandatory physical nodes):**
       1) *Cash liquidity:* A reserve of fiat cash in small and mid-denomination non-worn notes covering 30–60 days of household autonomy + a list of locations where, in a crisis, you **categorically must not** go for cash (major bank branches, central ATMs — the first places to see stampedes, freezes, and robberies).
       2) *The pharmaceutical buffer:* A reserve of life-critical and prescription medications for chronic conditions, strictly 30 days ahead (counting on "the pharmacies will open in two days" is fatal negligence).
-      3. *The energy and water calculation:* The minimum clean drinking-water calculation — no less than \$3\text{ L/person/day}$ (bottled reserve + the water heater as an emergency reservoir) and a supply of dehydrated/long-shelf-life food at no less than \$2000\text{ kcal/person/day}$.
+      3. *The energy and water calculation:* The minimum clean drinking-water calculation — no less than $3\text{ L/person/day}$ (bottled reserve + the water heater as an emergency reservoir) and a supply of dehydrated/long-shelf-life food at no less than $2000\text{ kcal/person/day}$.
       4) *The paper medical passport:* A laminated paper sheet per family member (blood type, Rh factor, documented antibiotic/anesthetic allergies, installed metalwork and implants, chronic diagnoses) — kept in the passport strictly for the EMS crew if consciousness is lost.
       5) *The bare minimum on the fridge (A4, 150–200 µm laminate):* the safe is unreachable in a kinetic emergency. On the magnet: 911/999 + the district EMS line + water utility + gas + two out-of-band contacts; Safe Word $>75$ bits; the diagram — cold/hot water ball valves and shutoff direction, the two-pole breaker, gas, fire extinguisher, LiFePO4 + ATS, the C-A-T kit, the 14-day safe envelope. As in *Outer Wilds*: the inventory burns, the knowledge graph survives.
 
@@ -256,13 +256,13 @@ Naruto and Sasuke are not merely "hero and rival" from shonen manga; they embody
 > **Node engineering analysis (from Bob):** A musical anchor for the operator's emotional calibration. In the commercial edition and the open repository, full verse lyrics are removed per copyright law (17 U.S.C. § 107). Listening to the original track on a streaming service is recommended for deep rhythm calibration.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Johnny Cash — "Ain't No Grave" (Listen: 00:30–01:00)
+> **Track:** Johnny Cash — "Ain't No Grave"
 > **Node engineering meaning (from Bob):** Inheritance continuity: the master files and instructions must remain reachable by trusted persons through the DMS protocol.
 
 The 14-day envelope is not survival romance. Power, gas, and iCloud all go down together. The master demo tape under the rubble must outlive the operator; the master seed on the phone — must not. "Get rich, pay off the mortgage" here is about the family staying afloat — not about flushing the seed into Telegram.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Anly — "Kara no Kokoro" (Naruto Shippuden OP20, Listen: 00:25–00:55)
+> **Track:** Anly — "Kara no Kokoro" (Naruto Shippuden OP20)
 > **Node engineering meaning (from Bob):** The long sequential road of discipline beats impulsive escapes and emotional lunges.
 
 > 🔧 **[MOD-DE-ESCALATE]: Verbal aikido (conflict de-escalation)**
@@ -287,7 +287,7 @@ The 14-day envelope is not survival romance. Power, gas, and iCloud all go down 
 > **Node engineering analysis (from Bob):** A musical anchor for the operator's emotional calibration. In the commercial edition, full verse lyrics are removed per copyright law (17 U.S.C. § 107). Listening to the original track on a streaming service is recommended for deep rhythm calibration.
 >
 >    This is not a wellness lullaby. After 23:00 the cortex is no longer a Type 1 gate — it sings to the dark hours. A decision made in that register isn't "courage"; it's a breach of the prefrontal firewall.
->    * **The riser degradation sensor [CONTESTABLE]:** If objective sleep tracking shows a drop of **60–90 minutes below your personal baseline corridor** for 14 consecutive days — a hardware stop-cock slams down on launching any new projects, hires, and circuit expansions. 100% of capacity redirects to stabilizing sleep and repairing the base biological riser. The bare \$6.5$ h constant is gone: the corridor calibrates to YOUR telemetry, not someone else's form. The acute sensor ($<6$ h × 2–3 nights) and the 7–8 h WIP limit remain separate valves above — don't collapse three thresholds into one.
+>    * **The riser degradation sensor [CONTESTABLE]:** If objective sleep tracking shows a drop of **60–90 minutes below your personal baseline corridor** for 14 consecutive days — a hardware stop-cock slams down on launching any new projects, hires, and circuit expansions. 100% of capacity redirects to stabilizing sleep and repairing the base biological riser. The bare $6.5$ h constant is gone: the corridor calibrates to YOUR telemetry, not someone else's form. The acute sensor ($<6$ h × 2–3 nights) and the 7–8 h WIP limit remain separate valves above — don't collapse three thresholds into one.
 
 ---
 
@@ -334,9 +334,9 @@ Trying to live by the "universal success-success schedule" (up at 05:00, plannin
    * **Process C (circadian pacemaker) & the light seal:** Wake in a stable window ($\pm 30\text{ min}$). Immediately after opening your eyes: a minimum of **10,000 lux onto the retina** (10 minutes of outdoor light without sunglasses, or a bright lamp). ipRGC activation launches the cortisol awakening response (CAR) and, exactly 14–16 hours later, triggers endogenous melatonin synthesis.
    * **Melanopic photometry per CIE S 026/E:2018 (mEDI):**
      * *Workday:* Vertical illuminance at the cornea $\ge 250\text{ mEDI lux}$ to block daytime melatonin and stabilize circadian amplitude;
-     * *3 hours before sleep:* Drop melanopic illuminance to $\le 10\text{ mEDI lux}$ (spectrum $<2700\text{ K}$, no blue peak at \$460\text{–}490\text{ nm}$);
+     * *3 hours before sleep:* Drop melanopic illuminance to $\le 10\text{ mEDI lux}$ (spectrum $<2700\text{ K}$, no blue peak at $460\text{–}490\text{ nm}$);
      * *Sleep period:* Total darkness $\le 1\text{ lux}$ (blackout curtains).
-   * **The air-manifold audit ($\text{CO}_2$ NDIR SenseAir S8):** In an unventilated bedroom, $\text{CO}_2$ climbs overnight from \$400\text{ ppm}$ to \$2000\text{–}3000\text{ ppm}$. Harvard T.H. Chan research proved: above $>1000\text{ ppm}$ cognitive function and strategic focus fall **15–50%** due to subclinical respiratory acidosis. ASHRAE 62.1 standard: at least \$10\text{ L/s}$ of fresh air per person and monitoring via an optical NDIR sensor (SenseAir S8) — excluding semiconductor resistive TVOC sensors.
+   * **The air-manifold audit ($\text{CO}_2$ NDIR SenseAir S8):** In an unventilated bedroom, $\text{CO}_2$ climbs overnight from $400\text{ ppm}$ to $2000\text{–}3000\text{ ppm}$. Harvard T.H. Chan research proved: above $>1000\text{ ppm}$ cognitive function and strategic focus fall **15–50%** due to subclinical respiratory acidosis. ASHRAE 62.1 standard: at least $10\text{ L/s}$ of fresh air per person and monitoring via an optical NDIR sensor (SenseAir S8) — excluding semiconductor resistive TVOC sensors.
    * **Chronotype genetics (*PER3*):** The *PER3* gene alleles (4/4, 4/5, 5/5) rigidly define the length of the endogenous period $\tau$. Forcing a 5 a.m. wake-up on an evening chronotype produces social jet lag and metabolic debt.
 
 2. **The architecture of cognitive shifts (Ultradian BRAC Blocks & Little's Law):**
@@ -344,7 +344,7 @@ Trying to live by the "universal success-success schedule" (up at 05:00, plannin
      * *Block 1 (2–3 hours after waking):* The absolute cognitive peak, zero notifications, airplane mode.
      * *The decompression buffer (20–30 minutes):* Long-distance panoramic gaze (ciliary-muscle and sympathetic relaxation), walking.
      * *Block 2 (after midday):* Secondary tactical tasks.
-   * **Little's Law ($L = \lambda W$) and Single-WIP:** The more tasks hang in flight ($W$), the exponentially longer each takes to complete ($L$). The context-switch cost between tasks is \$15\text{–}25\text{ min}$ of prefrontal focus loss.
+   * **Little's Law ($L = \lambda W$) and Single-WIP:** The more tasks hang in flight ($W$), the exponentially longer each takes to complete ($L$). The context-switch cost between tasks is $15\text{–}25\text{ min}$ of prefrontal focus loss.
 
 3. **Gollwitzer's implementation intentions syntax ($d = 0.65$):**
    Vague "ought to do" goals fail in 70% of cases. Translate tasks into a strict executable algorithm:
@@ -396,17 +396,17 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-1. **The CryEngine 2 error (Crysis) & the failed architectural bet:** In 2007, Crytek engineered CryEngine 2 assuming processors would grow extensively — single-thread clocks up to \$7\text{–}8\text{ GHz}$. Physics hit the 4.0 GHz wall, and the industry went multi-threaded. Result: CryEngine 2 ran a slideshow on top-tier rigs because of the monopolized load on 1 core. **The lesson:** Never build a system hoping for a super-resource of a single element. Engineer for parallel asynchronous scaling.
+1. **The CryEngine 2 error (Crysis) & the failed architectural bet:** In 2007, Crytek engineered CryEngine 2 assuming processors would grow extensively — single-thread clocks up to $7\text{–}8\text{ GHz}$. Physics hit the 4.0 GHz wall, and the industry went multi-threaded. Result: CryEngine 2 ran a slideshow on top-tier rigs because of the monopolized load on 1 core. **The lesson:** Never build a system hoping for a super-resource of a single element. Engineer for parallel asynchronous scaling.
 2. **Microslop & Model Autophagy Disorder (MAD / Grok / Mechahitler):** Recursive training of AI models on their own synthetic garbage leads to an immediate collapse of the probability distribution (Model Autophagy Disorder). The model falls into schizophrenic autophagy, emitting aggressive hallucinatory delirium. **The lesson:** Clogging the training pipe with raw foreign exhaust, without regular flushing with fresh physical telemetry, destroys any cognitive engine.
 3. **The quantum non-destructiveness of copying (SOMA) & the lessons of catastrophe (Final Destination / Armageddon):**
    * **The SOMA protocol:** Creating a copy of consciousness or an encrypted backup does NOT relocate the subject. The original stays in the basement with the same risks. A backup is a duplicate, not an insurance ticket for the original.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Tool — "Parabola" (Listen: 00:45–01:15)
+> **Track:** Tool — "Parabola"
 > **Node engineering analysis (from Bob):** Creating a copy of consciousness or an encrypted archive doesn't relocate the operator. The original remains inside the physical perimeter under the same environmental pressure. A backup is a duplicate of the data, not an indulgence for the original.
    * **Final Destination & Armageddon:** The chain of improbable failures in *Final Destination* is the normalization of small deviations, where micro-clogs compound into a fatal water hammer. And the heroic deployment of oil riggers in *Armageddon* — the protocol of manual incident liquidation by human resource when all automation and telemetry have burned down completely.
 4. **OpSec protocols and environment segmentation:**
-   * **Breaking Bad (Saul Goodman vs Walter White):** The highest chemical purity of the product (\$99.6\%$) is meaningless if the OpSec of the household circuit is 100% breached (the Whitman book in the toilet). The founder's deadliest cognitive trap is ego inflation — when silent execution degenerates into megalomania: *„I am the one who knocks“* and *„Say my name“*. The sovereign operator seeks zero personal fame, operating strictly via burner phones and independent bulkheads (Saul Goodman's car wash).
+   * **Breaking Bad (Saul Goodman vs Walter White):** The highest chemical purity of the product ($99.6\%$) is meaningless if the OpSec of the household circuit is 100% breached (the Whitman book in the toilet). The founder's deadliest cognitive trap is ego inflation — when silent execution degenerates into megalomania: *„I am the one who knocks“* and *„Say my name“*. The sovereign operator seeks zero personal fame, operating strictly via burner phones and independent bulkheads (Saul Goodman's car wash).
    * **Resident Evil & Lost (the 108-minute watchdog):** The Hive complex disaster in Resident Evil happened because of a Single Point of Failure in the ventilation manifold (an air SPOF). In *Lost*, the Swan station held the hydraulic system through a physical watchdog timer — a forced code entry every 108 minutes, discharging the accumulated electromagnetic charge.
    * **The Shawshank Redemption & Batman (the "Babylon" protocol):** 20 years of micro-refactoring of the perimeter with a geological rock hammer in Shawshank shows the power of daily micro-steps. Batman's "Babylon" protocol — pre-built individual preventive containment valves against each member of his own team, in case of their compromise.
    * **Titanic:** Bulkheads not reaching E deck (water spilling over the tops as compartments flooded) and cutting lifeboats for "deck aesthetics" — the classic demolition of L1 safety for the sake of pretty L4 design.
@@ -417,7 +417,7 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 * **The Chase Bank TikTok glitch (2024) & the optimistic-UI illusion:** Zoomers wrote fake \$50,000 checks, deposited them at a Chase ATM, and instantly withdrew \$5,000 cash due to provisional availability under Reg CC. Within 48 hours clearing caught the check $\to$ a −\$45,000 balance and a federal *Bank Fraud* charge (up to 30 years). **The lesson:** Don't confuse the frontend's interface balance with the final ledger entry in the database.
 * **The TikTok monolith hack & parasitic pressure utilization:** The ByteDance algorithm ranks videos by an engagement formula. A deliberate typo or a stupid math error at second 2 makes 15,000 viewers write comments ("the author's an idiot!") $\to$ the $V_{comments}$ metric explodes $\to$ the algorithm pushes the content into million-view trends. **The lesson:** A deliberate micro-error harvests other people's egos as free traffic.
 * **The Roblox DevEx trap & the platform's colonial exchange rate:** Players buy Robux at \$0.0125, while devs cash out through DevEx at \$0.0035 (a platform take-rate of ~72–78%). **The lesson:** Building a business on a closed marketplace currency is neofeudalism, where the lord draws the exchange rate in the morning on a whim.
-* **Minecraft seed-cracking (SalC1) & the deterministic fingerprint leak:** Recovering a 64-bit world seed (\$2^{48}$ variants) from 12 bedrock blocks or a single 2010 screenshot (`pack.png`) thanks to the determinism of Java's LCG generator. **The lesson:** Standard PRNGs leave a regular fingerprint — from 10 public API responses, a competent reverse engineer will compute the current state of the entire database.
+* **Minecraft seed-cracking (SalC1) & the deterministic fingerprint leak:** Recovering a 64-bit world seed ($2^{48}$ variants) from 12 bedrock blocks or a single 2010 screenshot (`pack.png`) thanks to the determinism of Java's LCG generator. **The lesson:** Standard PRNGs leave a regular fingerprint — from 10 public API responses, a competent reverse engineer will compute the current state of the entire database.
 * **LLM token smuggling (Pliny the Prompter) & circuit immiscibility:** Bypassing LLM RLHF censorship via ASCII art and Base64 obfuscation. The model doesn't see stop-words in the tokenizer, but the attention mechanism assembles the meaning from the pattern. **The lesson:** The system prompt and user input must not flow through the same pipe.
 
 ---
@@ -491,10 +491,10 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 >
 > 1. **Valve-seizure prevention:** Every 6 months, turn all main ball valves 90° and back. This breaks up hardness-salt deposits and prevents shearing the Zamak stem during an emergency.
 > 2. **Electrical safety: the blinding of Type AC RCDs and the switch to Type A/F (IEC 61008-1 & IEC 62423):** Type "AC" RCDs, which respond only to sinusoidal AC current, are lethally vulnerable in modern homes. Switched-mode PC PSUs, LED drivers, and inverter washing machines, on fault, produce pulsating DC leakage currents ($I_{DC}$). A DC component of just **$\ge 6\text{ mA}$** drives the toroidal core of a Type AC RCD into magnetic saturation (**blinding**), completely blocking tripping even while a lethal AC current flows through a human. **Standard:** The unconditional installation of **Type A RCDs** (detecting AC and pulsating DC) or **Type F** for high-power inverter-appliance circuits. Test-button press quarterly. US equivalent: GFCI/AFCI per NEC 210.8/210.12.
-> 3. **Diaphragm water-pressure regulators (DIN EN 1567):** Overnight water hammers in building networks reach \$8\text{–}10\text{ bar}$, bursting flexible supply hoses. A diaphragm pressure-reducing valve at the intake, calibrated to **\$3.0\text{–}3.5\text{ bar}$**, is mandatory + dry traps with spring-loaded check valves in floor drains against hydrogen sulfide ($\text{H}_2\text{S}$) ingress.
+> 3. **Diaphragm water-pressure regulators (DIN EN 1567):** Overnight water hammers in building networks reach $8\text{–}10\text{ bar}$, bursting flexible supply hoses. A diaphragm pressure-reducing valve at the intake, calibrated to **$3.0\text{–}3.5\text{ bar}$**, is mandatory + dry traps with spring-loaded check valves in floor drains against hydrogen sulfide ($\text{H}_2\text{S}$) ingress.
 > 4. **Armor instead of EPDM:** Flexible faucet/cistern hoses in braided EPDM live **3–5 years**, then the fitting tears off. Replace with AISI 304/316 corrugated stainless. At the intake — motorized 12V ball valves with leak sensors; actuation **15–20 s**.
 > 5. **Fire safety [P0-27: FIRE-EXTINGUISHER]:** House standard: a stored-pressure dry-powder **Class ABC extinguisher (NFPA 10 / BS EN 3-7)** with a gauge, rating no lower than 2A/55B/C/E, by the front door $\le 1.5$ m from the floor. Kitchen — a fire blanket or a Class F/K wet-chemical extinguisher (a CO2 jet at 5.8 MPa and powder blast boiling oil out of the pan, causing an instant kitchen flashover; CO2 and powder on pan oil are forbidden!). Flashover of modern polymers: **180–300 s**. Spray **10–15 s** (a 2 kg unit discharges in 6–8 s), **back to the evacuation exit**. Not out — leave, close the door. Gauge in the green quarterly; recharge every 5 years.
-> 6. **CO and smoke:** a photoelectric smoke alarm + an electrochemical CO sensor. CO is nearly the same density as air ($M \approx 28$ vs \$29\text{ g/mol}$) — **not on the ceiling**. Mount at breathing height **1.5 m** (bedroom: at the headboard), 1–3 m from the boiler. Sensor end-of-life is 7–10 years (UL 2034 / EN 50291) — replace the whole unit, not just the battery. CO binds hemoglobin 200–250× stronger than $O_2$; in sleep it doesn't choke you — it just shuts you off.
+> 6. **CO and smoke:** a photoelectric smoke alarm + an electrochemical CO sensor. CO is nearly the same density as air ($M \approx 28$ vs $29\text{ g/mol}$) — **not on the ceiling**. Mount at breathing height **1.5 m** (bedroom: at the headboard), 1–3 m from the boiler. Sensor end-of-life is 7–10 years (UL 2034 / EN 50291) — replace the whole unit, not just the battery. CO binds hemoglobin 200–250× stronger than $O_2$; in sleep it doesn't choke you — it just shuts you off.
 > 7. **Dry U-traps and sewage bioaerosols [P0-80: DRY-UTRAP-BIOAEROSOLS]:** In unused floor drains and guest bathroom sinks, the water seal (only **50 mm** water column) evaporates in 3–6 weeks. Running the bathroom exhaust fan with the door closed creates negative pressure ($\Delta P \le -16.8\text{ Pa}$) and sucks aerosolized fecal pathogens directly out of the building vertical stack into living space. **Textbook case:** the **2003 Amoy Gardens SARS outbreak in Hong Kong** (321 infections, 42 deaths traced to dry floor drain U-traps aspirating viral plumes through bathroom exhaust fans per the WHO investigation). **Maintenance rule:** pour **500 ml water + 50 ml mineral/paraffin oil** into every floor drain monthly (the oil film creates a non-evaporating barrier lasting 6+ months); for renovations, specify mechanical spring-loaded dry traps.
 > 8. **Neutral loss & overvoltage monitoring relay [P0-85: PEN-BREAK-380V] (US: NEC 250 / UK: BS 7671):** A severed, loose, or corroded neutral (PEN) wire in multi-phase residential supply causes a floating neutral, shifting line voltage up to **380V / 240V** across standard 220V / 120V household branch circuits. Sensitive power supplies for PCs, servers, and refrigerators undergo rapid pyrolysis and catch fire. **Standard circuit breakers are useless:** they trip on overcurrent, not overvoltage. Install a microprocessor DIN-rail **voltage monitoring relay at the main consumer unit/breaker panel** ($<20\text{ ms}$ cutoff threshold at >260V / >140V). The myth that "standard breakers are enough" is a fire death trap.
 
@@ -502,7 +502,7 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 >
 >
 > ❄️ **THE CRITICAL ELECTROCHEMICAL SEAL (STANDARDS IEC 62619, UL 1973 & NO CHARGING LiFePO4 AT $T \le 0^\circ\text{C}$):**
-> In accordance with industrial electrochemical safety standards **IEC 62619** and **UL 1973**, at cell temperatures $\le 0^\circ\text{C}$ (\$32^\circ\text{F}$), the diffusion kinetics of lithium ions into the graphite anode slow sharply. Attempting to push charge current into a frozen battery (from the grid or a generator during a winter blackout in an unheated space) triggers **Lithium Plating**: lithium ions don't intercalate into the graphite lattice — they plate on its surface as metallic lithium.
+> In accordance with industrial electrochemical safety standards **IEC 62619** and **UL 1973**, at cell temperatures $\le 0^\circ\text{C}$ ($32^\circ\text{F}$), the diffusion kinetics of lithium ions into the graphite anode slow sharply. Attempting to push charge current into a frozen battery (from the grid or a generator during a winter blackout in an unheated space) triggers **Lithium Plating**: lithium ions don't intercalate into the graphite lattice — they plate on its surface as metallic lithium.
 > The resulting microscopic metal needles (**dendrites**) puncture through the porous polymer separator toward the cathode, causing **irreversible internal short-circuits, thermal runaway with toxic hydrogen fluoride (HF) off-gassing**, and catastrophic cell death.
 > **The engineering protocol:** 1) Discharging (drawing energy) from LiFePO4 in the cold is permitted (down to $-20^\circ\text{C}$); 2) **Charging — STRICTLY at cell temperatures $\ge +5^\circ\text{C}$** (optimum $+10\text{–}+25^\circ\text{C}$). The system must comply with **IEC 62619 / UL 1973**: the BMS board must carry a hardware temperature sensor with a hard low-temperature charge cutoff below $+5^\circ\text{C}$ (*Low-Temperature Charge Protection*), or the pack must feature integrated heating pads (*Self-Heating*) and reside inside an insulated enclosure within the heated living quarters.
 
@@ -515,8 +515,8 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 >   * Municipal regulatory bans by the Seoul Metropolitan Government (*Seoul Metropolitan Government EV Fire Prevention Guidelines*, August–September 2024 — barring EVs with state of charge $\text{SoC} > 90\%$ from underground parking);
 >   * The lithium-system fire-safety standard *NFPA 855 (Standard for the Installation of Stationary Energy Storage Systems)*.
 > * **Step 2 (The electrochemical mechanism of self-sustaining combustion):**
->   1. **Self-release of oxygen ($O_2$):** In layered NMC (nickel-manganese-cobalt) cathodes, a local micro-short pushes cell temperature past the critical threshold of **\$150\text{–}210^\circ\text{C}$**. The crystal lattice decomposes, releasing **gaseous molecular oxygen ($O_2$)**. The battery burns from the inside **without external air** at **\$1000\text{–}1200^\circ\text{C}$** — it cannot be extinguished with powder, blankets, or CO2.
->   2. **The chemical attack of hydrogen fluoride ($HF$):** Thermal decomposition of binders and electrolyte salts ($\text{LiPF}_6$) releases lethal hydrogen fluoride ($HF$). The $HF$ concentration in the enclosed parking volume passed the lethal threshold of \$30\text{ ppm}$ within minutes. $HF$ penetrates the skin and binds blood calcium ions, causing cardiac arrest.
+>   1. **Self-release of oxygen ($O_2$):** In layered NMC (nickel-manganese-cobalt) cathodes, a local micro-short pushes cell temperature past the critical threshold of **$150\text{–}210^\circ\text{C}$**. The crystal lattice decomposes, releasing **gaseous molecular oxygen ($O_2$)**. The battery burns from the inside **without external air** at **$1000\text{–}1200^\circ\text{C}$** — it cannot be extinguished with powder, blankets, or CO2.
+>   2. **The chemical attack of hydrogen fluoride ($HF$):** Thermal decomposition of binders and electrolyte salts ($\text{LiPF}_6$) releases lethal hydrogen fluoride ($HF$). The $HF$ concentration in the enclosed parking volume passed the lethal threshold of $30\text{ ppm}$ within minutes. $HF$ penetrates the skin and binds blood calcium ions, causing cardiac arrest.
 >   3. **The building's infrastructure collapse:** Routing cable trays, polymer water pipes, and sewage under the ceiling of the ground floor turns a single EV fire into a man-made disaster for the whole residential block.
 > * **Step 3:**
 >   > 🔧 **Engineer-to-human translation (in plain terms, from Bob):**
@@ -527,10 +527,10 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 >   > 2. EV charging — strictly on open surface lots, no closer than 10 meters from the load-bearing walls of residential buildings.
 >   > 3. No long-term storage or overnight charging of NMC EVs to 100% in closed underground garages (cap charging at the 80–85% SoC threshold).
 
-    * **NMC (lithium-nickel-manganese-cobalt):** The layered metal oxide is unstable on overheating. Exothermic cathode decomposition starts at **\$150\text{–}210^\circ\text{C}$** and comes with **free oxygen release ($O_2$)**. The oxygen instantly oxidizes the electrolyte solvent inside the cell, converting combustion into a self-sustaining torch explosion at **\$800\text{–}1000^\circ\text{C}$**. Putting out such a fire in a closed apartment is impossible — not with water, not with powder, not with CO2.
-    * **The toxicological catastrophe of hydrogen fluoride ($HF$):** Thermal decomposition of $\text{LiPF}_6$ releases gaseous HF, which exceeds the lethal \$30\text{ ppm}$ threshold within **60–90 seconds** (NFPA 855). $HF$ transmembranously binds free calcium ($\text{Ca}^{2+}$) and magnesium ($\text{Mg}^{2+}$) in blood into insoluble $\text{CaF}_2$ precipitate $\to$ acute systemic hypocalcemia and ventricular fibrillation.
+    * **NMC (lithium-nickel-manganese-cobalt):** The layered metal oxide is unstable on overheating. Exothermic cathode decomposition starts at **$150\text{–}210^\circ\text{C}$** and comes with **free oxygen release ($O_2$)**. The oxygen instantly oxidizes the electrolyte solvent inside the cell, converting combustion into a self-sustaining torch explosion at **$800\text{–}1000^\circ\text{C}$**. Putting out such a fire in a closed apartment is impossible — not with water, not with powder, not with CO2.
+    * **The toxicological catastrophe of hydrogen fluoride ($HF$):** Thermal decomposition of $\text{LiPF}_6$ releases gaseous HF, which exceeds the lethal $30\text{ ppm}$ threshold within **60–90 seconds** (NFPA 855). $HF$ transmembranously binds free calcium ($\text{Ca}^{2+}$) and magnesium ($\text{Mg}^{2+}$) in blood into insoluble $\text{CaF}_2$ precipitate $\to$ acute systemic hypocalcemia and ventricular fibrillation.
     * **The inefficiency of FFP1–FFP3 masks:** Fabric respirators trap only solid dust and pass 100% of $HF$, $CO$, and $HCN$. Evacuation requires escape hoods per **EN 403 with ABEK-CO-P3 filters and hopcalite**.
-    * **LiFePO4 (lithium iron phosphate / LFP):** It has an olivine crystal structure with strong covalent $P\text{--}O$ bonds. The thermal decomposition threshold is **\$250\text{–}270^\circ\text{C}$**, and — crucially — **the lattice does NOT release oxygen**. On emergency overheating or cell puncture it vents pressure as vapors without explosive combustion (heat release per UL 9540A of just 3–5 kW versus 8–15 kW for NMC).
+    * **LiFePO4 (lithium iron phosphate / LFP):** It has an olivine crystal structure with strong covalent $P\text{--}O$ bonds. The thermal decomposition threshold is **$250\text{–}270^\circ\text{C}$**, and — crucially — **the lattice does NOT release oxygen**. On emergency overheating or cell puncture it vents pressure as vapors without explosive combustion (heat release per UL 9540A of just 3–5 kW versus 8–15 kW for NMC).
 5. **The comparative pressure test of chemistries:**
 
 | Comparison parameter | Lithium iron phosphate (LiFePO4 / LFP) | Lithium-nickel-manganese-cobalt (NMC) |
@@ -538,8 +538,8 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 | **Cathode lattice** | Olivine with rigid covalent $P\text{--}O$ bonds | Layered metal oxide |
 | **Thermal runaway threshold** | **$\sim 250\text{–}270^\circ\text{C}$** (a high strength barrier) | **$\sim 150\text{–}210^\circ\text{C}$** (early thermal breakdown) |
 | **Oxygen release ($O_2$)** | **Absent** (combustion not self-sustaining) | **Present** (burns without air access) |
-| **Peak failure temperature** | $\sim 350\text{–}450^\circ\text{C}$ (no torch) | **\$800\text{–}1000^\circ\text{C}$** (metallurgical flame) |
-| **Cycle life (to 80%)** | **\$3000\text{–}6000$ cycles** | \$1000\text{–}2000$ cycles |
+| **Peak failure temperature** | $\sim 350\text{–}450^\circ\text{C}$ (no torch) | **$800\text{–}1000^\circ\text{C}$** (metallurgical flame) |
+| **Cycle life (to 80%)** | **$3000\text{–}6000$ cycles** | $1000\text{–}2000$ cycles |
 | **Residential applicability** | **The normative standard** for enclosed spaces | **Categorically forbidden** without dedicated fire-suppression systems |
 >
 > 1. **Engineering calculation of the backup power system for 24–36 hours of blackout:**
@@ -559,10 +559,10 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
 >
 > 🔧 **[P0-67: CYANIDE-CO-OXIMETRY]: Fire toxicology: the spectral blindness of saturation under CO and the Cyanokit cyanide seal**
 >
-> 1. **The spectral blindness of standard pulse oximeters:** The standard two-wavelength photoplethysmograph (\$660\text{ nm}$ and \$940\text{ nm}$) has identical optical absorption coefficients for oxyhemoglobin ($\text{HbO}_2$) and carboxyhemoglobin ($\text{COHb}$). In smoke conditions the fingertip device shows a false **$SpO_2 = 98\text{–}100\%$** while the brain and myocardium die of acute tissue hypoxia. A trustworthy measurement is possible ONLY via multi-wavelength spectrophotometry (**Co-Oximetry**).
-> 2. **The protocol of displacing $CO$ with oxygen:** The half-life of carboxyhemoglobin on room air is $\approx 320\text{ min}$. Immediate administration of **100% pure oxygen via a non-rebreather mask (\$15\text{ L/min}$)** cuts $t_{1/2}$ to **\$60\text{–}80\text{ min}$**. In severe cases ($\text{COHb} > 25\%$ or loss of consciousness) — hyperbaric oxygenation (HBO at \$2.5\text{–}3.0\text{ atm}$, $t_{1/2} = 23\text{ min}$).
+> 1. **The spectral blindness of standard pulse oximeters:** The standard two-wavelength photoplethysmograph ($660\text{ nm}$ and $940\text{ nm}$) has identical optical absorption coefficients for oxyhemoglobin ($\text{HbO}_2$) and carboxyhemoglobin ($\text{COHb}$). In smoke conditions the fingertip device shows a false **$SpO_2 = 98\text{–}100\%$** while the brain and myocardium die of acute tissue hypoxia. A trustworthy measurement is possible ONLY via multi-wavelength spectrophotometry (**Co-Oximetry**).
+> 2. **The protocol of displacing $CO$ with oxygen:** The half-life of carboxyhemoglobin on room air is $\approx 320\text{ min}$. Immediate administration of **100% pure oxygen via a non-rebreather mask ($15\text{ L/min}$)** cuts $t_{1/2}$ to **$60\text{–}80\text{ min}$**. In severe cases ($\text{COHb} > 25\%$ or loss of consciousness) — hyperbaric oxygenation (HBO at $2.5\text{–}3.0\text{ atm}$, $t_{1/2} = 23\text{ min}$).
 > 3. **The cyanide seal in polymer fires ($\text{HCN}$):** Pyrolysis of plastics, melamine, and polyurethane foam releases hydrogen cyanide ($\text{HCN}$). Cyanide blocks the $\text{Fe}^{3+}$ iron in mitochondrial cytochrome-c oxidase, fully halting aerobic ATP synthesis at normal blood oxygenation (bright-red venous blood + an explosive lactate acidosis of $>8\text{–}10\text{ mmol/L}$).
-> 4. **The first-line antidote:** **Hydroxocobalamin (Cyanokit, \$5\text{ g}$ IV over 15 minutes)**. The drug directly binds cyanide ions into non-toxic cyanocobalamin (vitamin $B_{12}$), safely excreted by the kidneys in cherry-red urine. The old antidotes (nitrites) are banned: they convert hemoglobin into methemoglobin, finishing off a person already poisoned by carbon monoxide.
+> 4. **The first-line antidote:** **Hydroxocobalamin (Cyanokit, $5\text{ g}$ IV over 15 minutes)**. The drug directly binds cyanide ions into non-toxic cyanocobalamin (vitamin $B_{12}$), safely excreted by the kidneys in cherry-red urine. The old antidotes (nitrites) are banned: they convert hemoglobin into methemoglobin, finishing off a person already poisoned by carbon monoxide.
 
 * **The 2003 US blackout & the FADEC Chinook (1994):** A race condition in a C++ thread of the GE Energy XA/21 SCADA system. The operators' screens froze while 345 kV high-voltage lines sagged into trees. The loss of 25 intelligence officials in the Chinook crash due to FADEC bugs with no mechanical override.
 * **The Ariane 5 Bug 501 (1996) & the failed type cast:** The inertial navigation module (IRS) copied from the Ariane 4 launcher attempted to stuff a 64-bit float into a 16-bit signed int without `try/catch` (the devs disabled the handler to save 20% CPU). Ariane 5's horizontal acceleration exceeded 32,767 $\to$ Integer Overflow $\to$ the onboard computer took the error for a true angle of attack and maxed the nozzles $\to$ a \$370M rocket destroyed at second 37. **The lesson:** Never carry legacy code into a higher-pressure environment without full re-validation of data types.
@@ -609,11 +609,11 @@ In clinical psychiatry, psychopathy is graded on Robert Hare's scale (PCL-R / PC
   * **AKFG & the Cold Brain Studio (Masafumi Gotoh's analog path):** The ASIAN KUNG-FU GENERATION frontman (*Haruka Kanata*) built Cold Brain Studio with tape recording through a tube Fender Vibro-King and an Ibanez TS9 Tube Screamer, holding the digital peak-clipping of the Loudness War in categorical contempt. **The lesson:** Don't paper over a warped foundation with software clippers and limiters. The cast-iron analog path with dynamic-range headroom ($\ge 6\text{ dB}$) beats the sterile software mush.
 
 > 🎧 **Operator's soundtrack epigraph:**
-> **Track:** Asian Kung-Fu Generation — "Blood Circulator" (Naruto Shippuden OP19, Listen: 00:30–01:00)
+> **Track:** Asian Kung-Fu Generation — "Blood Circulator" (Naruto Shippuden OP19)
 > **Node engineering meaning (from Bob):** Break the frames of old stereotypes and start the circulation of fresh energy in the project.
 
   * **Sambomaster (garage bare-metal brutalism):** Grimy glasses, crumpled shirts, a pushed-tube Marshall JCM900, and **0% autotune**. In *Seishun Kyousoukyoku* you can hear the guitar signal bleeding into the vocal mic (Amp Bleed). **The lesson:** Perfectionism is a dilettante's cowardice. A live, imperfect one-take pressure test is 100 times more convincing than polished facade gloss.
-  * **Pain's theme *Girei* by Yasuharu Takanashi (the psychoacoustic ultimatum):** Pain's opening chord destroys Konoha via the infrasound pressure of a 16-foot organ register (\$30\text{–}60\text{ Hz}$), 2-meter wadaiko drums, and a spectral lift into \$2\text{–}4\text{ kHz}$ (the ear's maximum-sensitivity zone). **The lesson:** A true architectural ultimatum doesn't sound like a shrill squeal — it sounds like the physical infrasound water hammer of an organ over the subordinate space.
+  * **Pain's theme *Girei* by Yasuharu Takanashi (the psychoacoustic ultimatum):** Pain's opening chord destroys Konoha via the infrasound pressure of a 16-foot organ register ($30\text{–}60\text{ Hz}$), 2-meter wadaiko drums, and a spectral lift into $2\text{–}4\text{ kHz}$ (the ear's maximum-sensitivity zone). **The lesson:** A true architectural ultimatum doesn't sound like a shrill squeal — it sounds like the physical infrasound water hammer of an organ over the subordinate space.
 * **Bob's sovereign consumer stack:**
   * **Keenetic + SSTP (port 443 TCP/TLS 1.3) + KeenDNS:** CGNAT traversal and your own VPN at \$0, invisible to DPI.
   * **Grooming autonomy:** A trimmer + a double video-mirror rig (smartphone on the back of the head $\rightarrow$ tablet). \$600/year severed.
@@ -786,7 +786,7 @@ The engineering error is binary thinking: "I'm either alive or dead." Real life 
 * **Legal Bypass Pipelines:**  
   1) Direct **POD (Payable on Death) / TOD (Transfer on Death)** registrations on bank and brokerage accounts (Schwab, Fidelity, Interactive Brokers);  
   2) Direct bank testamentary dispositions (where available);  
-  3) A dedicated **Fiat Operating Buffer ($3,000–$5,000 cash)** stored in a physical fireproof home safe for the family's first 6 months of baseline survival while accounts are frozen.
+  3) A dedicated **Fiat Operating Buffer (\$3,000–\$5,000 cash)** stored in a physical fireproof home safe for the family's first 6 months of baseline survival while accounts are frozen.
 
 ##### **3. Echelons L2/L3: RUFADAA Precedence & Crypto-Inheritance via Miniscript**
 * **RUFADAA 2015 Tier Hierarchy:** Under the *Revised Uniform Fiduciary Access to Digital Assets Act* (enacted in 48 US states), a strict three-tier hierarchy rules digital assets: **Online Tools (Apple Legacy / Google Inactive) > Will / Trust > Terms of Service**. Configuring Apple Legacy Contact or Google Inactive Account Manager legally overrules conflicting clauses in a notarized paper will!
@@ -871,7 +871,7 @@ The engineering error is binary thinking: "I'm either alive or dead." Real life 
 ```
 
 ##### **6. Bob's 7-Step Weekend Execution SOP:**
-1. Stash $3,000–$5,000 physical cash in your safe (the 6-month fiat freeze survival buffer);
+1. Stash \$3,000–\$5,000 physical cash in your safe (the 6-month fiat freeze survival buffer);
 2. Enable Google Inactive Account Manager and Apple Legacy Contact immediately;
 3. Execute direct bank beneficiary/testamentary dispositions on your checking accounts;
 4. Draft a physical Asset Map cataloging all holdings WITHOUT passwords;
@@ -1024,7 +1024,7 @@ The local box is your personal autonomous well. What you pour onto the disk is y
     * **64+ GB RAM / a discrete card from 24 GB**: Models at **~32B–70B**. Heavy artillery at the level of leading cloud systems.
 
 * **The heavy local-hardware battle: Mac Studio Unified Memory vs Nvidia RTX farms (for 70B+ models):**
-  * *An RTX farm (a PCIe rack of 2–4 RTX 3090/4090 cards):* High generation speed (`t/s`), but monstrous opex: \$1.2\text{–}1.8\text{ kW}$ of heat from the outlet, turbine howl, server PSUs, and the 24 GB VRAM per-card limit (Tensor Parallelism eats the PCIe bus).
+  * *An RTX farm (a PCIe rack of 2–4 RTX 3090/4090 cards):* High generation speed (`t/s`), but monstrous opex: $1.2\text{–}1.8\text{ kW}$ of heat from the outlet, turbine howl, server PSUs, and the 24 GB VRAM per-card limit (Tensor Parallelism eats the PCIe bus).
   * *Apple Mac Studio (M-series Ultra):* Unified Memory (128–192 GB shared between CPU and GPU at bus speeds up to **800 GB/s**) at peak draw of **150–200 W** and total silence. A 70B Q8 or Command-R+ model runs whole on one chip, no crutches or network latency.
   * *Bob's verdict:* For the home operator, Apple Silicon M-Ultra is the quietest and most energy-efficient expansion tank for heavy local weights. If you're building an RTX GPU farm — run a separate ventilation pipe and put a CO2 extinguisher right at the rack.
 
@@ -1536,7 +1536,7 @@ Scam site ──► Request: "Permit: Unlimited USDT Spend" ──► User hits 
 > 1. Throw out default MetaMask. Install **Rabby Wallet** — it has a powerful transaction-simulation engine: before signing, it natively shows exactly which assets will leave the wallet and how suspicious the contract is.
 > 2. Regularly visit **Revoke.cash** and revoke old unlimited approvals.
 > 3. **Account isolation (Air Gap):** Never connect the wallet holding your main savings to websites. Keep a spending "hot" burner wallet, into which you transfer exactly the amount you intend to spend.
-> 4. **Crypto Address Poisoning [P0-83: ADDRESS-POISONING]:** A vector against which Passkeys and hardware keys are powerless — it exploits human perceptual caching rather than cryptography. Human working memory verifies only the prefix and suffix of an address (Miller's \$4 \pm 1$ chunk limit on a 40-hex string), while brute-forcing a vanity address with matching 4-byte front and rear chunks requires just \$16^8 \approx 4.29 \times 10^9$ iterations (minutes on a modern GPU). Mechanics (MITRE AADAPT ADT3020.002): scammers send **zero-value dust transfers** from vanity lookalike addresses into your wallet, poisoning transaction history so you copy the attacker's address when sending funds. **Historical damage: \$68M stolen from a single whale in May 2024.**
+> 4. **Crypto Address Poisoning [P0-83: ADDRESS-POISONING]:** A vector against which Passkeys and hardware keys are powerless — it exploits human perceptual caching rather than cryptography. Human working memory verifies only the prefix and suffix of an address (Miller's $4 \pm 1$ chunk limit on a 40-hex string), while brute-forcing a vanity address with matching 4-byte front and rear chunks requires just $16^8 \approx 4.29 \times 10^9$ iterations (minutes on a modern GPU). Mechanics (MITRE AADAPT ADT3020.002): scammers send **zero-value dust transfers** from vanity lookalike addresses into your wallet, poisoning transaction history so you copy the attacker's address when sending funds. **Historical damage: \$68M stolen from a single whale in May 2024.**
 > 5. **Address hygiene protocol:** 1) **Never copy destination addresses from transaction history** — copy strictly from primary sources (Address Book allowlists, ENS/Unstoppable Domains); 2) manually verify characters in the **MIDDLE** of the hash; 3) new counterparties require a mandatory **\$1 test transaction** with out-of-band confirmation; 4) large transfers require clean addresses generated on air-gapped devices.
 
 ---
@@ -1683,7 +1683,7 @@ If a text/video contains even one of these markers — the valve closes instantl
 
 ##### 1. The password `P@$$w0rd` — garbage. The long phrase `tractor-herring-brick-cosmos` — a monolith
 
-* **Why:** Password length beats symbol complexity exponentially. In an 8-character password with special characters, entropy is around \$30\text{–}40$ bits. A modern GPU rig (an RTX 4090 cluster) brute-forces it against NTLM/MD5 tables in minutes.
+* **Why:** Password length beats symbol complexity exponentially. In an 8-character password with special characters, entropy is around $30\text{–}40$ bits. A modern GPU rig (an RTX 4090 cluster) brute-forces it against NTLM/MD5 tables in minutes.
 * Four random dictionary words (the Diceware method) give 25–30 characters and $>75$ bits of entropy. Brute-forcing it would take millions of years of every data center on the planet. And the human brain memorizes the phrase effortlessly.
 
 ```
@@ -1910,7 +1910,7 @@ adb shell pm uninstall -k --user 0 com.miui.msa.global
 
 **Operator Runbook: Operational Response to Mandated MAX Deployment ([P0-77]):**  
 If required by employers, municipal agencies, or educational institutions to install MAX:  
-1. **The "Clean Burner" Rule:** Never install MAX on your primary personal device (it immediately uploads your complete contact database—including overseas bank contacts and family members). Procure a low-cost secondary Android phone ($30–$40), insert a dedicated work-only SIM card, and **keep the address book 100% empty (0 contacts)**. Let MAX ingest an empty slate.  
+1. **The "Clean Burner" Rule:** Never install MAX on your primary personal device (it immediately uploads your complete contact database—including overseas bank contacts and family members). Procure a low-cost secondary Android phone (\$30–\$40), insert a dedicated work-only SIM card, and **keep the address book 100% empty (0 contacts)**. Let MAX ingest an empty slate.  
 2. **Work Profile Container:** If a second device is unavailable, install **Shelter** or **Insular** (from F-Droid), initialize an isolated Android Work Profile, clone MAX **strictly inside the work sandbox**, and block cross-profile data access (`Settings → Work Profile → Cross-profile data access → Block`)—retaining MAX inside an isolated vacuum.  
 3. **Strip All OS Permissions:** Navigate to `Settings → Apps → MAX → Permissions`—revoke Contacts, Location, Nearby Devices (Bluetooth), and Storage; activate Microphone access only during the recording of a voice message and revoke immediately thereafter.  
 4. **Isolated Browser Sandbox:** On desktop systems, access `web.max.ru` strictly inside an isolated container (Firefox Multi-Account Containers or a dedicated Brave/Mullvad browser instance) with zero access to password vaults, cryptocurrency wallets, or personal accounts.
@@ -2178,7 +2178,7 @@ Under the cover of "existential AI threat" narratives, the cloud monopolists (Op
 
 #### **2. The physical barrier: the energy deficit and the Aschenbrenner memorandum:**
 The exponential sprint to superintelligence (ASI) hits Ohm's law and the materials science of power grids (Leopold Aschenbrenner, *"Situational Awareness"*):
-* A \$100\text{ GW}$-scale cluster (2028–2030) requires **20% of total US electric generation** (the equivalent of 80–100 nuclear units). Reactor restarts (Three Mile Island for Microsoft) and small modular reactors (SMR) will reach industrial operation no earlier than 2030–2035.
+* A $100\text{ GW}$-scale cluster (2028–2030) requires **20% of total US electric generation** (the equivalent of 80–100 nuclear units). Reactor restarts (Three Mile Island for Microsoft) and small modular reactors (SMR) will reach industrial operation no earlier than 2030–2035.
 * **The raw-material clog of distribution grids:** Delivery lead times for high-voltage generator step-up (GSU) transformers hit a record **4–6 years (200–250 weeks)** due to shortages of electrical-grade silicon steel (GOES), copper, and qualified winders. The software singularity crashed into an electrical-engineering dead end. To every gigawatt datacenter fantasy, physical reality responds with Sheldon Cooper's immortal line: *«O gravity, thou art a heartless bitch»* — Joule heating melts copper wires, and prompt engineering cannot override the laws of thermodynamics.
 
 #### **3. The operator's personal sovereignty strategy:**
@@ -2743,24 +2743,24 @@ Domestic warfare rarely starts over unwashed mugs; it stems from asymmetric cogn
 #### **Bob's 6 Cast-Iron Partnership Valves**
 
 1. 🧭 **The Polar Expedition Model:** Pick a partner not based on showroom polish ("demo mode"), but as a co-navigator for a grueling Arctic crossing. Ability to endure hardship, cold, and friction without throwing tantrums.
-2. 🤝 **The 3-Way TCP Handshake Protocol:** Zero high-stakes decisions under emotional impulse. Proposal $	o$ Risk Analysis & Cost Breakdown $	o$ Signed Mutual Commitment.
+2. 🤝 **The 3-Way TCP Handshake Protocol:** Zero high-stakes decisions under emotional impulse. Proposal $\to$ Risk Analysis & Cost Breakdown $\to$ Signed Mutual Commitment.
 3. 📜 **Pre-Mortem & Binding Prenuptial Agreement:** Engineer the divorce pipeline BEFORE walking into the registry office. A notarized separate property regime protects both parties from downstream creditor clawbacks and joint liability.
 4. 🪣 **The 3-Bucket Treasury Architecture:** Husband Personal Account (100% Sovereign), Wife Personal Account (100% Sovereign), Joint Family Operating Account (Proportional Funding).
 5. 🏕️ **Offline Gemba Dating:** Stress-test candidates in harsh operational conditions (home renovation, multi-day wilderness treks, 12-hour international airport cancellations), not cushioned bistro booths.
 6. 🚨 **The 03:00 AM Crisis Test:** When a main pipe bursts or an emergency knocks at 3 AM, does your partner execute SOPs with cold clarity or disintegrate into catastrophic emotional panic?
 ---
 
-#### **6.7.1. UHNW Dating & Elite $250,000 Matchmaking: The Forensics of Concierge Headhunting, Circumventing NY GBL § 394-c & The Myth of Guaranteed Outcomes ([P0-124: UHNW-MATCHMAKING-FORENSIC-GATE])**
+#### **6.7.1. UHNW Dating & Elite \$250,000 Matchmaking: The Forensics of Concierge Headhunting, Circumventing NY GBL § 394-c & The Myth of Guaranteed Outcomes ([P0-124: UHNW-MATCHMAKING-FORENSIC-GATE])**
 
 > 💎 **THE ILLUSION OF TRANSACTIONAL COMPATIBILITY IN UHNW VERTICALS:**  
-> In September 2026, business media circulated a *Business Insider* as-told-to essay (*"I'm a Matchmaker Who Charges up to $250,000"*) by Kelly Burch featuring Sameera Sullivan, founder of *Sameera Sullivan Matchmakers* (formerly *Lasting Connections LLC*). Clickbait aggregators immediately bastardized the signal: *"Woman earns $250k running a dating subscription."* Let's tear this clog down to bare pipe: if it's not in the docket, the audit, or the PCAP dump, it's marketing fiction.
+> In September 2026, business media circulated a *Business Insider* as-told-to essay (*"I'm a Matchmaker Who Charges up to \$250,000"*) by Kelly Burch featuring Sameera Sullivan, founder of *Sameera Sullivan Matchmakers* (formerly *Lasting Connections LLC*). Clickbait aggregators immediately bastardized the signal: *"Woman earns \$250k running a dating subscription."* Let's tear this clog down to bare pipe: if it's not in the docket, the audit, or the PCAP dump, it's marketing fiction.
 
 ##### **1. Deconstructing the Distortion: Contract Retainer vs Founder Net Take-Home**
-* **"Earns $250k" — FACTUAL FALSEHOOD (Gross Fee vs Net Income):** $250,000 is the ceiling for a single bespoke high-tier retainer fee, not founder salary or annual earnings. Base packages across the boutique tier start at $100,000–$150,000. Confusing contract revenue with founder net income is basic bookkeeping illiteracy.
+* **"Earns \$250k" — FACTUAL FALSEHOOD (Gross Fee vs Net Income):** \$250,000 is the ceiling for a single bespoke high-tier retainer fee, not founder salary or annual earnings. Base packages across the boutique tier start at \$100,000–\$150,000. Confusing contract revenue with founder net income is basic bookkeeping illiteracy.
 * **"Dating Subscription" — CATEGORICAL ERROR:** This is not SaaS, and it is not Tinder Gold. This is pure **retained executive search / concierge headhunting for personal life**, requiring an upfront, 100% non-refundable retainer before candidate one is introduced.
 * **"Database of 22,000 Women" — UNVETTED LEAD FUNNEL:** The cited 22,000 profiles represent an open, unvetted web application registry for hopeful candidates seeking affluent partners. Zero independent audits exist; this is an unpaid top-of-funnel lead registry, not verified, active client rosters.
 * **The Throughput Bottleneck:** A boutique matchmaker physically cannot manage more than **8–10 active high-touch accounts per year** without immediate operational breakdown. Delegating to junior managers collapses match quality, triggering breach-of-contract disputes from litigious high-net-worth clients.
-* **The Macro Landscape:** Sullivan is not an outlier. The UHNW matchmaking market has operated for decades: **Kelleher International** ($30k–$300k+), **Selective Search** (contracts reaching $500k–$1M for global sweeps), and **Linx Dating** in Silicon Valley (Amy Andersen, up to $500k). It is a bespoke consulting micro-market catering to a few hundred time-poor founders with multi-million-dollar liquidity.
+* **The Macro Landscape:** Sullivan is not an outlier. The UHNW matchmaking market has operated for decades: **Kelleher International** (\$30k–\$300k+), **Selective Search** (contracts reaching \$500k–\$1M for global sweeps), and **Linx Dating** in Silicon Valley (Amy Andersen, up to \$500k). It is a bespoke consulting micro-market catering to a few hundred time-poor founders with multi-million-dollar liquidity.
 
 ##### **2. Legal Defectoscopy: Statutory Fee Ceilings & Mandatory Arbitration**
 ```
@@ -2770,7 +2770,7 @@ Domestic warfare rarely starts over unwashed mugs; it stems from asymmetric cogn
 │ STATUTE / DOCKET       │ LEGAL MECHANICS & CIRCUMVENTION PATTERNS                      │
 ├────────────────────────┼───────────────────────────────────────────────────────────────┤
 │ 1. **NY GBL § 394-c**   │ New York General Business Law § 394-c (*Social Referral       │
-│    ($1,000 Fee Cap)**  │ Services*) STRICTLY FORBIDS charging over $1,000 for dating   │
+│    (\$1,000 Fee Cap)**  │ Services*) STRICTLY FORBIDS charging over \$1,000 for dating   │
 │                        │ services. Boutiques bypass this ceiling by disguising agree-  │
 │                        │ ments as "executive coaching," "consulting," or "headhunting."│
 ├────────────────────────┼───────────────────────────────────────────────────────────────┤
@@ -2787,7 +2787,7 @@ Domestic warfare rarely starts over unwashed mugs; it stems from asymmetric cogn
 ├────────────────────────┼───────────────────────────────────────────────────────────────┤
 │ 5. **Washington DFI**  │ Consent Order No. S-20-3041-21-CO01 against Sameera Sullivan  │
 │    **Securities Case** │ & Lasting Connections LLC: regulatory enforcement for selling │
-│    **(2021)**          │ unregistered securities for app development ($50k raised),    │
+│    **(2021)**          │ unregistered securities for app development (\$50k raised),    │
 │                        │ NOT civil litigation regarding matchmaking quality failures.  │
 └────────────────────────┴───────────────────────────────────────────────────────────────┘
 ```
@@ -2798,7 +2798,7 @@ Domestic warfare rarely starts over unwashed mugs; it stems from asymmetric cogn
 * **The Final Demarcation:** This is not criminal fraud—it is **ultra-expensive concierge headhunting for personal life with hard-to-quantify ROI**. Wealthy operators pay six figures not for guaranteed romance (legally impossible to promise), but to buy back their time, enforce absolute privacy via NDAs, and filter out baseline grifters.
 
 > 🔧 **Translation from English to English (Plain English from Bob):**  
-> **Plain English:** If you sold your startup for $50M, pull 80-hour workweeks, and can't flash your mug on Tinder or Raya without courting corporate blackmail or gold-diggers, you hire a personal headhunter. You hand them a $150,000 retainer upfront, exactly like hiring an executive search firm to poach an engineering VP.  
+> **Plain English:** If you sold your startup for \$50M, pull 80-hour workweeks, and can't flash your mug on Tinder or Raya without courting corporate blackmail or gold-diggers, you hire a personal headhunter. You hand them a \$150,000 retainer upfront, exactly like hiring an executive search firm to poach an engineering VP.  
 > **The Catch:** There is zero "AI neuro-magic" or guaranteed chemistry here. You are paying a six-figure markup for manual LinkedIn outreach and restaurant reservations packaged under the label of "consulting" (because New York statute caps pure dating contracts at a thousand bucks). When the candidate turns out to be incompatible, your non-refundable retainer is already burned and your claims are locked inside a private JAMS arbitration chamber.  
 > **Your Action Item Right Now ([P0-124: UHNW-MATCHMAKING-FORENSIC-GATE]):**  
 > 1. Stop confusing top-line contract billings with founder personal take-home.  
