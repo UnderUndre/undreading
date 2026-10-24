@@ -179,6 +179,19 @@ Naruto and Sasuke are not merely "hero and rival" from shonen manga; they embody
 > 2. Never play "Itachi" with your kids or partner: tell the unvarnished truth directly and stop manufacturing artificial trauma;  
 > 3. If you catch yourself retaliating against the world for old scars, hit the emergency shutoff. Cut the cycle of vengeance right at your own elbow joint.
 
+##### **6. Animated artifacts of the cultural code: "Spirit: Stallion of the Cimarron" and "Kung Fu Panda" (extending the [P0-143] pantheon)**
+
+The monograph's cultural code is not limited to manga: two DreamWorks titles are a load-bearing beam of archetypes for resisting expropriation (L1–L4) and for the epistemological deconstruction of sacred artifacts (L2/L3).
+
+* **"Spirit: Stallion of the Cimarron" (DreamWorks, 2002) — the anti-fragility of the bio-host and the kinetics of sabotage:**
+  1. *Refusal of an anthropomorphic interface:* 90% of the semantic load is carried by non-verbal biomechanics (ears, pupils, shifting the center of mass), not talking lips. Lesson: never hand the adversary a convenient interface for manipulating you — non-verbalism here works as an SEP-field against breaking-in;
+  2. *Metabolic pressure-testing (three days at the post):* The cavalry officer tries to break the stallion through deprivation of water and food under the blazing sun, but what burns out is not the horse — it is the trainer's authority: institutional trust depletes faster than the bio-host's metabolic reserve. Lesson: an operator with a sovereign metabolic buffer always has a longer break-down timeout than the institution trying to break him;
+  3. *The locomotive crash on the pass (gravitational reverse):* Spirit fakes terminal muscle failure (Graceful Degradation), slips the harness at peak tension and redirects the conveyor's kinetic mass ($F = mg\sin\alpha$) against its creators — crumpled rails, a fuel explosion, the liquidation of the construction sector. **Lesson:** if you are harnessed into a conveyor that is destroying your base risers, don't try to pull weaker; simulate the failure, cut the coupling and redirect the system's energy against its builders.
+* **"Kung Fu Panda" (DreamWorks, 2008–2016) — the epistemological deconstruction of the sacred artifact:**
+  1. *The empty Dragon Scroll ("There is no secret ingredient"):* The sacred artifact everyone was ready to kill for is a reflecting surface: the magic was in the operator, not the scroll. Lesson: chasing someone else's "secret ingredient" (a plan, a course, a prompt) is betting on the tool instead of calibrating the operator;
+  2. *Inner peace as an active damper:* Master Shifu teaches Po to extinguish external noise (trauma flashbacks) at peak pressure: a shaking hand does not hold a valve. In engineering terms this is a vibration damper in the control loop, not mysticism;
+  3. *A mentor without a ready-made algorithm (Oogway):* "Yesterday is history, tomorrow is a mystery, but today is a gift" is not a motivational poster — it is the same stance as Naruto's in the matrix above: the mentor hands out no ready-made global recipe; he returns the operator to the only point where action is possible — the present.
+
 ---
 
 #### **4.1. The Tactical Circuit and Anomaly Investigation**
