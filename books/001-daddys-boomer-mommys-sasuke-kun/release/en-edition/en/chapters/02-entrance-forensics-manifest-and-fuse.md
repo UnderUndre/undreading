@@ -222,3 +222,46 @@ Never spawn separate repositories for book content and build scripts. The indust
 
 ---
 
+### 🤖 CO-AUTHORSHIP MANIFESTO: WHY THIS BOOK WAS CREATED WITH AI AND WHY YOU ARE STILL OBLIGED NOT TO TRUST IT
+
+In the era of mass "vibe coding," attitudes toward artificial intelligence are polarized to the limit:
+* For techno-optimists, it is a "neural exoskeleton of thinking" capable of replacing an entire analyst team;
+* For skeptics, it is **"AI slop"** — a generator of soulless statistical sludge stuffed with stock parasites ("In today's fast-paced digital world...", "delve into the intricate tapestry...").
+
+Let's flush this riser from first principles.
+
+#### 1. Fiction vs Applied Non-Fiction: The Difference in the Price of an Error
+If a neural network hallucinates in a novel — the reader winces at the cardboard characters and closes the book.
+If a neural network hallucinates in an **engineering manual for survival and sovereignty defense**:
+* It outputs a wrong antidote dosage for anaphylaxis or a heart attack — **biological death ensues (L1)**;
+* It invents a non-existent court precedent or confuses Form W-9 with W-8BEN — **account seizure and a $25,000 IRS fine ensue (L4)**;
+* It writes a sloppy shell script that bypasses the sandbox — **root private keys leak (L2)**.
+
+In applied non-fiction, the price of a hallucination equals a systemic catastrophe.
+
+#### 2. Build Architecture: Extracting Bedrock vs the Stochastic Parrot
+Large language models (LLMs) are stochastic next-token predictors. They do not "know" the truth; they generate statistically probable text. Relying on a neural network's internal memory when writing safety standards is suicide.
+
+This monograph enforces a strict division of labor:
+1. **The human operator (Undre):** Real lived experience ($N=1$), scar tissue, survived incidents (a ruptured annulus fibrosus, a startup failure, the family circuit), architectural constraints, and personal accountability with his own hide (*Skin in the Game*);
+2. **AI in the persona of Uncle Tolya (Infrastructure Plumber):** A computational compiler and search probe. Its task is **NOT to invent facts out of thin air** but to lift raw **Level 1** and **Level 2** data from open primary sources:
+   * Case numbers and verdicts in judicial databases (PACER, the Ukrainian/Russian court registries, England & Wales judgments);
+   * Financial audit reports on SEC EDGAR (10-K, 10-Q);
+   * Evidence-based medicine protocols and randomized clinical trials with valid DOIs in PubMed;
+   * Technical specifications of standards (RFC, NIST, ISO, TCCC CoTCCC).
+
+#### 3. Presumption of Defect: The Zero-Trust Principle Applied to This Book
+The paradox of epistemology is that **even with a RAG pipeline, fact-checking, and hard prompts, the risk of AI slop and hidden errors never drops to zero**. The model can distort a formula, and a human author in a state of fatigue can miss an inaccuracy.
+
+Hence the book's main plumbing commandment:
+> **NO PAPERWORK, NO STANDING — AND UNQUESTIONING FAITH IN THIS BOOK IS A HOLE IN THE PERIMETER ALL THE SAME.**
+
+Treat the text of this book as a **pressure-testing blueprint**, not as scripture:
+* Before taking any medication — **get blood tests and see a licensed physician**;
+* Before filing tax returns — **run the checklist with your certified accountant (CPA)**;
+* Before deploying code to production — **verify the boundary conditions and the $O(N)$ computational complexity in an isolation environment**.
+
+The book hands you a #32 cast-iron wrench and a map of the minefield. But turning the bolts and pressure-testing the joints with your own hands is your job and nobody else's.
+
+---
+

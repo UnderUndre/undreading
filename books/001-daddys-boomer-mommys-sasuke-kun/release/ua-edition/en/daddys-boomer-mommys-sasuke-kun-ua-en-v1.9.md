@@ -570,6 +570,49 @@ If you are ready to:
 
 ---
 
+### 🤖 CO-AUTHORSHIP MANIFESTO: WHY THIS BOOK WAS CREATED WITH AI AND WHY YOU ARE STILL OBLIGED NOT TO TRUST IT
+
+In the era of mass "vibe coding," attitudes toward artificial intelligence are polarized to the limit:
+* For techno-optimists, it is a "neural exoskeleton of thinking" capable of replacing an entire analyst team;
+* For skeptics, it is **"AI slop"** — a generator of soulless statistical sludge stuffed with stock parasites ("In today's fast-paced digital world...", "delve into the intricate tapestry...").
+
+Let's flush this riser from first principles.
+
+#### 1. Fiction vs Applied Non-Fiction: The Difference in the Price of an Error
+If a neural network hallucinates in a novel — the reader winces at the cardboard characters and closes the book.
+If a neural network hallucinates in an **engineering manual for survival and sovereignty defense**:
+* It outputs a wrong antidote dosage for anaphylaxis or a heart attack — **biological death ensues (L1)**;
+* It invents a non-existent court precedent or confuses Form W-9 with W-8BEN — **account seizure and a $25,000 IRS fine ensue (L4)**;
+* It writes a sloppy shell script that bypasses the sandbox — **root private keys leak (L2)**.
+
+In applied non-fiction, the price of a hallucination equals a systemic catastrophe.
+
+#### 2. Build Architecture: Extracting Bedrock vs the Stochastic Parrot
+Large language models (LLMs) are stochastic next-token predictors. They do not "know" the truth; they generate statistically probable text. Relying on a neural network's internal memory when writing safety standards is suicide.
+
+This monograph enforces a strict division of labor:
+1. **The human operator (Undre):** Real lived experience ($N=1$), scar tissue, survived incidents (a ruptured annulus fibrosus, a startup failure, the family circuit), architectural constraints, and personal accountability with his own hide (*Skin in the Game*);
+2. **AI in the persona of Uncle Tolya (Infrastructure Plumber):** A computational compiler and search probe. Its task is **NOT to invent facts out of thin air** but to lift raw **Level 1** and **Level 2** data from open primary sources:
+   * Case numbers and verdicts in judicial databases (PACER, the Ukrainian/Russian court registries, England & Wales judgments);
+   * Financial audit reports on SEC EDGAR (10-K, 10-Q);
+   * Evidence-based medicine protocols and randomized clinical trials with valid DOIs in PubMed;
+   * Technical specifications of standards (RFC, NIST, ISO, TCCC CoTCCC).
+
+#### 3. Presumption of Defect: The Zero-Trust Principle Applied to This Book
+The paradox of epistemology is that **even with a RAG pipeline, fact-checking, and hard prompts, the risk of AI slop and hidden errors never drops to zero**. The model can distort a formula, and a human author in a state of fatigue can miss an inaccuracy.
+
+Hence the book's main plumbing commandment:
+> **NO PAPERWORK, NO STANDING — AND UNQUESTIONING FAITH IN THIS BOOK IS A HOLE IN THE PERIMETER ALL THE SAME.**
+
+Treat the text of this book as a **pressure-testing blueprint**, not as scripture:
+* Before taking any medication — **get blood tests and see a licensed physician**;
+* Before filing tax returns — **run the checklist with your certified accountant (CPA)**;
+* Before deploying code to production — **verify the boundary conditions and the $O(N)$ computational complexity in an isolation environment**.
+
+The book hands you a #32 cast-iron wrench and a map of the minefield. But turning the bolts and pressure-testing the joints with your own hands is your job and nobody else's.
+
+---
+
 ## **PROLOGUE AND DIAGNOSIS**
 
 ### **Prologue. Confession of a Digital Plumber (Origin Story)**
@@ -5495,6 +5538,11 @@ Switch off the sweet talk of infobusiness courses and pull up the raw research l
 2. **"Turnkey promotion packages" from aggregators (Author.Today, Litres):** Selling banners and mailings for 30,000–150,000 RUB. Banners go into blind zones, and pooled email mailings have an Open Rate < 3%. To recoup 100,000 RUB at a 50 RUB royalty per book, you'd need 2,000 copies sold. The package's actual yield — 10–30 sales. Deeply negative ROI.
 3. **AI generation of low-grade pseudo-books:** Attempts to spam Amazon and Author.Today with generated sludge without editing are punished by algorithmic bans (KDP capped daily publication limits; Author.Today hardware-blocks commercial status for AI texts from September 2026).
 4. **The "Coral Hart" case: "an AI pipeline of 370 books and $1M" (forensic deconstruction of the news hook):** The media flogged the story of a South African writer who "just invented plots while Grok, ChatGPT and Claude wrote 370 books for her and made her $1M." The AFP forensics of the primary source (interviews, Level 2) takes the headline apart: *"just invented plots"* — in reality **14 years of traditional publishing experience** and dozens of books written by hand before AI; *"generated in a couple of clicks"* — **3 months of building** a multi-stage multi-model pipeline (ChatGPT for living dialogue, Claude for plot architecture and character arcs, Grok/NovelAI for the scenes Claude and OpenAI censor) plus a hired human proofreader on the final pass, scrubbing the "AI tells"; *"370 books"* — **10–21 pen names** in narrow romfantasy niches, with only one book out of 371 ever hitting the Amazon top-100; *"$1M"* — a self-reported estimate with zero audit behind it (Level 3). Meanwhile the author has already trained 1,500+ students on paid courses and is launching her own paid software for AI authors — a classic shovel-selling funnel. **Lesson:** even a genuinely working AI self-publishing pipeline is a full-blown publishing operation with a human editor at the output, not a "money button"; and if someone is selling you that button, look for where they sell the shovels.
+5. **The prize map for AI-assisted self-publishing (Zero-Trust audit of the regulations, 2026-10-25):** The 2026–2027 prize market has split into three circuits: AI-native, self-publishing-neutral, and hostile (an outright ban on generative software):
+   * *Prix Pascal (France, deadline 2026-11-30, 23:59 CET):* The first prize for non-fiction created in a human-LLM symbiosis. Regulations: manuscript strictly in French, anonymous submission (no name in the file), length **10,000–50,000 words (~300,000 characters)** — a full 500-page tome will not fit; a concentrated adaptation-distillate is required (40–48k words: manifesto + L1–L5 triage + forensics). Self-publishing is explicitly allowed (*"les œuvres publiées sur des plateformes d'auto-édition sont éligibles"*), non-fiction is encouraged. **The killer clause of the declaration:** *"aucun texte humain préexistant n'a été inséré manuellement"* — the French text must be generated by the model from the seed prompt (La Graine) and the pipeline described in the technical dossier, not manually pasted machine translation of a finished tome. Route: the FR distillate is submitted anonymously as a PDF; the commercial release of the French edition is postponed until the results are announced (December 2026) to avoid de-anonymizing the jury; the term *«œuvre inédite»* is clarified with the organizers in writing;
+   * *The English circuit (after the EN volume ships on KDP):* **Eric Hoffer Award** (until January 21; no AI ban in the rules; categories Health / Reference / Self-Help / Business) and **Next Generation Indie Book Awards** (until February 12; Science/Technology, Current Events categories) — maximum weight in US library and retail networks. **IPPY Awards** — low priority: the jury explicitly discriminates against AI (*"The use of AI is discouraged and may factor into the judges' final decision"*), risking a burned $89–$99 entry fee;
+   * *The Via Negativa red list:* **Foreword INDIES**, **Writer's Digest Annual Competitions** and **Best Indie Book Award** explicitly ban AI-generated content — submitting there with an openly declared AI co-author guarantees disqualification;
+   * *Lesson:* a prize is a PR channel, not a cash register: an experimental new prize has no historical base rate of winning, and the jury's "money button" is the same infotainment sludge as the "Coral Hart" case above. Submission only makes sense after the print volume ships, with the method transparently disclosed (KDP AI Disclosure) and written answers from the organizers on ambiguous clauses.
 
 > 🔧 **Engineer-to-human translation (in plain terms, from Uncle Tolya):**
 > **In plain language:** You won't get rich writing one "masterpiece" and waiting for the ship to come in. Self-publishing is a rolling mill. Either you pick a clear milking niche (boyar-fantasy, LitRPG, romfantasy) and hammer out a long 5–8-volume series on a hard schedule (a chapter every two days), collecting people into your Telegram/mailing list — or your standalone sells a print run of 40 copies to your relatives. A reader who liked the volume votes the only way available: "The author rocks — write more!"
