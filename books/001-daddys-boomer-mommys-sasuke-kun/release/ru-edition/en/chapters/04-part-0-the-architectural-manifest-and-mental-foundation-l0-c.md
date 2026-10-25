@@ -252,6 +252,7 @@ In 2024–2026, the software industry was swept by the **Vibe Coding** phenomeno
 >   > 1. **Absolute ban on blind deploys:** Not a single AI-generated line enters prod without full understanding of its computational complexity ($O(N)$ vs $O(N^2)$), memory allocation, and failure model.
 >   > 2. **The fundamental survival stack:** Master the low-level debugging tools: `gdb`, `lldb`, `strace`, `valgrind`, `perf`, `eBPF`.
 >   > 3. **The career split strategy:** Don't be a "prompt operator" running errands for someone else's API. Be a systems engineer of the core (Ring 0 / Bare-metal / High-Load) who understands how bytes flow down the copper traces and where system sockets tear.
+>   > 4. **No blind UI deployment from prompts:** the markup is verified by a deterministic Visual Feedback Loop (§7.5.8.6): Playwright + axe-core + an isolated Vision critic, convergence fuse $k \le 3$.
 
 ---
 

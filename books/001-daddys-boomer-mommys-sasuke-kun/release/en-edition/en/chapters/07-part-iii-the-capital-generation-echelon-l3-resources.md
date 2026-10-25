@@ -434,6 +434,71 @@ Banish the fairytale of *"buy a blue checkmark, post 5 threads a day, and collec
 
 ---
 
+---
+
+#### **7.5.8.6. AI-UI generation defectoscopy: Why "pretty prompts" breed AI slop and how to build a closed Visual Feedback Loop ([P0-88-UI: DETERMINISTIC-DESIGN-LOOP])**
+
+> 💡 **STEP 0: HOUSEHOLD GROUNDING (IN PLAIN TERMS)**
+> The infobusiness on social media sells a fairy tale: "Copy a prompt from Scrolltide, paste it into Lovable or v0 — and you get a \$5,000 landing page in 5 minutes."
+> In reality this is a blind painter locked in a dark room, asked to paint the walls "in a fashionable color." He swings the roller from memory, misses the baseboards, paints over the windows, and cheerfully reports: "Boss, all done, the vibe is excellent!"
+> A large language model (LLM) is a text calculator. It has no eyes, no retina, and no built-in browser renderer. If you don't give it eyes (a screenshotter) and calipers (a code linter), the output is always the same AI slop: a blue-purple gradient, the Inter font, three identical cards, and a layout that falls apart on the first smartphone screen.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ NAIVE BLIND PROMPTING SCHEME (FAIL):                                   │
+│ Prompt ──► LLM ──► Blind coding ──► Layout bugs / CLS > 0 ──► Default  │
+├────────────────────────────────────────────────────────────────────────┤
+│ CLOSED DESIGN PRESSURE-TEST LOOP (SUCCESS):                            │
+│ Reference + Tokens ──► LLM (Actor) ──► Dev server                      │
+│                                            │                           │
+│     ┌──────────────────────────────────────┘                           │
+│     ▼                                                                  │
+│ Playwright (Headless CDP)                                              │
+│ ├── axe-core (WCAG 2.1 AA contrast in 12ms) ──► JSON error log         │
+│ ├── Layout Shift / Overflow (scrollWidth > innerWidth)                 │
+│ └── Screenshot (375px @3x, 1440px @2x, fonts.ready)                    │
+│     │                                                                  │
+│     ▼                                                                  │
+│ LLM-Critic (Art-director subagent) ──► Delta fix ──► Release (k ≤ 3)   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+##### **1. Physical and algorithmic limits of UI generation**
+1. **Spatial Hallucination:** Multimodal models (Claude 3.5 Sonnet, GPT-4o) perceive a raster PNG holistically, as a gestalt blob. The model does not work as a pixel meter: it cannot tell `padding: 16px` from `24px` or compute margin collapsing from a picture.
+2. **The Agreeableness Bias trap (you coded it — you praised it):** If the same model generates the markup and then evaluates its own result in the same chat window, it inherits the blind spots of its own context. The model looks at a misaligned block and reports: "The design looks clean and modern."
+3. **Fix oscillation (Design Thrashing):** Without hard constraints the blind model enters an infinite edit loop: increases a padding $	o$ breaks a flex container $	o$ shrinks a neighboring block $	o$ hangs the page in horizontal scroll. At iteration $k=4$ the context window is clogged with screenshots and the model loses the plot.
+
+##### **2. Tool anatomy: ai-design-skills vs Scrolltide**
+* **`ai-design-skills` (elayadesign):** Not a generator and not a design system. It is a **negative linter at the system-prompt level (Markdown rules)** for Cursor and Claude Code. It forbids the model from using clichés (default Inter, purple buttons, cards with icons in circles), enforces spacing tokens, and stages intake questions. Usefulness: **8/10 as a guide rail** cutting 70% of the sludge, but powerless against geometry bugs without a visual circuit.
+* **`scrolltide.co`:** A showcase of ready-made prompts and heavy animation patterns (GSAP, Framer Motion, Three.js, WebGL shaders). Usefulness: **a source of visual ideas**, but code for 3D shaders pasted blindly into a project overloads mobile GPUs, wrecks Core Web Vitals (LCP, INP) and leaks WebGL context on mobile Safari.
+
+##### **3. The engineering standard: Closed-Loop Visual Feedback (Actor-Critic Pipeline)**
+To get senior-product-designer-grade output, the build loop stands on 4 hardware interlocks:
+
+1. **Deterministic linters before Vision tokens:**
+   Spending LLM tokens on contrast and overflow checks is forbidden.
+   * Horizontal-scroll check: the mathematical script `document.documentElement.scrollWidth > window.innerWidth`;
+   * Contrast and accessibility check: automatic run of the **`axe-core`** library through Playwright (WCAG 2.1 AA formula $L_1/L_2 \ge 4.5:1$ verified in 15 milliseconds, JSON out).
+2. **Render hygiene in Headless Chromium:**
+   * **Font race (FOUT/FOIT):** Screenshots are forbidden until the `await document.fonts.ready` promise resolves. Otherwise the model sees default Times New Roman instead of the custom grotesque and starts panic-breaking styles.
+   * **Animation freeze:** The forced flag `page.emulateMedia({ reducedMotion: 'reduce' })`, excluding shots of translucent blocks mid-CSS-transition.
+   * **Honest mobile DPR:** The 375px mobile viewport is shot strictly with `deviceScaleFactor: 3` (emulating real iPhone pixel density).
+3. **Actor-Critic role separation (Subagent Isolation):**
+   * **Actor (Coder):** Writes markup strictly on top of proven design systems (Tailwind + Headless / Radix UI / shadcn primitives), where state logic (`hover`, `focus-visible`, `aria-*`) is baked in mathematically.
+   * **Critic (Art director):** An isolated prompt with zero knowledge of the code. Input: screenshot + Accessibility Tree snapshot + axe-core JSON error log. Output: a strict delta report with selectors.
+4. **Convergence fuse ($k \le 3$):**
+   The loop limit is 3 auto-fix iterations max. If the layout has not converged in 3 runs — a hardware stop-crane and a call to a human.
+
+> 🔧 **Engineer-to-human translation (in plain terms):**
+> **In plain language:** No magic prompt will turn a neural network into a great designer until you give it the ability to **see its own code in a browser**.
+> **Where the trap is:** Prompts with beautiful 3D animations from social media generate code that looks spectacular in the video but, on the client's real smartphone, freezes, stutters at 15 fps and won't let you tap the order button. And an ordinary chatbot without layout verification is convinced it painted a masterpiece even when the text has overflowed the screen.
+> **Your action right now ([P0-88-UI]):**
+> 1. Fence the AI into proven component systems (**Tailwind + shadcn/ui**), where spacing and responsiveness have already been solved by engineers.
+> 2. Wire the **ai-design-skills** rules into `.cursorrules` or `.claude/skills` as a hard filter against hackneyed clichés.
+> 3. Close the loop with **Playwright**: let the agent render the page itself, check accessibility via `axe-core`, screenshot the mobile viewport and fix the bugs before you open the site with your own hands.
+
+---
+
 #### **7.5.9. The Analysis of High-Margin Technical Monetization Niches**
 
 For engineers, developers, and technical specialists there exist narrow market niches with an asymmetric labor-to-margin ratio:

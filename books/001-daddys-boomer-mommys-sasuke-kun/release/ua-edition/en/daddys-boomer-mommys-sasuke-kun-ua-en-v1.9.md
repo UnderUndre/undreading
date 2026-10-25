@@ -290,7 +290,7 @@ Before you start turning valves, let's normalize all the codes into plain human 
 | **[P0-85]** | **PEN-Break / Neutral Loss & Overvoltage Relay** | **L5** | US: NEC 250 / UK: BS 7671; neutral loss in multi-phase supply; voltage relay $<20\text{ ms}$ | Phase shift causing up to 380V/240V overvoltage on 220V/120V circuits | **Overvoltage monitoring relay is non-negotiable!** A severed or corroded neutral (PEN) wire in multi-phase residential risers shifts the neutral point, spiking line voltage and burning appliances into flames. Standard breakers will not trip (they sense overcurrent, not overvoltage). Install a DIN-rail microprocessor voltage relay with $<20\text{ ms}$ cutoff. |
 | **[P0-86]** | **Border Passport Invalidation** | **L4** | ICAO Doc 9303 (OCR-B MRZ); typo/font defect seizure rules; dual biometric passport redundancy | Passport seizure at border control for MRZ anomalies & typos | **Audit every character in your passport before buying tickets!** Border agencies seize passports without appeal for minor typos, font anomalies in the Machine-Readable Zone (MRZ), or character mismatches. Defense: maintain a secondary 10-year biometric passport with chip-validated data. |
 | **[P0-87]** | **Post-Mortem Salvage & Tissue Chain** | **L1/L4** | Warm Ischemia Time (WIT $\le 30$ min); US: UAGA + AATB accreditation \| UK: Human Tissue Act 2004 + HTA licensing | ICU brain-death (DBD) as the sole viable solid-organ scenario; university Willed Body Programs vs commercial body brokers | **Solid organs survive 15–30 minutes without perfusion — death at home makes them biologically worthless.** Donation only works in the ICU-on-ventilator brain-death scenario (<1% of all deaths). US: donate through university Willed Body Programs (AATB-accredited); never through "free cremation" brokers (Reuters "The Body Trade" — chainsaw dismemberment, Pentagon blast tests). UK: written consent under HTA oversight (Human Tissue Act 2004). Eco-optimum: alkaline hydrolysis (5% KOH, $150^\circ\text{C}$). Cryonics and "free cremation" = scam. |
-| **[P0-88]** | **Sovereign SDLC Pipeline**
+| **[P0-88]** | **Sovereign SDLC Pipeline** | **L3** | ISO/IEC/IEEE 12207:2017/2026; ISO/IEC/IEEE 29148:2018; NIST SP 800-218 (SSDF); PCI DSS v4.0.1; DORA State of DevOps | Coding from a business plan without Discovery/SRS/architectural spike = landing in the fat tail of failures (Flyvbjerg fat tails, planning fallacy) | **No business logic before the foundation:** Phase 0 — CustDev + regulatory screening; Phase 1 — SRS (FR/NFR) + STRIDE threat modeling; Phase 2 — modular monolith + ADR + timeboxed spikes (spike code is deleted); Phase 3 — IaC + CI/CD + Tracer Bullet (one end-to-end endpoint); Phase 4 — iterations with tests and Expand/Contract data-schema migrations; Phase 5 — load tests + DR GameDay + canary release; Phase 6 — SLO/Error Budgets, post-mortems, SBOM. Exception: an isolated tokenization microservice under PCI DSS CDE; for the frontend — a closed-loop visual verification cycle (Playwright + axe-core + Vision Feedback Loop, $k\le 3$ against blind Vibe Coding, §7.5.8.6) |
 | **[P0-89]** | **Mold & Dew Point Physics (Magnus-Tetens)** | **L1/L5** | US: EPA Mold Remediation / ASTM D7338 | UK: HSE / BS EN 15026; *Stachybotrys* satratoxins G/H; ERMI qPCR vs urine LC-MS/MS | Internal insulation shifts dew point behind drywall, breeding toxic mold incubators (CIRS) | Maintain indoor $\text{RH} \le 50\%$ with a commercial compressor dehumidifier. Thermal imaging audit ($T_{wall} > T_{dp}$). Strict ban on interior drywall/foam insulation on uninsulated exterior masonry. On chronic fatigue/CIRS — qPCR dust assay (HERTSMI-2/ERMI) and direct urine mycotoxin quantitation via tandem mass spectrometry (LC-MS/MS). |
 | **[P0-90]** | **Interpol Red Notice Abuse & CCF Shield** | **L4** | Art. 3 Interpol Constitution; CCF Statute (Lyon); US: 22 U.S.C. § 288 | UK: Extradition Act 2003 / Bilateral MLATs | Transit airport arrest traps (UAE, Turkey, Serbia) via weaponized commercial/political red notices | Audit cross-border warrant exposure before booking flights. File a Preemptive Request with the CCF (Lyon) under Article 3 before a Red Notice is broadcast. Bridge the 9–18 month CCF procedural vacuum: secure territorial asylum/judicial immunity in a rule-of-law host state; blacklist high-risk transit hubs. |
 | **[P0-91]** | **Accidental Micro-PE & OECD Art. 5 Lock** | **L3/L4** | OECD MTC Art. 5(1) Fixed Place PE & Art. 5(5) Agency PE; OECD Nov 19, 2025 Remote Work Guidance | Remote founder coding from an EU rental creates a local corporate permanent establishment | Bifurcate founder contracts: operate strictly under an independent B2B Contractor Agreement (NACE 62.01) with zero officer signing authority (kill Dependent Agent PE). Appoint an independent director outside the country of residence. Comply with the 50% 12-month safe harbor and neutralize the fatal "Only or Main Person" solo-founder trap. |
@@ -1060,6 +1060,7 @@ In 2024–2026, the software industry was swept by the **Vibe Coding** phenomeno
 >   > 1. **Absolute ban on blind deploys:** Not a single AI-generated line enters prod without full understanding of its computational complexity ($O(N)$ vs $O(N^2)$), memory allocation, and failure model.
 >   > 2. **The fundamental survival stack:** Master the low-level debugging tools: `gdb`, `lldb`, `strace`, `valgrind`, `perf`, `eBPF`.
 >   > 3. **The career split strategy:** Don't be a "prompt operator" running errands for someone else's API. Be a systems engineer of the core (Ring 0 / Bare-metal / High-Load) who understands how bytes flow down the copper traces and where system sockets tear.
+>   > 4. **No blind UI deployment from prompts:** the markup is verified by a deterministic Visual Feedback Loop (§7.5.8.6): Playwright + axe-core + an isolated Vision critic, convergence fuse $k \le 3$.
 
 ---
 
@@ -5549,6 +5550,71 @@ Switch off the sweet talk of infobusiness courses and pull up the raw research l
 > **Where the trap is:** Paid ads for a standalone book burn money with a whistle: you spend 800 RUB acquiring one buyer and get 50 RUB of royalties from him.
 > **Your action right now:** If you're going into self-publishing for money: 1) Design a cycle of at least 3–5 volumes from the start. 2) Make volume one a free lead magnet. 3) End every chapter on a cliffhanger, and end the first book with a link to a signup gift for your channel.
 
+---
+
+#### **7.5.8.6. AI-UI generation defectoscopy: Why "pretty prompts" breed AI slop and how to build a closed Visual Feedback Loop ([P0-88-UI: DETERMINISTIC-DESIGN-LOOP])**
+
+> 💡 **STEP 0: HOUSEHOLD GROUNDING (IN PLAIN TERMS)**
+> The infobusiness on social media sells a fairy tale: "Copy a prompt from Scrolltide, paste it into Lovable or v0 — and you get a \$5,000 landing page in 5 minutes."
+> In reality this is a blind painter locked in a dark room, asked to paint the walls "in a fashionable color." He swings the roller from memory, misses the baseboards, paints over the windows, and cheerfully reports: "Boss, all done, the vibe is excellent!"
+> A large language model (LLM) is a text calculator. It has no eyes, no retina, and no built-in browser renderer. If you don't give it eyes (a screenshotter) and calipers (a code linter), the output is always the same AI slop: a blue-purple gradient, the Inter font, three identical cards, and a layout that falls apart on the first smartphone screen.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ NAIVE BLIND PROMPTING SCHEME (FAIL):                                   │
+│ Prompt ──► LLM ──► Blind coding ──► Layout bugs / CLS > 0 ──► Default  │
+├────────────────────────────────────────────────────────────────────────┤
+│ CLOSED DESIGN PRESSURE-TEST LOOP (SUCCESS):                            │
+│ Reference + Tokens ──► LLM (Actor) ──► Dev server                      │
+│                                            │                           │
+│     ┌──────────────────────────────────────┘                           │
+│     ▼                                                                  │
+│ Playwright (Headless CDP)                                              │
+│ ├── axe-core (WCAG 2.1 AA contrast in 12ms) ──► JSON error log         │
+│ ├── Layout Shift / Overflow (scrollWidth > innerWidth)                 │
+│ └── Screenshot (375px @3x, 1440px @2x, fonts.ready)                    │
+│     │                                                                  │
+│     ▼                                                                  │
+│ LLM-Critic (Art-director subagent) ──► Delta fix ──► Release (k ≤ 3)   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+##### **1. Physical and algorithmic limits of UI generation**
+1. **Spatial Hallucination:** Multimodal models (Claude 3.5 Sonnet, GPT-4o) perceive a raster PNG holistically, as a gestalt blob. The model does not work as a pixel meter: it cannot tell `padding: 16px` from `24px` or compute margin collapsing from a picture.
+2. **The Agreeableness Bias trap (you coded it — you praised it):** If the same model generates the markup and then evaluates its own result in the same chat window, it inherits the blind spots of its own context. The model looks at a misaligned block and reports: "The design looks clean and modern."
+3. **Fix oscillation (Design Thrashing):** Without hard constraints the blind model enters an infinite edit loop: increases a padding $	o$ breaks a flex container $	o$ shrinks a neighboring block $	o$ hangs the page in horizontal scroll. At iteration $k=4$ the context window is clogged with screenshots and the model loses the plot.
+
+##### **2. Tool anatomy: ai-design-skills vs Scrolltide**
+* **`ai-design-skills` (elayadesign):** Not a generator and not a design system. It is a **negative linter at the system-prompt level (Markdown rules)** for Cursor and Claude Code. It forbids the model from using clichés (default Inter, purple buttons, cards with icons in circles), enforces spacing tokens, and stages intake questions. Usefulness: **8/10 as a guide rail** cutting 70% of the sludge, but powerless against geometry bugs without a visual circuit.
+* **`scrolltide.co`:** A showcase of ready-made prompts and heavy animation patterns (GSAP, Framer Motion, Three.js, WebGL shaders). Usefulness: **a source of visual ideas**, but code for 3D shaders pasted blindly into a project overloads mobile GPUs, wrecks Core Web Vitals (LCP, INP) and leaks WebGL context on mobile Safari.
+
+##### **3. The engineering standard: Closed-Loop Visual Feedback (Actor-Critic Pipeline)**
+To get senior-product-designer-grade output, the build loop stands on 4 hardware interlocks:
+
+1. **Deterministic linters before Vision tokens:**
+   Spending LLM tokens on contrast and overflow checks is forbidden.
+   * Horizontal-scroll check: the mathematical script `document.documentElement.scrollWidth > window.innerWidth`;
+   * Contrast and accessibility check: automatic run of the **`axe-core`** library through Playwright (WCAG 2.1 AA formula $L_1/L_2 \ge 4.5:1$ verified in 15 milliseconds, JSON out).
+2. **Render hygiene in Headless Chromium:**
+   * **Font race (FOUT/FOIT):** Screenshots are forbidden until the `await document.fonts.ready` promise resolves. Otherwise the model sees default Times New Roman instead of the custom grotesque and starts panic-breaking styles.
+   * **Animation freeze:** The forced flag `page.emulateMedia({ reducedMotion: 'reduce' })`, excluding shots of translucent blocks mid-CSS-transition.
+   * **Honest mobile DPR:** The 375px mobile viewport is shot strictly with `deviceScaleFactor: 3` (emulating real iPhone pixel density).
+3. **Actor-Critic role separation (Subagent Isolation):**
+   * **Actor (Coder):** Writes markup strictly on top of proven design systems (Tailwind + Headless / Radix UI / shadcn primitives), where state logic (`hover`, `focus-visible`, `aria-*`) is baked in mathematically.
+   * **Critic (Art director):** An isolated prompt with zero knowledge of the code. Input: screenshot + Accessibility Tree snapshot + axe-core JSON error log. Output: a strict delta report with selectors.
+4. **Convergence fuse ($k \le 3$):**
+   The loop limit is 3 auto-fix iterations max. If the layout has not converged in 3 runs — a hardware stop-crane and a call to a human.
+
+> 🔧 **Engineer-to-human translation (in plain terms):**
+> **In plain language:** No magic prompt will turn a neural network into a great designer until you give it the ability to **see its own code in a browser**.
+> **Where the trap is:** Prompts with beautiful 3D animations from social media generate code that looks spectacular in the video but, on the client's real smartphone, freezes, stutters at 15 fps and won't let you tap the order button. And an ordinary chatbot without layout verification is convinced it painted a masterpiece even when the text has overflowed the screen.
+> **Your action right now ([P0-88-UI]):**
+> 1. Fence the AI into proven component systems (**Tailwind + shadcn/ui**), where spacing and responsiveness have already been solved by engineers.
+> 2. Wire the **ai-design-skills** rules into `.cursorrules` or `.claude/skills` as a hard filter against hackneyed clichés.
+> 3. Close the loop with **Playwright**: let the agent render the page itself, check accessibility via `axe-core`, screenshot the mobile viewport and fix the bugs before you open the site with your own hands.
+
+---
+
 #### **7.5.9. The Analysis of High-Margin Technical Monetization Niches**
 
 For engineers, developers, and technical specialists there exist narrow market niches with an asymmetric labor-to-margin ratio:
@@ -9685,6 +9751,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
   6. *L1–L5 Calque remediation (3 nodes):* "Gypsy lotto: win the hat, lose the coat" → *"The carnival shell game: win a nickel, lose your shirt"* ([MOD-PONZI-DETECT]); "let it fuck itself with three-phase current" → *"let the three-phase bus blow itself to hell"* (ch. 9, the Red Button); "The demo under the rubble" → *"The master demo tape under the rubble"* (§4.1, the 14-day envelope — disambiguating the Noize MC/Zatochka "Demka" (demo tape) reference from an MVP demo).
   7. *Verified-clean nodes (per audit):* Catella-Lawson NEJM 2001; Marfella NEJM 2024 (HR 4.53); Gasiorowski JAMA Netw Open 2022; Bates v Post Office [2019] EWHC 606/3408 & [2021] EWCA Crim 577; Svea hovrätt B 9036-22; C.D. Cal. 8:24-cr-00088 + FDA-2024-N-4887; SDNY 1:22-cr-00240 ECF 453/458; FTX cert petition 10.09.2026; Ley Orgánica 1/2025 (BOE-A-2025-76); Legge 199/2025; FinCEN CTA (91 FR, 14.08.2026); NYLTA 2026; Brunner 1:25-cv-03244; Garcia 6:24-cv-01903 — left byte-exact.
 
+* **Revision v26.10 — "AI-UI generation defectoscopy: blind prompting vs the closed Visual Feedback Loop" (2026-10-25):** Injected subsection **§7.5.8.6** (Vision-model spatial hallucination, Agreeableness Bias, Design Thrashing; the Actor-Critic pipeline Playwright + axe-core; headless render hygiene: FOUT/FOIT, reducedMotion, honest DPR; the convergence fuse k≤3); the **[P0-88]** valve extended with the frontend visual-verification circuit; cross-reference added in §1.0.2 (The Vibe Coding Trap).
 * **Revision v23.3 — Finalization and the full didactic pressure-test of Part V (Checked: 2026-10-03):**
   1. *L1 Biochemistry (Appendix E):* A gross mineral-transport error eliminated — magnesium removed from under DMT1, its native TRPM6/TRPM7 channels fixed; the $\text{Fe}/\text{Zn}$ pair anchored to DMT1 competition, the $\text{Zn}/\text{Cu}$ pair to intestinal metallothionein induction.
   2. *L1/L5 Water parasitology (Appendix E):* The conflict with [P0-59] eliminated — NaDCC tablets marked as useless against *Cryptosporidium*; the priority of mechanical membrane filtration $\le 1\ \mu\text{m}$ and thermal boiling at $100^\circ\text{C}$ fixed.
