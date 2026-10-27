@@ -90,7 +90,7 @@ Ellenberg himself fairly called his metric a *mock index*: it counted only Kindl
   └─ Donna Tartt ("The Goldfinch"):               HI = 98.5% (end-anomaly; Kobo: 44.4% finished)
 ```
 
-Per the independent analytics firm *Jellybooks* (which analyzed telemetry from hundreds of thousands of real readers), the average full completion rate for most business and non-fiction books is a mere **20–35%**. Business books get abandoned fastest. Fewer than 5% of books worldwide clear a 75% completion bar.
+Reading telemetry (industry measurements on *Jellybooks* Reader Analytics and Kobo data, hundreds of thousands of real readers) records a heavy dropout: the average completion rate for business and non-fiction titles, per industry estimates, falls below 30–35% — the reader extracts the one tool-chapter needed and abandons the rest (*"We haven't cracked nonfiction yet"*, Andrew Rhomberg, Jellybooks founder). Jellybooks' own official *Completion Rate Framework* scale is quartile-based: **<25%** weak engagement, **25–50%** the norm for most books, **>50%** a very good result, **>75%** an exceptional rarity (fewer than 5% of tested books).
 
 People don't buy self-help pulp to turn nuts and shut valves. They buy it to photograph a latte next to a pretty cover for social media and purchase cheap sedation: *"I spent \$20, the book's on the desk, therefore my life is getting fixed."*. A classic of the genre: "Didn't read it, but I have opinions."
 

@@ -152,7 +152,7 @@ From January 1, 2026, the global OECD regulatory regime — the **Crypto-Asset R
 2. **The crypto debit card as a telemetry beacon of physical presence (Liveness Evidence):**
    The widespread illusion of anonymity of Visa/Mastercard crypto cards is fully destroyed by CARF norms:
    * The category **Reportable Retail Payment Transactions:** Crypto-card issuers (RCASPs) must record the owner's personal data, the tax-residency self-certification, and the TIN numbers of all countries of residence.
-   * **The de-anonymization of unhosted wallets:** Platforms must collect and hand tax authorities the external non-custodial addresses that topped up the card balance.
+   * **Unhosted wallet identification:** Platforms must collect the external non-custodial addresses that topped up the card balance, keep those logs for 5–10 years and disclose them on a targeted tax-authority request (CARF's final text replaced automatic line-by-line address reporting with aggregated reporting).
    * **POS-terminal metadata:** Every transaction records the exact timestamp, the merchant-category MCC code (supermarkets, pharmacies, restaurants, gas stations), and the physical address of the point of sale.
    * **The destruction of the non-residency legend:** Systematically paying for coffee, internet, and groceries in Barcelona or Berlin gives tax inspectors an irrefutable array of circumstantial evidence of predominant physical presence (*Liveness Evidence*), cross-checked against border databases.
 3. **What RCASPs must transmit to tax authorities:**
@@ -1866,7 +1866,7 @@ Keep your documents in order, verify invoice wording to the dot, and cut financi
 
 ---
 
-#### **10.18. International Law, Ceasefire Stability, and the Cost of Systemic Survival: The Ukraine Case, Budapest 1994, the Fearon-Fortna Model & 4 Resource Echelons**
+#### **10.20. International Law, Ceasefire Stability, and the Cost of Systemic Survival: The Ukraine Case, Budapest 1994, the Fearon-Fortna Model & 4 Resource Echelons**
 
 Explaining the war and territorial concessions to an international corporate, legal, or expat audience requires purging emotion. Western legal and strategic minds respond to three things: Level 1 treaty registries, game theory (*The Credible Commitment Problem*), and historical base rates of ceasefire durability.
 

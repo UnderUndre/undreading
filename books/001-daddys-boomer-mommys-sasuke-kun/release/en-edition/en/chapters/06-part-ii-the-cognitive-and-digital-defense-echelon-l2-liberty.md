@@ -841,7 +841,7 @@ The engineering error is binary thinking: "I'm either alive or dead." Real life 
 │    tattoo protects me" │ zero legal weight in the field.                               │
 └────────────────────────┴───────────────────────────────────────────────────────────────┘
 ```
-* **Bayesian Calibration:** Absent algorithmic fail-safes, smooth asset transition probability sits below $P(A) < 5\%$. In 65% of cases, families face debilitating liquidity freezes, and in 30%, crypto is permanently lost. Deploying this protocol shifts confidence to $P(A|B) > 90\%$.
+* **Bayesian Calibration:** Absent algorithmic fail-safes, smooth asset transition probability sits below $P(A) < 5\%$. In 65% of cases, families face debilitating liquidity freezes, and in 30%, crypto is permanently lost. Deploying this protocol yields an expert heuristic posterior reliability of $P(A|B) > 90\%$ (an estimate, not a computation).
 
 ##### **5. The 16-Jurisdiction Master Forensic Matrix:**
 ```
@@ -1536,7 +1536,7 @@ CBDC (Central Bank Digital Currency) is not "convenient digital cash in an app" 
 ##### Custodians vs sovereign wallets
 
 * **Exchanges (Binance, Bybit) and the Telegram Wallet bot:** These are custodians. *"Not your keys, not your coins."* You don't own cryptocurrency — you own a row in the service's SQL table. At the regulator's first request, one AML compliance hiccup, or the platform's bankruptcy, your money freezes with no court.
-* **The CARF / DAC8 regime from 2026:** Forget the naive belief that "since the crypto isn't in a regular bank, the tax service doesn't know about it." From January 1, 2026, per the OECD CARF standard, all regulated CEXs are obliged to automatically hand tax authorities not only balances and trade volumes but the **addresses of every external non-custodial wallet you withdraw to**. The CEX has become an extension of the CRS fiscal pipe.
+* **The CARF / DAC8 regime from 2026:** Forget the naive belief that "since the crypto isn't in a regular bank, the tax service doesn't know about it." From January 1, 2026, per the OECD CARF standard, all regulated CEXs must hand tax authorities not only balances and trade volumes but an expanded crypto-transaction report. Withdrawing to **external non-custodial wallets** is not anonymous: CARF's final text dropped the automatic line-by-line address reporting, but RCASPs must keep external-address logs for 5–10 years and disclose them on a targeted request. The CEX has become an extension of the CRS fiscal pipe.
 * **The MiCA regime and the USDT delisting in the European Economic Area ([P0-58: MICA-STABLECOIN-SPLIT]):**
   The **EU Markets in Crypto-Assets (MiCA)** regulation legally obliged all fiat stablecoin issuers (Electronic Money Tokens — EMT) to hold at least **60% of reserves as bank deposits in EU banks**. Tether's refusal to comply with EBA directives led to the **delisting of USDT pairs for EEA residents** on European regulated exchanges (Binance, Kraken, Coinbase, OKX).
   * *The dual-circuit liquidity model ([P0-58: MICA-STABLECOIN-SPLIT]):* 1) **Circuit A (institutional / EEA):** Fully MiCA-licensed stablecoins (**USDC**, **EURC** from Circle, with EU bank reserves); 2) **Circuit B (global P2P / Asia):** Non-custodial **USDT** on personal hardware wallets beyond the reach of European fiscal supervision.

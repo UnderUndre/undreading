@@ -117,7 +117,7 @@ From January 1, 2026, the global OECD regulatory regime — the **Crypto-Asset R
 2. **The crypto debit card as a telemetry beacon of physical presence (Liveness Evidence):**
    The widespread illusion of anonymity of Visa/Mastercard crypto cards is fully destroyed by CARF norms:
    * The category **Reportable Retail Payment Transactions:** Crypto-card issuers (RCASPs) must record the owner's personal data, the tax-residency self-certification, and the TIN numbers of all countries of residence.
-   * **The de-anonymization of unhosted wallets:** Platforms must collect and hand tax authorities the external non-custodial addresses that topped up the card balance.
+   * **Unhosted wallet identification:** Platforms must collect the external non-custodial addresses that topped up the card balance, keep those logs for 5–10 years and disclose them on a targeted tax-authority request (CARF's final text replaced automatic line-by-line address reporting with aggregated reporting).
    * **POS-terminal metadata:** Every transaction records the exact timestamp, the merchant-category MCC code (supermarkets, pharmacies, restaurants, gas stations), and the physical address of the point of sale.
    * **The destruction of the non-residency legend:** Systematically paying for coffee, internet, and groceries in Barcelona or Berlin gives tax inspectors an irrefutable array of circumstantial evidence of predominant physical presence (*Liveness Evidence*), cross-checked against border databases.
 3. **What RCASPs must transmit to tax authorities:**
@@ -1172,7 +1172,7 @@ However, because state operators are bound by rigid bureaucratic KPIs and proced
 > 🇨🇦 **Canada** — OWP to 2027, but high Express Entry threshold.
 > 🇬🇪 **Georgia** — still the most comfortable hub for Ukrainians.
 
-##### **10.12.14.11. Ukraine's Legal Riser: Age of Consent (Art. 155 CCU), Unified Pedophile Registry & De Jure Ban on Corporal Punishment (Art. 150 SCU)**
+##### **10.12.14.10. Ukraine's Legal Riser: Age of Consent (Art. 155 CCU), Unified Pedophile Registry & De Jure Ban on Corporal Punishment (Art. 150 SCU)**
 
 * **L4 (Age of Consent & Lanzarote Statutory Benchmark):** Effective March 14, 2018 (Law No. 2334-VIII), the subjective and corruptible evidentiary standard of "sexual maturity" was permanently excised from Art. 155 of the Criminal Code of Ukraine (CCU). A hard, objective age of sexual consent was fixed at **16 YEARS OF AGE** by passport. Sexual acts by an adult with an individual under 16 carry up to 5 years imprisonment (Art. 155(1) CCU), elevated to 8 years if committed by family members or guardians. Any sexual conduct with a child under 14 is qualified as an aggravated felony (Art. 152/153(4/6) CCU) punishable by up to **life imprisonment**. Online grooming is independently criminalized under Art. 156-1 CCU pursuant to the Lanzarote Convention.
 * **L4 (Unified Registry of Convicted Child Sex Offenders):** Law of Ukraine No. 409-IX established a non-public, lifetime Unified Registry of persons convicted of sexual offenses against minors. Mandatory background audits against this registry are legally required for directors of all educational, recreational, and pediatric healthcare facilities prior to hiring staff.
@@ -1748,7 +1748,7 @@ The primary engineering pathology of CIS and developing-world expats is naive co
 ##### **10.18.5. Inset from Bob: Plain English Translation & Engineering Safe Harbors**
 
 **CHINESE JURISDICTION STATUS: `[CRITICAL STATE-HYDRAULIC PRESSURE / ZERO-TRUST MANDATORY]`**  
-**BAYESIAN CONFIDENCE IN ARBITRAGE BREAKDOWN: `96%`**  
+**EXPERT HEURISTIC CONFIDENCE IN ARBITRAGE BREAKDOWN: `~96%`** (an estimate, not a computation: Bayesian calibration would require a protocol and a normalized dataset)  
 **THE SINGLE KILLER CONTRADICTION:**  
 > **The Illusion of the Autonomous Corporate Shell.** In China, the corporate veil (WFOE / JV / Representative Office) **does not protect the physical body of the executive**. In any commercial conflict, tax dispute, or perceived national security risk, the state strikes not at the corporate balance sheet, but at the executive's physical freedom via **Exit Bans (*Biānkòng* 边控)** under Art. 266 of the Civil Procedure Law. You won't notice until you reach the boarding gate and your passport is retained, turning your luxury hotel into an open-air prison for years.
 

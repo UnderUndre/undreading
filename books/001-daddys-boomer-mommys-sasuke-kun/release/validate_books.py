@@ -101,7 +101,7 @@ def validate_edition(monolith_path: str, dir_slug: str, lang: str) -> None:
 
 def main():
     editions = [
-        ("ru-edition/ru/daddys-boomer-mommys-sasuke-kun-v25.2.md", "ru-edition/ru", "ru"),
+        ("ru-edition/ru/daddys-boomer-mommys-sasuke-kun.md", "ru-edition/ru", "ru"),
         ("ru-edition/en/daddys-boomer-mommys-sasuke-kun-ru-en-v25.2.md", "ru-edition/en", "en"),
         ("ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md", "ru-edition/ua", "ua"),
         ("en-edition/en/daddys-boomer-mommys-sasuke-kun-en-v2.4.md", "en-edition/en", "en"),
