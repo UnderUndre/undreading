@@ -245,7 +245,7 @@ An American **Single-Member LLC (Wyoming, Delaware, New Mexico)** owned by a non
    * **The physical filing channels (Delivery Channels for NRAs):** Since DIY e-filing is unavailable for foreign-owned SMLLCs, submission goes strictly two ways:
      1) **The dedicated IRS fax in Ogden:** `+1-855-887-7737` (with mandatory retention of the *Transmission Confirmation Report*);
      2) **An express courier with tracking (DHL / FedEx / UPS) to the physical IRS address:**
-        `Internal Revenue Service, 1973 Rulon White Blvd, Ogden, UT 84201, USA`.
+        `Internal Revenue Service, 1973 Rulon White Blvd, M/S 6112, Ogden, UT 84201, USA` (факс +1-855-887-7737).
 
 #### **10.6.1. Banking compliance, acquiring, and the W-9 form trap**
 
@@ -553,9 +553,9 @@ The layman's fantasy breaks against the physiological timer:
 | # | Citizenship | Where you live 183+ days | Where the company (OpCo) | Where the personal account | The effective rate | The main traps (IRS / Exit Tax / CFC / POEM) |
 | --- | --- | --- | --- | --- | --- | --- |
 | **1** | **USA (US Citizen)** | Costa Rica (DNV) | US Single-Member LLC | US Mercury + CR BAC Credomatic | **0%** up to \$132,900 (FEIE 2026), 15.3% SE-tax above | FEIE doesn't remove the 15.3% SE-tax (*IRC §1401*). Filing *Form 2555* and *FBAR (FinCEN 114)*. |
-| **2** | **USA (US Citizen)** | UAE (Dubai) | UAE Freezone FZCO | UAE Wio + US Chase | **0–9%** CT + **13.125%–14%** GILTI/NCTI | GILTI/NCTI rules (*IRC §951A*). Requires a *Section 962 election* (40% §250 deduction) and *Form 5471*. |
+| **2** | **USA (US Citizen)** | UAE (Dubai) | UAE Freezone FZCO | UAE Wio + US Chase | **0–9%** CT + **12.6%** NCTI (Section 962) | GILTI/NCTI rules (*IRC §951A*). Requires a *Section 962 election* (40% §250 deduction) and *Form 5471*. |
 | **3** | **EU (Germany)** | Spain (*Beckham Law*) | US non-ETBUS LLC / contract | ES BBVA / Santander | **24% flat** (up to €600k/year) | The German Exit Tax (*§6 AStG*). The *Form 149* deadline (6 months). |
-| **4** | **EU (France)** | Cyprus (Non-Dom, 60 days) | Cyprus LTD | Cyprus Bank of Cyprus / Hellenic | **12.5%** CIT + **2.65%** GESY (0% SDC) | The French *Exit Tax (Art. 167 bis)* on assets >€800k. Observing the 60-day rule. |
+| **4** | **EU (France)** | Cyprus (Non-Dom, 60 days) | Cyprus LTD | Cyprus Bank of Cyprus / Hellenic | **12.5%** CIT + **2.65%** GESY (0% SDC для физлиц-нерезидентов и Non-Dom; 17% защитный SDC при выплате дивидендов напрямую на офшорные юрлица из EU Blacklist) | The French *Exit Tax (Art. 167 bis)* on assets >€800k. Observing the 60-day rule. |
 | **5** | **United Kingdom** | Portugal (*IFICI / NHR 2.0*) | UK LTD | PT Millennium BCP + UK Revolut | **20%** (IFICI) / **19–25%** (UK CIT) | Passing qualification under *Art. 58-A EBF*. UK CFC risk on passive income. |
 | **6** | **United Kingdom** | UAE (Dubai) | UAE Freezone FZ-LLC | UAE Emirates NBD / Wio | **0%** (QFZP / SBR) + **0%** PIT | The *UK Statutory Residence Test (SRT)*: UK visit-day limits (16–45 days). |
 | **7** | **CIS / Asia** | Georgia | Georgian small-business status | Bank of Georgia / TBC Bank | **1%** of turnover (up to 500k GEL) | Re-qualification under Resolution No. 415 for consulting (20% PIT + a 50% fine). |
