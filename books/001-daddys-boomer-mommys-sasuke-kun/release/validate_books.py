@@ -104,10 +104,10 @@ def main():
         ("ru-edition/ru/daddys-boomer-mommys-sasuke-kun.md", "ru-edition/ru", "ru"),
         ("ru-edition/en/daddys-boomer-mommys-sasuke-kun-ru-en-v25.2.md", "ru-edition/en", "en"),
         ("ru-edition/ua/daddys-boomer-mommys-sasuke-kun-ru-ua-v25.2.md", "ru-edition/ua", "ua"),
-        ("en-edition/en/daddys-boomer-mommys-sasuke-kun-en-v2.4.md", "en-edition/en", "en"),
+        ("en-edition/en/daddys-boomer-mommys-sasuke-kun-en.md", "en-edition/en", "en"),
         ("en-edition/ru/daddys-boomer-mommys-sasuke-kun-en-ru-v2.4.md", "en-edition/ru", "ru"),
         ("en-edition/ua/daddys-boomer-mommys-sasuke-kun-en-ua-v2.4.md", "en-edition/ua", "ua"),
-        ("ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua-v1.9.md", "ua-edition/ua", "ua"),
+        ("ua-edition/ua/daddys-boomer-mommys-sasuke-kun-ua.md", "ua-edition/ua", "ua"),
         ("ua-edition/ru/daddys-boomer-mommys-sasuke-kun-ua-ru-v1.9.md", "ua-edition/ru", "ru"),
         ("ua-edition/en/daddys-boomer-mommys-sasuke-kun-ua-en-v1.9.md", "ua-edition/en", "en"),
     ]
