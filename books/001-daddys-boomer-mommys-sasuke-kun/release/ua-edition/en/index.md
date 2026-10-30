@@ -22,7 +22,7 @@
 - [5 Primary 03:00 Alarm Sensors (Signs of a Burst Riser):](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#5-primary-0300-alarm-sensors-signs-of-a-burst-riser)
 - [Quick Navigation Index of Key Modules:](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#quick-navigation-index-of-key-modules)
 - [🛠️ THE ROSETTA STONE: A DECODER FOR THE ENTRANCE GROUP'S "BIRD LANGUAGE"](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#the-rosetta-stone-a-decoder-for-the-entrance-groups-bird-lan)
-- [Section 1: The P0 Matrix (150 Key Valves for Work Under Pressure)](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#section-1-the-p0-matrix-88-key-valves-for-work-under-pressur)
+- [Section 1: The P0 Matrix (151 Key Valves for Work Under Pressure)](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#section-1-the-p0-matrix-88-key-valves-for-work-under-pressur)
 - [🔧 THE OPERATIONAL DECODER FOR 86 VALVES: TRANSLATING ENGINEER INTO HUMAN](chapters/01-the-main-analogy-for-anyone-opening-this-book-for-the-first-.md#the-operational-decoder-for-86-valves-translating-engineer-i)
 
 ### ❓ ENTRANCE FORENSICS, MANIFEST, AND FUSE
