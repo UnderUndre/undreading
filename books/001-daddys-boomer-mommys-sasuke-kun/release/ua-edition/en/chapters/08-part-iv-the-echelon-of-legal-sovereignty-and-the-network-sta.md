@@ -1220,7 +1220,7 @@ $$\text{TCO}_{\text{month}} = \text{Burn}_{\text{base}} + \text{Amort}_{\text{le
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │ MODULE STATUS: [L4 UKRAINIAN MIGRATION FORENSICS 2025–2026]                     │
 │ REGULATORY ACTS: [FACT L1] │ PRACTICE: [FACT L1] │ BASE RATES: [L2]             │
-│ VALVES: [P0-89: MOLD-MITIGATION] [P0-90: STUDENT-LOAN-TRAP]                     │
+│ VALVES: [P0-89: MOLD-DEWPOINT-MYCOTOXIN-CHECK] [P0-112: STUDENT-LOAN-TRAP]                     │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -1386,8 +1386,8 @@ In wartime Ukraine, legal sovereignty requires mastery of non-derogable constitu
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │ MODULE STATUS: [L4 ANGLO-SAXON FISCAL HAMMER OF THE FIRST WORLD]                │
 │ REGULATORY ACTS: [FACT L1] │ PRACTICE: [FACT L1] │ BASE RATES: [L2]             │
-│ VALVES: [P0-89: DEPARTURE-TAX-AUDIT] [P0-90: STUDENT-LOAN-TRAP]                │
-│         [P0-91: IHT-TAIL] [P0-92: DOMICILE-VS-RESIDENCY]                        │
+│ VALVES: [P0-111: DEPARTURE-TAX-AUDIT] [P0-112: STUDENT-LOAN-TRAP]                │
+│         [P0-113: IHT-TAIL] [P0-114: DOMICILE-VS-RESIDENCY]                        │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -2073,7 +2073,7 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 
 ---
 
-#### **11.4.0.0. Preconception & Gestational Hardware: Gametogenesis, Paternal Age SNV Rates & Gestational Hemodynamics ([P0-136: PRECONCEPTION-HARDWARE-CLOCK-GATE] & [P0-137: GESTATIONAL-PHYSIOLOGY-PATHOLOGY-GATE])**
+#### **11.4.0.1. Preconception & Gestational Hardware: Gametogenesis, Paternal Age SNV Rates & Gestational Hemodynamics ([P0-136: PRECONCEPTION-HARDWARE-CLOCK-GATE] & [P0-137: GESTATIONAL-PHYSIOLOGY-PATHOLOGY-GATE])**
 
 > 🧬 **POINT MINUS THREE MONTHS: HARDWARE GAMETE AUDIT:**  
 > Treating conception as a spontaneous event is a severe engineering error. Offspring quality is 50% dictated by the condition of gametes (sperm and oocytes) forged months prior to fusion. Preconception preparation is a strict hardware audit and calibration of parental biological substrates.
@@ -2095,7 +2095,7 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 
 ---
 
-#### **11.4.0. Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits, Parental Fast-Tracks & Consular Overstay Defense ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE])**
+#### **11.4.0.2. Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits, Parental Fast-Tracks & Consular Overstay Defense ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE])**
 
 > 👶 **POINT ZERO: THE LEGAL INITIALIZATION OF A NEW OPERATOR:**  
 > The architecture of family sovereignty begins neither in primary school nor at puberty; it initializes at **Point Zero** in the delivery ward. The geographical coordinates of birth either permanently graft a geopolitical multi-tool onto your lineage (an unconditional tier-1 passport for the infant, permanent residency for the parents, and naturalization in 365 days) or snap a lifetime fiscal collar around your newborn's neck while stranding the parents in an immigration dead end.
@@ -2184,7 +2184,7 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
-#### **11.4.0.1. Postpartum Thermodynamic Collapse & Parental Sleep Deprivation ([P0-133: POSTPARTUM-BURNOUT-SLEEP-GATE])**
+#### **11.4.0.3. Postpartum Thermodynamic Collapse & Parental Sleep Deprivation ([P0-133: POSTPARTUM-BURNOUT-SLEEP-GATE])**
 
 > 🫀 **THE THREE-MONTH METABOLIC SHOCK:**  
 > Introducing a new biological biomass (an infant) into the family grid shatters baseline thermodynamic constants. Landmark research by *Richter et al. (2019)* proved that parental sleep quality collapses catastrophically during the first three postpartum months and **fails to return to pre-pregnancy baseline corridors for up to six years**.
@@ -2200,7 +2200,7 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
-#### **11.4.0.2. Distributed Care, Paternal Plasticity & The Zero-Trust Nanny Protocol ([P0-134: PATERNAL-SUBSTITUTION-NANNY-GATE])**
+#### **11.4.0.4. Distributed Care, Paternal Plasticity & The Zero-Trust Nanny Protocol ([P0-134: PATERNAL-SUBSTITUTION-NANNY-GATE])**
 
 > 🧬 **THE NEUROBIOLOGICAL PLASTICITY OF FATHERHOOD:**  
 > The archaic myth that "mothers are innate operators while fathers are mere wallets" has been dismantled by neuroscience. *Abraham et al. (2014, PNAS)* proved that primary-caregiver fathers exhibit **identical amygdala and oxytocin circuit activation** as mothers when interacting with infants. Active paternal care remodels the male brain just as deeply.
@@ -2217,7 +2217,7 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
-#### **11.4.0.3. Evidence-Based Developmental Architecture: From PFC Myelination to Corporal Punishment Bans ([P0-135: EVIDENCE-PARENTING-AUTHORITATIVE-GATE])**
+#### **11.4.0.5. Evidence-Based Developmental Architecture: From PFC Myelination to Corporal Punishment Bans ([P0-135: EVIDENCE-PARENTING-AUTHORITATIVE-GATE])**
 
 > 🧠 **PREFRONTAL CORTEX MYELINATION UNTIL AGE 25:**  
 > A child's brain is an uncompleted data center with open wiring trays. Complete myelination of frontal lobe white matter tracts continues until ages 23–25. A four-year-old having a meltdown is not a "manipulator" but an **overloaded hardware buffer** of the limbic system, incapable of self-regulation without external co-regulation.

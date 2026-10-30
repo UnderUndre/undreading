@@ -2,7 +2,7 @@
 *(Daddy's Boomer, Mommy's Sasuke-kun) — Ukrainian Edition (Uncle Tolya) Translated to English*
 
 **Author:** Undre & Uncle Tolya (Master Vasyl, Field Plumbing Engineer)  
-**Revision:** 24.9 (ua-en-v1.9-release) (128-Valve Forensic Blueprint [P0-01]–[P0-123], Naruto vs Sasuke [P0-143], Opening Sign, Ending Wind, Jiraiya Cipher Gate [P0-144], Itachi & Snape [P0-143], Roblox DevEx [P0-142], Border Forensics [P0-138], Langar [P0-140], Consular Traps [P0-141])  
+**Revision:** 24.9 (ua-en-v1.9-release) (150-Valve Forensic Blueprint [P0-01]–[P0-150], Naruto vs Sasuke [P0-143], Opening Sign, Ending Wind, Jiraiya Cipher Gate [P0-144], Itachi & Snape [P0-143], Roblox DevEx [P0-142], Border Forensics [P0-138], Langar [P0-140], Consular Traps [P0-141])  
 **Format:** Monograph / Operational Runbook / Ukrainian Legal, Military & Digital Forensics  
 **Status:** Canonical Ukrainian Monograph in Full English Translation  
 
@@ -105,7 +105,7 @@
 ### **Quick Navigation Index of Key Modules:**
 
 * 📍 **[The Entrance Fuse: "Sell Me This Pipe Wrench"](#the-entrance-fuse-sell-me-this-pipe-wrench)** — Forensic teardown of the \$50B self-help market, the Hawking Index, and adverse selection.
-* 📍 **[The P0 Matrix of 128 Key Valves](#section-1-the-p0-matrix-88-key-valves-for-work-under-pressure)** — Operational pressure-work instruction table (Section 1).
+* 📍 **[The P0 Matrix of 150 Key Valves](#section-1-the-p0-matrix-88-key-valves-for-work-under-pressure)** — Operational pressure-work instruction table (Section 1).
 * 📍 **[Somatic Telemetry Panel](#the-somatic-telemetry-panel-a-shield-not-ministries)** — Unified dashboard of your L1 body (cardio, eyes, gut, spine, teeth).
 * 📍 **[Atlas of Remote Crafts & Digital Independence](#758-the-atlas-of-remote-crafts-and-digital-independence-2026)** — Earning in hard currency: writing, serialized self-publishing (§7.5.8.1), audio, 3D graphics, tutoring, B2B.
 * 📍 **[Technical Monetization Niches](#759-the-analysis-of-high-margin-technical-monetization-niches)** — Steamworks, Shopify micro-SaaS, bug bounty, data scraping, hardware (§7.5.9).
@@ -195,9 +195,9 @@ Before you start turning valves, let's normalize all the codes into plain human 
 
 ---
 
-### **Section 1: The P0 Matrix (128 Key Valves for Work Under Pressure)**
+### **Section 1: The P0 Matrix (150 Key Valves for Work Under Pressure)**
 
-> 🚨 **MATRIX ARCHITECTURE:** The table is grouped by architectural layer, not by the 03:00 chronology. The cross-cutting IDs `[P0-01]`–`[P0-123]` are locked — dozens of references throughout the monograph hang off them, so do not change the row order. New valves are appended to the tail of the range (`[P0-124]`, `[P0-125]`).
+> 🚨 **MATRIX ARCHITECTURE:** The table is grouped by architectural layer, not by the 03:00 chronology. The cross-cutting IDs `[P0-01]`–`[P0-150]` are locked — dozens of references throughout the monograph hang off them, so do not change the row order. New valves are appended to the tail of the range (`[P0-151]`, `[P0-152]`).
 > **03:00 Triage:** somatic emergency resuscitation — `[P0-01, 02, 24, 25, 64–67, 79]`; environment kinetics — `[P0-27, 68, 69]`; plumbing & electrical water hammer — `[P0-80, 81, 85]`; digital intrusion & surveillance — `[P0-03, 04, 17, 18, 28, 76–78, 82, 83]`; procedural defense — `[P0-72–75, 84, 86]`.
 > **Layers:** **L1** Bio-threats & resuscitation: [P0-01, 02, 16, 24, 25, 41, 42, 54, 55, 56, 59, 64–67, 71, 79–81] · **L2** Cyber-perimeter & cognition: [P0-03, 04, 06, 07, 10, 17, 18, 21, 22, 26, 28, 43, 62, 72, 76–78, 82, 83] · **L3** Capital & risk management: [P0-08, 09, 11, 44, 45, 61, 75, 84] · **L4** Jurisdictions & taxes: [P0-12, 13, 14, 15, 19, 23, 70, 73, 74, 86] · **L5** Hardware & environmental physics: [P0-05, 20, 27, 29–40, 46–53, 60, 63, 68, 69, 85].
 
@@ -5552,7 +5552,7 @@ Switch off the sweet talk of infobusiness courses and pull up the raw research l
 
 ---
 
-#### **7.5.8.6. AI-UI generation defectoscopy: Why "pretty prompts" breed AI slop and how to build a closed Visual Feedback Loop ([P0-88-UI: DETERMINISTIC-DESIGN-LOOP])**
+#### **7.5.8.6. AI-UI generation defectoscopy: Why "pretty prompts" breed AI slop and how to build a closed Visual Feedback Loop ([P0-147: DETERMINISTIC-DESIGN-LOOP])**
 
 > 💡 **STEP 0: HOUSEHOLD GROUNDING (IN PLAIN TERMS)**
 > The infobusiness on social media sells a fairy tale: "Copy a prompt from Scrolltide, paste it into Lovable or v0 — and you get a \$5,000 landing page in 5 minutes."
@@ -5608,7 +5608,7 @@ To get senior-product-designer-grade output, the build loop stands on 4 hardware
 > 🔧 **Engineer-to-human translation (in plain terms):**
 > **In plain language:** No magic prompt will turn a neural network into a great designer until you give it the ability to **see its own code in a browser**.
 > **Where the trap is:** Prompts with beautiful 3D animations from social media generate code that looks spectacular in the video but, on the client's real smartphone, freezes, stutters at 15 fps and won't let you tap the order button. And an ordinary chatbot without layout verification is convinced it painted a masterpiece even when the text has overflowed the screen.
-> **Your action right now ([P0-88-UI]):**
+> **Your action right now ([P0-147]):**
 > 1. Fence the AI into proven component systems (**Tailwind + shadcn/ui**), where spacing and responsiveness have already been solved by engineers.
 > 2. Wire the **ai-design-skills** rules into `.cursorrules` or `.claude/skills` as a hard filter against hackneyed clichés.
 > 3. Close the loop with **Playwright**: let the agent render the page itself, check accessibility via `axe-core`, screenshot the mobile viewport and fix the bugs before you open the site with your own hands.
@@ -7635,7 +7635,7 @@ $$\text{TCO}_{\text{month}} = \text{Burn}_{\text{base}} + \text{Amort}_{\text{le
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │ MODULE STATUS: [L4 UKRAINIAN MIGRATION FORENSICS 2025–2026]                     │
 │ REGULATORY ACTS: [FACT L1] │ PRACTICE: [FACT L1] │ BASE RATES: [L2]             │
-│ VALVES: [P0-89: MOLD-MITIGATION] [P0-90: STUDENT-LOAN-TRAP]                     │
+│ VALVES: [P0-89: MOLD-DEWPOINT-MYCOTOXIN-CHECK] [P0-112: STUDENT-LOAN-TRAP]                     │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -7801,8 +7801,8 @@ In wartime Ukraine, legal sovereignty requires mastery of non-derogable constitu
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │ MODULE STATUS: [L4 ANGLO-SAXON FISCAL HAMMER OF THE FIRST WORLD]                │
 │ REGULATORY ACTS: [FACT L1] │ PRACTICE: [FACT L1] │ BASE RATES: [L2]             │
-│ VALVES: [P0-89: DEPARTURE-TAX-AUDIT] [P0-90: STUDENT-LOAN-TRAP]                │
-│         [P0-91: IHT-TAIL] [P0-92: DOMICILE-VS-RESIDENCY]                        │
+│ VALVES: [P0-111: DEPARTURE-TAX-AUDIT] [P0-112: STUDENT-LOAN-TRAP]                │
+│         [P0-113: IHT-TAIL] [P0-114: DOMICILE-VS-RESIDENCY]                        │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -8488,7 +8488,7 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 
 ---
 
-#### **11.4.0.0. Preconception & Gestational Hardware: Gametogenesis, Paternal Age SNV Rates & Gestational Hemodynamics ([P0-136: PRECONCEPTION-HARDWARE-CLOCK-GATE] & [P0-137: GESTATIONAL-PHYSIOLOGY-PATHOLOGY-GATE])**
+#### **11.4.0.1. Preconception & Gestational Hardware: Gametogenesis, Paternal Age SNV Rates & Gestational Hemodynamics ([P0-136: PRECONCEPTION-HARDWARE-CLOCK-GATE] & [P0-137: GESTATIONAL-PHYSIOLOGY-PATHOLOGY-GATE])**
 
 > 🧬 **POINT MINUS THREE MONTHS: HARDWARE GAMETE AUDIT:**  
 > Treating conception as a spontaneous event is a severe engineering error. Offspring quality is 50% dictated by the condition of gametes (sperm and oocytes) forged months prior to fusion. Preconception preparation is a strict hardware audit and calibration of parental biological substrates.
@@ -8510,7 +8510,7 @@ The modern middle-class toddler hysteria (toddler Python courses, mental arithme
 
 ---
 
-#### **11.4.0. Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits, Parental Fast-Tracks & Consular Overstay Defense ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE])**
+#### **11.4.0.2. Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits, Parental Fast-Tracks & Consular Overstay Defense ([P0-132: JUS-SOLI-CONSULAR-NEWBORN-GATE])**
 
 > 👶 **POINT ZERO: THE LEGAL INITIALIZATION OF A NEW OPERATOR:**  
 > The architecture of family sovereignty begins neither in primary school nor at puberty; it initializes at **Point Zero** in the delivery ward. The geographical coordinates of birth either permanently graft a geopolitical multi-tool onto your lineage (an unconditional tier-1 passport for the infant, permanent residency for the parents, and naturalization in 365 days) or snap a lifetime fiscal collar around your newborn's neck while stranding the parents in an immigration dead end.
@@ -8599,7 +8599,7 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
-#### **11.4.0.1. Postpartum Thermodynamic Collapse & Parental Sleep Deprivation ([P0-133: POSTPARTUM-BURNOUT-SLEEP-GATE])**
+#### **11.4.0.3. Postpartum Thermodynamic Collapse & Parental Sleep Deprivation ([P0-133: POSTPARTUM-BURNOUT-SLEEP-GATE])**
 
 > 🫀 **THE THREE-MONTH METABOLIC SHOCK:**  
 > Introducing a new biological biomass (an infant) into the family grid shatters baseline thermodynamic constants. Landmark research by *Richter et al. (2019)* proved that parental sleep quality collapses catastrophically during the first three postpartum months and **fails to return to pre-pregnancy baseline corridors for up to six years**.
@@ -8615,7 +8615,7 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
-#### **11.4.0.2. Distributed Care, Paternal Plasticity & The Zero-Trust Nanny Protocol ([P0-134: PATERNAL-SUBSTITUTION-NANNY-GATE])**
+#### **11.4.0.4. Distributed Care, Paternal Plasticity & The Zero-Trust Nanny Protocol ([P0-134: PATERNAL-SUBSTITUTION-NANNY-GATE])**
 
 > 🧬 **THE NEUROBIOLOGICAL PLASTICITY OF FATHERHOOD:**  
 > The archaic myth that "mothers are innate operators while fathers are mere wallets" has been dismantled by neuroscience. *Abraham et al. (2014, PNAS)* proved that primary-caregiver fathers exhibit **identical amygdala and oxytocin circuit activation** as mothers when interacting with infants. Active paternal care remodels the male brain just as deeply.
@@ -8632,7 +8632,7 @@ The "birth tourism" industry is an extortion racket run by offshore fixers charg
 
 ---
 
-#### **11.4.0.3. Evidence-Based Developmental Architecture: From PFC Myelination to Corporal Punishment Bans ([P0-135: EVIDENCE-PARENTING-AUTHORITATIVE-GATE])**
+#### **11.4.0.5. Evidence-Based Developmental Architecture: From PFC Myelination to Corporal Punishment Bans ([P0-135: EVIDENCE-PARENTING-AUTHORITATIVE-GATE])**
 
 > 🧠 **PREFRONTAL CORTEX MYELINATION UNTIL AGE 25:**  
 > A child's brain is an uncompleted data center with open wiring trays. Complete myelination of frontal lobe white matter tracts continues until ages 23–25. A four-year-old having a meltdown is not a "manipulator" but an **overloaded hardware buffer** of the limbic system, incapable of self-regulation without external co-regulation.
@@ -8961,7 +8961,7 @@ The mass exploitation of dialogue LLM agents has exposed severe neuropsychiatric
 | **USA / Canada** | FinCEN BOIR + TCJA Sunset + 40% NRA Estate Tax + Canadian Departure Tax & GAAR | **80%** | 31 U.S.C. § 5336 (BOIR), 26 U.S.C. § 2102, ITA § 128.1, Bill C-59 GAAR | File FinCEN BOIR (\$591/day civil penalty). Ban direct US stocks >\$60k for non-residents (Irish UCITS ETFs only). Factor in effective GILTI/NCTI rate of 13.125%–14% under Section 962 / OBBBA. When exiting Canada — audit portfolio with CPA under GAAR (economic substance deficiency presumption + 25% penalty) [P0-106, P0-111]. |
 | **United Kingdom / EU** | 10-year IHT tail + Schengen EES biometric gateway + CARF/DAC8 + EU ATAD 3 Unshell | **85%** | UK Finance Act 2025, Regulation (EU) 2017/2226 (EES), COM(2021) 565, OECD CARF | Relocate from UK prior to 10th year of tax residency (prevents 40% worldwide IHT tail). Count Schengen days strictly via EC calculator; EES logs overstay mathematically (fines €500–€3,000; SIS II bans require individual proportionality decision). Ensure real substance for EU SPVs under ATAD 3 (prevents 30–35% WHT). Cold storage on Multisig Air-Gap [P0-19, P0-113, P0-114]. |
 | **Ukraine (Domestic)** | Winter grid destruction (L5) + NBU P2P limit (150k UAH/mo) + arts. 200/209 CCU (droppers) | **70–85%** | NBU Resolution 102, Law 3633-IX, art. 206 CPC | Deploy 3–5 kWh LiFePO4 battery under IEC 62619 / UL 1973 with self-heating (no charge at T < +5°C); settle IT exports via direct IBAN (statutory exemption from 180-day rule under Res. 67); account freezing under Law 3633-IX requires standard State Executive Service enforcement, not unilateral bank freezes; invoke art. 206 CPC against unlawful detention [P0-20, P0-72, P0-74]. |
-| **Ukrainians in EU / West** | Termination of Bürgergeld via Job-Turbo + 800+ schooling trap in Poland + CRS auto-exchange (Law 2970-IX) | **60–75%** | Council Decision (EU) 2026/1912 (TPD 2028), Polish CUKR Act, Law No. 2970-IX | Transition to official employment or business entity; enroll children in local schools; obtain multi-year residence cards (CUKR / Lex 7). Deregister domestic FOP, cancel address registration (propyska), and secure local Tax Residence Certificate to prevent retrospective 18% PIT + 25% penalties under CRS [P0-112, P0-116]. |
+| **Ukrainians in EU / West** | Termination of Bürgergeld via Job-Turbo + 800+ schooling trap in Poland + CRS auto-exchange (Law 2970-IX) | **60–75%** | Council Decision (EU) 2026/1912 (TPD 2028), Polish CUKR Act, Law No. 2970-IX | Transition to official employment or business entity; enroll children in local schools; obtain multi-year residence cards (CUKR / Lex 7). Deregister domestic FOP, cancel address registration (propyska), and secure local Tax Residence Certificate to prevent retrospective 18% PIT + 25% penalties under CRS [P0-112, P0-116: UA-FOP-CRS-DEREGISTRATION-GATE]. |
 
 ---
 
@@ -9492,6 +9492,47 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
   * ✅ Cover with a clean dry gauze pad or food wrap without tension;
   * ✅ If the burn area exceeds the palm (a palm = 1% of body) or the face, hands, or perineum are burned — urgently to a burn unit.
 
+* **🔴 FOREIGN BODY AIRWAY OBSTRUCTION / CHOKING ([P0-64]):**
+  * 🛑 **BLIND FINGER SWEEPS ARE CATEGORICALLY FORBIDDEN!** (You will push the object deeper into the laryngeal inlet, causing complete obstruction and laryngospasm);
+  * ✅ If the person can cough or speak — **DO NOT INTERFERE**, encourage natural coughing;
+  * ✅ If the person cannot breathe, cough, or speak, and clutches their throat: deliver **5 sharp back blows with the heel of your hand between the shoulder blades** (torso bent forward);
+  * ✅ If back blows fail — stand behind, wrap your arms around the abdomen, place a fist above the navel, and deliver **5 rapid inward and upward abdominal thrusts (Heimlich Maneuver)**;
+  * ✅ Alternate: 5 back blows → 5 Heimlich thrusts until the object is expelled or the person loses consciousness (if pulseless — immediate CPR);
+  * ✅ Pregnant or obese victims: perform Chest Thrusts strictly on the mid-sternum; infants under 1 year: 5 back blows head-down on forearm + 5 two-finger chest thrusts.
+
+* **🔴 CARBON MONOXIDE (CO) AND CYANIDE / FIRE SMOKE ([P0-67]):**
+  * 🛑 **STANDARD PULSE OXIMETERS ARE 100% BLIND!** (The sensor cannot distinguish oxyhemoglobin from carboxyhemoglobin, showing false SpO2 98–100% on a victim dying of tissue hypoxia);
+  * ✅ **Immediately move the victim to fresh air** (never enter a smoke-filled room without self-contained breathing apparatus);
+  * ✅ Administer 100% humidified oxygen via non-rebreather mask with reservoir at 12–15 L/min (drops CO half-life from 320 to 80 minutes);
+  * ✅ Call 911/112 immediately: state to dispatcher in the first sentence: *"Victim extricated from fire, suspected toxic smoke inhalation, CO and cyanide poisoning, request Co-Oximetry and Cyanokit (hydroxocobalamin 5 g)"*;
+  * ✅ Blood samples for Co-Oximetry (COHb/MetHb) and lactate must be drawn strictly BEFORE antidote infusion.
+
+* **🔴 CRUSH SYNDROME / PROLONGED ENTRAPMENT ([P0-79]):**
+  * 🛑 **DO NOT LIFT THE FALLEN SLAB OR BEAM BLINDLY!** (Abrupt decompression flushes a massive bolus of potassium $K^+$ and myoglobin into the heart, inducing fatal asystole within 30–60 seconds — "smiling death");
+  * ✅ If entrapment exceeds 60 minutes: priority #1 BEFORE extrication is securing IV access and initiating aggressive crystalloid hydration (strictly potassium-free 0.9% NaCl at 1.0–1.5 L/hr; Ringer's and Hartmann's are FORBIDDEN!) + sodium bicarbonate 8.4% for urine alkalinization;
+  * ✅ Place a C-A-T tourniquet proximal to the crush site **loosely (pre-positioned, uncranked)**;
+  * ✅ Tightening the tourniquet BEFORE extrication is justified STRICTLY in two cases: 1) obviously mangled limb / arterial hemorrhage; 2) entrapment $>2$ hours with no IV fluids or ECG monitoring available on scene (JTS PFC CPG; ARC 9.1.7).
+
+* **🔴 BUTTON BATTERY INGESTION (CR2032) ([P0-101]):**
+  * 🛑 **INDUCING VOMITING, ADMINISTERING LAXATIVES, OR GASTRIC LAVAGE IS CATEGORICALLY FORBIDDEN!**;
+  * 🛑 **DO NOT GIVE HONEY TO INFANTS UNDER 12 MONTHS (INFANT BOTULISM RISK) OR IF INGESTION OCCURRED >12 HOURS AGO!**;
+  * ✅ Cathodic electrolysis generates corrosive hydroxide ions $	ext{OH}^-$, causing liquefactive necrosis of the esophagus and aorto-esophageal fistula within 15–120 minutes;
+  * ✅ Child over 1 year (ingestion $<12$ hrs ago, no signs of perforation): administer pure honey, 10 mL (2 teaspoons) every 10 minutes (up to 6 doses) en route to surgery; for infants under 1 year — sucralfate 5 mL;
+  * ✅ Emergency transport to an endoscopy-capable pediatric center: therapeutic window for extraction is under 2 hours!
+
+* **🔴 PARACETAMOL OVERDOSE / ACUTE HEPATOTOXICITY ([P0-102]):**
+  * 🛑 **NEVER ASSUME THAT "MORE THAN 8 HOURS HAVE PASSED, SO TREATMENT IS USELESS"!**;
+  * ✅ Ingested $>150$ mg/kg or $>7.5$–$10$ g paracetamol (cold multi-symptom powders or 4 g combined with alcohol): toxic metabolite NAPQI depletes glutathione and destroys liver cells silently over the first 24–48 hours;
+  * ✅ The golden antidote is **N-acetylcysteine (NAC)**: maximally effective within the first 8 hours (~100% hepatoprotection), but life-saving and significantly reduces mortality even when started up to 24–72 hours post-ingestion or during established hepatic failure (Keays et al., BMJ 1991);
+  * ✅ Call emergency medical services and proceed to an acute toxicology department immediately regardless of elapsed time.
+
+* **🔴 CHEMICAL BURNS (ACIDS, ALKALIS, BATTERY ELECTROLYTE):**
+  * 🛑 **CHEMICAL NEUTRALIZATION IS CATEGORICALLY FORBIDDEN!** (Never pour vinegar on alkali or baking soda on acid: the exothermic neutralization reaction releases extreme heat, cooking the tissue deeper than the chemical itself);
+  * ✅ If dry chemical powder is on the skin — **BRUSH IT OFF WITH A DRY CLOTH BEFORE ANY CONTACT WITH WATER**;
+  * ✅ Immediately flush the affected area with massive volumes of cool running tap water continuously for **20–30 minutes** (for eye exposures — flush for 30–60 minutes);
+  * ✅ Carefully remove or cut away contaminated clothing while flushing (do not pull contaminated shirts over the head to protect the eyes);
+  * ✅ Cover with a sterile dry dressing and seek emergency medical care immediately.
+
 > 🔧 **Engineer-to-human translation (in plain terms, from Uncle Tolya):**
 > **In plain language:** In a critical situation a person gets 50% dumber from the adrenaline dump. The brain panics and does idiotic things: pours water into burning oil, gives aspirin to someone dying of a brain hemorrhage, or reboots the encrypted server.
 > **Where the trap is:** Instructions you "just read once" evaporate from your head in a second.
@@ -9674,7 +9715,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
 
 
 * **Revision EN 3.3 — Sovereign Parenting & Developmental Neurobiology: Postpartum Sleep, Nanny Protocols & Evidence-Based Pedagogy (Checked: 2026-10-15; Base EN 3.2):**
-  1. *L1/L2 Sovereign Childhood Engineering (§11.4.0.1–§11.4.0.3):* Injected valves [P0-133] (managing postpartum burnout and parental sleep deprivation via Richter 2019, Twenge 2003 marital satisfaction metrics, Paulson 2010 paternal depression, SBS prevention), [P0-134] (paternal neurobiological plasticity via Abraham PNAS 2014, daycare vs nanny cortisol analysis via Vermeer 2006, Zero-Trust Nanny Protocol) and [P0-135] (PFC myelination timelines up to age 25, refutation of corporal punishment via Gershoff 2016 meta-analysis, authoritative parenting via Pinquart, AAP/WHO screen time standards, Hyde 2005 gender similarities hypothesis).
+  1. *L1/L2 Sovereign Childhood Engineering (§11.4.0.3–§11.4.0.5):* Injected valves [P0-133] (managing postpartum burnout and parental sleep deprivation via Richter 2019, Twenge 2003 marital satisfaction metrics, Paulson 2010 paternal depression, SBS prevention), [P0-134] (paternal neurobiological plasticity via Abraham PNAS 2014, daycare vs nanny cortisol analysis via Vermeer 2006, Zero-Trust Nanny Protocol) and [P0-135] (PFC myelination timelines up to age 25, refutation of corporal punishment via Gershoff 2016 meta-analysis, authoritative parenting via Pinquart, AAP/WHO screen time standards, Hyde 2005 gender similarities hypothesis).
 
 
 * **Revision EN 3.2 — Sovereign Birth Engineering (Point Zero): 4 Jus Soli Circuits & 15-Jurisdiction Master Matrix (Checked: 2026-10-15; Base EN 3.1):**
@@ -9719,7 +9760,7 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
   1. *P0 Matrix Expansion (71 → 86 Valves):* Ingested 15 universal physical, medical, digital, and financial valves: **[P0-72]** Biometric Opt-Out (5th Amendment / statutory notice), **[P0-73]** Default Order Nullification (emergency motion to vacate), **[P0-74]** Predatory AML-Fee Refusal (unjust enrichment), **[P0-75]** Work-for-Hire IP Custody (three-document assignment chain), **[P0-76]** In-App Browser Escape (WKWebView DOM keylogger defense), **[P0-77]** Stateware Brick Isolation (burner hardware / Work Profile sandboxing), **[P0-78]** SDK Telemetry Purge (advertising ID deletion / ADB de-bloating), **[P0-79]** Crush Extrication & Reperfusion Arrest (pre-extrication C-A-T tourniquet / hyperkalemia protection per INSARAG 2023), **[P0-80]** Dry U-Trap Sewer Bioaerosols (500 ml water + 50 ml mineral oil maintenance per Amoy Gardens SARS investigation), **[P0-81]** Legionella Thermal Floor & TMV (storage $\ge 60^\circ\text{C}$ + thermostatic mixing valve per ASHRAE 12-2023/CDC), **[P0-82]** Cellular 2G Downgrade & FBS Stripping (disabling 2G at modem firmware level against IMSI-Catchers), **[P0-83]** Crypto Address Poisoning (zero-value transfers, vanity collision defense, middle-hash check), **[P0-84]** EU Bank Bail-In Directive (BRRD Art. 44, statutory €100,000 DGS cap), **[P0-85]** Neutral Loss & Overvoltage Relay (TN-C floating neutral, DIN-rail overvoltage relay $<20\text{ ms}$ cutoff), and **[P0-86]** Border Passport MRZ Audit (ICAO Doc 9303 OCR-B defect prevention).
   2. *Operational Decoder synchronization:* All 5 clusters updated with Uncle Tolya the Plumber's plain-English engineering directives for valves `[P0-72]` through `[P0-86]`.
   3. *Core chapter enrichment:* Section 2.1 enriched with Crush Syndrome; `[MOD-HOME-MAINTENANCE]` updated with Dry U-traps and Overvoltage protection; Appendix E updated with Legionella thermal management; Section 6.2 updated with 2G downgrade and Crypto Address Poisoning; Section 10.5 updated with Passport MRZ validation.
-  4. *Navigation & counters:* Express Navigator, gateway FAQ, Part V intro, and header counters synchronized to `[P0-01]`–`[P0-123]`.
+  4. *Navigation & counters:* Express Navigator, gateway FAQ, Part V intro, and header counters synchronized to `[P0-01]`–`[P0-150]`.
 
 * **Revision EN 2.1 — The Panopticon expansion: new §6.6 & the counter-surveillance toolkit (base EN 2.0; source verified against Level 1 statutes and court dockets; Checked: 2026-10-05):**
   1. *L2/L4 New section 6.6 "The Institutional Panopticon":* The Level 1 atlas of state surveillance across 8 jurisdictions — the US (FISA 702 with the expanded ECSP definition, GPS purchases from data brokers bypassing *Carpenter*, the Sensorvault geofence practice, the Fifth-Amendment password/biometrics demarcation), Canada (the Emergencies Act freezes struck down in *2024 FC 42* / *2026 FCA 6*, Bill C-63 preventive sanctions), Australia (the TOLA Act TAR/TAN/TCN backdoor regime, the Identify and Disrupt powers), the UK (ICR retention, the pre-notification of security patches, OSA s. 121 client-side scanning), the Netherlands (the SyRI ban, the Toeslagenaffaire, GDPR Art. 22), Spain (CatalanGate/Pegasus, the fiscal presumption), Singapore (the TraceTogether betrayal under CPC s. 20, POFMA/FICA), and New Zealand (Customs s. 228 device searches).
@@ -9750,8 +9791,10 @@ unlock the door  Rotate passwords      Only the blanket / Class F/K
   5. *L3 Valve counter:* The adverse-selection manifesto updated `70 valves` → `71 valves`, synchronizing with the [P0-01]–[P0-71] matrix.
   6. *L1–L5 Calque remediation (3 nodes):* "Gypsy lotto: win the hat, lose the coat" → *"The carnival shell game: win a nickel, lose your shirt"* ([MOD-PONZI-DETECT]); "let it fuck itself with three-phase current" → *"let the three-phase bus blow itself to hell"* (ch. 9, the Red Button); "The demo under the rubble" → *"The master demo tape under the rubble"* (§4.1, the 14-day envelope — disambiguating the Noize MC/Zatochka "Demka" (demo tape) reference from an MVP demo).
   7. *Verified-clean nodes (per audit):* Catella-Lawson NEJM 2001; Marfella NEJM 2024 (HR 4.53); Gasiorowski JAMA Netw Open 2022; Bates v Post Office [2019] EWHC 606/3408 & [2021] EWCA Crim 577; Svea hovrätt B 9036-22; C.D. Cal. 8:24-cr-00088 + FDA-2024-N-4887; SDNY 1:22-cr-00240 ECF 453/458; FTX cert petition 10.09.2026; Ley Orgánica 1/2025 (BOE-A-2025-76); Legge 199/2025; FinCEN CTA (91 FR, 14.08.2026); NYLTA 2026; Brunner 1:25-cv-03244; Garcia 6:24-cv-01903 — left byte-exact.
+* **Revision v26.13 — "P0 Master Reindexing [P0-01]–[P0-150] and 03:00 Operational Runbook" (2026-10-30):** Eliminated 6 P0-code collisions: P0-88-UI renumbered to [P0-147: DETERMINISTIC-DESIGN-LOOP], acute SSNHL hearing loss (§2.6) renumbered to [P0-148: SSNHL-STEROID-WINDOW-GATE], Account Nuking master account locks (§6.2) to [P0-149: ACCOUNT-NUKING-RESIDENT-KEY-GATE], sewer backflow safety EN 12056-4 (App. E §18) to [P0-150: SEWAGE-BACKFLOW-HEBEANLAGE-GATE]; corrected cross-references to departure tax [P0-111] and IHT tail [P0-113]; Ukrainian FOP deregistration against CRS locked to [P0-116]; all book counters unified to 150 valves [P0-01]–[P0-150]. Resolved subsection numbering collisions: §10.6 now strictly sequential 10.6.1–10.6.9 (FBA Nexus placed under 10.6.4 as 10.6.4.1), §11.4 inverted ordering fixed (preconception → birth engineering 11.4.0.1–11.4.0.5). Appendix F expanded with 6 mandatory 03:00 emergency cards (choking [P0-64], CO/cyanide [P0-67], crush syndrome [P0-79], button battery [P0-101], paracetamol overdose [P0-102], chemical burns).
+
 * **Revision v26.12 — "Cross-cutting sanitization per 5 external audits (Parts I-V)" (2026-10-30):** Part I (L1): ACS vs pleuritic pain/panic attack differential; CCHR + anticoagulants (mandatory CT at GCS 15); tourniquet CUF-to-TFC conversion and the >6 h removal ban; absolute ban on oral antihypertensives in stroke (INTERACT-4 bimodal: OR 1.30 ischemic / 0.76 hemorrhagic); blood draw for Co-Oximetry BEFORE Cyanokit; cortisol/HPA axis instead of the Adrenal Fatigue myth; button-battery honey contraindications; HRIG per WHO TRS 1012 (compartment syndrome); NAC indicated up to 72 h; crush infusion potassium-free 0.9% NaCl only; Pumphrey vertical-position ban; CPR 30 min legal basis PP RF No. 950. Part II (L2): KV-cache is not a constant; tdata PBKDF2 100k/SHA512 + RTX brute force; dating stats L3 noise (n=27); "Plugin4Shell" and "1,200-agent mutiny" [IDENTIFIER NOT FOUND]; Wolfire v. Valve pre-trial; AES+KEM in the crypto-agility table; CVE-2025-53109 (EscapeRoute) separated from 53110; Ed25519 fails in WebAuthn; WireGuard MTU 1420. Part III (L3): unit-economics formula (double COGS/CAC dimensionality); KDP $9.99 ceiling; VAT 20/120; R&D credit US-soil payroll only (§41(d)(4)(F)/§174); DGCL 273/226/18-802 per Shawe v. Elting; GVWR and the § 179 cap ($31,300); QSBS C-Corp only ($15M/10x base); ASC 280 10%; APVC NOPC condition; HHI+20% dual filter; P2P limit is targeted; Form 706-NA precedes 5173; Art. 54.1 NK RF; MyForexFunds dismissed with prejudice; Concord telemetry vs rumor; DeepSeek $5.576M final-run-only. Part IV (L4): W-8BEN has no LLC field; Form 5472 (Foreign Related Parties, M/S 6112); Stripe Tax is not MoR; Ukraine Law No. 2811-IX Art. 15(3); TPD cutoff 04.08.2026; CARF $50k/aggregates; Canada 50% (Bill C-15); GILTI/NCTI 12.6% + § 962(d); Beckham and US SMLLC (atribución de rentas); Armenia pension mandatory with residence+employment; WHT 25% (FL 176); usurpación delito leve; red-tier ZSK blocks Art. 859 payout; Georgia Annex 5; Kazakhstan LC Arts. 23-24; Belarus + CACoA 13.3; UPE 18+24; Cyprus SDC 17%; POEM. Part V (appendices): fire blanket no wet towels; OVE instead of OP; PDE-5 nitrate windows (24/48 h); burns (3 h/rings/hypothermia); EpiPen Jr 0.15; Tsukorok bands and fiber-FPV blindness; BOIR to Form 5472; Quaise TRL 3-4; ASML NXE vs EXE; hypervitaminosis A vs rabbit starvation; EES overstayer per Art. 11 2008/115/EC. Full P0 reindexing ([P0-88/89/91/92/99/112], range [P0-124]-[P0-150]) — separate revision v26.13.
-* **Revision v26.11 — "The supervisor's defect act: consistency restoration" (2026-10-26):** Fixed the P0-matrix table (restored the truncated [P0-99] and [P0-100] rows and untangled their cells glued into the [P1-02] row); reassembled the split §10.9 and §11.7.2 headers; unified the valve counters to the actual 128 [P0-01]–[P0-123] (86/88/110/130/144 previously coexisted in the text); removed the duplicate 10.18 number — the Ukraine module renumbered to §10.20; restored item 10.12.14.10; separated the duplicate v26.0 revision entries (the 2026-10-15 entry → v26.0-rc); clinical calibrations [P0-79] (IV fluids are priority #1 before lifting the slab; tourniquet placed loosely, tightened only for mangled limbs or >2 h without monitoring; JTS PFC/UK DMC/ARC 9.1.7), paracetamol NAC (indicated up to 72 h, not only "within 8 hours"); procedural calibration [P0-73] (vacating the order does not extinguish the claim: full proceedings + limitation-period suspension/extension under Art. 204 GK RF).
+* **Revision v26.11 — "The supervisor's defect act: consistency restoration" (2026-10-26):** Fixed the P0-matrix table (restored the truncated [P0-99] and [P0-100] rows and untangled their cells glued into the [P1-02] row); reassembled the split §10.9 and §11.7.2 headers; unified the valve counters to the actual 128 [P0-01]–[P0-150] (86/88/110/130/144 previously coexisted in the text); removed the duplicate 10.18 number — the Ukraine module renumbered to §10.20; restored item 10.12.14.10; separated the duplicate v26.0 revision entries (the 2026-10-15 entry → v26.0-rc); clinical calibrations [P0-79] (IV fluids are priority #1 before lifting the slab; tourniquet placed loosely, tightened only for mangled limbs or >2 h without monitoring; JTS PFC/UK DMC/ARC 9.1.7), paracetamol NAC (indicated up to 72 h, not only "within 8 hours"); procedural calibration [P0-73] (vacating the order does not extinguish the claim: full proceedings + limitation-period suspension/extension under Art. 204 GK RF).
 
 * **Revision v26.10 — "AI-UI generation defectoscopy: blind prompting vs the closed Visual Feedback Loop" (2026-10-25):** Injected subsection **§7.5.8.6** (Vision-model spatial hallucination, Agreeableness Bias, Design Thrashing; the Actor-Critic pipeline Playwright + axe-core; headless render hygiene: FOUT/FOIT, reducedMotion, honest DPR; the convergence fuse k≤3); the **[P0-88]** valve extended with the frontend visual-verification circuit; cross-reference added in §1.0.2 (The Vibe Coding Trap).
 * **Revision v23.3 — Finalization and the full didactic pressure-test of Part V (Checked: 2026-10-03):**

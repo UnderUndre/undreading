@@ -436,7 +436,7 @@ Banish the fairytale of *"buy a blue checkmark, post 5 threads a day, and collec
 
 ---
 
-#### **7.5.8.6. AI-UI generation defectoscopy: Why "pretty prompts" breed AI slop and how to build a closed Visual Feedback Loop ([P0-88-UI: DETERMINISTIC-DESIGN-LOOP])**
+#### **7.5.8.6. AI-UI generation defectoscopy: Why "pretty prompts" breed AI slop and how to build a closed Visual Feedback Loop ([P0-147: DETERMINISTIC-DESIGN-LOOP])**
 
 > 💡 **STEP 0: HOUSEHOLD GROUNDING (IN PLAIN TERMS)**
 > The infobusiness on social media sells a fairy tale: "Copy a prompt from Scrolltide, paste it into Lovable or v0 — and you get a \$5,000 landing page in 5 minutes."
@@ -492,7 +492,7 @@ To get senior-product-designer-grade output, the build loop stands on 4 hardware
 > 🔧 **Engineer-to-human translation (in plain terms):**
 > **In plain language:** No magic prompt will turn a neural network into a great designer until you give it the ability to **see its own code in a browser**.
 > **Where the trap is:** Prompts with beautiful 3D animations from social media generate code that looks spectacular in the video but, on the client's real smartphone, freezes, stutters at 15 fps and won't let you tap the order button. And an ordinary chatbot without layout verification is convinced it painted a masterpiece even when the text has overflowed the screen.
-> **Your action right now ([P0-88-UI]):**
+> **Your action right now ([P0-147]):**
 > 1. Fence the AI into proven component systems (**Tailwind + shadcn/ui**), where spacing and responsiveness have already been solved by engineers.
 > 2. Wire the **ai-design-skills** rules into `.cursorrules` or `.claude/skills` as a hard filter against hackneyed clichés.
 > 3. Close the loop with **Playwright**: let the agent render the page itself, check accessibility via `axe-core`, screenshot the mobile viewport and fix the bugs before you open the site with your own hands.

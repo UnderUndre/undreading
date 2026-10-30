@@ -95,7 +95,7 @@
 ### **Quick Navigation Index of Key Modules:**
 
 * 📍 **[The Entrance Fuse: "Sell Me This Pipe Wrench"](#the-entrance-fuse-sell-me-this-pipe-wrench)** — Forensic teardown of the \$50B self-help market, the Hawking Index, and adverse selection.
-* 📍 **[The P0 Matrix of 128 Key Valves](#section-1-the-p0-matrix-88-key-valves-for-work-under-pressure)** — Operational pressure-work instruction table (Section 1).
+* 📍 **[The P0 Matrix of 150 Key Valves](#section-1-the-p0-matrix-88-key-valves-for-work-under-pressure)** — Operational pressure-work instruction table (Section 1).
 * 📍 **[Somatic Telemetry Panel](#the-somatic-telemetry-panel-a-shield-not-ministries)** — Unified dashboard of your L1 body (cardio, eyes, gut, spine, teeth).
 * 📍 **[Atlas of Remote Crafts & Digital Independence](#758-the-atlas-of-remote-crafts-and-digital-independence-2026)** — Earning in hard currency: writing, serialized self-publishing (§7.5.8.1), audio, 3D graphics, tutoring, B2B.
 * 📍 **[Technical Monetization Niches](#759-the-analysis-of-high-margin-technical-monetization-niches)** — Steamworks, Shopify micro-SaaS, bug bounty, data scraping, hardware (§7.5.9).
@@ -185,9 +185,9 @@ Before you start turning valves, let's normalize all the codes into plain human 
 
 ---
 
-### **Section 1: The P0 Matrix (128 Key Valves for Work Under Pressure)**
+### **Section 1: The P0 Matrix (150 Key Valves for Work Under Pressure)**
 
-> 🚨 **MATRIX ARCHITECTURE:** The table is grouped by architectural layer, not by the 03:00 chronology. The cross-cutting IDs `[P0-01]`–`[P0-123]` are locked — dozens of references throughout the monograph hang off them, so do not change the row order. New valves are appended to the tail of the range (`[P0-124]`, `[P0-125]`).
+> 🚨 **MATRIX ARCHITECTURE:** The table is grouped by architectural layer, not by the 03:00 chronology. The cross-cutting IDs `[P0-01]`–`[P0-150]` are locked — dozens of references throughout the monograph hang off them, so do not change the row order. New valves are appended to the tail of the range (`[P0-151]`, `[P0-152]`).
 > **03:00 Triage:** somatic emergency resuscitation — `[P0-01, 02, 24, 25, 64–67, 79]`; environment kinetics — `[P0-27, 68, 69]`; plumbing & electrical water hammer — `[P0-80, 81, 85]`; digital intrusion & surveillance — `[P0-03, 04, 17, 18, 28, 76–78, 82, 83]`; procedural defense — `[P0-72–75, 84, 86]`.
 > **Layers:** **L1** Bio-threats & resuscitation: [P0-01, 02, 16, 24, 25, 41, 42, 54, 55, 56, 59, 64–67, 71, 79–81] · **L2** Cyber-perimeter & cognition: [P0-03, 04, 06, 07, 10, 17, 18, 21, 22, 26, 28, 43, 62, 72, 76–78, 82, 83] · **L3** Capital & risk management: [P0-08, 09, 11, 44, 45, 61, 75, 84] · **L4** Jurisdictions & taxes: [P0-12, 13, 14, 15, 19, 23, 70, 73, 74, 86] · **L5** Hardware & environmental physics: [P0-05, 20, 27, 29–40, 46–53, 60, 63, 68, 69, 85].
 
